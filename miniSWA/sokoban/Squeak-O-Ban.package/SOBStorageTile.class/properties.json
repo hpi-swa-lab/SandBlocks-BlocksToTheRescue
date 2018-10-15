@@ -1,0 +1,14 @@
+{
+	"category" : "Squeak-O-Ban",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOBStorageTile",
+	"pools" : [
+		 ],
+	"super" : "SOBTile",
+	"type" : "normal" }
