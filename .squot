@@ -1,4 +1,9 @@
 OrderedDictionary {
+<<<<<<< HEAD
+=======
+	'SpaceInavders.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/snake\/Snake.package' : #SquotCypressCodeSerializer,
+>>>>>>> master
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout.package' : #SquotCypressCodeSerializer

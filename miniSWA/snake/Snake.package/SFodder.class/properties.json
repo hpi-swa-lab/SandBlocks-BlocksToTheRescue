@@ -1,0 +1,14 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SFodder",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"next",
+		"previous" ],
+	"name" : "SSegment",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
