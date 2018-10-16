@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"newFor:" : "ms 10/16/2018 17:34" },
+	"instance" : {
+		"entityClass" : "ms 10/16/2018 17:32",
+		"entityClass:" : "ms 10/16/2018 17:32",
+		"entitySet" : "ms 10/16/2018 17:04",
+		"initialize" : "ms 10/16/2018 17:04",
+		"tickEntities:" : "ms 10/16/2018 17:21" } }

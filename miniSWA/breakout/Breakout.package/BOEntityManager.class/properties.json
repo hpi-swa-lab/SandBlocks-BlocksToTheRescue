@@ -1,0 +1,15 @@
+{
+	"category" : "Breakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entitySet",
+		"entityClass" ],
+	"name" : "BOEntityManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
