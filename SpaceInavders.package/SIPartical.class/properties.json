@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInavders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SIPartical",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
