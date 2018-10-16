@@ -2,4 +2,9 @@ as yet unclassified
 step
 	
 	super step.
-	self sIParticals do: [ :partical | partical position: (partical position - (0 @ 10))].
+	self
+		moveParticals;
+		moveEnemies;
+		removeOutOfBoundsParticals;
+		handleCollisions;
+		tickCounter: (self tickCounter + 1).
