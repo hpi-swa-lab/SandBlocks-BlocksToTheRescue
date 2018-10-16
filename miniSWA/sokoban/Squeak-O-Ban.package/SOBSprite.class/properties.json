@@ -1,0 +1,16 @@
+{
+	"category" : "Squeak-O-Ban",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position",
+		"tileSize",
+		"morph" ],
+	"name" : "SOBSprite",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

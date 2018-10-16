@@ -1,4 +1,4 @@
 as yet unclassified
 addRepresentationTo: aCollection
 
-	aCollection add: self asMorph.
+	aCollection add: (SOBSprite for: self).
