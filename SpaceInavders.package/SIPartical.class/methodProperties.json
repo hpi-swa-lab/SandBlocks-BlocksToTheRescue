@@ -3,5 +3,6 @@
 		 },
 	"instance" : {
 		"defaultParticalSize" : "BD 10/16/2018 10:42",
-		"intitialize" : "BD 10/16/2018 10:42",
-		"spwanNewPartical:" : "BD 10/16/2018 10:57" } }
+		"initialize" : "BD 10/16/2018 12:54",
+		"setPosition:" : "BD 10/16/2018 12:48",
+		"spawnNewPartical:" : "BD 10/16/2018 11:20" } }

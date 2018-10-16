@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SIPlayer",
+		"sIPlayer",
+		"sIParticals" ],
+	"name" : "SIGameWorld",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "PasteUpMorph",
 	"type" : "normal" }

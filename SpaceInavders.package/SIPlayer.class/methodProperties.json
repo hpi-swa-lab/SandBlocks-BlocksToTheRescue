@@ -2,8 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"defaultVerticalMovement" : "BD 10/16/2018 10:29",
-		"initialize" : "BD 10/16/2018 11:07",
-		"moveToTheLeft" : "BD 10/16/2018 10:29",
-		"moveToTheRight" : "BD 10/16/2018 10:29",
-		"spanPartical" : "BD 10/16/2018 10:35" } }
+		"defaultVerticalMovement" : "BD 10/16/2018 11:22",
+		"initialize" : "BD 10/16/2018 11:54",
+		"moveToTheLeft" : "BD 10/16/2018 11:22",
+		"moveToTheRight" : "BD 10/16/2018 11:19",
+		"setPosition:" : "BD 10/16/2018 11:43",
+		"spawnPartical" : "BD 10/16/2018 11:27" } }
