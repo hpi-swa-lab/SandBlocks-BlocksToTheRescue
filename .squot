@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'SpaceInavders.package' : #SquotCypressCodeSerializer
+	'SpaceInavders.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer
 }
