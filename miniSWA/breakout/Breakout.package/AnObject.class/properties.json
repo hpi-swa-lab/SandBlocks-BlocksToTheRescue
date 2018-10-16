@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AnObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
