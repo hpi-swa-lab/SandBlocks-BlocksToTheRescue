@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BOPaddle",
+	"pools" : [
+		 ],
+	"super" : "BOEntity",
+	"type" : "normal" }
