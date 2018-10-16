@@ -2,5 +2,18 @@
 	"class" : {
 		 },
 	"instance" : {
+		"ballManager" : "ms 10/16/2018 17:29",
+		"ballManager:" : "ms 10/16/2018 17:29",
+		"brickManager" : "ms 10/16/2018 17:29",
+		"brickManager:" : "ms 10/16/2018 17:29",
 		"defaultColor" : "ms 10/16/2018 16:51",
-		"initialize" : "ms 10/16/2018 16:52" } }
+		"initialize" : "ms 10/16/2018 16:52",
+		"lastTickTime" : "ms 10/16/2018 17:22",
+		"lastTickTime:" : "ms 10/16/2018 17:37",
+		"paddleManager" : "ms 10/16/2018 17:29",
+		"paddleManager:" : "ms 10/16/2018 17:29",
+		"step" : "ms 10/16/2018 17:48",
+		"stepTime" : "ms 10/16/2018 17:45",
+		"tick:" : "ms 10/16/2018 17:48",
+		"timeDeltaMS" : "ms 10/16/2018 17:36",
+		"updateTickTime" : "ms 10/16/2018 17:37" } }
