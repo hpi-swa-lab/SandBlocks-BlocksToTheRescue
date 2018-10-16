@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"open" : "WoC 10/16/2018 11:06" },
+	"instance" : {
+		"eventSystem" : "WoC 10/16/2018 11:02",
+		"eventSystem:" : "WoC 10/16/2018 11:02",
+		"fodder" : "WoC 10/16/2018 11:02",
+		"fodder:" : "WoC 10/16/2018 11:02",
+		"initialize" : "WoC 10/16/2018 11:12",
+		"maxFodderNumber" : "WoC 10/16/2018 11:09",
+		"processRound" : "WoC 10/16/2018 11:10",
+		"reset" : "WoC 10/16/2018 11:08",
+		"snakes" : "WoC 10/16/2018 11:02",
+		"snakes:" : "WoC 10/16/2018 11:02",
+		"spawnFodder" : "WoC 10/16/2018 11:10",
+		"spawnSnake" : "WoC 10/16/2018 09:52",
+		"start" : "WoC 10/16/2018 11:07",
+		"stop" : "WoC 10/16/2018 11:05" } }
