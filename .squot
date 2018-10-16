@@ -1,5 +1,6 @@
 OrderedDictionary {
 	'SpaceInavders.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/snake\/Snake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris.package' : #SquotCypressCodeSerializer
 }
