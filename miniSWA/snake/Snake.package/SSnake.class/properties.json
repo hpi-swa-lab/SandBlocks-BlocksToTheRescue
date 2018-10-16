@@ -1,0 +1,15 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"head",
+		"segments" ],
+	"name" : "SSnake",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

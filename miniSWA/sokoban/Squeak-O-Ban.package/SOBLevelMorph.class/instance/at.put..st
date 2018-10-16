@@ -1,7 +1,7 @@
 as yet unclassified
-at: aPoint put: aMorph
+at: aPoint put: aSprite
 
-	aMorph 
-		position: (self positionFor: aPoint);
-		extent: (self tileSize @ self tileSize). 
-	self addMorph: aMorph.
+	aSprite 
+		tileSize: self tileSize;
+		setPosition: aPoint.
+	aSprite addTo: self.

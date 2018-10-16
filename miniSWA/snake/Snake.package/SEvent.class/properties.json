@@ -1,0 +1,14 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timestamp" ],
+	"name" : "SEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
