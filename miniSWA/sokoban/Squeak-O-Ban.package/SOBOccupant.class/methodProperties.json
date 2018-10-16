@@ -1,8 +1,11 @@
 {
 	"class" : {
-		 },
+		"from:" : "LB 10/16/2018 13:51" },
 	"instance" : {
-		"addRepresentationTo:" : "LB 10/15/2018 16:46",
-		"asMorph" : "LB 10/15/2018 16:50",
-		"isBlocking" : "LB 10/15/2018 16:23",
-		"representationCharacterOn:" : "LB 10/15/2018 15:58" } }
+		"addRepresentationTo:" : "LB 10/16/2018 09:26",
+		"isBlocking" : "LB 10/16/2018 09:25",
+		"isBox" : "LB 10/16/2018 12:56",
+		"isPlayer" : "LB 10/16/2018 13:34",
+		"moveTo:" : "LB 10/16/2018 09:47",
+		"position:" : "LB 10/16/2018 13:35",
+		"representationCharacterOn:" : "LB 10/16/2018 09:25" } }

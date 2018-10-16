@@ -10,5 +10,5 @@
 	"name" : "SOBBox",
 	"pools" : [
 		 ],
-	"super" : "SOBOccupant",
+	"super" : "SOBMovingOccupant",
 	"type" : "normal" }

@@ -11,5 +11,5 @@
 	"name" : "SOBLevel",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Model",
 	"type" : "normal" }

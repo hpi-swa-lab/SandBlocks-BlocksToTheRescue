@@ -3,6 +3,8 @@ rows: rowNumber cols: colNumber
 
 	self tiles: (Matrix 
 		rows: rowNumber 
-		columns: colNumber
-		tabulate: [:row :col | SOBTile new])
+		columns: colNumber).
+		
+	self tiles indicesDo: [:row :col |
+		self atCol: col atRow: row put: SOBTile new].
 		
