@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInavders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SIPlayer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"position" ],
+		 ],
 	"name" : "SOBPlayer",
 	"pools" : [
 		 ],
-	"super" : "SOBOccupant",
+	"super" : "SOBMovingOccupant",
 	"type" : "normal" }

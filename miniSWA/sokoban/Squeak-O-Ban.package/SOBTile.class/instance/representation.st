@@ -3,6 +3,6 @@ representation
 
 	| representation |
 	representation := OrderedCollection new.
-	representation add: self asMorph.
+	representation add: (SOBSprite for: self).
 	self occupant addRepresentationTo: representation.
 	^ representation 

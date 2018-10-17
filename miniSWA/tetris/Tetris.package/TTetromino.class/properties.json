@@ -1,0 +1,15 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blockPositions",
+		"gridPosition" ],
+	"name" : "TTetromino",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

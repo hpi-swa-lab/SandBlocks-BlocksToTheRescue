@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
@@ -6,5 +6,5 @@ initialize
 	self
 		color: Color random;
 		borderColor: Color black;
-		borderWidth: self defaultBorderWidth;
-		extent: self defaultWidth @ self defaultWidth.
+		borderWidth: self class defaultBorderWidth;
+		extent: self class defaultWidth @ self class defaultWidth.

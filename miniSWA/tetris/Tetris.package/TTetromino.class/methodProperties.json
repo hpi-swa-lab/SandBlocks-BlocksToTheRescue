@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"L" : "LM 10/16/2018 13:11" },
+	"instance" : {
+		"addBlocksAt:colored:" : "LM 10/16/2018 16:48",
+		"blockPositions" : "LM 10/16/2018 16:25",
+		"blockPositions:" : "LM 10/16/2018 16:25",
+		"canMoveDownIn:" : "LM 10/16/2018 17:02",
+		"gridPosition" : "LM 10/16/2018 16:19",
+		"gridPosition:" : "LM 10/16/2018 16:21",
+		"initialize" : "LM 10/16/2018 13:05",
+		"moveDown" : "LM 10/16/2018 16:36",
+		"placeInto:" : "LM 10/16/2018 16:59" } }
