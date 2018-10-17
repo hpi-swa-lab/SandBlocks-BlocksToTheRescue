@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultBorderWidth
 	
 	^ self defaultWidth / 10

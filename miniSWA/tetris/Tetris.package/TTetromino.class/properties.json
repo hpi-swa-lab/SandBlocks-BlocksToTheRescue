@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"blockPositions",
 		"gridPosition" ],
-	"name" : "TBlock",
+	"name" : "TTetromino",
 	"pools" : [
 		 ],
-	"super" : "RectangleMorph",
+	"super" : "Morph",
 	"type" : "normal" }

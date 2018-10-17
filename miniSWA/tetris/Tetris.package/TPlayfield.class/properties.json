@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"gridPosition" ],
-	"name" : "TBlock",
+		"tetromino",
+		"grid" ],
+	"name" : "TPlayfield",
 	"pools" : [
 		 ],
-	"super" : "RectangleMorph",
+	"super" : "PasteUpMorph",
 	"type" : "normal" }

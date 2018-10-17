@@ -1,0 +1,3 @@
+accessing
+gridPosition
+	^ gridPosition
