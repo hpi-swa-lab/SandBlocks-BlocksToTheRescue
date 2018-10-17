@@ -3,7 +3,7 @@ createScoreLable
 	
 	| scoreLable |
 	
-	scoreLable := 'TEST' asMorph.
+	scoreLable := 'Score: 0' asMorph.
 	scoreLable
 		fontName: 'Darkmap DejuVu Sans' size: 60;
 		color: Color blue.

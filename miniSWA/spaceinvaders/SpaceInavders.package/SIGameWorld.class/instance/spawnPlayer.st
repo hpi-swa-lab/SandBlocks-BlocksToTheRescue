@@ -5,4 +5,4 @@ spawnPlayer
 	sIPlayer := SIPlayer new.
 	self sIPlayer: sIPlayer.
 	self addMorph: sIPlayer.
-	sIPlayer setPosition: (self bottomCenter).
+	sIPlayer setPosition: (self playerSpawnPosition).

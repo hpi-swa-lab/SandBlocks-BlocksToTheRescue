@@ -1,4 +1,4 @@
 as yet unclassified
 stepTime
 
-	 ^ 100
+	 ^ 10

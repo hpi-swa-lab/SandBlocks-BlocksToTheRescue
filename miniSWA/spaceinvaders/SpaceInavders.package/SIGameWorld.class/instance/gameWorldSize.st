@@ -1,4 +1,4 @@
 as yet unclassified
 gameWorldSize
 	
-	^800 @ 400
+	^700 @ 400

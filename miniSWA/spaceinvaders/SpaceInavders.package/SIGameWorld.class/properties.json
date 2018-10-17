@@ -10,8 +10,11 @@
 		"sIParticals",
 		"sIEnemies",
 		"score",
+		"life",
 		"scoreLable",
-		"tickCounter" ],
+		"lifeLable",
+		"tickCounter",
+		"enemiesMovingRight" ],
 	"name" : "SIGameWorld",
 	"pools" : [
 		 ],
