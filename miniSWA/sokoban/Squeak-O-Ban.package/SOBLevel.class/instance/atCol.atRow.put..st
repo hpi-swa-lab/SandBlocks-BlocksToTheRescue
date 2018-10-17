@@ -4,4 +4,5 @@ atCol: colNumber atRow: rowNumber put: aTile
 	self tiles 
 		at: rowNumber
 		at: colNumber
-		put: aTile
+		put: aTile.
+	aTile addDependent: self.

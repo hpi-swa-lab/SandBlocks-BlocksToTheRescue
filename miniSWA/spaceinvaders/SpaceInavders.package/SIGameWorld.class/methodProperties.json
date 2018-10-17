@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"gameWorldSize" : "BD 10/16/2018 11:44",
+		"handlesKeyboard:" : "BD 10/16/2018 12:59",
+		"initialize" : "BD 10/16/2018 11:56",
+		"keyStroke:" : "BD 10/16/2018 13:04",
+		"sIParticals" : "BD 10/16/2018 11:56",
+		"sIParticals:" : "BD 10/16/2018 11:56",
+		"sIPlayer" : "BD 10/16/2018 11:45",
+		"sIPlayer:" : "BD 10/16/2018 11:45",
+		"spawnPartical" : "BD 10/16/2018 12:56",
+		"spawnPlayer" : "BD 10/16/2018 11:45",
+		"step" : "BD 10/16/2018 12:51",
+		"stepTime" : "BD 10/16/2018 11:53" } }

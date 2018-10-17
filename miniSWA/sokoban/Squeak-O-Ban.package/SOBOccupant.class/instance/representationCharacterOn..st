@@ -1,4 +1,4 @@
 as yet unclassified
 representationCharacterOn: aTile
 
-	^ aTile representationCharacterPlain
+	^ self subclassResponsibility

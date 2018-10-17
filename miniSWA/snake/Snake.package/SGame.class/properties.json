@@ -1,0 +1,16 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snakes",
+		"fodder",
+		"eventSystem" ],
+	"name" : "SGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
