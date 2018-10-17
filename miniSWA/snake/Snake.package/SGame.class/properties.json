@@ -8,9 +8,10 @@
 	"instvars" : [
 		"snakes",
 		"fodder",
-		"eventSystem" ],
+		"eventSystem",
+		"world" ],
 	"name" : "SGame",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Model",
 	"type" : "normal" }

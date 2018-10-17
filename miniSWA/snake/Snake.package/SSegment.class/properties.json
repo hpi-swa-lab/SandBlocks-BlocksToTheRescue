@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"next",
-		"previous" ],
+		 ],
 	"name" : "SSegment",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SGameObject",
 	"type" : "normal" }

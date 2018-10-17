@@ -1,2 +1,4 @@
-as yet unclassified
+game loop
 stop
+
+	self world stopStepping.

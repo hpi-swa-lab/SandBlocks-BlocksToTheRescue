@@ -10,5 +10,5 @@
 	"name" : "SFodder",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SGameObject",
 	"type" : "normal" }

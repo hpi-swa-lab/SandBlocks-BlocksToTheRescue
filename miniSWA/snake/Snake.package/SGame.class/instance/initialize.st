@@ -2,4 +2,8 @@ initialization
 initialize
 
 	super initialize.
-	self eventSystem: SEventSystem new.
+	self 
+		initializeCollections;
+		eventSystem: SEventSystem new.
+	self eventSystem filterEvent: SDieEvent for: self.
+	self eventSystem filterEvent: SDevourEvent for: self.

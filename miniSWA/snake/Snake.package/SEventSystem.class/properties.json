@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"list",
+		"dispatcher" ],
 	"name" : "SEventSystem",
 	"pools" : [
 		 ],

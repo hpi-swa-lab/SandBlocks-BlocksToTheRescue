@@ -1,4 +1,4 @@
 accessing
 segments
 
-	^ segments
+	^ segments.
