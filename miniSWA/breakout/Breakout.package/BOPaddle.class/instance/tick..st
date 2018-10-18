@@ -1,4 +1,4 @@
 entity-ops
 tick: deltaTimeMS
 
-	self subclassResponsibility
+	self updatePosition.

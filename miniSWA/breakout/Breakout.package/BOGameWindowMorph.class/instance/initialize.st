@@ -2,5 +2,7 @@ initialization
 initialize
 
 	super initialize.
-	self configureForKids.
-	self addMorph: (gameField := BOGameField new).
+	gameField := BOGameField new.
+	self
+		configureForKids;
+		initializeContent.

@@ -2,4 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"configure:" : "ms 10/17/2018 11:37",
+		"initializeFrom:" : "ms 10/17/2018 11:29",
+		"mousePosition" : "ms 10/17/2018 12:17",
+		"position:" : "ms 10/18/2018 14:26",
+		"relativeTopDistance" : "ms 10/18/2018 15:06",
+		"tick:" : "ms 10/18/2018 14:07",
+		"updatePosition" : "ms 10/18/2018 14:27" } }

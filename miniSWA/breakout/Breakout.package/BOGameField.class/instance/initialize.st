@@ -8,4 +8,5 @@ initialize
 		brickManager: (BOEntityManager newFor: BOBrick);
 		paddleManager: (BOEntityManager newFor: BOPaddle);
 		ballManager: (BOEntityManager newFor: BOBall);
+		initializeDefaultGameState;
 		startStepping.
