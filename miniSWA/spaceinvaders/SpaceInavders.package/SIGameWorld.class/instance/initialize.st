@@ -5,12 +5,10 @@ initialize
 	self
 		color: Color black;
 		extent: self gameWorldSize;
-		score: 0;
-		life: 3;
+		score: self startScore;
+		life: self startLifes;
 		createLables;
 		resetTickCounter;
-		enemiesMovingRight: false;
 		sIParticals: OrderedCollection new;
 		sIEnemies: OrderedCollection new;
-		spawnPlayer;
-		openInWorld.
+		spawnPlayer.

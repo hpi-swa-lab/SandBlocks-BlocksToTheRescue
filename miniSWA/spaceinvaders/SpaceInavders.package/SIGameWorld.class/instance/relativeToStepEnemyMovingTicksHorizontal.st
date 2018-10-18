@@ -1,4 +1,4 @@
 as yet unclassified
 relativeToStepEnemyMovingTicksHorizontal
 
-	^200
+	^10

@@ -2,4 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"alterMovingDirection" : "BD 10/18/2018 08:31",
+		"horizontalMoveDistance" : "BD 10/18/2018 09:22",
+		"initialize" : "BD 10/18/2018 08:52",
+		"isMovingToTheRight" : "BD 10/18/2018 08:30",
+		"isMovingToTheRight:" : "BD 10/18/2018 08:31",
+		"moveDown" : "BD 10/18/2018 09:23",
+		"moveHorizontal" : "BD 10/18/2018 08:54",
+		"moveToTheLeft" : "BD 10/18/2018 09:22",
+		"moveToTheRight" : "BD 10/18/2018 09:22",
+		"verticalMoveDistance" : "BD 10/18/2018 09:23" } }

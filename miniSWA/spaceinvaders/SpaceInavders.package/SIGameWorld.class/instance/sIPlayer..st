@@ -1,4 +1,4 @@
 as yet unclassified
-sIPlayer: aPlayer
+sIPlayer: aSIPlayer
 
-	sIPlayer := aPlayer
+	sIPlayer := aSIPlayer

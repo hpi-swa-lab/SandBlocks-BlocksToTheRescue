@@ -1,2 +1,4 @@
 as yet unclassified
-particalAsRectangle
+startScore
+
+	^0

@@ -1,4 +1,4 @@
 as yet unclassified
-stepTime
+leftSpawnOffset
 
-	 ^10
+	^30

@@ -13,8 +13,7 @@
 		"life",
 		"scoreLable",
 		"lifeLable",
-		"tickCounter",
-		"enemiesMovingRight" ],
+		"tickCounter" ],
 	"name" : "SIGameWorld",
 	"pools" : [
 		 ],

@@ -3,9 +3,9 @@ createLifeLable
 	
 	| lifeLable |
 	
-	lifeLable := 'Lifes: 3' asMorph.
+	lifeLable := ('Lifes: ', self startLifes) asMorph.
 	lifeLable
-		fontName: 'Darkmap DejuVu Sans' size: 60;
+		fontName: self defaultFontName size: self defaultFontSize;
 		color: Color green.
 	self addMorph: lifeLable.
 	self lifeLable: lifeLable.

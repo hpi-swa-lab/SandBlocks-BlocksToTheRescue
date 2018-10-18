@@ -1,4 +1,4 @@
 as yet unclassified
-setPosition: aPosition
+setRelativePosition: aPosition
 	
 	self position: (aPosition - self extent).

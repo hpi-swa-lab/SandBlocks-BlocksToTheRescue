@@ -3,9 +3,9 @@ createScoreLable
 	
 	| scoreLable |
 	
-	scoreLable := 'Score: 0' asMorph.
+	scoreLable := ('Score: ', self startScore) asMorph.
 	scoreLable
-		fontName: 'Darkmap DejuVu Sans' size: 60;
+		fontName: self defaultFontName size: self defaultFontSize;
 		color: Color blue.
 	self addMorph: scoreLable.
 	self scoreLable: scoreLable.

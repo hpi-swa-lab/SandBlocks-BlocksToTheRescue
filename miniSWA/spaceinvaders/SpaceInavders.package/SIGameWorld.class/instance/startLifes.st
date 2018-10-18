@@ -1,4 +1,4 @@
 as yet unclassified
-stepTime
+startLifes
 
-	 ^10
+	^3

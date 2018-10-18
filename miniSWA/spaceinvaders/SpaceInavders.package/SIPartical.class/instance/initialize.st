@@ -4,5 +4,5 @@ initialize
 	super initialize.
 	self	
 		color: Color yellow;
-		extent:  self defaultParticalSize.
+		extent: self defaultSize.
 		

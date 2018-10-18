@@ -3,6 +3,5 @@ spawnNewPartical: aPosition
 	
 	self
 		color: Color yellow;
-		extent:  self defaultParticalSize;
-		position: aPosition;
-		openInWorld.
+		extent:  self defaultSize;
+		position: aPosition.

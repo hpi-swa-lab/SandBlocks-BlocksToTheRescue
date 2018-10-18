@@ -1,4 +1,4 @@
 as yet unclassified
 spawnNewEnemies
 	
-	((self tickCounter \\ (self relativeToStepEnemySpaningTicks)) = 0) ifTrue: [self spawnNewRowOfEnemies].
+	(self shouldSpanNewEnemies) ifTrue: [ self spawnNewRowOfEnemies ].

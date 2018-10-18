@@ -5,6 +5,6 @@ resetGame
 	self sIEnemies: OrderedCollection new.
 	self sIParticals do: [ :partical | self removeMorph: partical].
 	self sIParticals: OrderedCollection new.
-	self sIPlayer setPosition: (self playerSpawnPosition).
+	self sIPlayer setRelativePosition: (self playerSpawnPosition).
 	self decreaseLife.
 	

@@ -1,4 +1,4 @@
 as yet unclassified
 relativeToStepEnemySpaningTicks
 
-	^2*self relativeToStepEnemyMovingTicksHorizontal
+	^2 * self relativeToStepEnemyMovingTicksVertical
