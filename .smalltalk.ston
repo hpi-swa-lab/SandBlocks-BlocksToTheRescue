@@ -1,8 +1,8 @@
 SmalltalkCISpec {
 	#loading : [
 		SCIMetacelloLoadSpec {
-			#baseline : 'SpaceInavders',
-			platforms : [ #squeak ],
+			#baseline : 'SpaceInvaders',
+			#platforms : [ #squeak ],
 			#directory : 'miniSWA/spaceinvaders',
 			#load : [ 'default' ]
 		}
