@@ -1,5 +1,7 @@
 SmalltalkCISpec {
 	#testing : {
-		#failOnZeroTests : false
+		#include : {
+		      #categories : [ 'SpaceInvaders' ]
+		}
 	}
 }
