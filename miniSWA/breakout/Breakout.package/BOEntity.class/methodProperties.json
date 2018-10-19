@@ -2,12 +2,15 @@
 	"class" : {
 		"newFrom:" : "ms 10/17/2018 11:52" },
 	"instance" : {
-		"configure:" : "ms 10/17/2018 11:38",
-		"gameField" : "ms 10/18/2018 14:08",
-		"initialize" : "ms 10/17/2018 12:10",
+		"configure:" : "ms 10/18/2018 16:51",
+		"defaultExtent" : "ms 10/18/2018 18:18",
+		"defaultPosition" : "ms 10/18/2018 17:01",
+		"extent" : "ms 10/18/2018 18:18",
+		"extent:" : "ms 10/18/2018 18:37",
+		"initialize" : "ms 10/18/2018 18:19",
 		"initializeFrom:" : "ms 10/17/2018 11:16",
-		"morph" : "ms 10/16/2018 17:14",
-		"morph:" : "ms 10/16/2018 17:14",
-		"tick:" : "ms 10/17/2018 12:11",
-		"ticking" : "ms 10/17/2018 12:09",
-		"ticking:" : "ms 10/17/2018 11:01" } }
+		"isTicking" : "ms 10/18/2018 16:06",
+		"newMorph" : "ms 10/18/2018 16:04",
+		"position" : "ms 10/18/2018 18:02",
+		"position:" : "ms 10/18/2018 18:48",
+		"tick:" : "ms 10/17/2018 12:11" } }

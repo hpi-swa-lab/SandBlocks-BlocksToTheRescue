@@ -2,4 +2,6 @@ initialize-release
 initialize
 
 	super initialize.
-	self ticking: true.
+	self
+		extent: self defaultExtent;
+		position: self defaultPosition.

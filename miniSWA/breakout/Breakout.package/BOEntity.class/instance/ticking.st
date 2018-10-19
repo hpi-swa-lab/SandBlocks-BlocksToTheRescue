@@ -1,4 +1,0 @@
-accessing
-ticking
-
-	^ ticking

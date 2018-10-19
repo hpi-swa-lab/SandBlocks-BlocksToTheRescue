@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morph",
-		"ticking" ],
+		"position",
+		"extent" ],
 	"name" : "BOEntity",
 	"pools" : [
 		 ],

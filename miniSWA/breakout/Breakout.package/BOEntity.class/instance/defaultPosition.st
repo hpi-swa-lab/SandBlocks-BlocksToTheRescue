@@ -1,0 +1,4 @@
+constants
+defaultPosition
+
+	^ self subclassResponsibility

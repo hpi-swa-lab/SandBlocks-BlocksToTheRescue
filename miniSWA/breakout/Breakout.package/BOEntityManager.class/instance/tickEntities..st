@@ -1,5 +1,4 @@
-accessing
+entity-ops
 tickEntities: deltaTime
-	(self entitySet
-		select: [:entity | entity ticking])
-		do: [:entity | entity tick: deltaTime].
+	self entityMorphMap
+		keysDo: [:entity | entity isTicking ifTrue: [entity tick: deltaTime]].

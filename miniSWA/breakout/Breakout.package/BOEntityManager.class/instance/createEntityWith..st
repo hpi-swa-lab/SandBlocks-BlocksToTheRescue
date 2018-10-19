@@ -1,4 +1,4 @@
-accessing
+entity-ops
 createEntityWith: entityConfigDict
 
-	self add: (self entityClass newFrom: entityConfigDict).
+	^ self register: (self entityClass newFrom: entityConfigDict)

@@ -1,3 +1,3 @@
 accessing-private
-entityClass: anObject
-	entityClass := anObject
+entityClass: aClass
+	entityClass := aClass

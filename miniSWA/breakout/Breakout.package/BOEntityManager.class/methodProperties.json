@@ -2,10 +2,15 @@
 	"class" : {
 		"newFor:" : "ms 10/16/2018 17:34" },
 	"instance" : {
-		"add:" : "ms 10/17/2018 11:12",
-		"createEntityWith:" : "ms 10/17/2018 11:14",
+		"buildMorphOf:on:" : "ms 10/18/2018 18:20",
+		"createEntityWith:" : "ms 10/18/2018 16:52",
+		"createEntityWith:on:" : "ms 10/18/2018 16:52",
+		"entities" : "ms 10/18/2018 15:21",
 		"entityClass" : "ms 10/16/2018 17:32",
-		"entityClass:" : "ms 10/16/2018 17:32",
-		"entitySet" : "ms 10/16/2018 17:04",
-		"initialize" : "ms 10/16/2018 17:04",
-		"tickEntities:" : "ms 10/17/2018 11:04" } }
+		"entityClass:" : "ms 10/18/2018 17:16",
+		"entityMorphMap" : "ms 10/18/2018 15:14",
+		"initialize" : "ms 10/18/2018 15:18",
+		"register:" : "ms 10/18/2018 17:07",
+		"register:on:" : "ms 10/18/2018 17:08",
+		"tickEntities:" : "ms 10/18/2018 17:15",
+		"updateEntityBounds" : "ms 10/18/2018 18:24" } }

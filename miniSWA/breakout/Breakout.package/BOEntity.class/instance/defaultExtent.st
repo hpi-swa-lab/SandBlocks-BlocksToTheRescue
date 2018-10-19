@@ -1,0 +1,4 @@
+constants
+defaultExtent
+
+	^ self subclassResponsibility
