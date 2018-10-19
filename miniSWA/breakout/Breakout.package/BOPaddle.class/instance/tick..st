@@ -1,4 +1,4 @@
 entity-ops
 tick: deltaTimeMS
 
-	self updatePosition.
+	self position: self calculatedPosition.

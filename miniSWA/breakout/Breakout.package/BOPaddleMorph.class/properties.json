@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"positionResolver" ],
-	"name" : "BOPaddle",
+		 ],
+	"name" : "BOPaddleMorph",
 	"pools" : [
 		 ],
-	"super" : "BOEntity",
+	"super" : "RectangleMorph",
 	"type" : "normal" }

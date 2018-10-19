@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"configure:" : "ms 10/17/2018 11:37",
-		"initializeFrom:" : "ms 10/17/2018 11:29",
-		"mousePosition" : "ms 10/17/2018 12:17",
-		"position:" : "ms 10/18/2018 14:26",
+		"calculatedPosition" : "ms 10/18/2018 18:32",
+		"configure:" : "ms 10/18/2018 17:05",
+		"defaultExtent" : "ms 10/18/2018 18:18",
+		"defaultPosition" : "ms 10/18/2018 17:13",
+		"initializeFrom:" : "ms 10/18/2018 16:07",
+		"isTicking" : "ms 10/18/2018 16:07",
+		"newMorph" : "ms 10/18/2018 17:28",
 		"relativeTopDistance" : "ms 10/18/2018 15:06",
-		"tick:" : "ms 10/18/2018 14:07",
-		"updatePosition" : "ms 10/18/2018 14:27" } }
+		"tick:" : "ms 10/18/2018 18:33" } }
