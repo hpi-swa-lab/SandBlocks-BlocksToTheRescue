@@ -10,5 +10,5 @@
 	"name" : "SIPartical",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SIMovingGameElement",
 	"type" : "normal" }

@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		 ],
+	"name" : "SIMovingGameElement",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "Morph",
 	"type" : "normal" }

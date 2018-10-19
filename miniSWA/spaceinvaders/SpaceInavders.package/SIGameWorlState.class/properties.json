@@ -6,9 +6,15 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"score",
+		"lifes",
+		"sIEnemies",
+		"sIParticals",
+		"sIWalls",
+		"sIPlayer",
+		"tickCounter" ],
+	"name" : "SIGameWorlState",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "Object",
 	"type" : "normal" }

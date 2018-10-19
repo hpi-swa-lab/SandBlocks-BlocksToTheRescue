@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"deathSound",
+		"deathEnemySound",
+		"shotSound" ],
+	"name" : "SIRessourceManager",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "Object",
 	"type" : "normal" }

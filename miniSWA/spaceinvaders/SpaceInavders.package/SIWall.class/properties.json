@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"health" ],
+	"name" : "SIWall",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "Morph",
 	"type" : "normal" }

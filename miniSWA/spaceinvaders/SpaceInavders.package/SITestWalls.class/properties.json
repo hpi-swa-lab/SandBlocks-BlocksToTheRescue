@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"wall" ],
+	"name" : "SITestWalls",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "TestCase",
 	"type" : "normal" }

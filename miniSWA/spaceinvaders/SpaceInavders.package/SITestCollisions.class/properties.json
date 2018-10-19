@@ -1,14 +1,14 @@
 {
 	"category" : "SpaceInavders",
 	"classinstvars" : [
-		 ],
+		"gameWorld" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"gameWorld" ],
+	"name" : "SITestCollisions",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "TestCase",
 	"type" : "normal" }

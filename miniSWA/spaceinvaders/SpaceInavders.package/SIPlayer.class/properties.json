@@ -10,5 +10,5 @@
 	"name" : "SIPlayer",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SIMovingGameElement",
 	"type" : "normal" }

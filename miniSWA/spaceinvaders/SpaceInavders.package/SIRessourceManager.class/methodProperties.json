@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deathEnemySound" : "BD 10/19/2018 12:53",
+		"deathEnemySound:" : "BD 10/19/2018 12:55",
+		"deathSound" : "BD 10/19/2018 12:53",
+		"deathSound:" : "BD 10/19/2018 12:54",
+		"initialize" : "BD 10/19/2018 12:56",
+		"playSound:" : "BD 10/19/2018 12:57",
+		"shotSound" : "BD 10/19/2018 12:53",
+		"shotSound:" : "BD 10/19/2018 12:54" } }

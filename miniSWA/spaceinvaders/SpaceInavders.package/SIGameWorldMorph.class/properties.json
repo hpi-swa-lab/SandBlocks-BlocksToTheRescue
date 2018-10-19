@@ -6,9 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"isMovingToTheRight" ],
-	"name" : "SIEnemy",
+		"scoreLable",
+		"lifeLable",
+		"gameState",
+		"ressourceManager" ],
+	"name" : "SIGameWorldMorph",
 	"pools" : [
 		 ],
-	"super" : "SIMovingGameElement",
+	"super" : "PasteUpMorph",
 	"type" : "normal" }
