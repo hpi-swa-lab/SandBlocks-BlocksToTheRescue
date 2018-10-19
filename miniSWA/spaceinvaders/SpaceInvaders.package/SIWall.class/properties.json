@@ -1,14 +1,14 @@
 {
-	"category" : "SpaceInavders",
+	"category" : "SpaceInvaders",
 	"classinstvars" : [
-		"gameWorld" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"gameWorld" ],
-	"name" : "SITestCollisions",
+		"health" ],
+	"name" : "SIWall",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "Morph",
 	"type" : "normal" }

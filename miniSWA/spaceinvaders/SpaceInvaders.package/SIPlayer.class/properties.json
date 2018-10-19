@@ -1,5 +1,5 @@
 {
-	"category" : "SpaceInavders",
+	"category" : "SpaceInvaders",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "SIMovingGameElement",
+	"name" : "SIPlayer",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SIMovingGameElement",
 	"type" : "normal" }

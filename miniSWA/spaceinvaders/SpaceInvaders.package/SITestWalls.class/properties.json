@@ -1,14 +1,14 @@
 {
-	"category" : "SpaceInavders",
+	"category" : "SpaceInvaders",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"health" ],
-	"name" : "SIWall",
+		"wall" ],
+	"name" : "SITestWalls",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "TestCase",
 	"type" : "normal" }
