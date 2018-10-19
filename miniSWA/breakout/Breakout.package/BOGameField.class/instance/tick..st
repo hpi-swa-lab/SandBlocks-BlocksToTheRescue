@@ -1,7 +1,7 @@
 stepping and presenter
 tick: deltaTimeInMS
-	self window setLabel: ((1000.0 / deltaTimeInMS) asInteger asString, ' fps').
+	self window setLabel: (
+		'fps: ', (1000.0 / deltaTimeInMS) asInteger asString,
+		' rel: ', (self relativeMousePosition asString)).
 
-	self brickManager tickEntities: deltaTimeInMS.
-	self paddleManager tickEntities: deltaTimeInMS.
-	self ballManager tickEntities: deltaTimeInMS.
+	self tickEntities: deltaTimeInMS.

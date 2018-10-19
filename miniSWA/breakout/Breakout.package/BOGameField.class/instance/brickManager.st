@@ -1,3 +1,4 @@
 accessing
 brickManager
-	^ brickManager
+
+	^ self entityManagers at: BOBrick

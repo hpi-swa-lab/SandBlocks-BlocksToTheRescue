@@ -1,3 +1,4 @@
 accessing
 ballManager
-	^ ballManager
+
+	^ self entityManagers at: BOBall

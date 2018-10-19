@@ -6,9 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"brickManager",
-		"paddleManager",
-		"ballManager",
+		"entityManagers",
 		"lastTickTime" ],
 	"name" : "BOGameField",
 	"pools" : [

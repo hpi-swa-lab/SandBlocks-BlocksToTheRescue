@@ -3,10 +3,10 @@ initialize
 
 	super initialize.
 	
-	self
+	self entityManagers: (IdentityDictionary newFrom: (
+		{BOBrick. BOPaddle. BOBall}
+		collect: [:class | class -> (BOEntityManager newFor: class)]));
 		updateTickTime;
-		brickManager: (BOEntityManager newFor: BOBrick);
-		paddleManager: (BOEntityManager newFor: BOPaddle);
-		ballManager: (BOEntityManager newFor: BOBall);
-		initializeDefaultGameState;
-		startStepping.
+		layoutInset: 0;
+		borderWidth: 0;
+		initializeDefaultGameState.

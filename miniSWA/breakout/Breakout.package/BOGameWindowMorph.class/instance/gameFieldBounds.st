@@ -1,4 +1,0 @@
-constants
-gameFieldBounds
-
-	^ self layoutBounds

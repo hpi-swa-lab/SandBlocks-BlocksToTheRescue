@@ -1,3 +1,4 @@
 accessing
 paddleManager
-	^ paddleManager
+
+	^ self entityManagers at: BOPaddle
