@@ -1,15 +1,5 @@
 SmalltalkCISpec {
-	#loading : [
-		SCIMetacelloLoadSpec {
-			#baseline : 'SpaceInvaders',
-			#platforms : [ #squeak ],
-			#directory : 'miniSWA/spaceinvaders',
-			#load : [ 'default' ]
-		}
-	],
 	#testing : {
-		#include : {
-		      #categories : [ 'SpaceInvaders' ]
-		}
+		#failOnZeroTests : false
 	}
 }
