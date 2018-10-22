@@ -1,4 +1,4 @@
 accessing
 calculatedPosition
 
-	^ positionResolver value x @ self relativeTopDistance
+	^ self positionResolver value x @ self relativeTopDistance

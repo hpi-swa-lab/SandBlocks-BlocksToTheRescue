@@ -2,4 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self color: Color black.
+	self
+		name: #Paddle;
+		color: Color black.

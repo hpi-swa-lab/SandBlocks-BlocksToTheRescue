@@ -2,12 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"calculatedPosition" : "ms 10/18/2018 18:32",
+		"calculatedPosition" : "ms 10/22/2018 15:22",
 		"configure:" : "ms 10/18/2018 17:05",
 		"defaultExtent" : "ms 10/18/2018 18:18",
 		"defaultPosition" : "ms 10/18/2018 17:13",
-		"initializeFrom:" : "ms 10/18/2018 16:07",
+		"initializeFrom:" : "ms 10/19/2018 15:46",
 		"isTicking" : "ms 10/18/2018 16:07",
 		"newMorph" : "ms 10/18/2018 17:28",
+		"positionResolver" : "ms 10/22/2018 15:22",
+		"positionResolver:" : "ms 10/22/2018 15:25",
 		"relativeTopDistance" : "ms 10/18/2018 15:06",
 		"tick:" : "ms 10/18/2018 18:33" } }

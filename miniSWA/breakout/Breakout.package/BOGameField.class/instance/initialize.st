@@ -3,7 +3,8 @@ initialize
 
 	super initialize.
 	
-	self entityManagers: (IdentityDictionary newFrom: (
+	self name: #GameField;
+		entityManagers: (IdentityDictionary newFrom: (
 		{BOBrick. BOPaddle. BOBall}
 		collect: [:class | class -> (BOEntityManager newFor: class)]));
 		updateTickTime;
