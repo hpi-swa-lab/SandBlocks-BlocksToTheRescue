@@ -6,4 +6,5 @@ handleKeystroke: anEvent
 		[Character arrowLeft] -> [self model inputLeft].
 		[Character arrowRight] -> [self model inputRight].
 		[Character arrowDown] -> [self model inputDown].
+		[Character arrowUp] -> [self model inputUp].
 	} otherwise: [].

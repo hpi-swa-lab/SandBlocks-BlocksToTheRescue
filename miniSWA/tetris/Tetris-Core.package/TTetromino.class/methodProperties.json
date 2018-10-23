@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"L" : "LM 10/22/2018 16:54" },
+		"L" : "LM 10/23/2018 16:43" },
 	"instance" : {
 		"addBlocksAt:colored:" : "LM 10/23/2018 10:37",
 		"blockPositions" : "LM 10/22/2018 16:30",
@@ -9,12 +9,17 @@
 		"canBePlacedInto:" : "LM 10/23/2018 10:48",
 		"canBePositionedAt:In:" : "LM 10/22/2018 16:39",
 		"canMoveDownIn:" : "LM 10/22/2018 16:41",
-		"color" : "LM 10/22/2018 16:14",
-		"color:" : "LM 10/22/2018 16:14",
 		"gridPosition" : "LM 10/23/2018 10:03",
 		"gridPosition:" : "LM 10/23/2018 10:03",
-		"initialize" : "LM 10/23/2018 10:38",
+		"initialize" : "LM 10/23/2018 13:22",
 		"moveDown" : "LM 10/23/2018 10:03",
 		"placeInto:" : "LM 10/23/2018 10:32",
+		"rotate:" : "LM 10/23/2018 16:39",
+		"rotateLeftIn:" : "LM 10/23/2018 16:39",
+		"rotateLeftUnchecked" : "LM 10/23/2018 16:25",
+		"rotateRightIn:" : "LM 10/23/2018 13:24",
+		"rotateRightUnchecked" : "LM 10/23/2018 16:25",
+		"rotationCenter" : "LM 10/23/2018 13:19",
+		"rotationCenter:" : "LM 10/23/2018 13:19",
 		"tryMoveLeftIn:" : "LM 10/22/2018 17:03",
 		"tryMoveRightIn:" : "LM 10/22/2018 17:03" } }
