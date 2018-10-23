@@ -1,4 +1,4 @@
 testing
 isTicking
 
-	^ true
+	^ ticking ifNil: [false] 

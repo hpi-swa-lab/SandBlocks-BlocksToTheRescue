@@ -1,7 +1,7 @@
-as yet unclassified
+updating
 update: anAspect with: anObject
 
-	self perform: (anAspect caseOf: {
-		[#position] -> [#repositionTo:].
-		[#size] -> [#resizeTo:]})
-		with: anObject.
+	anAspect caseOf: {
+		[#position] -> [self repositionTo: anObject].
+		[#size] -> [self resizeTo: anObject]}
+		otherwise: nil.

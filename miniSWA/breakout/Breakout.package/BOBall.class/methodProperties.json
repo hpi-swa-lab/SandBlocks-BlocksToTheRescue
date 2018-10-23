@@ -2,18 +2,24 @@
 	"class" : {
 		 },
 	"instance" : {
+		"bottomCenter:" : "ms 10/23/2018 11:59",
 		"collideWithPlayField" : "ms 10/22/2018 17:38",
 		"configure:" : "ms 10/23/2018 10:46",
 		"defaultDirection" : "ms 10/22/2018 18:35",
 		"defaultExtent" : "ms 10/22/2018 16:00",
 		"defaultPosition" : "ms 10/22/2018 16:00",
-		"defaultSpeed" : "ms 10/23/2018 10:54",
-		"initializeFrom:" : "ms 10/22/2018 18:14",
+		"defaultSpeed" : "ms 10/23/2018 11:32",
+		"initializeFrom:" : "ms 10/23/2018 11:48",
 		"isStaticBody" : "ms 10/22/2018 17:45",
-		"isTicking" : "ms 10/22/2018 16:00",
+		"isTicking" : "ms 10/23/2018 11:46",
 		"move:" : "ms 10/22/2018 17:45",
 		"newMorph" : "ms 10/22/2018 16:27",
 		"rebound:" : "ms 10/22/2018 17:16",
 		"speedVector" : "ms 10/22/2018 16:03",
 		"speedVector:" : "ms 10/22/2018 16:03",
-		"tick:" : "ms 10/22/2018 17:30" } }
+		"startTicking" : "ms 10/23/2018 11:44",
+		"stopTicking" : "ms 10/23/2018 11:44",
+		"tick:" : "ms 10/22/2018 17:30",
+		"ticking:" : "ms 10/23/2018 11:44",
+		"update:with:" : "ms 10/23/2018 12:05",
+		"updateFromPaddle:" : "ms 10/23/2018 12:05" } }
