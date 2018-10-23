@@ -2,14 +2,21 @@
 	"class" : {
 		 },
 	"instance" : {
+		"ballEntity" : "ms 10/23/2018 11:27",
+		"ballEntity:" : "ms 10/23/2018 11:27",
+		"ballSpawner" : "ms 10/22/2018 17:55",
+		"ballSpawner:" : "ms 10/23/2018 10:51",
 		"calculatedPosition" : "ms 10/22/2018 15:22",
-		"configure:" : "ms 10/18/2018 17:05",
+		"configure:" : "ms 10/22/2018 18:14",
 		"defaultExtent" : "ms 10/18/2018 18:18",
 		"defaultPosition" : "ms 10/18/2018 17:13",
-		"initializeFrom:" : "ms 10/19/2018 15:46",
+		"handleBallSpawn" : "ms 10/23/2018 10:55",
+		"initializeFrom:" : "ms 10/22/2018 18:14",
 		"isTicking" : "ms 10/18/2018 16:07",
 		"newMorph" : "ms 10/18/2018 17:28",
 		"positionResolver" : "ms 10/22/2018 15:22",
 		"positionResolver:" : "ms 10/22/2018 15:25",
 		"relativeTopDistance" : "ms 10/18/2018 15:06",
-		"tick:" : "ms 10/18/2018 18:33" } }
+		"spawnBall" : "ms 10/23/2018 10:51",
+		"tick:" : "ms 10/22/2018 16:25",
+		"topCenter" : "ms 10/22/2018 18:03" } }

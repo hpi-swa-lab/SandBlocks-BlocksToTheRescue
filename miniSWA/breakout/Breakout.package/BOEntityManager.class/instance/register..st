@@ -1,4 +1,4 @@
 accessing-private
-register: entity
+register: aBOEntity
 
-	self entityMorphMap add: entity -> nil.
+	self entityMorphMap add: aBOEntity -> nil.

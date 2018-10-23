@@ -1,4 +1,4 @@
 entity-ops
-createEntityWith: entityConfigDict
+createEntityWith: entityConfiguration
 
-	^ self register: (self entityClass newFrom: entityConfigDict)
+	^ self register: (self entityClass newFrom: entityConfiguration)

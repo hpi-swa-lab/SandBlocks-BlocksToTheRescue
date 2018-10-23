@@ -2,13 +2,15 @@
 	"category" : "Breakout",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TBOEntityMorph classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"spawningBallMorph" ],
 	"name" : "BOPaddleMorph",
 	"pools" : [
 		 ],
 	"super" : "RectangleMorph",
+	"traitcomposition" : "TBOEntityMorph",
 	"type" : "normal" }

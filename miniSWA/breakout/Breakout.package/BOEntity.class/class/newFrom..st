@@ -1,6 +1,8 @@
 instance creation
-newFrom: entityConfigDict
+newFrom: configCollection
 
 	^ self basicNew
-		initializeFrom: entityConfigDict;
+		initializeFrom: (configCollection isDictionary
+			ifTrue: [configCollection]
+			ifFalse: [IdentityDictionary withAll: configCollection]);
 		yourself

@@ -1,7 +1,7 @@
 accessing-private
-buildMorphOf: entity on: gameField
+buildMorphOf: aBOEntity on: aBOGameField
 	| morph |
-	morph := entity newMorph.
-	gameField addMorph: morph.
-	entity addDependent: morph.
+	morph := aBOEntity newMorph.
+	aBOGameField addMorph: morph.
+	aBOEntity addDependent: morph.
 	^ morph

@@ -1,4 +1,6 @@
 initialize-release
 configure: aDictionary
 
-	positionResolver := aDictionary at: #positionResolver.
+	super configure: aDictionary.
+	self positionResolver: (aDictionary at: #positionResolver).
+	self ballSpawner: (aDictionary at: #ballSpawner ifAbsent: nil).

@@ -1,4 +1,4 @@
 entity-ops
-createEntityWith: entityConfigDict on: gameField
+createEntityWith: entityConfiguration on: aBOGameField
 
-	^ self register: (self entityClass newFrom: entityConfigDict) on: gameField
+	^ self register: (self entityClass newFrom: entityConfiguration) on: aBOGameField

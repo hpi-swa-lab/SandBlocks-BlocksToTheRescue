@@ -3,7 +3,11 @@
 		 },
 	"instance" : {
 		"gameField" : "ms 10/18/2018 17:27",
-		"initialize" : "ms 10/19/2018 15:47",
-		"repositionTo:" : "ms 10/18/2018 17:58",
-		"resizeTo:" : "ms 10/19/2018 09:27",
-		"update:with:" : "ms 10/18/2018 17:30" } }
+		"initialize" : "ms 10/22/2018 18:26",
+		"repositionTo:" : "ms 10/22/2018 18:30",
+		"resizeTo:" : "ms 10/22/2018 18:30",
+		"showSpawningBall:" : "ms 10/22/2018 18:30",
+		"spawningBallMorph" : "ms 10/22/2018 18:26",
+		"spawningBallMorph:" : "ms 10/22/2018 18:26",
+		"spawningBallPosition" : "ms 10/22/2018 18:29",
+		"update:with:" : "ms 10/22/2018 18:25" } }

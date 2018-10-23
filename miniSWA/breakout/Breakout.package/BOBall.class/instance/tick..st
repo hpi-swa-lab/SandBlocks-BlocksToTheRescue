@@ -1,4 +1,4 @@
-as yet unclassified
-tick: deltaTimeInMS
+entity-ops
+tick: deltaTimeMS
 
-	self morph position: self morph position + 1.
+	self move: deltaTimeMS / 1000 * self speedVector.

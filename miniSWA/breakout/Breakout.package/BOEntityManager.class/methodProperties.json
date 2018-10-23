@@ -2,16 +2,17 @@
 	"class" : {
 		"newFor:" : "ms 10/16/2018 17:34" },
 	"instance" : {
-		"buildMorphOf:on:" : "ms 10/18/2018 18:20",
-		"createEntityWith:" : "ms 10/18/2018 16:52",
-		"createEntityWith:on:" : "ms 10/18/2018 16:52",
+		"buildMorphOf:on:" : "ms 10/22/2018 18:11",
+		"createEntityOn:" : "ms 10/22/2018 18:10",
+		"createEntityWith:" : "ms 10/22/2018 18:20",
+		"createEntityWith:on:" : "ms 10/22/2018 18:21",
 		"entities" : "ms 10/18/2018 15:21",
 		"entityClass" : "ms 10/16/2018 17:32",
 		"entityClass:" : "ms 10/18/2018 17:16",
 		"entityMorphMap" : "ms 10/18/2018 15:14",
 		"entityMorphs" : "ms 10/22/2018 14:40",
 		"initialize" : "ms 10/18/2018 15:18",
-		"register:" : "ms 10/18/2018 17:07",
-		"register:on:" : "ms 10/18/2018 17:08",
+		"register:" : "ms 10/22/2018 18:11",
+		"register:on:" : "ms 10/23/2018 11:20",
 		"tickEntities:" : "ms 10/18/2018 17:15",
-		"updateEntityBounds" : "ms 10/18/2018 18:24" } }
+		"updateEntityBounds" : "ms 10/23/2018 11:06" } }

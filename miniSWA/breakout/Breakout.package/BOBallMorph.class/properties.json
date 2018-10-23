@@ -1,0 +1,16 @@
+{
+	"category" : "Breakout",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBOEntityMorph classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BOBallMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"traitcomposition" : "TBOEntityMorph",
+	"type" : "normal" }

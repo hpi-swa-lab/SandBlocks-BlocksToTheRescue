@@ -1,4 +1,5 @@
 accessing-private
-register: entity on: gameField
+register: aBOEntity on: aBOGameField
 
-	self entityMorphMap add: entity -> (self buildMorphOf: entity on: gameField).
+	self entityMorphMap add: aBOEntity -> (self buildMorphOf: aBOEntity on: aBOGameField).
+	aBOEntity updateBounds.

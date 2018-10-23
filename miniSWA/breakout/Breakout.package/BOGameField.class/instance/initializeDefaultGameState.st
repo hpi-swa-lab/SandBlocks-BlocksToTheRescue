@@ -1,8 +1,9 @@
 initialization
 initializeDefaultGameState
-
-	self paddleManager createEntityWith: (IdentityDictionary withAll: {
-		#positionResolver -> [self relativeMousePosition]}) on: self.
+	| paddle |
+	paddle := self paddleManager createEntityWith: {
+		#positionResolver -> [self relativeMousePosition].
+		#ballSpawner -> [:position | self spawnBallAt: position]} on: self.
 
 	self 
 		updateTickTime;

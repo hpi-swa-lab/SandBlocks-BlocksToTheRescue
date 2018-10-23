@@ -1,5 +1,6 @@
 initialize-release
 initializeFrom: entityConfigDict
 
-	self subclassResponsibility.
-	
+	self
+		initialize;
+		configure: entityConfigDict.
