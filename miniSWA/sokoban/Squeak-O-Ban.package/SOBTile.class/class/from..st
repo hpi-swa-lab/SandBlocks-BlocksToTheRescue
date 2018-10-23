@@ -9,4 +9,4 @@ from: aCharacter
 		[$@] -> [SOBTile].
 		[$$] -> [SOBTile].
 		[$ ] -> [SOBTile].
-	}) new.
+	}) new

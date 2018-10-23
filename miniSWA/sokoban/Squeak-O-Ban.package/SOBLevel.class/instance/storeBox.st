@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 storeBox 
 	
 	self information storeBox.

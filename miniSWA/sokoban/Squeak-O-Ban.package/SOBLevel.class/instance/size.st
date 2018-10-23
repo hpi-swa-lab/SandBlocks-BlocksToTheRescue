@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 size
 
 	^ self colCount @ self rowCount

@@ -8,8 +8,7 @@
 	"instvars" : [
 		"title",
 		"score",
-		"moves",
-		"buttonBar" ],
+		"moves" ],
 	"name" : "SOBInformationMorph",
 	"pools" : [
 		 ],

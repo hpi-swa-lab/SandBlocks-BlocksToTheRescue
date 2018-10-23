@@ -1,4 +1,4 @@
-as yet unclassified
+level selection
 adaptOverlay
 
 	self overlay bounds: self levelMorph bounds.

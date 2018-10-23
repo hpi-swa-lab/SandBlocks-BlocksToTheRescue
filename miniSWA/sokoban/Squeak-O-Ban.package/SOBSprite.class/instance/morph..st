@@ -1,4 +1,4 @@
 accessing
-morph: anObject
+morph: aMorph
 
-	morph := anObject.
+	morph := aMorph.

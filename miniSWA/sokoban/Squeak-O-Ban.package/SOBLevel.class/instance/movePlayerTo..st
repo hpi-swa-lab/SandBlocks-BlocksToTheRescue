@@ -1,4 +1,4 @@
-as yet unclassified
+moving
 movePlayerTo: destinationPoint
 
 	self moveOccupantAt: self playerPosition to: destinationPoint. 

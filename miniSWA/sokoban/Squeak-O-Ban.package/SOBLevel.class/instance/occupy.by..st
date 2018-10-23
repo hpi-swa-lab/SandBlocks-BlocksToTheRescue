@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 occupy: aPoint by: anOccupant
 
 	(self at: aPoint) occupyBy: anOccupant. 

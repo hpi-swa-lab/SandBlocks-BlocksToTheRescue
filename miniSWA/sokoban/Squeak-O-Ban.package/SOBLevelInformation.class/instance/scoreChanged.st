@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 scoreChanged
 
 	self changed: #score with: self score.

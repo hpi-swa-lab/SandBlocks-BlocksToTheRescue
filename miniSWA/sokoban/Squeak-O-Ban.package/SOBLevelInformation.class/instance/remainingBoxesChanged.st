@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 remainingBoxesChanged 
 
 	self changed: #remainingBoxes with: self remainingBoxes.

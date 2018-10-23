@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 globalMorphPosition
 
 	^ self morph owner ifNil: [self localMorphPosition]

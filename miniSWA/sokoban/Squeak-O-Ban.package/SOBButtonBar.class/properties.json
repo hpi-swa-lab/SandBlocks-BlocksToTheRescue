@@ -8,8 +8,7 @@
 	"instvars" : [
 		"next",
 		"previous",
-		"reload",
-		"gameframe" ],
+		"reload" ],
 	"name" : "SOBButtonBar",
 	"pools" : [
 		 ],

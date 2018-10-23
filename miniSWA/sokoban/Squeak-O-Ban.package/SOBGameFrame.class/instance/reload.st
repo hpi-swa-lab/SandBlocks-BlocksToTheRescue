@@ -1,4 +1,4 @@
-as yet unclassified
+level selection
 reload
 
 	self showLevel: self currentLevelBlock value.

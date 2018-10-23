@@ -3,5 +3,6 @@ initializePrevious
 
 	self previous: (SimpleButtonMorph new
 		label: '<';
-		actionSelector: #previousLevel).
+		actionSelector: #previousLevel;
+		yourself).
 	self addMorph: self previous.

@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 addTo: aMorph
 
 	aMorph addMorph: self morph.
