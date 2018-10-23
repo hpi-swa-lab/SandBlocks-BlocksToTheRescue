@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SIPlayer",
+	"pools" : [
+		 ],
+	"super" : "SIMovingGameElement",
+	"type" : "normal" }

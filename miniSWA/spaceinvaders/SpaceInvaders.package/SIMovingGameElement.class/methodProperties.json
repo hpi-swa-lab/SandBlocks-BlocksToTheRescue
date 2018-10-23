@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"newWithRessourceManager:" : "BD 10/22/2018 09:50" },
+	"instance" : {
+		"horizontalMoveDistance" : "BD 10/18/2018 12:31",
+		"moveToTheLeft" : "BD 10/18/2018 12:34",
+		"moveToTheRight" : "BD 10/18/2018 12:34",
+		"ressourceManager" : "BD 10/22/2018 09:45",
+		"ressourceManager:" : "BD 10/22/2018 09:45",
+		"setRelativePosition:" : "BD 10/22/2018 10:34",
+		"setSprite:" : "BD 10/22/2018 10:00",
+		"verticalMoveDistance" : "BD 10/18/2018 12:29" } }

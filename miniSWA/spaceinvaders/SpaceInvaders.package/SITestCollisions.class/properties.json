@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		"gameWorld" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameWorld" ],
+	"name" : "SITestCollisions",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

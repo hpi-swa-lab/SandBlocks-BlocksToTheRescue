@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSpaceInvaders",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

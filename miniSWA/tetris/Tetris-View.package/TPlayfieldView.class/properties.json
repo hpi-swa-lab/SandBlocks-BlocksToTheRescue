@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tetromino" ],
+	"name" : "TPlayfieldView",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

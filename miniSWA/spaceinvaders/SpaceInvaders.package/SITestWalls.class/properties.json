@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"wall" ],
+	"name" : "SITestWalls",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
