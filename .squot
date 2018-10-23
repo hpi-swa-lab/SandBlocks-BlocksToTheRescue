@@ -3,6 +3,7 @@ OrderedDictionary {
 	'miniSWA\/snake\/Snake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/BaselineOfSpaceInvaders.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/spaceinvaders\/SpaceInavders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/SpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,

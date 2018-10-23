@@ -6,4 +6,4 @@ getSprite: aSpriteNamed
 		[ 'Particle Sprite' ] -> [ self particleSprite ].
 		[ 'Enemy Sprite' ] -> [ self enemySprite ].
 	}
-	otherwise: [ self error: 'Sprite not found' ].
+	otherwise: [ self error: 'Sprite not found' ]
