@@ -1,4 +1,4 @@
 accessing
 tileSize 
 
-	^ 40
+	^ 32

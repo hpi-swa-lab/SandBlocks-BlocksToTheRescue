@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 at: aPoint put: aTile
 
 	^ self 

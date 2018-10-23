@@ -5,5 +5,4 @@ initializeLayout
 		listDirection: #rightToLeft;
 	  	wrapCentering: #topLeft;
 		hResizing: #shrinkWrap;
-		vResizing: #shrinkWrap;
-		layoutInset: 2.
+		vResizing: #shrinkWrap.

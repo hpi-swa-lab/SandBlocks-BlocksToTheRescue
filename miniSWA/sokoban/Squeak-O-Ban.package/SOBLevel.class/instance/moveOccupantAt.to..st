@@ -1,4 +1,4 @@
-as yet unclassified
+moving
 moveOccupantAt: fromPoint to: destinationPoint
 
 	| occupant |
