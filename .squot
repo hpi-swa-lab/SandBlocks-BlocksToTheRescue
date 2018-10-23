@@ -4,6 +4,5 @@ OrderedDictionary {
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/BaselineOfSpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/SpaceInvaders.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/tetris\/Tetris.package' : #SquotCypressCodeSerializer
+	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer
 }
