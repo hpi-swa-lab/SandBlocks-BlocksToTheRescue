@@ -1,12 +1,13 @@
 {
-	"category" : "Squeak-O-Ban",
+	"category" : "Squeak-O-Ban-Graphics",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"level" ],
+		"level",
+		"inputsblocked" ],
 	"name" : "SOBLevelMorph",
 	"pools" : [
 		 ],

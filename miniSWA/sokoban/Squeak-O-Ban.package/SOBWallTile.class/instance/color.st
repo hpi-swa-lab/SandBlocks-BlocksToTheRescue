@@ -1,4 +1,4 @@
-as yet unclassified
+morph representation
 color
 
 	^ Color black

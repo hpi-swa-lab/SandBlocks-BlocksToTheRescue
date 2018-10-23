@@ -1,4 +1,4 @@
-as yet unclassified
+event handling
 handlesKeyboard: anEvent
 
-	^ true
+	^ self inputsblocked not

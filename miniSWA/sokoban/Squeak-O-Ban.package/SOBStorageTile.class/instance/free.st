@@ -1,4 +1,4 @@
-as yet unclassified
+occupant
 free
 
 	self occupant isBox ifTrue: [self changed: #unstored with: self].

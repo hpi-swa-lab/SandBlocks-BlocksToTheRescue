@@ -1,4 +1,4 @@
-as yet unclassified
+morph representation
 addRepresentationTo: aCollection
 
 	^ self subclassResponsibility

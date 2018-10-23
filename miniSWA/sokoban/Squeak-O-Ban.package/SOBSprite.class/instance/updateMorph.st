@@ -1,6 +1,9 @@
 as yet unclassified
 updateMorph 
 
-	self morph 
-		extent: (self tileSize @ self tileSize);
-		position: self globalMorphPosition.
+	(AnimPathAnimation
+		on: self morph
+		between: {self morph position. self globalMorphPosition}
+		within: 100)
+			register;
+			start.

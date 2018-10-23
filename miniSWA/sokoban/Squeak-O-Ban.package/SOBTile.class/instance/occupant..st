@@ -1,4 +1,4 @@
 accessing
-occupant: anObject
+occupant: anOccupant
 
-	occupant := anObject.
+	occupant := anOccupant.

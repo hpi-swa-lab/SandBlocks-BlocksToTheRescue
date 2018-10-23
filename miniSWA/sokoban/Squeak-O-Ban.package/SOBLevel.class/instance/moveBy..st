@@ -9,6 +9,5 @@ moveBy: aPoint
 		[self moveOccupantAt: newPosition to: pushPosition].
 	
 	(self isFreeAt: newPosition) ifTrue: 
-		[self movePlayerTo: newPosition.
-		self changed: #move.].
+		[self movePlayerTo: newPosition.].
 	

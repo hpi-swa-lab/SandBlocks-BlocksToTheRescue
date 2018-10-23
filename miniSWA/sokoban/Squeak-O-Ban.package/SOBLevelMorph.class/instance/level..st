@@ -1,4 +1,4 @@
 accessing
-level: anObject
+level: aLevel
 
-	level := anObject.
+	level := aLevel.
