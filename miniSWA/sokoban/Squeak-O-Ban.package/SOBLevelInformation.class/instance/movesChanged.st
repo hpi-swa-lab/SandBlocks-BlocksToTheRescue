@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 movesChanged 
 
 	self changed: #moves with: self moves.

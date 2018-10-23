@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"calculateScore" : "LB 10/17/2018 15:55",
+		"calculateScore" : "LB 10/23/2018 15:05",
 		"initialize" : "LB 10/17/2018 14:07",
 		"maximumMoves" : "LB 10/17/2018 14:25",
 		"moved" : "LB 10/17/2018 13:50",
@@ -12,7 +12,7 @@
 		"remainingBoxes" : "LB 10/17/2018 13:47",
 		"remainingBoxes:" : "LB 10/17/2018 13:47",
 		"remainingBoxesChanged" : "LB 10/17/2018 14:23",
-		"remainingMoves" : "LB 10/17/2018 15:55",
+		"remainingMoves" : "LB 10/23/2018 15:05",
 		"score" : "LB 10/17/2018 14:22",
 		"score:" : "LB 10/17/2018 14:22",
 		"scoreChanged" : "LB 10/17/2018 14:22",

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 remainingMoves
 
-	^ self maximumMoves - self moves.
+	^ self maximumMoves - self moves

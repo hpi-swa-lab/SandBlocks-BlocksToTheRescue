@@ -3,5 +3,6 @@ initializeReload
 
 	self reload: (SimpleButtonMorph new
 		label: 'Q';
-		actionSelector: #reload).
+		actionSelector: #reload;
+		yourself).
 	self addMorph: self reload.

@@ -1,4 +1,4 @@
-as yet unclassified
+moving
 moveUp
 	
 	self moveBy: 0 @ -1

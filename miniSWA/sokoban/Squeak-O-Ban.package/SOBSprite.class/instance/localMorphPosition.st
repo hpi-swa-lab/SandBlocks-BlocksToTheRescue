@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 localMorphPosition
 
 	^ self tileSize * (self position - (1 @ 1))

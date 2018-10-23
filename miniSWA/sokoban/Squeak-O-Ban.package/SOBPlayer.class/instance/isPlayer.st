@@ -1,4 +1,4 @@
 testing
 isPlayer 
 
-	^ true.
+	^ true

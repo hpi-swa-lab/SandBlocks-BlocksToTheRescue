@@ -6,4 +6,4 @@ from: aCharacter
 		[$*] -> [SOBBox].
 		[$+] -> [SOBPlayer].
 		[$@] -> [SOBPlayer].
-	} otherwise: [SOBVoid]) new.
+	} otherwise: [SOBVoid]) new
