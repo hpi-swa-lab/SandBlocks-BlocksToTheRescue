@@ -1,5 +1,15 @@
 SmalltalkCISpec {
+	#loading : [
+		SCIMetacelloLoadSpec {
+			#baseline : 'Tetris',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/tetris',
+			#load : [ 'tests' ]
+		}
+	],
 	#testing : {
-		#failOnZeroTests : false
+		#include : {
+		      #categories : [ 'Tetris' ]
+		}
 	}
 }
