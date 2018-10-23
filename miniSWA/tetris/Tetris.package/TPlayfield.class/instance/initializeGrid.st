@@ -1,4 +1,4 @@
-initialization
+initialize-release
 initializeGrid
 
 	self grid: (OrderedCollection ofSize: self class gridWidth).

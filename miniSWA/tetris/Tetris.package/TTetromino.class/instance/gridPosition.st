@@ -1,4 +1,4 @@
-movement
+accessing
 gridPosition
-	
+
 	^ gridPosition

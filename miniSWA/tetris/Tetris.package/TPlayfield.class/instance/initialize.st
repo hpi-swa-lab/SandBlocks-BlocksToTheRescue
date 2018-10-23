@@ -1,10 +1,6 @@
-initialization
-initialize 
-
-	super initialize.
-	self
-		borderWidth: 0;
-		extent: self class defaultExtent;
+initialize-release
+initialize
+	
+	self 
 		initializeGrid;
-		spawnTetromino;
-		startStepping
+		spawnTetromino.

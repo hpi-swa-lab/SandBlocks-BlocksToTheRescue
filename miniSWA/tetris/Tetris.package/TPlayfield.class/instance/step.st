@@ -1,4 +1,4 @@
-stepping and presenter
+as yet unclassified
 step
 
 	(self tetromino canMoveDownIn: self)
@@ -6,3 +6,4 @@ step
 		ifFalse: [
 			self tetromino placeInto: self.
 			self spawnTetromino].
+	self changed.

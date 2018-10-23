@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"playfield" ],
+	"name" : "TGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

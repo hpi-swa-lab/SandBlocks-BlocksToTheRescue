@@ -1,11 +1,8 @@
-tetromino
+as yet unclassified
 spawnTetromino
 
-	self tetromino ifNotNil: [:tetr | tetr abandon].
-	
 	self tetromino: TTetromino L.
-	self tetromino openInWorld.
-	self addMorph: self tetromino.
-	self tetromino gridPosition: 4@0.
-	
-	
+	self tetromino gridPosition: self gridWidth / 2 @ 0.
+	(self tetromino canBePlacedInto: self)
+		ifFalse: [self gameOver].
+	self changed.

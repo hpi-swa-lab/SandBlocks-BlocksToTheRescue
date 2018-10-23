@@ -1,8 +1,4 @@
-initialization
+initialize-release
 addBlocksAt: anArray colored: aColor
 
-	anArray do: [:each |
-		self addMorph: (TBlock newAt: each colored: aColor)].
-	self shrinkWrap.
-	
-	self blockPositions: anArray.
+	self blocks: (anArray collect: [:each | TBlock withGridPosition: each colored: aColor]).

@@ -1,8 +1,7 @@
-as yet unclassified
+placement
 placeInto: aTPlayfield
 
-	[self submorphs isEmpty] whileFalse: [
-		| each |
-		each := self submorphs first.
-		aTPlayfield gridAt: each gridPosition + self gridPosition put: each.
-		aTPlayfield addMorph: each].
+	self blocks do: [:each|
+		aTPlayfield gridAt: each gridPosition + self gridPosition put: each].
+	self blocks: OrderedCollection new.
+	self changed.

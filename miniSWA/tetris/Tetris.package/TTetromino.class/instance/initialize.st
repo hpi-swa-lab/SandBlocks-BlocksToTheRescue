@@ -1,9 +1,4 @@
-initialization
-initialize 
+initialize-release
+initialize
 
-	super initialize.
-	
-	self
-		beSticky;
-		color: Color transparent;
-		shrinkWrap
+	self blocks: OrderedCollection new.

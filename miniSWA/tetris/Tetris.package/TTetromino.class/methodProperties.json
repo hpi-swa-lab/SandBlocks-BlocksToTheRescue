@@ -1,13 +1,20 @@
 {
 	"class" : {
-		"L" : "LM 10/16/2018 13:11" },
+		"L" : "LM 10/22/2018 16:54" },
 	"instance" : {
-		"addBlocksAt:colored:" : "LM 10/16/2018 16:48",
-		"blockPositions" : "LM 10/16/2018 16:25",
-		"blockPositions:" : "LM 10/16/2018 16:25",
-		"canMoveDownIn:" : "LM 10/16/2018 17:02",
-		"gridPosition" : "LM 10/16/2018 16:19",
-		"gridPosition:" : "LM 10/16/2018 16:21",
-		"initialize" : "LM 10/16/2018 13:05",
-		"moveDown" : "LM 10/16/2018 16:36",
-		"placeInto:" : "LM 10/16/2018 16:59" } }
+		"addBlocksAt:colored:" : "LM 10/23/2018 10:37",
+		"blockPositions" : "LM 10/22/2018 16:30",
+		"blocks" : "LM 10/22/2018 16:06",
+		"blocks:" : "LM 10/22/2018 16:06",
+		"canBePlacedInto:" : "LM 10/23/2018 10:48",
+		"canBePositionedAt:In:" : "LM 10/22/2018 16:39",
+		"canMoveDownIn:" : "LM 10/22/2018 16:41",
+		"color" : "LM 10/22/2018 16:14",
+		"color:" : "LM 10/22/2018 16:14",
+		"gridPosition" : "LM 10/23/2018 10:03",
+		"gridPosition:" : "LM 10/23/2018 10:03",
+		"initialize" : "LM 10/23/2018 10:38",
+		"moveDown" : "LM 10/23/2018 10:03",
+		"placeInto:" : "LM 10/23/2018 10:32",
+		"tryMoveLeftIn:" : "LM 10/22/2018 17:03",
+		"tryMoveRightIn:" : "LM 10/22/2018 17:03" } }

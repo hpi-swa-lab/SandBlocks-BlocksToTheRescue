@@ -1,15 +1,16 @@
 {
-	"category" : "Tetris",
+	"category" : "Tetris-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"blockPositions",
+		"blocks",
+		"color",
 		"gridPosition" ],
 	"name" : "TTetromino",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "Object",
 	"type" : "normal" }
