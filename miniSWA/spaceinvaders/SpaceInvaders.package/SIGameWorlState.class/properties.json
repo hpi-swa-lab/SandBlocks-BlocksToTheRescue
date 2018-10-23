@@ -9,10 +9,10 @@
 		"score",
 		"lifes",
 		"sIEnemies",
-		"sIParticals",
 		"sIWalls",
 		"sIPlayer",
-		"tickCounter" ],
+		"tickCounter",
+		"sIParticles" ],
 	"name" : "SIGameWorlState",
 	"pools" : [
 		 ],

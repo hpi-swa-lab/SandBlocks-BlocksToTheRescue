@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"ressourceManager" ],
 	"name" : "SIMovingGameElement",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "ImageMorph",
 	"type" : "normal" }

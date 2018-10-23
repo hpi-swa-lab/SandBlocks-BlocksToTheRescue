@@ -2,6 +2,7 @@ as yet unclassified
 handleCollisions
 	
 	self
-		handleParticalEnemyCollisions;
+		handleParticleEnemyCollisions;
+		handleParticlePlayerCollisions;
 		handleEnemyBottomCollisions;
-		handleParticalWallCollisions.
+		handleParticleWallCollisions.

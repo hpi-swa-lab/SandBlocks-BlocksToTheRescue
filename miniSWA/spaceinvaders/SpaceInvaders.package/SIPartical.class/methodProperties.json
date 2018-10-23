@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"defaultSize" : "BD 10/18/2018 09:26",
-		"initialize" : "BD 10/18/2018 09:26",
-		"move" : "BD 10/18/2018 09:23",
-		"spawnNewPartical:" : "BD 10/18/2018 09:26",
-		"verticalMoveDistance" : "BD 10/18/2018 09:23" } }

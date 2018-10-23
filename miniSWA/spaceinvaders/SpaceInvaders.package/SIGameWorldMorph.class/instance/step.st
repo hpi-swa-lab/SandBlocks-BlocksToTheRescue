@@ -3,9 +3,10 @@ step
 	
 	super step.
 	self
-		moveParticals;
+		moveParticles;
 		moveEnemies;
 		spawnNewEnemies;
-		removeOutOfBoundsParticals;
+		spawnParticlesOfEnemies;
+		removeOutOfBoundsParticles;
 		handleCollisions;
 		tickCounter: (self tickCounter + 1).

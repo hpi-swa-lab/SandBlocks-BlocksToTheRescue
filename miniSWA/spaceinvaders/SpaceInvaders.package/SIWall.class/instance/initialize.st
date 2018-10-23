@@ -2,4 +2,6 @@ as yet unclassified
 initialize 
 
 	super initialize.
-	self color: Color brown.
+	self
+		extent: 50 @ 100;
+		color: Color brown.

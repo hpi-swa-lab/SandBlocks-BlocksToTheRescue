@@ -1,5 +1,5 @@
 as yet unclassified
-spawnNewPartical: aPosition
+spawnNewParticle: aPosition
 	
 	self
 		color: Color yellow;

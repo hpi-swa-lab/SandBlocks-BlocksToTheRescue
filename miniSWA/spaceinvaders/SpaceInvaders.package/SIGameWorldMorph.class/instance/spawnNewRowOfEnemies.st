@@ -1,14 +1,13 @@
 as yet unclassified
 spawnNewRowOfEnemies
 
-	| sIEnemy enemyColor |
+	| sIEnemy |
 	
-	enemyColor := Color random.
 	0 to: self numberOfEnemiesPerRow -1 do:
 		[ :enemyIndex |
-			sIEnemy := SIEnemy new.	
+			sIEnemy := SIEnemy newWithRessourceManager: self ressourceManager.	
 			self sIEnemies add: sIEnemy.
 			self addMorph: sIEnemy.
-			sIEnemy position: (self left + (enemyIndex * self gameState spacePerEnemy) + self leftSpawnOffset @ self top).
-			sIEnemy color: enemyColor.
+			sIEnemy setSprite: 'Enemy Sprite'.
+			sIEnemy position: (self left  + self leftSpawnOffset + (enemyIndex * self gameState spacePerEnemy) @ self top).
 		].
