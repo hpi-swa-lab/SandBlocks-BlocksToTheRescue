@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"gameWorldSize" : "BD 10/18/2018 12:51",
-		"initialize" : "BD 10/23/2018 10:55",
-		"life" : "BD 10/18/2018 13:18",
-		"life:" : "BD 10/18/2018 13:18",
+		"initialize" : "BD 10/23/2018 15:41",
+		"lifes" : "BD 10/23/2018 15:41",
+		"lifes:" : "BD 10/23/2018 15:41",
+		"numberOfEnemiesPerRow" : "BD 10/23/2018 16:22",
 		"playerBottomDieTolreance" : "BD 10/18/2018 13:04",
 		"resetTickCounter" : "BD 10/18/2018 13:00",
 		"sIEnemies" : "BD 10/18/2018 12:53",

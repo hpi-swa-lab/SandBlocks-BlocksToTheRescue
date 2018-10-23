@@ -9,7 +9,7 @@ handleParticleEnemyCollisions
 			(enemy intersects: (self asRectangle: particle)) ifTrue: 
 			[ sIEnemiesTmp remove: enemy ifAbsent: [ "do nothing" ]. self removeMorph: enemy.
 			  sIParticlesTmp remove: particle ifAbsent: [ "do nothing" ]. self removeMorph: particle.
-			  ressourceManager playSound: 'Death Enemy Sound'.
+			  self ressourceManager playSound: 'Death Enemy Sound'.
 			  self increaseScore ]
 		]
 	].

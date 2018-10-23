@@ -3,7 +3,7 @@ spawnNewRowOfEnemies
 
 	| sIEnemy |
 	
-	0 to: self numberOfEnemiesPerRow -1 do:
+	0 to: self gameState numberOfEnemiesPerRow -1 do:
 		[ :enemyIndex |
 			sIEnemy := SIEnemy newWithRessourceManager: self ressourceManager.	
 			self sIEnemies add: sIEnemy.
