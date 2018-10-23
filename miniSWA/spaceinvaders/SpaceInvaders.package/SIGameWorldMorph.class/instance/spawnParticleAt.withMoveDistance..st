@@ -6,6 +6,6 @@ spawnParticleAt: aPosition withMoveDistance: aMoveDistance
 	self sIParticles add: sIPartical.
 	self addMorph: sIPartical.
 	sIPartical setSprite: 'Particle Sprite'.
-	ressourceManager playSound: 'Shoot Sound'.
+	self ressourceManager playSound: 'Shoot Sound'.
 	sIPartical setRelativePosition: aPosition.
 	sIPartical verticalMoveDistance: aMoveDistance.

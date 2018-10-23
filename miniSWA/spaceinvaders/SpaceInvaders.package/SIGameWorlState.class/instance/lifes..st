@@ -1,4 +1,4 @@
 as yet unclassified
-life: aNumber
+lifes: aNumber
 
 	lifes := aNumber
