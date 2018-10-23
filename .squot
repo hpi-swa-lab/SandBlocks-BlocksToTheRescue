@@ -2,5 +2,6 @@ OrderedDictionary {
 	'miniSWA\/breakout\/Breakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/Snake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris.package' : #SquotCypressCodeSerializer
 }

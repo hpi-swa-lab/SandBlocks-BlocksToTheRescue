@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTetris",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
