@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"position",
-		"extent",
-		"collisionHandlers" ],
-	"name" : "BOEntity",
+		 ],
+	"name" : "BOGameFieldBounds",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BOEntity",
 	"type" : "normal" }

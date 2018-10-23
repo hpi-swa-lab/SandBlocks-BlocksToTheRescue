@@ -1,0 +1,3 @@
+accessing
+collisionHandlers: aClassToCollisionHandlerDict
+	collisionHandlers := aClassToCollisionHandlerDict

@@ -1,0 +1,4 @@
+constants
+boundsEntity
+
+	^ BOGameFieldBounds new

@@ -1,4 +1,4 @@
 constants
 defaultExtent
 
-	^ 0.1@0.1
+	^ 2 * self radius asPoint
