@@ -1,0 +1,14 @@
+as yet unclassified
+testParticleEnemyCollide
+	
+	| scoreBeforeCollision sizeOfEnemyCollection sizeOfParticaleCollection |
+	gameWorld gameState sIEnemies: ({ SIEnemy new position: (100 @ 100) } asOrderedCollection).
+	gameWorld gameState sIParticles: ({ SIParticle new position: (100 @ 100) } asOrderedCollection).
+	scoreBeforeCollision := gameWorld gameState score.
+	sizeOfEnemyCollection := gameWorld sIEnemies size.
+	sizeOfParticaleCollection := gameWorld sIParticles size.
+	gameWorld handleParticleEnemyCollisions.
+	
+	self assert: (gameWorld gameState score) equals: (scoreBeforeCollision + 1).
+	self assert: (gameWorld gameState sIEnemies size) equals: (sizeOfEnemyCollection - 1).
+	self assert: (gameWorld gameState sIParticles size) equals: (sizeOfParticaleCollection - 1).

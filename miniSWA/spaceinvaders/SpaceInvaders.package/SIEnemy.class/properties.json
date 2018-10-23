@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isMovingToTheRight" ],
+	"name" : "SIEnemy",
+	"pools" : [
+		 ],
+	"super" : "SIMovingGameElement",
+	"type" : "normal" }
