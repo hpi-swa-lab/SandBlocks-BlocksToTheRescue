@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"newFrom:" : "ms 10/22/2018 18:20" },
+		"newFrom:" : "ms 10/22/2018 18:20",
+		"newManager" : "ms 10/23/2018 16:13" },
 	"instance" : {
 		"configure:" : "ms 10/22/2018 18:13",
 		"defaultExtent" : "ms 10/18/2018 18:18",

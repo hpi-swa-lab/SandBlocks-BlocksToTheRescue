@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"allEntities" : "ms 10/23/2018 16:41",
 		"ballManager" : "ms 10/18/2018 18:08",
 		"ballManager:" : "ms 10/16/2018 17:29",
 		"brickManager" : "ms 10/18/2018 18:08",
@@ -10,7 +11,7 @@
 		"entityManagers" : "ms 10/18/2018 18:05",
 		"entityManagers:" : "ms 10/18/2018 18:05",
 		"handlesMouseDown:" : "ms 10/22/2018 17:54",
-		"initialize" : "ms 10/23/2018 11:07",
+		"initialize" : "ms 10/23/2018 16:13",
 		"initializeDefaultGameState" : "ms 10/23/2018 11:42",
 		"lastTickTime" : "ms 10/16/2018 17:22",
 		"lastTickTime:" : "ms 10/16/2018 17:37",
