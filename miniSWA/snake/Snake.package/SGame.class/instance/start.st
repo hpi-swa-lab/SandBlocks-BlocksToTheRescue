@@ -1,4 +1,5 @@
-as yet unclassified
+game loop
 start
-
 	
+	self spawnSnake.
+	self spawnFodder.

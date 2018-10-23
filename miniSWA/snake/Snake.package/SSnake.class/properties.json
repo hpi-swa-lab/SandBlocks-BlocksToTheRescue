@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"head",
-		"segments" ],
+		"segments",
+		"lastSegment",
+		"direction" ],
 	"name" : "SSnake",
 	"pools" : [
 		 ],

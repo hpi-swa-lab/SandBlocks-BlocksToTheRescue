@@ -1,5 +1,5 @@
 {
-	"category" : "Squeak-O-Ban",
+	"category" : "Squeak-O-Ban-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"tiles",
-		"player" ],
+		"player",
+		"information" ],
 	"name" : "SOBLevel",
 	"pools" : [
 		 ],

@@ -2,4 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "WoC 10/15/2018 14:35" } }
+		"defaultColor" : "WoC 10/17/2018 20:01",
+		"handleDevourEvent:" : "WoC 10/17/2018 22:18" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+string representation
 representationCharacterOn: aTile
 
 	^ aTile representationCharacterBox

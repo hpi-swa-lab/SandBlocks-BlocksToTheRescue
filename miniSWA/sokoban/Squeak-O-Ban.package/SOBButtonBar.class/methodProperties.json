@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"hasNext:" : "LB 10/17/2018 17:45",
+		"hasPrevious:" : "LB 10/17/2018 17:45",
+		"hasPrevious:hasNext:" : "LB 10/17/2018 17:49",
+		"initialize" : "LB 10/17/2018 17:41",
+		"initializeLayout" : "LB 10/18/2018 15:57",
+		"initializeNext" : "LB 10/17/2018 17:37",
+		"initializePrevious" : "LB 10/17/2018 17:37",
+		"initializeReload" : "LB 10/17/2018 17:37",
+		"next" : "LB 10/17/2018 17:33",
+		"next:" : "LB 10/21/2018 17:32",
+		"previous" : "LB 10/17/2018 17:33",
+		"previous:" : "LB 10/21/2018 17:32",
+		"reload" : "LB 10/17/2018 17:33",
+		"reload:" : "LB 10/21/2018 17:32",
+		"setTargetFrame:" : "LB 10/21/2018 17:31" } }

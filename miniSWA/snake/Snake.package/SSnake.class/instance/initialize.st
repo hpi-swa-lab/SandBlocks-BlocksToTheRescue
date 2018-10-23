@@ -3,4 +3,6 @@ initialize
 
 	super initialize.
 	self head: SSnakeHead new.
-	self segments: OrderedCollection new.
+	self segments: SRingContainer new.
+	self lastSegment: self head.
+	self go: self bottomDirection.

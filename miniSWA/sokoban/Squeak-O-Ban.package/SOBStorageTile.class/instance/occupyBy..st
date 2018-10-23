@@ -1,4 +1,4 @@
-as yet unclassified
+occupant
 occupyBy: anOccupant
 
 	super occupyBy: anOccupant.

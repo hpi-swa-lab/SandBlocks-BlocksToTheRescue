@@ -1,4 +1,4 @@
-as yet unclassified
+events-processing
 handleKeystroke: evt
 
-	Transcript showln: evt
+	self eventSystem dispatch: (self generateSEventFrom: evt).

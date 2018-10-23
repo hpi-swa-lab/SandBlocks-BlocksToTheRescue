@@ -1,4 +1,4 @@
 accessing
-position: anObject
+position: aPoint
 
-	position := anObject.
+	position := aPoint.

@@ -1,4 +1,4 @@
 accessing
 defaultColor
 
-	^ Color orange
+	^ Color random

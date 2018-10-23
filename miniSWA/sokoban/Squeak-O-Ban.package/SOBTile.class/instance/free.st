@@ -1,4 +1,4 @@
-as yet unclassified
+occupant
 free
 
 	self occupant: SOBVoid new

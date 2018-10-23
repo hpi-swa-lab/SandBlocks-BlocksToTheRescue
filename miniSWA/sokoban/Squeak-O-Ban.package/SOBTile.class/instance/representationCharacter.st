@@ -1,4 +1,4 @@
-as yet unclassified
+string representation
 representationCharacter
 
 	^ self occupant representationCharacterOn: self

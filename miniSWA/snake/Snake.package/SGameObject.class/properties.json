@@ -1,0 +1,16 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graphicalRepresentation",
+		"position",
+		"dirty" ],
+	"name" : "SGameObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

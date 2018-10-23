@@ -1,7 +1,8 @@
 example levels
 level5
 "Assignment Example"
-	^ SOBLevel fromString: 
+	^ SOBLevel named: 'Level 5'
+fromString: 
 '  ##### 
 ###   # 
 #.@$  # 

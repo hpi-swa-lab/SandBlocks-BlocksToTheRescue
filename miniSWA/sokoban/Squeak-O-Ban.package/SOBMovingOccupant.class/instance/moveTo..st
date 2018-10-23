@@ -1,4 +1,4 @@
-as yet unclassified
+moving
 moveTo: aPoint
 
 	self position: aPoint.

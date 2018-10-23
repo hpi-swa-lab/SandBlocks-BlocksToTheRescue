@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"eventSystem" ],
 	"name" : "SWorld",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "PasteUpMorph",
 	"type" : "normal" }
