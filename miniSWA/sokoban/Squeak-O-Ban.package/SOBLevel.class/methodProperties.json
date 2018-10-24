@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"cols:rows:" : "LB 10/24/2018 16:21",
 		"defaultCollection" : "LB 10/16/2018 16:10",
 		"fromString:" : "LB 10/23/2018 13:44",
 		"level1" : "LB 10/17/2018 18:02",
@@ -7,8 +8,7 @@
 		"level3" : "LB 10/17/2018 18:03",
 		"level4" : "LB 10/17/2018 18:03",
 		"level5" : "LB 10/17/2018 18:03",
-		"named:fromString:" : "LB 10/23/2018 15:05",
-		"rows:cols:" : "LB 10/15/2018 15:32" },
+		"named:fromString:" : "LB 10/23/2018 15:05" },
 	"instance" : {
 		"asMorph" : "LB 10/15/2018 16:27",
 		"at:" : "LB 10/15/2018 16:25",
@@ -16,6 +16,7 @@
 		"atCol:atRow:" : "LB 10/15/2018 16:13",
 		"atCol:atRow:put:" : "LB 10/16/2018 12:54",
 		"colCount" : "LB 10/15/2018 15:38",
+		"cols:rows:" : "LB 10/24/2018 16:21",
 		"free:" : "LB 10/16/2018 13:39",
 		"information" : "LB 10/17/2018 14:07",
 		"information:" : "LB 10/17/2018 14:07",
@@ -34,7 +35,6 @@
 		"playerPosition" : "LB 10/15/2018 16:13",
 		"printOn:" : "LB 10/23/2018 14:11",
 		"rowCount" : "LB 10/15/2018 15:38",
-		"rows:cols:" : "LB 10/16/2018 13:09",
 		"size" : "LB 10/15/2018 16:31",
 		"storeBox" : "LB 10/21/2018 17:20",
 		"tiles" : "LB 10/15/2018 15:20",

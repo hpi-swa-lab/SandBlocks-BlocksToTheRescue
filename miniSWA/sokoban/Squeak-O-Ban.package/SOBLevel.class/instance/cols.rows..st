@@ -1,5 +1,5 @@
 initialize-release
-rows: rowNumber cols: colNumber
+cols: colNumber rows: rowNumber
 
 	self tiles: (Matrix 
 		rows: rowNumber 

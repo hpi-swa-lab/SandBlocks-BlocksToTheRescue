@@ -1,4 +1,4 @@
 building
 buildFrame
 
-	self level: (SOBLevel rows: self height cols: self width).
+	self level: (SOBLevel cols: self width rows: self height).

@@ -1,4 +1,4 @@
 string representation
 representationCharacterPlain
 
-	^ $O
+	^ $.
