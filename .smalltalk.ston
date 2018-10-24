@@ -11,6 +11,12 @@ SmalltalkCISpec {
 			#platforms : [ #squeak ],
 			#directory : 'miniSWA/spaceinvaders',
 			#load : [ 'default' ]
+		},
+		SCIMetacelloLoadSpec {
+			#baseline : 'SqueakOBan',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/sokoban',
+			#load : [ 'tests' ]
 		}
 
 	],
