@@ -1,4 +1,6 @@
-as yet unclassified
+running
 setUp
 
-	self LTetromino: TTetromino L.
+	self 
+		LTetromino: TTetromino L;
+		playfield: TPlayfield new.
