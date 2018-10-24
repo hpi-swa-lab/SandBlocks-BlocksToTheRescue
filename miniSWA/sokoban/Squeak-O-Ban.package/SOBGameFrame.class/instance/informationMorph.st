@@ -1,0 +1,4 @@
+accessing
+informationMorph
+
+	^ informationMorph
