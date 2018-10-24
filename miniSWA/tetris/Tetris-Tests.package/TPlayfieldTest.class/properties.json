@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"LTetromino" ],
-	"name" : "TTetrominoTest",
+		"playfield" ],
+	"name" : "TPlayfieldTest",
 	"pools" : [
 		 ],
-	"super" : "TPlayfieldTest",
+	"super" : "TestCase",
 	"type" : "normal" }

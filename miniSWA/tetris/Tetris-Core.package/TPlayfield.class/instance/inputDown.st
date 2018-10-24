@@ -1,4 +1,4 @@
-as yet unclassified
+input
 inputDown
 
 	[self tetromino canMoveDownIn: self]

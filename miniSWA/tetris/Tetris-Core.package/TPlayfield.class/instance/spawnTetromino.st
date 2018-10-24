@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 spawnTetromino
 
 	self tetromino: TTetromino L.

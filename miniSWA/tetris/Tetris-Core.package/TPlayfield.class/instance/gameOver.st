@@ -1,4 +1,4 @@
-as yet unclassified
+game state
 gameOver
 
 	self tetromino: nil.

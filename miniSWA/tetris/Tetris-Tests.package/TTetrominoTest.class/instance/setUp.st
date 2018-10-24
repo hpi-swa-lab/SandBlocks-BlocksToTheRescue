@@ -1,6 +1,6 @@
 running
 setUp
 
-	self 
-		LTetromino: TTetromino L;
-		playfield: TPlayfield new.
+	super setUp.
+	
+	self LTetromino: TTetromino L.
