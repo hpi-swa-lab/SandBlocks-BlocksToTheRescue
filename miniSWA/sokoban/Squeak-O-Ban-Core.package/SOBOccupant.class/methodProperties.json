@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"from:" : "LB 10/23/2018 15:05" },
+	"instance" : {
+		"addRepresentationTo:" : "LB 10/16/2018 09:26",
+		"isBlocking" : "LB 10/16/2018 09:25",
+		"isBox" : "LB 10/16/2018 12:56",
+		"isPlayer" : "LB 10/16/2018 13:34",
+		"moveTo:" : "LB 10/16/2018 09:47",
+		"representationCharacterOn:" : "LB 10/16/2018 09:25" } }

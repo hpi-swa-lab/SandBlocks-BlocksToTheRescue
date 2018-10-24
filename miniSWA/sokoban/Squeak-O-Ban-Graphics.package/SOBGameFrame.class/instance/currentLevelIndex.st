@@ -1,0 +1,4 @@
+accessing
+currentLevelIndex
+
+	^ currentLevelIndex
