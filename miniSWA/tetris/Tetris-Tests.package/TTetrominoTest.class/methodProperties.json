@@ -6,8 +6,10 @@
 		"LTetromino:" : "LM 10/23/2018 16:52",
 		"playfield" : "LM 10/24/2018 11:56",
 		"playfield:" : "LM 10/24/2018 11:56",
+		"rotate:leftAndCheckBlocks:" : "LM 10/24/2018 12:17",
 		"setUp" : "LM 10/24/2018 11:56",
 		"testCanPlaceCorrectly" : "LM 10/24/2018 11:59",
 		"testCanPlaceInBlock" : "LM 10/24/2018 11:58",
 		"testCanPlaceOutOfBounds" : "LM 10/24/2018 11:58",
-		"testLColor" : "LM 10/23/2018 11:03" } }
+		"testLColor" : "LM 10/23/2018 11:03",
+		"testRotateLTetromino" : "LM 10/24/2018 12:18" } }
