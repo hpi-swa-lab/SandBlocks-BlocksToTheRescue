@@ -3,5 +3,6 @@ initializeNext
 
 	self next: (SimpleButtonMorph new
 		label: '>';
-		actionSelector: #nextLevel).
+		actionSelector: #nextLevel;
+		yourself).
 	self addMorph: self next.

@@ -5,4 +5,5 @@ asMorph
 		color: self color;
 		setProperty: #morphicLayerNumber toValue: 2;
 		borderColor: Color transparent;
-		beSticky
+		beSticky;
+		yourself

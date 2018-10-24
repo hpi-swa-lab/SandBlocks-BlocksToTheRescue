@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 atCol: colNumber atRow: rowNumber
 
 	^ self tiles 

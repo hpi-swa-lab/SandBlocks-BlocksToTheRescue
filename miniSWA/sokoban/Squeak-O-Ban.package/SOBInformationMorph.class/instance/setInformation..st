@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 setInformation: aLevelInformation
 
 	self title contents: aLevelInformation title.

@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 displayTileAt: aPoint
 
 	(self level at: aPoint) representation do: [:each | self at: aPoint put: each]

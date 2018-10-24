@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 hasNext 
 	
-	^ self currentLevelIndex < self levelCollection size.
+	^ self currentLevelIndex < self levelCollection size

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 isFreeAt: aPoint
 
 	^ (self isInBounds: aPoint) 

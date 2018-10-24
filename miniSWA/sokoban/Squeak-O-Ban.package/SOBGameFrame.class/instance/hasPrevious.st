@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 hasPrevious
 	
-	^ self currentLevelIndex > 1.
+	^ self currentLevelIndex > 1

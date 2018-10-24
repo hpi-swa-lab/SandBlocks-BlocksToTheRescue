@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 isInBounds: aPoint
 
 	^ (aPoint x between: 1 and: self colCount) 

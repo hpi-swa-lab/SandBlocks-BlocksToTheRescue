@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 currentLevelBlock 
 
-	^ self levelCollection at: self currentLevelIndex.
+	^ self levelCollection at: self currentLevelIndex
