@@ -1,4 +1,4 @@
 constants
 defaultSpeed
 
-	^ 0.15
+	^ 0.45

@@ -1,3 +1,4 @@
 accessing
 speedVector
-	^ speedVector
+
+	^ self movementVector * self speed

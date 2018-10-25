@@ -1,4 +1,4 @@
 entity-collision
-couldHandleCollisionWith: aBOEntity
+shouldHandleCollisionWith: aBOEntity
 	
 	^ self bounds intersects: aBOEntity bounds

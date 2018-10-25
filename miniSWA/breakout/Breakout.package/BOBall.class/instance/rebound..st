@@ -1,7 +1,6 @@
 entity-ops
-rebound: direction
+rebound: anAxis
 
-	Transcript showln: 'rebound at: ', direction.
-	self speedVector: (direction caseOf: {
-		[#x] -> [self speedVector x @ self speedVector y negated].
-		[#y] -> [self speedVector x negated @ self speedVector y]}).
+	(self directionOf: anAxis) caseOf: {
+		[#vertical] -> [self reboundVertical].
+		[#horizontal] -> [self reboundHorizontal]}.

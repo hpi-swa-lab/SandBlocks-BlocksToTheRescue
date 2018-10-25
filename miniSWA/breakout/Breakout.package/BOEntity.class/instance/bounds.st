@@ -1,4 +1,4 @@
 accessing
 bounds
 
-	^ Rectangle center: self position extent: self extent
+	^ Rectangle exactCenter: self position extent: self extent

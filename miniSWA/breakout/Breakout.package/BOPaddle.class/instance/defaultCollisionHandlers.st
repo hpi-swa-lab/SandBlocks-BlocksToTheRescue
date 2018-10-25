@@ -1,4 +1,5 @@
 constants
 defaultCollisionHandlers
 
-	^ {}
+	^ {
+	BOBall -> nil}

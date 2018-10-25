@@ -5,4 +5,4 @@ axisFrom: aSide
 		[#left] -> [#x].
 		[#right] -> [#x].
 		[#top] -> [#y].
-		[#bottom] -> [#y]}.
+		[#bottom] -> [#y]}
