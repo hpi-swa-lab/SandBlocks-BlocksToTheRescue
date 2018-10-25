@@ -1,5 +1,5 @@
 accessing
 gridAt: aPoint put: anObject
 
-	self gridAt: aPoint putUnchecked: anObject.
-	self removeFullRows.
+	(self grid at: aPoint x + 1) at: aPoint y + 1 put: anObject.
+	self changed.
