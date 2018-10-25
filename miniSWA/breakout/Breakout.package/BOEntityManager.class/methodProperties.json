@@ -2,7 +2,7 @@
 	"class" : {
 		"newFor:" : "ms 10/16/2018 17:34" },
 	"instance" : {
-		"buildMorphOf:on:" : "ms 10/25/2018 15:42",
+		"buildMorphOf:on:" : "ms 10/25/2018 20:22",
 		"createEntityOn:" : "ms 10/22/2018 18:10",
 		"createEntityWith:" : "ms 10/22/2018 18:20",
 		"createEntityWith:on:" : "ms 10/22/2018 18:21",
@@ -13,6 +13,6 @@
 		"entityMorphs" : "ms 10/22/2018 14:40",
 		"initialize" : "ms 10/18/2018 15:18",
 		"register:" : "ms 10/23/2018 11:50",
-		"register:on:" : "ms 10/23/2018 11:50",
+		"register:on:" : "ms 10/25/2018 20:18",
 		"tickEntities:" : "ms 10/18/2018 17:15",
-		"updateEntityBounds" : "ms 10/23/2018 11:06" } }
+		"updateEntityBounds" : "ms 10/25/2018 20:15" } }

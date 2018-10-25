@@ -1,4 +1,4 @@
 accessing
 extent: aRelativeExtent
+	self tryChanged: #extent with: aRelativeExtent.
 	extent := aRelativeExtent.
-	self changed: #size with: aRelativeExtent.

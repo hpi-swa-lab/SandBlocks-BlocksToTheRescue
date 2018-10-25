@@ -1,9 +1,12 @@
 accessing-private
 buildMorphOf: aBOEntity on: aBOGameField
 	| morph |
-	morph := aBOEntity newMorph.
-	morph setProperty: #entity toValue: aBOEntity.
-	aBOEntity morph: morph.
+	morph := aBOEntity newMorph
+		setProperty: #entity toValue: aBOEntity;
+		yourself.
 	aBOGameField addMorph: morph.
-	aBOEntity addDependent: morph.
+	aBOEntity
+		morph: morph;
+		addDependent: morph;
+		forceBoundsUpdates.
 	^ morph

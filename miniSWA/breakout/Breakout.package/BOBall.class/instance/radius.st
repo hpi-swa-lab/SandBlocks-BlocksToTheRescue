@@ -1,4 +1,3 @@
-constants
+accessing
 radius
-
-	^ 0.05
+	^ radius
