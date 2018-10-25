@@ -1,0 +1,4 @@
+accessing
+JTetromino
+
+	^ JTetromino.

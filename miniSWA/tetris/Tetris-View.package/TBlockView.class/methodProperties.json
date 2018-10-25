@@ -1,7 +1,8 @@
 {
 	"class" : {
 		"colored:" : "LM 10/22/2018 17:52",
-		"defaultBorderWidth" : "LM 10/16/2018 11:35",
+		"defaultBorderColor" : "LM 10/25/2018 10:10",
+		"defaultBorderWidth" : "LM 10/25/2018 09:59",
 		"defaultWidth" : "LM 10/16/2018 11:35" },
 	"instance" : {
-		"initialize" : "LM 10/16/2018 11:36" } }
+		"initialize" : "LM 10/25/2018 09:58" } }

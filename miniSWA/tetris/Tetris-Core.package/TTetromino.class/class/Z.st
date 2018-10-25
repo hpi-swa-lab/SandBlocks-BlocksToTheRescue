@@ -1,7 +1,7 @@
 instance creation
-L
+Z
 
 	^ self new
-		addBlocksAt: {0@1. 1@1. 2@1. 2@0} colored: Color orange;
+		addBlocksAt: {0@0. 1@0. 1@1. 2@1} colored: Color red darker;
 		rotationCenter: 1 @ 1;
 		yourself
