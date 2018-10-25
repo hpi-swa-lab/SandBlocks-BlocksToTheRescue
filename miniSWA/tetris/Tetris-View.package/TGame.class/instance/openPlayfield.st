@@ -1,10 +1,10 @@
-as yet unclassified
-initialize
+initialize-release
+openPlayfield
 
 	| view |
 	self playfield: TPlayfield new.
 	view := TPlayfieldView new 
 		setModel: self playfield;
-		openInWorld;
 		yourself.
 	self playfield addDependent: view.
+	^ view.

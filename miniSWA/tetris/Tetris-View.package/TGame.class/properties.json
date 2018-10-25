@@ -1,5 +1,5 @@
 {
-	"category" : "Tetris-Core",
+	"category" : "Tetris-View",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -10,5 +10,5 @@
 	"name" : "TGame",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Model",
 	"type" : "normal" }
