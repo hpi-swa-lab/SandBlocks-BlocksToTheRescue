@@ -1,4 +1,12 @@
 SmalltalkCISpec {
+	#loading : [
+		SCIMetacelloLoadSpec {
+			#baseline : 'Breakout',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/breakout',
+			#load : [ 'tests' ]
+		}
+	],
 	#testing : {
 		#failOnZeroTests : false
 	}
