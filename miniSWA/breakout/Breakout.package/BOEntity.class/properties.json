@@ -9,6 +9,7 @@
 		"morph",
 		"position",
 		"extent",
+		"collisionStrategy",
 		"field" ],
 	"name" : "BOEntity",
 	"pools" : [

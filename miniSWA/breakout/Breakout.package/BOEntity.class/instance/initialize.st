@@ -5,4 +5,4 @@ initialize
 	self
 		extent: self defaultExtent;
 		position: self defaultPosition;
-		asMorphOn: self field.
+		collisionStrategy: (self defaultCollisionStrategyClass newFor: self).

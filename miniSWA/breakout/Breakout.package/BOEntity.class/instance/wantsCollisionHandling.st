@@ -1,4 +1,4 @@
 collision
 wantsCollisionHandling
 
-	^ true
+	^ self collisionStrategy doesCollide

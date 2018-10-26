@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BONoCollisionResult",
+	"pools" : [
+		 ],
+	"super" : "BOCollisionResult",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
-testing
+collision
 isStaticBody
 
 	^ true

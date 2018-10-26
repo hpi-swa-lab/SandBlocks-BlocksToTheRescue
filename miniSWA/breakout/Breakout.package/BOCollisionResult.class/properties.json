@@ -1,0 +1,15 @@
+{
+	"category" : "Breakout-Game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"firstCollider",
+		"secondCollider" ],
+	"name" : "BOCollisionResult",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

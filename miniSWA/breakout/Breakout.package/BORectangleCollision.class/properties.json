@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bounds" ],
+	"name" : "BORectangleCollision",
+	"pools" : [
+		 ],
+	"super" : "BOCollisionStrategy",
+	"type" : "normal" }

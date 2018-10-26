@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newFor:" : "ms 10/26/2018 20:10" },
+	"instance" : {
+		"center" : "ms 10/26/2018 20:10",
+		"collidedWith:" : "ms 10/26/2018 20:27",
+		"collidedWithCircle:" : "ms 10/26/2018 20:27",
+		"collidedWithInverseRectangle:" : "ms 10/26/2018 20:27",
+		"collidedWithRectangle:" : "ms 10/26/2018 20:27",
+		"doesCollide" : "ms 10/26/2018 20:04",
+		"entity" : "ms 10/26/2018 20:10",
+		"entity:" : "ms 10/26/2018 20:10",
+		"height" : "ms 10/26/2018 20:11",
+		"noCollisionWith:" : "ms 10/26/2018 20:24",
+		"outerBounds" : "ms 10/26/2018 20:12",
+		"position" : "ms 10/26/2018 20:10",
+		"width" : "ms 10/26/2018 20:12" } }
