@@ -1,4 +1,5 @@
 accessing
 allTickingEntities
 
-	^ self allEntities select: [:entity | entity isTicking]
+	^ self allEntities
+		select: [:entity | entity isTicking]

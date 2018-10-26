@@ -1,4 +1,4 @@
-entity-collision
+collision
 handlePaddleCollision: aBOPaddle
 
 	self movementVector: "self movementVector

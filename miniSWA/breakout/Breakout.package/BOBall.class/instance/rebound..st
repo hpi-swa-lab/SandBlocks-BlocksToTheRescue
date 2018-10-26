@@ -1,4 +1,4 @@
-entity-ops
+actions
 rebound: anAxis
 
 	(self directionOf: anAxis) caseOf: {

@@ -1,4 +1,4 @@
-entity-ops
+actions
 tick: deltaTimeMS
 
 	self subclassResponsibility

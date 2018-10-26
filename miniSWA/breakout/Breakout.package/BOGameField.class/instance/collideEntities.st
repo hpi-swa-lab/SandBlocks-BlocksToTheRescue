@@ -1,7 +1,5 @@
-stepping and presenter
+entities
 collideEntities
 
-	"replace by crossProduct/triangle collection thingy"
-	self allCollidingEntities do: [:entity1 | entity1
-		testCollisionsWith: (self allCollidingEntities
-			reject: [:entity2 | entity1 == entity2])].
+	self allCollidingEntities combinations: 2 atATimeDo: [:entities |
+		entities first testCollisionWith: entities second].

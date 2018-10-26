@@ -2,8 +2,5 @@ stepping and presenter
 updateEntityBounds
 
 	self stopStepping.
-	self entityManagers do: [:manager |
-		manager updateEntityBounds].
-	self
-		updateTickTime;
-		startStepping.
+	self allEntities do: [:entity | entity forceBoundsUpdates].
+	self startStepping.

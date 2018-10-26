@@ -1,4 +1,4 @@
 event handling
 mouseDown: evt
 
-	self paddleManager entities do: [:entity | entity handleBallSpawn].
+	(self allEntitiesOfType: BOPaddle) do: [:entity | entity handleBallSpawn].

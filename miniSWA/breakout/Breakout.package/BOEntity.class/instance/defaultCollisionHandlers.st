@@ -1,4 +1,0 @@
-constants
-defaultCollisionHandlers
-
-	^ self subclassResponsibility

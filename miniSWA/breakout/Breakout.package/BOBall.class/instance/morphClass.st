@@ -1,0 +1,4 @@
+appearance
+morphClass
+
+	^ BOBallMorph

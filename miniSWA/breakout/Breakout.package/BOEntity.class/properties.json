@@ -9,7 +9,7 @@
 		"morph",
 		"position",
 		"extent",
-		"collisionHandlers" ],
+		"field" ],
 	"name" : "BOEntity",
 	"pools" : [
 		 ],

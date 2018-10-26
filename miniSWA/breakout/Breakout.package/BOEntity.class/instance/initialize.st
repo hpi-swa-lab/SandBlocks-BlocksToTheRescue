@@ -5,4 +5,4 @@ initialize
 	self
 		extent: self defaultExtent;
 		position: self defaultPosition;
-		collisionHandlers: (IdentityDictionary newFrom: self defaultCollisionHandlers).
+		asMorphOn: self field.

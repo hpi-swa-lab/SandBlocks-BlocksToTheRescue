@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"entityManagers",
-		"lastTickTime" ],
+		"entities",
+		"lastTickTime",
+		"boundsEntity" ],
 	"name" : "BOGameField",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
 accessing
 calculatedPosition
 
-	^ self positionResolver value x @ self relativeTopDistance
+	^ self field relativeMousePosition x @ self relativeTopDistance

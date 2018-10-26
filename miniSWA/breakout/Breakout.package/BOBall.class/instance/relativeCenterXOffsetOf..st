@@ -1,4 +1,4 @@
-entity-collision
+collision
 relativeCenterXOffsetOf: aBOPaddle
 
 	^ (self position x - aBOPaddle position x)

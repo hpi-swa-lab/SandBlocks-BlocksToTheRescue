@@ -1,3 +1,3 @@
-accessing-private
+accessing
 updateTickTime
 	self lastTickTime: Time millisecondClockValue.

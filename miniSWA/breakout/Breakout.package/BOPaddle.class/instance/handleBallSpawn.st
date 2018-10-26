@@ -1,6 +1,6 @@
-entity-ops
+actions
 handleBallSpawn
 
 	self ballEntity
-		ifNil: [self initializeBall]
+		ifNil: [self createBall]
 		ifNotNil: [self releaseBall].

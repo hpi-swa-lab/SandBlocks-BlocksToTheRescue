@@ -1,0 +1,4 @@
+collision
+wantsCollisionHandling
+
+	^ true

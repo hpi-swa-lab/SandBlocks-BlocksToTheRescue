@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"entity" : "ms 10/26/2018 12:13",
+		"entity:" : "ms 10/26/2018 12:14",
 		"gameField" : "ms 10/18/2018 17:27",
 		"initialize" : "ms 10/23/2018 11:32",
 		"repositionTo:" : "ms 10/23/2018 11:31",

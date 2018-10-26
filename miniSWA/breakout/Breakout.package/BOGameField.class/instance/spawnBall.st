@@ -1,4 +1,4 @@
-event handling
+entities
 spawnBall
 
-	^ self ballManager createEntityOn: self.
+	^ self addEntity: BOBall

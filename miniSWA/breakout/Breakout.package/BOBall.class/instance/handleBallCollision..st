@@ -1,4 +1,4 @@
-entity-collision
+collision
 handleBallCollision: aBOBall
 
 	(self position dist: aBOBall position) > (self radius + aBOBall radius)

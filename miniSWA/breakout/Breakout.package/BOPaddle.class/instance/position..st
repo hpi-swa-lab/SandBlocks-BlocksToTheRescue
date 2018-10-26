@@ -2,4 +2,4 @@ accessing
 position: aRelativePosition
 
 	super position: aRelativePosition.
-	self changed: #paddleBinding with: self.
+	self ballEntity ifNotNil: [:ball | ball updateFromPaddle: self].

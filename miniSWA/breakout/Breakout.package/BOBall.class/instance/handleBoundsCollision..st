@@ -1,4 +1,4 @@
-entity-collision
+collision
 handleBoundsCollision: bounds
 	| side |
 	side := bounds sideNearestTo: self position.

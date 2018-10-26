@@ -6,8 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"positionResolver",
-		"ballSpawner",
 		"ballEntity" ],
 	"name" : "BOPaddle",
 	"pools" : [
