@@ -1,14 +1,14 @@
 {
-	"category" : "Breakout-Game",
+	"category" : "BaselineOfBreakout",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"ballEntity" ],
-	"name" : "BOPaddle",
+		 ],
+	"name" : "BaselineOfBreakout",
 	"pools" : [
 		 ],
-	"super" : "BOEntity",
+	"super" : "BaselineOf",
 	"type" : "normal" }
