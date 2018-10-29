@@ -10,6 +10,6 @@ baseline: spec
 				package: 'Breakout-Tests' with:
 					[spec requires: #('game')].
 			spec
-				group: 'game' with: #('Breakout-Game', 'Breakout-Core');
+				group: 'game' with: #('Breakout-Game' 'Breakout-Core');
 				group: 'tests' with: #('Breakout-Tests');
 				yourself]
