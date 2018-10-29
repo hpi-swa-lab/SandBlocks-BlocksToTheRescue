@@ -1,4 +1,4 @@
 constants
 defaultCollisionStrategyClass
 
-	^ BOCircleCollision
+	^ BOCircleCollider

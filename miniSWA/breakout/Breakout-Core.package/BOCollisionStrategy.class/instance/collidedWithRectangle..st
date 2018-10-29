@@ -1,4 +1,4 @@
 collision
-collidedWithRectangle: aBORectangleCollision
+collidedWithRectangle: aBORectangleCollider
 
-	^ self noCollisionWith: aBORectangleCollision
+	^ self noCollisionWith: aBORectangleCollider

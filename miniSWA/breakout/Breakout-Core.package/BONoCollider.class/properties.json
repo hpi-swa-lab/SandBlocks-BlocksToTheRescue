@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"radius" ],
-	"name" : "BOCircleCollision",
+		 ],
+	"name" : "BONoCollider",
 	"pools" : [
 		 ],
 	"super" : "BOCollisionStrategy",

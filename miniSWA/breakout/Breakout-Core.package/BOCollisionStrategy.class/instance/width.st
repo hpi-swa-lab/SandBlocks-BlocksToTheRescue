@@ -1,4 +1,4 @@
 accessing
 width
 
-	^ self entity extent x
+	^ self extent x

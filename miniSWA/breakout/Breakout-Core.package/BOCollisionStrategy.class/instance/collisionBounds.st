@@ -1,4 +1,4 @@
 accessing
-outerBounds
+collisionBounds
 
 	^ self entity bounds

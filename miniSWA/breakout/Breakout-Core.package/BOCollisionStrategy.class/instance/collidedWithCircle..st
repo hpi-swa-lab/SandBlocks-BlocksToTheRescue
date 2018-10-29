@@ -1,4 +1,4 @@
 collision
-collidedWithCircle: aBOCircleCollision
+collidedWithCircle: aBOCircleCollider
 
-	^ self noCollisionWith: aBOCircleCollision
+	^ self noCollisionWith: aBOCircleCollider

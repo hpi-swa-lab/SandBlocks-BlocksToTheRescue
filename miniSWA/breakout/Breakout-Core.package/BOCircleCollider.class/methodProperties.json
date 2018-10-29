@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collidedWith:" : "ms 10/29/2018 13:16",
+		"collidedWithCircle:" : "ms 10/29/2018 13:15",
+		"hasCollided:" : "ms 10/29/2018 13:16",
+		"radius" : "ms 10/29/2018 12:46",
+		"radius:" : "ms 10/29/2018 12:46" } }

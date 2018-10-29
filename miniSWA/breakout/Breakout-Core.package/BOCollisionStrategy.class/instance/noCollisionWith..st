@@ -1,7 +1,7 @@
 collision
-noCollisionWith: aBOCollisionBound
+noCollisionWith: aBOCollisionStrategy
 
 	^ BONoCollisionResult new
 			firstCollider: self;
-			secondCollider: aBOCollisionBound;
+			secondCollider: aBOCollisionStrategy;
 			yourself

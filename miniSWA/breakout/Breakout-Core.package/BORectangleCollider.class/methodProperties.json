@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collidedWith:" : "ms 10/29/2018 13:16",
+		"collidedWithRectangle:" : "ms 10/29/2018 13:14",
+		"collisionBounds" : "ms 10/29/2018 13:07",
+		"extent" : "ms 10/29/2018 13:05",
+		"extent:" : "ms 10/29/2018 13:06",
+		"hasCollided:" : "ms 10/29/2018 13:14" } }

@@ -1,4 +1,4 @@
 collision
 collidedWith: aBOCollisionStrategy
 
-	^ self subclassResponsibility
+	^ self noCollisionWith: aBOCollisionStrategy

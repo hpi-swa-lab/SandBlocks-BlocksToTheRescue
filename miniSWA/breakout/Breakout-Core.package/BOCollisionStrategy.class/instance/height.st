@@ -1,4 +1,4 @@
 accessing
 height
 
-	^ self entity extent y
+	^ self extent y
