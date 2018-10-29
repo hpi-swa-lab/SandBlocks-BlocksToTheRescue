@@ -1,4 +1,0 @@
-collision
-collidedWithInverseRectangle: aBOInverseRectangleCollision
-
-	^ self noCollisionWith: aBOInverseRectangleCollision

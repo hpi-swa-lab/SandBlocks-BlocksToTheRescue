@@ -1,4 +1,0 @@
-appearance
-morphClass
-
-	^ self subclassResponsibility

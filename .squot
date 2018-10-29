@@ -6,6 +6,5 @@ OrderedDictionary {
 	'miniSWA\/breakout\/BaselineOfBreakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Game.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/breakout\/Breakout-Tests.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/breakout\/Breakout.package' : #SquotCypressCodeSerializer
+	'miniSWA\/breakout\/Breakout-Tests.package' : #SquotCypressCodeSerializer
 }

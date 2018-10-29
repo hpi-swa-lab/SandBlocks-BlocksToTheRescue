@@ -1,4 +1,0 @@
-testing
-isStaticBody
-
-	^ false

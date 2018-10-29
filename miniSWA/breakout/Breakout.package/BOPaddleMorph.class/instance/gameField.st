@@ -1,4 +1,0 @@
-accessing
-gameField
-
-	^ self owner

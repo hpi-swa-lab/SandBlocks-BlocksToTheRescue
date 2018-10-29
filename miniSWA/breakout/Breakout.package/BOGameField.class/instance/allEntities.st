@@ -1,4 +1,0 @@
-accessing
-allEntities
-
-	^ self entities
