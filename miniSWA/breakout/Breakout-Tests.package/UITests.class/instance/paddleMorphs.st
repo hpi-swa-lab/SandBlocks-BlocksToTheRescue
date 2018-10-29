@@ -1,4 +1,5 @@
 accessing
 paddleMorphs
 
-	^ self gameField paddleManager entityMorphs
+	^ self paddleEntities
+		collect: [:entity | entity morph]

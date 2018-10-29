@@ -1,4 +1,4 @@
-accessing
+mouse
 relativeMousePosition
 
 	^ self relativePositionFor: self mousePosition

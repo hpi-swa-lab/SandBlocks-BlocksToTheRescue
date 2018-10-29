@@ -2,7 +2,7 @@ initialization
 initialize
 
 	super initialize.
-	gameField := BOGameField new.
 	self
+		gameField: self defaultGameFieldClass new;
 		configureForKids;
 		initializeContent.

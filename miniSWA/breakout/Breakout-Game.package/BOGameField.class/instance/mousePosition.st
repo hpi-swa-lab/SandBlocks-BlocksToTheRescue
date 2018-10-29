@@ -1,4 +1,4 @@
-accessing
+mouse
 mousePosition
 
 	^ self activeHand position

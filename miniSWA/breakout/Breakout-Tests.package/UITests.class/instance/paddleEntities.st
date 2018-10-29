@@ -1,4 +1,4 @@
 accessing
 paddleEntities
 
-	^ self gameField paddleManager entities
+	^ self gameField paddleEntities

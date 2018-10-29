@@ -1,4 +1,4 @@
 running
 setUp
 
-	gameWindow := BOGameWindowMorph new.
+	gameWindow := BOTestGameWindowMorph new.
