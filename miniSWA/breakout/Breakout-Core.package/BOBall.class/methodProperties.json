@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"ballImpulse:" : "ms 10/26/2018 13:46",
+		"ballImpulse:" : "ms 10/29/2018 10:58",
 		"defaultCollisionStrategyClass" : "ms 10/26/2018 20:16",
 		"defaultDirection" : "ms 10/26/2018 13:41",
 		"defaultExtent" : "ms 10/25/2018 20:00",
@@ -22,7 +22,7 @@
 		"move:" : "ms 10/26/2018 13:47",
 		"movementVector" : "ms 10/25/2018 19:16",
 		"movementVector:" : "ms 10/25/2018 19:17",
-		"paddleImpulse:" : "ms 10/26/2018 13:46",
+		"paddleImpulse:" : "ms 10/29/2018 10:58",
 		"radius" : "ms 10/25/2018 20:00",
 		"radius:" : "ms 10/25/2018 20:01",
 		"rebound:" : "ms 10/25/2018 19:20",
