@@ -1,0 +1,4 @@
+initialize-release
+initialize
+
+	self position: 0@0.

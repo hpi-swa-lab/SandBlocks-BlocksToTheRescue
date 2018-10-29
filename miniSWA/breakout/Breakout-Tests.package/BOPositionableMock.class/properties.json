@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position" ],
+	"name" : "BOPositionableMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
