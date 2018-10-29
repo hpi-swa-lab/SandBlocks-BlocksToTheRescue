@@ -5,9 +5,11 @@ baseline: spec
 		for: #'common'
 		do: [
 			spec
-				package: 'Breakout-Game';
-				package: 'Breakout-Tests' with: [spec requires: #('Breakout-Game')].
+				package: 'Breakout';
+				package: 'Breakout-Core';
+				package: 'Breakout-Tests' with:
+					[spec requires: #('game')].
 			spec
-				group: 'default' with: #('Breakout-Game');
+				group: 'game' with: #('Breakout', 'Breakout-Core');
 				group: 'tests' with: #('Breakout-Tests');
 				yourself]

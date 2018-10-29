@@ -1,2 +1,3 @@
 SystemOrganization addCategory: #'Breakout-Tests'!
-SystemOrganization addCategory: #'Breakout-Game'!
+SystemOrganization addCategory: #'Breakout-Core'!
+SystemOrganization addCategory: #Breakout!

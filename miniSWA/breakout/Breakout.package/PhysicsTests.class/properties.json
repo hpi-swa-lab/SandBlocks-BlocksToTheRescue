@@ -1,14 +1,14 @@
 {
-	"category" : "Breakout-Core",
+	"category" : "Breakout-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"bounds" ],
-	"name" : "BORectangleCollision",
+		 ],
+	"name" : "PhysicsTests",
 	"pools" : [
 		 ],
-	"super" : "BOCollisionStrategy",
+	"super" : "TestCase",
 	"type" : "normal" }
