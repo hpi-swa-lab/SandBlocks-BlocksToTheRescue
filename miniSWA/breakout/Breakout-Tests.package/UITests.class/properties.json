@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameWindow" ],
+	"name" : "UITests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

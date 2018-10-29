@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhysicsTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

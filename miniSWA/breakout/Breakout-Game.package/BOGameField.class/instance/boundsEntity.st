@@ -1,0 +1,4 @@
+accessing
+boundsEntity
+
+	^ boundsEntity
