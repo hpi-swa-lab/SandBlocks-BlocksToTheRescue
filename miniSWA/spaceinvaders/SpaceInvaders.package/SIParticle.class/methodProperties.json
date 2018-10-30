@@ -1,10 +1,8 @@
 {
 	"class" : {
-		 },
+		"spawnMovingGameElementWithRessourceManager:at:andSprite:andVerticalMoveDistance:" : "BD 10/24/2018 17:24" },
 	"instance" : {
-		"defaultSize" : "BD 10/18/2018 09:26",
-		"initialize" : "BD 10/22/2018 09:59",
 		"move" : "BD 10/22/2018 11:30",
-		"spawnNewParticle:" : "BD 10/23/2018 10:53",
 		"verticalMoveDistance" : "BD 10/22/2018 11:28",
-		"verticalMoveDistance:" : "BD 10/22/2018 11:28" } }
+		"verticalMoveDistance:" : "BD 10/22/2018 11:28",
+		"wasSpawnedByPlayer" : "BD 10/30/2018 12:56" } }

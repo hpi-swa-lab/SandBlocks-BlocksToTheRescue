@@ -1,8 +1,10 @@
 as yet unclassified
 createWallAt: aPoint
 	
-	| sIWall |
-	sIWall := SIWall new.
-	self sIWalls add: sIWall.
-	self addMorph: sIWall.
-	sIWall position: aPoint.
+	| sIWallMorph sIWall |
+	sIWall := (SIWall extent: 50 @ 50 depth: 32) configure.
+	sIWall getCanvas fillColor: Color brown.
+	sIWallMorph := sIWall asMorph.
+	self sIWalls add: sIWallMorph.
+	self addMorph: sIWallMorph.
+	sIWallMorph position: aPoint.

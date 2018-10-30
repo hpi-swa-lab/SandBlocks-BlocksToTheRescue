@@ -1,11 +1,8 @@
 as yet unclassified
 spawnParticleAt: aPosition withMoveDistance: aMoveDistance
 	
-	| sIPartical |
-	sIPartical := SIParticle newWithRessourceManager: self ressourceManager.
-	self sIParticles add: sIPartical.
-	self addMorph: sIPartical.
-	sIPartical setSprite: 'Particle Sprite'.
-	self ressourceManager playSound: 'Shoot Sound'.
-	sIPartical setRelativePosition: aPosition.
-	sIPartical verticalMoveDistance: aMoveDistance.
+	| sIParticle |
+	sIParticle := SIParticle spawnMovingGameElementWithRessourceManager: (self ressourceManager) at: aPosition andSprite: 'Particle Sprite' andVerticalMoveDistance: aMoveDistance.
+	
+	self sIParticles add: sIParticle.
+	self addMorph: sIParticle.
