@@ -6,8 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"firstCollider",
-		"secondCollider" ],
+		"collided",
+		"ownCStrategy",
+		"othersCStrategy",
+		"ownData",
+		"othersData",
+		"data" ],
 	"name" : "BOCollisionResult",
 	"pools" : [
 		 ],

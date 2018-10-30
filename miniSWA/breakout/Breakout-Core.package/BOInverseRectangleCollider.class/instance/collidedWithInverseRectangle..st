@@ -1,7 +1,6 @@
 collision
 collidedWithInverseRectangle: aBOInverseRectangleCollider
 
-	^ BOCollisionResult new
-		firstCollider: self;
-		secondCollider: aBOInverseRectangleCollider;
+	^ (self resultWith: aBOInverseRectangleCollider)
+		collided: true;
 		yourself

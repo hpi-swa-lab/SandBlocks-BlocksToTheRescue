@@ -1,10 +1,27 @@
 {
 	"class" : {
-		 },
+		"newWith:and:" : "ms 10/30/2018 18:06" },
 	"instance" : {
-		"firstCollider" : "ms 10/26/2018 19:46",
-		"firstCollider:" : "ms 10/26/2018 19:47",
-		"hasCollided" : "ms 10/26/2018 19:42",
+		"collided" : "ms 10/30/2018 17:35",
+		"collided:" : "ms 10/30/2018 17:35",
+		"colliderEntities" : "ms 10/30/2018 17:55",
+		"data" : "ms 10/30/2018 17:53",
+		"data:" : "ms 10/30/2018 17:53",
+		"dataAt:put:" : "ms 10/30/2018 17:54",
+		"hasCollided" : "ms 10/30/2018 17:35",
+		"initialize" : "ms 10/30/2018 17:55",
 		"onCollisionDo:" : "ms 10/30/2018 12:11",
-		"secondCollider" : "ms 10/26/2018 19:46",
-		"secondCollider:" : "ms 10/26/2018 19:46" } }
+		"oppositeEntityOf:" : "ms 10/30/2018 17:55",
+		"othersCStrategy" : "ms 10/30/2018 18:05",
+		"othersCStrategy:" : "ms 10/30/2018 18:05",
+		"othersData" : "ms 10/30/2018 17:55",
+		"othersData:" : "ms 10/30/2018 17:54",
+		"othersDataAt:put:" : "ms 10/30/2018 17:54",
+		"othersEntity" : "ms 10/30/2018 18:06",
+		"ownCStrategy" : "ms 10/30/2018 18:05",
+		"ownCStrategy:" : "ms 10/30/2018 18:05",
+		"ownData" : "ms 10/30/2018 17:46",
+		"ownData:" : "ms 10/30/2018 17:46",
+		"ownDataAt:put:" : "ms 10/30/2018 17:51",
+		"ownEntity" : "ms 10/30/2018 18:06",
+		"printOn:" : "ms 10/30/2018 18:43" } }

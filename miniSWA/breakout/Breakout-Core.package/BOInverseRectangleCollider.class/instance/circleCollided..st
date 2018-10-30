@@ -1,4 +1,10 @@
 testing
-circleCollided: aBOCircleCollider
+circleCollided: aBOCollisionResult
+	| own other |
+	own := aBOCollisionResult ownCStrategy.
+	other := aBOCollisionResult othersCStrategy.
 
-	^ self convexCollided: aBOCircleCollider
+	^ aBOCollisionResult
+		collided: (own convexCollided: other);
+		ownDataAt: #side put: (self flag: #todo);
+		yourself

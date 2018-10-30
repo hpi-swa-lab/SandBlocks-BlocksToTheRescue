@@ -1,4 +1,10 @@
 testing
-rectangleCollided: aBORectangleCollider
+rectangleCollided: aBOCollisionResult
+	| own other |
+	own := aBOCollisionResult ownCStrategy.
+	other := aBOCollisionResult othersCStrategy.
 
-	^ self convexCollided: aBORectangleCollider
+	^ aBOCollisionResult
+		collided: (own convexCollided: other);
+		ownDataAt: #side put: (self flag: #todo);
+		yourself
