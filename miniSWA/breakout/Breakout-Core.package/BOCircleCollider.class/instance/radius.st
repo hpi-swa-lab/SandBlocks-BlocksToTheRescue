@@ -1,4 +1,4 @@
 accessing
 radius
 
-	^ radius
+	^ radius ifNil: [self entity radius]

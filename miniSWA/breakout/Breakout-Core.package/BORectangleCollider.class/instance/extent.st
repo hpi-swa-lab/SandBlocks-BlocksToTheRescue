@@ -1,3 +1,3 @@
 accessing
 extent
-	^ extent
+	^ extent ifNil: [super extent]
