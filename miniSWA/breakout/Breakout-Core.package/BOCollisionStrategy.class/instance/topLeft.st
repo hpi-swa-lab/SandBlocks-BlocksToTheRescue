@@ -1,4 +1,4 @@
 accessing
 topLeft
 
-	^ self position - (self extent / 2)
+	^ self position - self halfExtent

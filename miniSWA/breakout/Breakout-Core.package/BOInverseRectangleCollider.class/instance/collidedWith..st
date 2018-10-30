@@ -1,4 +1,4 @@
 collision
 collidedWith: aBOCollisionStrategy
 
-	 ^ aBOCollisionStrategy collidedWithInverseRectangle: self
+	^ aBOCollisionStrategy collidedWithInverseRectangle: self

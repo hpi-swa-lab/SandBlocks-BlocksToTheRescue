@@ -1,4 +1,4 @@
 testing
 rectangleCollided: aBORectangleCollider
 
-	^ aBORectangleCollider circleCollided: self
+	^ self convexCollided: aBORectangleCollider

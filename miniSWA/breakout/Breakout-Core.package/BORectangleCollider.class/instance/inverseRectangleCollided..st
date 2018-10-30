@@ -1,0 +1,4 @@
+testing
+inverseRectangleCollided: aBOInverseRectangleCollider
+
+	^ aBOInverseRectangleCollider rectangleCollided: self
