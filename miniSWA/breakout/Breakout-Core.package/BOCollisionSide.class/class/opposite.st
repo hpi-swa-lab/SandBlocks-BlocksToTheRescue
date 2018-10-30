@@ -1,0 +1,4 @@
+constants
+opposite
+
+	^ self subclassResponsibility

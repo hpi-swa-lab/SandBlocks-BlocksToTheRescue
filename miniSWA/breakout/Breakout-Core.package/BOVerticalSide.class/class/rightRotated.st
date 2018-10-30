@@ -1,0 +1,4 @@
+constants
+rightRotated
+
+	^ BOHorizontalSide
