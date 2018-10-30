@@ -2,8 +2,8 @@ as yet unclassified
 testParticleWallCollide
 	
 	| sizeOfParticleCollection |
-	gameWorld gameState sIWalls: ({  SIWall new position: (100 @ 100) } asOrderedCollection).
-	gameWorld gameState sIParticles: ({ SIParticle new position: (100 @ 100) } asOrderedCollection).
+	gameWorld gameState sIWalls: ({ sIWall } asOrderedCollection).
+	gameWorld gameState sIParticles: ({ sIParticle } asOrderedCollection).
 	sizeOfParticleCollection := gameWorld sIParticles size.
 	gameWorld handleParticleWallCollisions.
 	
