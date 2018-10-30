@@ -1,4 +1,4 @@
-as yet unclassified
+input
 inputLeft
 
 	self tetromino tryMoveLeftIn: self.

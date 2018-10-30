@@ -1,4 +1,4 @@
 defaults
 defaultBorderWidth
 	
-	^ self defaultWidth / 10
+	^ self defaultWidth / 20

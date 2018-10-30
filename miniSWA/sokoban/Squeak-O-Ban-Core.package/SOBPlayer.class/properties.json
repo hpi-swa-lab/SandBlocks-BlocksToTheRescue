@@ -1,0 +1,14 @@
+{
+	"category" : "Squeak-O-Ban-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOBPlayer",
+	"pools" : [
+		 ],
+	"super" : "SOBMovingOccupant",
+	"type" : "normal" }

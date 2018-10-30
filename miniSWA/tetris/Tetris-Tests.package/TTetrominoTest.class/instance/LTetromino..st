@@ -1,3 +1,4 @@
 accessing
-LTetromino: anObject
-	LTetromino := anObject
+LTetromino: aTTetromino
+	
+	LTetromino := aTTetromino.

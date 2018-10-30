@@ -6,9 +6,15 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"LTetromino" ],
+		"LTetromino",
+		"JTetromino",
+		"ITetromino",
+		"OTetromino",
+		"STetromino",
+		"tTetromino",
+		"ZTetromino" ],
 	"name" : "TTetrominoTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "TPlayfieldTest",
 	"type" : "normal" }

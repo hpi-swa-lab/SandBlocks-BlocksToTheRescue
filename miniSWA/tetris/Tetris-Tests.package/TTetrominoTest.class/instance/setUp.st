@@ -1,4 +1,13 @@
-as yet unclassified
+running
 setUp
 
-	self LTetromino: TTetromino L.
+	super setUp.
+	
+	self 
+		LTetromino: TTetromino L;
+		JTetromino: TTetromino J;
+		ITetromino: TTetromino I;
+		OTetromino: TTetromino O;
+		STetromino: TTetromino S;
+		TTetromino: TTetromino T;
+		ZTetromino: TTetromino Z
