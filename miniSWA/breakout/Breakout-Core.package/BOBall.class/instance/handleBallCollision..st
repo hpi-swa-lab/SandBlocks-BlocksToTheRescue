@@ -1,7 +1,5 @@
 collision
-handleBallCollision: aBOBall
-	self halt.
+handleBallCollision: aBOCollisionResult
 
-"	(self position dist: aBOBall position) > (self radius + aBOBall radius)
-		ifTrue: [^ self].
-	self movementVector: (self ballImpulse: aBOBall)."
+	Transcript showln: aBOCollisionResult.
+	"self movementVector: (self ballImpulse: aBOCollisionResult)."
