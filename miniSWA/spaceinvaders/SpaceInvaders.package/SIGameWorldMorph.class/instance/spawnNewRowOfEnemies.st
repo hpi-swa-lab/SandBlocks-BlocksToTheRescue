@@ -5,9 +5,7 @@ spawnNewRowOfEnemies
 	
 	0 to: self gameState numberOfEnemiesPerRow -1 do:
 		[ :enemyIndex |
-			sIEnemy := SIEnemy newWithRessourceManager: self ressourceManager.	
+			sIEnemy := SIEnemy spawnMovingGameElementWithRessourceManager: (self ressourceManager) atAbsolute: (self left  + self leftSpawnOffset + (enemyIndex * self gameState spacePerEnemy) @ self top) andSprite: 'Enemy Sprite'.
 			self sIEnemies add: sIEnemy.
 			self addMorph: sIEnemy.
-			sIEnemy setSprite: 'Enemy Sprite'.
-			sIEnemy position: (self left  + self leftSpawnOffset + (enemyIndex * self gameState spacePerEnemy) @ self top).
 		].

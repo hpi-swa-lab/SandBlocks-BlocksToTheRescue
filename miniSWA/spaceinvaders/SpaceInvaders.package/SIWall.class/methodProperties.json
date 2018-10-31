@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "BD 10/22/2018 12:08",
-		"looseHealth" : "BD 10/18/2018 15:11" } }
+		"collisionForm" : "BD 10/25/2018 10:20",
+		"collisionForm:" : "BD 10/25/2018 10:20",
+		"collisionRange" : "BD 10/25/2018 15:30",
+		"configure" : "BD 10/25/2018 11:28",
+		"looseHealthAt:" : "BD 10/25/2018 15:40" } }

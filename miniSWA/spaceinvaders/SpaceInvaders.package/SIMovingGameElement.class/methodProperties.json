@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"newWithRessourceManager:" : "BD 10/23/2018 15:40" },
+		"newWithRessourceManager:" : "BD 10/23/2018 15:40",
+		"spawnMovingGameElementWithRessourceManager:at:andSprite:" : "BD 10/24/2018 17:29",
+		"spawnMovingGameElementWithRessourceManager:atAbsolute:andSprite:" : "BD 10/24/2018 17:29" },
 	"instance" : {
 		"horizontalMoveDistance" : "BD 10/18/2018 12:31",
 		"moveToTheLeft" : "BD 10/18/2018 12:34",

@@ -7,9 +7,14 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"LTetromino",
-		"playfield" ],
+		"JTetromino",
+		"ITetromino",
+		"OTetromino",
+		"STetromino",
+		"tTetromino",
+		"ZTetromino" ],
 	"name" : "TTetrominoTest",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "TPlayfieldTest",
 	"type" : "normal" }

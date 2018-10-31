@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"health" ],
+		"collisionForm" ],
 	"name" : "SIWall",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "Form",
 	"type" : "normal" }
