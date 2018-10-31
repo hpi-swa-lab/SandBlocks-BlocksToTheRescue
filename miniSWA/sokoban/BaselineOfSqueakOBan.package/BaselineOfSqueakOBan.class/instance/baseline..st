@@ -5,7 +5,8 @@ baseline: spec
 		for: #'common'
 		do: [
 			spec
-				package: 'Squeak-O-Ban-Core';
+				baseline: 'GM' with: [spec repository: 'github://hpi-swa-teaching/SWT18-Project-06:master/packages'];
+				package: 'Squeak-O-Ban-Core' with: [spec requires: #('GM')];
 				package: 'Squeak-O-Ban-Graphics' with: [spec requires: #('Squeak-O-Ban-Core')];
 				package: 'Squeak-O-Ban-Tests' with: [spec requires: #('Squeak-O-Ban-Core')];
 				group: 'default' with: #('Squeak-O-Ban-Core', 'Squeak-O-Ban-Graphics');

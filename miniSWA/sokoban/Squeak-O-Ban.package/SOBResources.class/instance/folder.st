@@ -1,0 +1,4 @@
+accessing
+folder
+
+	^ 'resources\sokoban\'

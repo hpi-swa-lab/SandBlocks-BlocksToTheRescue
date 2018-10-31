@@ -1,0 +1,14 @@
+{
+	"category" : "Squeak-O-Ban-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SOBGameFrameTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

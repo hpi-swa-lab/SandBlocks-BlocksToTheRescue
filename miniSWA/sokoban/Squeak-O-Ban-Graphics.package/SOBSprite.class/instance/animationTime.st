@@ -1,0 +1,4 @@
+accessing
+animationTime
+
+	^ 100

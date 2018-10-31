@@ -8,7 +8,9 @@
 	"instvars" : [
 		"position",
 		"tileSize",
-		"morph" ],
+		"morph",
+		"animationQueue",
+		"positionQueue" ],
 	"name" : "SOBSprite",
 	"pools" : [
 		 ],
