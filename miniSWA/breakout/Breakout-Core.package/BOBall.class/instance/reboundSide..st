@@ -1,5 +1,5 @@
 collision
 reboundSide: aBOCollisionResult
 
-	^ ((aBOCollisionResult dataFor: self)
+	^ (aBOCollisionResult dataFor: (aBOCollisionResult oppositeEntityOf: self)
 			at: #side) axisSymbol

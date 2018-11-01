@@ -1,0 +1,4 @@
+testing
+isRightSide
+
+	^ true

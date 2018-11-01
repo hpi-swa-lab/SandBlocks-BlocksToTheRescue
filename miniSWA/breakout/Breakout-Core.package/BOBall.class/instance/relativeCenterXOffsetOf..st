@@ -1,5 +1,7 @@
 collision
-relativeCenterXOffsetOf: aBOPaddle
-
-	^ (self position x - aBOPaddle position x)
-	 	/ ((aBOPaddle extent x + self extent x)/2)
+relativeCenterXOffsetOf: aBOCollisionResult
+	| paddle |
+	paddle := aBOCollisionResult oppositeEntityOf: self.
+	
+	^ (self position x - paddle position x)
+	 	/ ((paddle extent x + self extent x)/2)

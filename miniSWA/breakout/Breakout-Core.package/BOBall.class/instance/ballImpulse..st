@@ -1,5 +1,4 @@
 collision
 ballImpulse: aBOCollisionResult
 
-	^ ((aBOCollisionResult dataFor: self)
-			at: #direction) theta asUnitCirclePoint
+	^ (aBOCollisionResult dataFor: self at: #direction) theta asUnitCirclePoint
