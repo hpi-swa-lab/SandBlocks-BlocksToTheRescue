@@ -2,14 +2,12 @@ OrderedDictionary {
 	'miniSWA\/snake\/BaselineOfSnake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/Snake-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/Snake-Tests.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/snake\/Snake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/BaselineOfSqueakOBan.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban-Graphics.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban-Tests.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/BaselineOfSpaceInvaders.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/spaceinvaders\/SpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/SpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/BaselineOfBreakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,
@@ -18,6 +16,5 @@ OrderedDictionary {
 	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Tests.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/tetris\/Tetris-View.package' : #SquotCypressCodeSerializer,
-	'miniSWA\/tetris\/Tetris.package' : #SquotCypressCodeSerializer
+	'miniSWA\/tetris\/Tetris-View.package' : #SquotCypressCodeSerializer
 }
