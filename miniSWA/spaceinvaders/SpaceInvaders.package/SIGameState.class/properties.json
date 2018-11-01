@@ -13,7 +13,7 @@
 		"sIPlayer",
 		"tickCounter",
 		"sIParticles" ],
-	"name" : "SIGameWorlState",
+	"name" : "SIGameState",
 	"pools" : [
 		 ],
 	"super" : "Object",

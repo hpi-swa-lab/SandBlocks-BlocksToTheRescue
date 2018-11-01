@@ -10,7 +10,7 @@
 		"lifeLable",
 		"gameState",
 		"ressourceManager" ],
-	"name" : "SIGameWorldMorph",
+	"name" : "SIGame",
 	"pools" : [
 		 ],
 	"super" : "PasteUpMorph",

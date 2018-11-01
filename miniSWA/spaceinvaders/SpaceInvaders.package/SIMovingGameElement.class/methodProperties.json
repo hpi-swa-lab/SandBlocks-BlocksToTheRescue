@@ -1,14 +1,11 @@
 {
 	"class" : {
-		"newWithRessourceManager:" : "BD 10/23/2018 15:40",
-		"spawnMovingGameElementWithRessourceManager:at:andSprite:" : "BD 10/24/2018 17:29",
-		"spawnMovingGameElementWithRessourceManager:atAbsolute:andSprite:" : "BD 10/24/2018 17:29" },
+		"spawnAt:withSprite:" : "BD 10/31/2018 11:46",
+		"spawnAtAbsolutePosition:withSprite:" : "BD 10/31/2018 11:45" },
 	"instance" : {
 		"horizontalMoveDistance" : "BD 10/18/2018 12:31",
 		"moveToTheLeft" : "BD 10/18/2018 12:34",
 		"moveToTheRight" : "BD 10/18/2018 12:34",
-		"ressourceManager" : "BD 10/22/2018 09:45",
-		"ressourceManager:" : "BD 10/22/2018 09:45",
 		"setRelativePosition:" : "BD 10/22/2018 10:34",
-		"setSprite:" : "BD 10/22/2018 10:00",
+		"setSprite:" : "BD 10/31/2018 11:38",
 		"verticalMoveDistance" : "BD 10/18/2018 12:29" } }

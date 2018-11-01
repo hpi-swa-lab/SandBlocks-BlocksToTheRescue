@@ -3,7 +3,7 @@ initialize
 	
 	super initialize.
 	self ressourceManager: SIRessourceManager new;
-		gameState: SIGameWorlState new;
+		gameState: SIGameState new;
 		color: Color black;
 		extent: self gameState gameWorldSize;
 		createLables;

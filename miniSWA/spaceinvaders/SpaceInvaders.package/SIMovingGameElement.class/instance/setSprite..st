@@ -1,4 +1,4 @@
-nil
-setSprite: aSpriteNamed
+as yet unclassified
+setSprite: aSprite
 
-	self newForm: (self ressourceManager getSprite: aSpriteNamed).
+	self newForm: aSprite.
