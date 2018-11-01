@@ -1,0 +1,4 @@
+testing
+isVertical
+
+	^ self subclassResponsibility

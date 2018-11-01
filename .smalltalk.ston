@@ -1,6 +1,12 @@
 SmalltalkCISpec {
 	#loading : [
 		SCIMetacelloLoadSpec {
+			#baseline : 'Breakout',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/breakout',
+			#load : [ 'tests' ]
+		},
+		SCIMetacelloLoadSpec {
 			#baseline : 'Tetris',
 			#platforms : [ #squeak ],
 			#directory : 'miniSWA/tetris',
@@ -12,11 +18,10 @@ SmalltalkCISpec {
 			#directory : 'miniSWA/spaceinvaders',
 			#load : [ 'default' ]
 		}
-
 	],
 	#testing : {
 		#include : {
-		      #categories : [ 'Tetris', 'SpaceInvaders' ]
+		      #categories : [ 'Breakout', 'Tetris', 'SpaceInvaders' ]
 		}
 	}
 }

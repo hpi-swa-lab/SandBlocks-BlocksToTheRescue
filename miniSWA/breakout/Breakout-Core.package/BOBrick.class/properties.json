@@ -1,0 +1,15 @@
+{
+	"category" : "Breakout-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points",
+		"effect" ],
+	"name" : "BOBrick",
+	"pools" : [
+		 ],
+	"super" : "BOEntity",
+	"type" : "normal" }

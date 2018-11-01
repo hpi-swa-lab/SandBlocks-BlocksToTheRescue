@@ -1,0 +1,4 @@
+collision
+collidedWithInverseRectangle: aBOInverseRectangleCollider
+
+	^ aBOInverseRectangleCollider circleCollided: (aBOInverseRectangleCollider resultWith: self)

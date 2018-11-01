@@ -1,0 +1,4 @@
+constants
+leftRotated
+
+	^ BOVerticalSide

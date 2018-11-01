@@ -1,0 +1,3 @@
+accessing
+gameWindow
+	^ gameWindow

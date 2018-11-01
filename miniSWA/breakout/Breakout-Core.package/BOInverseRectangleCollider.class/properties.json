@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BOInverseRectangleCollider",
+	"pools" : [
+		 ],
+	"super" : "BORectangleCollider",
+	"type" : "normal" }

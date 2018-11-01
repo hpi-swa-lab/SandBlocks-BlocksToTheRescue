@@ -1,0 +1,14 @@
+{
+	"category" : "Breakout-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"positionResolver" ],
+	"name" : "BOTestGameField",
+	"pools" : [
+		 ],
+	"super" : "BOGameField",
+	"type" : "normal" }

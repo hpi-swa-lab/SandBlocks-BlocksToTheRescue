@@ -1,0 +1,19 @@
+{
+	"category" : "Breakout-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collided",
+		"ownCStrategy",
+		"othersCStrategy",
+		"ownData",
+		"othersData",
+		"data" ],
+	"name" : "BOCollisionResult",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

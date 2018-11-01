@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newOn:" : "ms 10/26/2018 20:19" },
+	"instance" : {
+		"bounds" : "ms 10/23/2018 18:17",
+		"defaultCollisionStrategyClass" : "ms 10/29/2018 13:10",
+		"defaultExtent" : "ms 10/23/2018 18:17",
+		"defaultPosition" : "ms 10/23/2018 18:17",
+		"handleBallCollision:" : "ms 11/1/2018 11:39",
+		"handleCollision:with:" : "ms 10/26/2018 19:56",
+		"morphClass" : "ms 10/26/2018 14:16" } }

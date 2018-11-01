@@ -1,0 +1,17 @@
+{
+	"category" : "Breakout-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ticking",
+		"radius",
+		"speed",
+		"movementVector" ],
+	"name" : "BOBall",
+	"pools" : [
+		 ],
+	"super" : "BOEntity",
+	"type" : "normal" }

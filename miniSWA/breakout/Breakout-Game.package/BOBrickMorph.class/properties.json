@@ -1,0 +1,16 @@
+{
+	"category" : "Breakout-Game",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBOEntityMorph classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entity" ],
+	"name" : "BOBrickMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"traitcomposition" : "TBOEntityMorph",
+	"type" : "normal" }

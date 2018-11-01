@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBreakout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBreakout",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
