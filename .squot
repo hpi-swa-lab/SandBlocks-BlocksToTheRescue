@@ -1,5 +1,4 @@
 OrderedDictionary {
-	'miniSWA\/breakout\/Breakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/BaselineOfSnake.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/Snake-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/snake\/Snake-Tests.package' : #SquotCypressCodeSerializer,
