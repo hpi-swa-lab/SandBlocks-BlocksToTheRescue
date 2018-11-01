@@ -11,4 +11,5 @@ initialize
 		updateTickTime;
 		layoutInset: 0;
 		borderWidth: 0;
+		score: 0;
 		initializeDefaultGameState.
