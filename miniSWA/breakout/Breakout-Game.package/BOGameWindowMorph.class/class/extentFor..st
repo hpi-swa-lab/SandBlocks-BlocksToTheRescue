@@ -1,6 +1,7 @@
 accessing
 extentFor: sizeOption
 
-	sizeOption == #fullScreen ifTrue: [^ self fullScreenExtent].
-	sizeOption == #windowed ifTrue: [^ self windowedExtent].
-	^ sizeOption
+	^ sizeOption caseOf: {
+			[#fullScreen] -> [self fullScreenExtent].
+			[#windowed] -> [self windowedExtent]}
+		otherwise: [sizeOption]
