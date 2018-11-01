@@ -8,7 +8,8 @@
 	"instvars" : [
 		"grid",
 		"tetromino",
-		"allowChanges" ],
+		"allowChanges",
+		"gameSpeed" ],
 	"name" : "TPlayfield",
 	"pools" : [
 		 ],

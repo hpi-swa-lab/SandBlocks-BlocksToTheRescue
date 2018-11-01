@@ -1,4 +1,4 @@
 testing
 stepTime 
 
-	^ 500
+	^ self startStepTime * self gameSpeedFactor
