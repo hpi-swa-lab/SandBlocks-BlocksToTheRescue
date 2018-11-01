@@ -1,0 +1,4 @@
+as yet unclassified
+shouldMoveEnemiesHorizontal
+
+	^self reached: self relativeToStepEnemyMovingTicksHorizontal

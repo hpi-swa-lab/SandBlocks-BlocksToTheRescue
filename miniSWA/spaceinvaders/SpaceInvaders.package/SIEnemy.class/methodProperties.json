@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"alterMovingDirection" : "BD 10/18/2018 08:31",
+		"horizontalMoveDistance" : "BD 10/31/2018 12:08",
+		"initialize" : "BD 10/18/2018 08:52",
+		"isMovingToTheRight" : "BD 10/18/2018 08:30",
+		"isMovingToTheRight:" : "BD 10/18/2018 08:31",
+		"moveDown" : "BD 10/22/2018 11:59",
+		"moveHorizontal" : "BD 10/18/2018 08:54",
+		"verticalMoveDistance" : "BD 10/18/2018 09:23" } }

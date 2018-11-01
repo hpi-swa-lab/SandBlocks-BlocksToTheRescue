@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"deathEnemySound" : "BD 10/19/2018 12:53",
+		"deathEnemySound:" : "BD 10/19/2018 12:55",
+		"deathEnemySoundBinary" : "BD 10/23/2018 15:14",
+		"deathSound" : "BD 10/19/2018 12:53",
+		"deathSound:" : "BD 10/19/2018 12:54",
+		"deathSoundBinary" : "BD 10/23/2018 15:15",
+		"enemySprite" : "BD 10/22/2018 09:36",
+		"enemySprite:" : "BD 10/22/2018 09:38",
+		"enemySpriteBinary" : "BD 10/23/2018 11:56",
+		"getSprite:" : "BD 10/23/2018 15:39",
+		"initialize" : "BD 10/23/2018 15:27",
+		"particleSprite" : "BD 10/23/2018 11:00",
+		"particleSprite:" : "BD 10/23/2018 11:00",
+		"particleSpriteBinary" : "BD 10/23/2018 11:56",
+		"playSound:" : "BD 10/23/2018 15:22",
+		"playerSprite" : "BD 10/22/2018 09:36",
+		"playerSprite:" : "BD 10/22/2018 09:37",
+		"playerSpriteBinary" : "BD 10/23/2018 11:52",
+		"shotSound" : "BD 10/19/2018 12:53",
+		"shotSound:" : "BD 10/19/2018 12:54",
+		"shotSoundBinary" : "BD 10/23/2018 13:11" } }

@@ -1,4 +1,0 @@
-movement
-gridPosition
-	
-	^ gridPosition

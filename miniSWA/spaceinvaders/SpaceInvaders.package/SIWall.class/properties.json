@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collisionForm" ],
+	"name" : "SIWall",
+	"pools" : [
+		 ],
+	"super" : "Form",
+	"type" : "normal" }

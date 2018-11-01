@@ -1,0 +1,18 @@
+{
+	"category" : "Snake-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"head",
+		"segments",
+		"lastSegment",
+		"direction",
+		"directionAfterLastMovement" ],
+	"name" : "SSnake",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

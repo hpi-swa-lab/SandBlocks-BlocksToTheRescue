@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TTetrominoView",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

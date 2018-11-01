@@ -1,0 +1,14 @@
+{
+	"category" : "Snake-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SFodder",
+	"pools" : [
+		 ],
+	"super" : "SGameObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"verticalMoveDistance" ],
+	"name" : "SIParticle",
+	"pools" : [
+		 ],
+	"super" : "SIMovingGameElement",
+	"type" : "normal" }

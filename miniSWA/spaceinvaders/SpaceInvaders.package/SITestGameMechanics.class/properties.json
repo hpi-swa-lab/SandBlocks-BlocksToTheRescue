@@ -1,0 +1,17 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		"gameWorld" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameWorld",
+		"sIParticleUp",
+		"sIParticleDown",
+		"sIWall" ],
+	"name" : "SITestGameMechanics",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

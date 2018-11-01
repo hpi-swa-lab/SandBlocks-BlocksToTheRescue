@@ -1,0 +1,19 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"deathSound",
+		"deathEnemySound",
+		"shotSound",
+		"playerSprite",
+		"enemySprite",
+		"particleSprite" ],
+	"name" : "SIRessourceManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
