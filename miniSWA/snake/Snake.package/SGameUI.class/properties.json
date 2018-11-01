@@ -1,0 +1,15 @@
+{
+	"category" : "Snake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"game" ],
+	"name" : "SGameUI",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

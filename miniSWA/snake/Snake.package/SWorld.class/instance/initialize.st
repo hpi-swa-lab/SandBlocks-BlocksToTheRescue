@@ -4,6 +4,7 @@ initialize
 	super initialize.
 	self 
 		initializeStyle;
-		clipSubmorphs.
+		clipSubmorphs;
+		extent: 630 @ 480.
 	
 	

@@ -9,7 +9,8 @@
 		"head",
 		"segments",
 		"lastSegment",
-		"direction" ],
+		"direction",
+		"directionAfterLastMovement" ],
 	"name" : "SSnake",
 	"pools" : [
 		 ],

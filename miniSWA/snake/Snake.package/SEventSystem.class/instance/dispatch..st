@@ -1,4 +1,5 @@
-as yet unclassified
+dispatching
 dispatch: aSEvent
 
-	(self list at: aSEvent class ifAbsent: [{}]) do: [:each | aSEvent dispatchOn: each].
+	(self list at: aSEvent class ifAbsent: [{}]) 
+		do: [:each | aSEvent dispatchOn: each].

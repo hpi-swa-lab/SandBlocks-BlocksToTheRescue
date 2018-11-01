@@ -1,4 +1,4 @@
 accessing
 direction
 
-	^ direction.
+	^ direction ifNil: [self bottomDirection].

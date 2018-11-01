@@ -1,4 +1,4 @@
-as yet unclassified
+handle SEvent
 handleDevourEvent: aSDieEvent
 
 	self abandon.

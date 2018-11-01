@@ -5,4 +5,4 @@ initialize
 	self head: SSnakeHead new.
 	self segments: SRingContainer new.
 	self lastSegment: self head.
-	self go: self bottomDirection.
+	self directionAfterLastMovement: self direction.

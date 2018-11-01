@@ -1,0 +1,14 @@
+{
+	"category" : "Snake-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snake" ],
+	"name" : "TestSSnake",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

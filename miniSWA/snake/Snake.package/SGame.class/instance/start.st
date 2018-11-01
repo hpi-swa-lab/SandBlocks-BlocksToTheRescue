@@ -2,4 +2,4 @@ game loop
 start
 	
 	self spawnSnake.
-	self spawnFodder.
+	self spawnFodderIfNeeded.

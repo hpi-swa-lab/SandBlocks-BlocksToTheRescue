@@ -1,4 +1,4 @@
-as yet unclassified
+dispatch
 dispatchOn: anObject
 
 	anObject handleDieEvent: self.

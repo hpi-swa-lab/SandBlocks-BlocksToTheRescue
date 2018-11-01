@@ -1,6 +1,5 @@
-as yet unclassified
+initialize-release
 initialize 
 
 	super initialize.
 	self list: Dictionary new.
-	self dispatcher: SEventDispatcher new.

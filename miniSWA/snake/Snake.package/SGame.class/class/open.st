@@ -1,7 +1,8 @@
 as yet unclassified
 open
 
-	| world |
-	world := SWorld new.
+	| world game |
+	game := self new.
+	world := SWorld for: game.
 	world openInWorld.
-	^ self new world: world.
+	^ game.
