@@ -1,6 +1,5 @@
 {
 	"class" : {
-		"defaultExtent" : "LM 10/16/2018 13:22",
 		"gridHeight" : "LM 10/22/2018 16:26",
 		"gridWidth" : "LM 10/22/2018 16:26" },
 	"instance" : {
@@ -30,6 +29,5 @@
 		"removeRow:" : "LM 10/30/2018 17:14",
 		"spawnTetromino" : "LM 10/25/2018 09:37",
 		"step" : "LM 10/23/2018 10:15",
-		"stepTime" : "LM 10/16/2018 16:40",
 		"tetromino" : "LM 10/22/2018 16:28",
 		"tetromino:" : "LM 10/22/2018 16:29" } }
