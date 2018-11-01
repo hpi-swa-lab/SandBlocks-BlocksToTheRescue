@@ -1,4 +1,4 @@
 accessing
 othersData: anObject
 
-	othersData := anObject asDictionary.
+	othersData := Dictionary newFrom: anObject.

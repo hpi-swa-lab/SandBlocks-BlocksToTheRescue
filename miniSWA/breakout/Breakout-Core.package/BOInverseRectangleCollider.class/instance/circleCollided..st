@@ -6,5 +6,5 @@ circleCollided: aBOCollisionResult
 
 	^ aBOCollisionResult
 		collided: (own convexCollided: other);
-		ownDataAt: #side put: (self flag: #todo);
+		ownDataAt: #side put: (own collisionBounds sideNearestTo: other position) asSide;
 		yourself

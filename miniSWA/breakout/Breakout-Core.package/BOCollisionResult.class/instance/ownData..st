@@ -1,4 +1,4 @@
 accessing
 ownData: anObject
 
-	ownData := anObject asDictionary.
+	ownData := Dictionary newFrom: anObject.

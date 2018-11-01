@@ -3,4 +3,5 @@
 		 },
 	"instance" : {
 		"anyCornerNear:within:" : "ms 10/30/2018 11:21",
-		"intersectsCircle:at:" : "ms 10/30/2018 11:26" } }
+		"intersectsCircle:at:" : "ms 11/1/2018 09:59",
+		"noCornerNear:within:" : "ms 11/1/2018 09:55" } }
