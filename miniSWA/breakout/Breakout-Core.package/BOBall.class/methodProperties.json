@@ -13,6 +13,7 @@
 		"extent:" : "ms 10/25/2018 20:27",
 		"handleBallCollision:" : "ms 11/1/2018 10:00",
 		"handleBoundsCollision:" : "ms 11/1/2018 09:35",
+		"handleBrickCollision:" : "ms 11/1/2018 10:26",
 		"handleCollision:with:" : "ms 10/26/2018 19:54",
 		"handlePaddleCollision:" : "ms 11/1/2018 09:33",
 		"initialize" : "ms 10/26/2018 13:49",

@@ -8,7 +8,8 @@
 	"instvars" : [
 		"entities",
 		"lastTickTime",
-		"boundsEntity" ],
+		"boundsEntity",
+		"score" ],
 	"name" : "BOGameField",
 	"pools" : [
 		 ],

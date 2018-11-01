@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"points",
+		"effect" ],
 	"name" : "BOBrick",
 	"pools" : [
 		 ],
