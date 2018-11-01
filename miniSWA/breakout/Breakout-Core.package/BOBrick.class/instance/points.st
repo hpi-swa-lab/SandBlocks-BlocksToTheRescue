@@ -1,4 +1,4 @@
 accessing
 points
 
-	^ points
+	^ self type points

@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"type" ],
-	"name" : "BOBrick",
+		"points",
+		"effect",
+		"color" ],
+	"name" : "BOBrickType",
 	"pools" : [
 		 ],
-	"super" : "BOEntity",
+	"super" : "Object",
 	"type" : "normal" }

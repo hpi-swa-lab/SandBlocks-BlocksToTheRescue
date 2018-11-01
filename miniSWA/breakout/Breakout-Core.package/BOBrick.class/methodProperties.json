@@ -2,15 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"column:of:row:of:" : "ms 11/1/2018 11:34",
+		"column:of:row:of:" : "ms 11/1/2018 16:37",
 		"defaultCollisionStrategyClass" : "ms 11/1/2018 10:25",
 		"defaultExtent" : "ms 11/1/2018 10:55",
 		"defaultPosition" : "ms 11/1/2018 10:25",
-		"effect" : "ms 11/1/2018 11:20",
-		"effect:" : "ms 11/1/2018 11:20",
 		"handleBallCollision:" : "ms 11/1/2018 11:18",
 		"handleCollision:with:" : "ms 11/1/2018 10:25",
-		"initializePointsFor:" : "ms 11/1/2018 11:33",
 		"morphClass" : "ms 11/1/2018 10:26",
-		"points" : "ms 11/1/2018 11:20",
-		"points:" : "ms 11/1/2018 11:20" } }
+		"points" : "ms 11/1/2018 12:26",
+		"type" : "ms 11/1/2018 16:38",
+		"type:" : "ms 11/1/2018 16:38" } }
