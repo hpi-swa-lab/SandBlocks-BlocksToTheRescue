@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"gameWorldSize" : "BD 10/31/2018 12:09",
+		"initialize" : "BD 10/23/2018 15:41",
+		"lifes" : "BD 10/23/2018 15:41",
+		"lifes:" : "BD 10/23/2018 15:41",
+		"numberOfEnemiesPerRow" : "BD 10/23/2018 16:22",
+		"playerBottomDieTolreance" : "BD 10/18/2018 13:04",
+		"resetTickCounter" : "BD 10/18/2018 13:00",
+		"sIEnemies" : "BD 10/18/2018 12:53",
+		"sIEnemies:" : "BD 10/18/2018 12:53",
+		"sIParticles" : "BD 10/23/2018 10:54",
+		"sIParticles:" : "BD 10/23/2018 10:56",
+		"sIPlayer" : "BD 10/18/2018 12:52",
+		"sIPlayer:" : "BD 10/18/2018 12:52",
+		"sIWalls" : "BD 10/18/2018 14:56",
+		"sIWalls:" : "BD 10/18/2018 15:02",
+		"score" : "BD 10/18/2018 12:51",
+		"score:" : "BD 10/18/2018 12:51",
+		"spacePerEnemy" : "BD 10/18/2018 13:00",
+		"startLifes" : "BD 10/19/2018 15:50",
+		"startScore" : "BD 10/18/2018 12:57",
+		"tickCounter" : "BD 10/18/2018 12:54",
+		"tickCounter:" : "BD 10/18/2018 12:54",
+		"wallPositions" : "BD 10/25/2018 15:43" } }

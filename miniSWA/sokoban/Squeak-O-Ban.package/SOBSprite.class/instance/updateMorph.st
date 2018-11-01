@@ -1,9 +1,8 @@
 updating
 updateMorph 
 
-	(AnimPathAnimation
-		on: self morph
-		between: {self morph position. self globalMorphPosition}
-		within: 100)
-			register;
-			start.
+	self positionQueue add: self globalMorphPosition.
+	self queueAnimation: [(AnimCompositeAnimation new
+		add: self turnAnimation;
+		add: self moveAnimation;
+		yourself)].

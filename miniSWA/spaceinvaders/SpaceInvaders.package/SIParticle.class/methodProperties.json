@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"spawnMovingGameElementWithRessourceManager:at:andSprite:andVerticalMoveDistance:" : "BD 10/24/2018 17:24" },
+		"spawnAt:withSprite:andVerticalMoveDistance:" : "BD 10/31/2018 11:49" },
 	"instance" : {
 		"move" : "BD 10/22/2018 11:30",
 		"verticalMoveDistance" : "BD 10/22/2018 11:28",

@@ -9,5 +9,6 @@ initialize
 		initializeOverlay;
 		initializeButtonBar;
 		initializeDefaultLevels;
+		pourGlue;
 		fullBounds;
 		bounds: self submorphBounds.
