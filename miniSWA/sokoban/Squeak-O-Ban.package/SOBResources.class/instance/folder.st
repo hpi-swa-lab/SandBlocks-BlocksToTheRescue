@@ -1,4 +1,4 @@
 accessing
 folder
 
-	^ 'resources\sokoban\'
+	^ 'resources/sokoban/'
