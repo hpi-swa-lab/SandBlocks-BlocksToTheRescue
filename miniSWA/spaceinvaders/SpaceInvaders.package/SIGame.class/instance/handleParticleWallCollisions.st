@@ -8,11 +8,18 @@ handleParticleWallCollisions
 		self sIParticles do: [ :particle |
 			(wall intersects: (self asRectangle: particle)) ifTrue: [
 				"We have to check the pixel directly under us"
+				(particle isMovingUp) ifTrue: 
+				[((wall image pixelValueAt: (((particle topLeft) - wall topLeft) + (1 @ 1))) = 0) ifFalse: [
+					sIParticlelsTmp remove: particle ifAbsent: [ "do nothing" ].
+					self removeMorph: particle.
+					wall image looseHealthAt: particle left - wall left @ (particle top - wall top).
+					wall changed ]]
+				ifFalse: [
 				((wall image pixelValueAt: (((particle bottomLeft) - wall topLeft) - (1 @ 1))) = 0) ifFalse: [
 					sIParticlelsTmp remove: particle ifAbsent: [ "do nothing" ].
 					self removeMorph: particle.
 					wall image looseHealthAt: particle left - wall left @ (particle bottom - wall top).
-					wall changed ]]
+					wall changed ]]]
 		]
 	].
 	self sIWalls: sIWallsTmp.

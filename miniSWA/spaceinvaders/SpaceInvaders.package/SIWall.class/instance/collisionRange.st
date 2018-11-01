@@ -1,4 +1,4 @@
 as yet unclassified
 collisionRange
 
-	^70 @ 70
+	^50 @ 50

@@ -3,4 +3,5 @@ tearDown
 
 	gameWorld := nil.
 	sIWall := nil.
-	sIParticle := nil.
+	sIParticleUp := nil.
+	sIParticleDown := nil.

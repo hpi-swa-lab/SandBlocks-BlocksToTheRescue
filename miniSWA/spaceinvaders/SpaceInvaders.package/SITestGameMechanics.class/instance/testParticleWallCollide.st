@@ -3,7 +3,7 @@ testParticleWallCollide
 	
 	| sizeOfParticleCollection |
 	gameWorld gameState sIWalls: ({ sIWall } asOrderedCollection).
-	gameWorld gameState sIParticles: ({ sIParticle } asOrderedCollection).
+	gameWorld gameState sIParticles: ({ sIParticleDown } asOrderedCollection).
 	sizeOfParticleCollection := gameWorld sIParticles size.
 	gameWorld handleParticleWallCollisions.
 	

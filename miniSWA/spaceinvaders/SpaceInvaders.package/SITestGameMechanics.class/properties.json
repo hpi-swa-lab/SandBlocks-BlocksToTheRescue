@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"gameWorld",
-		"sIParticle",
+		"sIParticleUp",
+		"sIParticleDown",
 		"sIWall" ],
 	"name" : "SITestGameMechanics",
 	"pools" : [
