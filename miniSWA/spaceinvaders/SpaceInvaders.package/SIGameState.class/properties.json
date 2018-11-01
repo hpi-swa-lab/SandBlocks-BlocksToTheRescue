@@ -1,0 +1,20 @@
+{
+	"category" : "SpaceInvaders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"score",
+		"lifes",
+		"sIEnemies",
+		"sIWalls",
+		"sIPlayer",
+		"tickCounter",
+		"sIParticles" ],
+	"name" : "SIGameState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

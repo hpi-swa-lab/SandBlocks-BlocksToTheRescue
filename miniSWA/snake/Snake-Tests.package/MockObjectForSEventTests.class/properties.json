@@ -1,0 +1,16 @@
+{
+	"category" : "Snake-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dieEvent",
+		"devourEvent",
+		"changeDirectionEvent" ],
+	"name" : "MockObjectForSEventTests",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

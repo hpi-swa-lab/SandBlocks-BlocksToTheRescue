@@ -1,0 +1,4 @@
+accessing
+maxFodderCount
+
+	^ 1.

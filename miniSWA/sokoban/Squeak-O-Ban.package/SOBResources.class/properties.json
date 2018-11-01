@@ -1,0 +1,15 @@
+{
+	"category" : "Squeak-O-Ban-Graphics",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"resourceLoader",
+		"soundPlayer" ],
+	"name" : "SOBResources",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

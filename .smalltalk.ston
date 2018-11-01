@@ -5,9 +5,23 @@ SmalltalkCISpec {
 			#platforms : [ #squeak ],
 			#directory : 'miniSWA/breakout',
 			#load : [ 'tests' ]
+		},
+		SCIMetacelloLoadSpec {
+			#baseline : 'Tetris',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/tetris',
+			#load : [ 'tests' ]
+		},
+		SCIMetacelloLoadSpec {
+			#baseline : 'SpaceInvaders',
+			#platforms : [ #squeak ],
+			#directory : 'miniSWA/spaceinvaders',
+			#load : [ 'default' ]
 		}
 	],
 	#testing : {
-		#failOnZeroTests : false
+		#include : {
+		      #categories : [ 'Breakout', 'Tetris', 'SpaceInvaders' ]
+		}
 	}
 }

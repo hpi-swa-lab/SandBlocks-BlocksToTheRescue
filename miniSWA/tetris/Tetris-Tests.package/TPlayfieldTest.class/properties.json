@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"playfield" ],
+	"name" : "TPlayfieldTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

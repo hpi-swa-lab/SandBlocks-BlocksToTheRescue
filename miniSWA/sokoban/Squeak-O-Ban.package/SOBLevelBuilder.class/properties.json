@@ -1,0 +1,16 @@
+{
+	"category" : "Squeak-O-Ban-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string",
+		"level",
+		"currentPosition" ],
+	"name" : "SOBLevelBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

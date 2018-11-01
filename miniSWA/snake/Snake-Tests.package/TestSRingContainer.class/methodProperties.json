@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"container" : "WoC 10/27/2018 22:19",
+		"container:" : "WoC 10/27/2018 22:19",
+		"setUp" : "WoC 10/27/2018 22:19",
+		"tearDown" : "WoC 10/27/2018 22:19",
+		"testShiftReturnLastElementAndItGetsGoesInARing" : "WoC 10/27/2018 22:24",
+		"testSizeChangesAccordingly" : "WoC 10/27/2018 22:21" } }

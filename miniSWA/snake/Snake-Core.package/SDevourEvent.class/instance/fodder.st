@@ -1,0 +1,4 @@
+accessing
+fodder
+
+	^ fodder.

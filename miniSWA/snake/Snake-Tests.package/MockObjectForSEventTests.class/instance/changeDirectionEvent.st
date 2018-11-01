@@ -1,0 +1,4 @@
+accessing
+changeDirectionEvent
+
+	^ changeDirectionEvent.

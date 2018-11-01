@@ -1,0 +1,15 @@
+{
+	"category" : "Snake-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventSystem",
+		"object" ],
+	"name" : "TestSEventSystem",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

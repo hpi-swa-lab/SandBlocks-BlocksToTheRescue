@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"spawnAt:withSprite:" : "BD 10/31/2018 11:46",
+		"spawnAtAbsolutePosition:withSprite:" : "BD 10/31/2018 11:45" },
+	"instance" : {
+		"horizontalMoveDistance" : "BD 10/18/2018 12:31",
+		"moveToTheLeft" : "BD 10/18/2018 12:34",
+		"moveToTheRight" : "BD 10/18/2018 12:34",
+		"setRelativePosition:" : "BD 10/22/2018 10:34",
+		"setSprite:" : "BD 10/31/2018 11:38",
+		"verticalMoveDistance" : "BD 10/18/2018 12:29" } }

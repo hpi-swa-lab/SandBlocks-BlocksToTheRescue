@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"playfield" ],
+	"name" : "TGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Tetris-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"LTetromino",
+		"JTetromino",
+		"ITetromino",
+		"OTetromino",
+		"STetromino",
+		"tTetromino",
+		"ZTetromino" ],
+	"name" : "TTetrominoTest",
+	"pools" : [
+		 ],
+	"super" : "TPlayfieldTest",
+	"type" : "normal" }

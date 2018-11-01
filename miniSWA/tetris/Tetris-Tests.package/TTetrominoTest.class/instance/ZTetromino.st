@@ -1,0 +1,4 @@
+accessing
+ZTetromino
+	
+	^ ZTetromino.
