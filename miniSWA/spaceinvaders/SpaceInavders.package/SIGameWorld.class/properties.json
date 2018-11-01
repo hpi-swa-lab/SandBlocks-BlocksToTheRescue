@@ -1,0 +1,15 @@
+{
+	"category" : "SpaceInavders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sIPlayer",
+		"sIParticals" ],
+	"name" : "SIGameWorld",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

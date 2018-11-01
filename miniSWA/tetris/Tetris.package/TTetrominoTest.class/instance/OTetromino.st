@@ -1,0 +1,4 @@
+accessing
+OTetromino
+	
+	^ OTetromino.
