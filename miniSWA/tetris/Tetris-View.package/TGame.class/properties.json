@@ -1,16 +1,13 @@
 {
-	"category" : "Tetris-Core",
+	"category" : "Tetris-View",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"grid",
-		"tetromino",
-		"allowChanges",
-		"gameSpeed" ],
-	"name" : "TPlayfield",
+		"playfield" ],
+	"name" : "TGame",
 	"pools" : [
 		 ],
 	"super" : "Object",
