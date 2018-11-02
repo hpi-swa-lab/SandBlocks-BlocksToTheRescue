@@ -1,4 +1,4 @@
-event handling
+updating
 message: aString
 
 	UIManager inform: aString.

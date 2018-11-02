@@ -6,3 +6,4 @@ initialize
 		gameField: self defaultGameFieldClass new;
 		configureForKids;
 		initializeContent.
+	self gameField addDependent: self.

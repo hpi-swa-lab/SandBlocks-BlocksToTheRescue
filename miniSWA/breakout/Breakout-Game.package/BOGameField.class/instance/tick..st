@@ -1,8 +1,6 @@
 stepping and presenter
 tick: deltaTimeInMS
-	self hadLagSpike ifTrue: [Transcript showln: 'Lag detected: ', deltaTimeInMS, 'ms'].
-
-	self window setLabel: 'Score: ', self score.
+	self hadLagSpike ifTrue: [self changed: #lag with: deltaTimeInMS].
 
 	self
 		tickEntities: deltaTimeInMS;
