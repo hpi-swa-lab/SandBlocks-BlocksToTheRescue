@@ -1,0 +1,14 @@
+{
+	"category" : "Puzzle-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AttachmentPiece",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

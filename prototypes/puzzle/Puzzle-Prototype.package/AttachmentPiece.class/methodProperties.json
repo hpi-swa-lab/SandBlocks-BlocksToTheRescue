@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "BD 11/15/2018 14:46",
+		"initialize" : "BD 11/15/2018 13:39",
+		"wantsDroppedMorph:event:" : "BD 11/15/2018 15:24" } }

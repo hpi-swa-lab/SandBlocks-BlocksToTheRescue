@@ -1,0 +1,14 @@
+{
+	"category" : "Puzzle-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"secondFollowingPiece" ],
+	"name" : "EShapedConnector",
+	"pools" : [
+		 ],
+	"super" : "PieceConnector",
+	"type" : "normal" }

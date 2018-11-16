@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"innerPieceOffset" : "BD 11/15/2018 15:09" },
+	"instance" : {
+		"aboutToBeGrabbedBy:" : "BD 11/15/2018 15:25",
+		"adaptExtent" : "BD 11/15/2018 15:56",
+		"dropped:into:" : "BD 11/15/2018 15:24",
+		"initialize" : "BD 11/15/2018 15:12",
+		"innerPiece" : "BD 11/15/2018 15:08",
+		"innerPiece:" : "BD 11/15/2018 15:58",
+		"invalidRect:from:" : "BD 11/15/2018 15:28",
+		"removedMorph:" : "BD 11/15/2018 15:26" } }
