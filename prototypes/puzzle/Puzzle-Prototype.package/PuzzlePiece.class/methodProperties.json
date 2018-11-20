@@ -2,4 +2,14 @@
 	"class" : {
 		"defaultSize" : "BD 11/15/2018 11:28" },
 	"instance" : {
-		"initialize" : "BD 11/15/2018 13:12" } }
+		"acceptDroppingMorph:event:" : "BD 11/20/2018 12:02",
+		"drawHighlightIn:On:" : "BD 11/20/2018 11:37",
+		"drawHighlightOn:" : "BD 11/20/2018 11:38",
+		"drawOn:" : "BD 11/20/2018 11:17",
+		"handlesMouseOverDragging:" : "BD 11/20/2018 11:41",
+		"initialize" : "BD 11/15/2018 13:12",
+		"mouseEnterDragging:" : "BD 11/20/2018 11:41",
+		"mouseLeaveDragging:" : "BD 11/20/2018 11:41",
+		"step" : "BD 11/20/2018 11:35",
+		"stepTime" : "BD 11/20/2018 11:35",
+		"wantsDroppedMorph:event:" : "BD 11/20/2018 12:02" } }

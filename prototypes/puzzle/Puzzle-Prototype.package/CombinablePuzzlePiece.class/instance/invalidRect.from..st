@@ -4,4 +4,4 @@ invalidRect: aRectangle from: aMorph
 	aMorph == self innerPiece
 		ifTrue: [self adaptExtent].
 	
-	super invalidRect: aRectangle from: aMorph. 
+	super invalidRect: aRectangle from: aMorph.

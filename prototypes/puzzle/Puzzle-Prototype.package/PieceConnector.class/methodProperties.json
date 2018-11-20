@@ -1,13 +1,16 @@
 {
 	"class" : {
-		 },
+		"defaultNew" : "BD 11/20/2018 12:11",
+		"newWith:following:" : "BD 11/20/2018 11:59" },
 	"instance" : {
 		"aboutToBeGrabbedBy:" : "BD 11/15/2018 14:55",
 		"attachmentOffset" : "BD 11/15/2018 13:48",
-		"dropped:into:" : "BD 11/15/2018 14:47",
+		"dropped:into:" : "BD 11/20/2018 11:55",
+		"dropped:intoLowerPartOf:" : "BD 11/20/2018 11:59",
+		"dropped:intoUpperPartOf:" : "BD 11/20/2018 11:56",
 		"followingPiece" : "BD 11/15/2018 11:57",
 		"followingPiece:" : "BD 11/15/2018 13:48",
-		"initialize" : "BD 11/15/2018 12:11",
+		"initialize" : "BD 11/20/2018 12:10",
 		"puzzlePiece" : "BD 11/15/2018 11:57",
 		"puzzlePiece:" : "BD 11/15/2018 12:12",
 		"removedMorph:" : "BD 11/15/2018 13:39" } }
