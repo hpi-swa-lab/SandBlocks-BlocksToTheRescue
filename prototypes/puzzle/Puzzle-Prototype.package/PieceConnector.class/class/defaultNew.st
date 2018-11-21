@@ -3,5 +3,5 @@ defaultNew
 	
 	^ self new
 		puzzlePiece: PuzzlePiece new;
-		followingPiece: AttachmentPiece new;
+		"followingPiece: AttachmentPiece new;"
 		yourself

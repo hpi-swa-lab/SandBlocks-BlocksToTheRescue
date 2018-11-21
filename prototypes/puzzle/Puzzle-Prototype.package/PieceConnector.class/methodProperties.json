@@ -1,16 +1,23 @@
 {
 	"class" : {
-		"defaultNew" : "BD 11/20/2018 15:47",
-		"newWith:following:" : "BD 11/20/2018 15:59" },
+		"defaultNew" : "BD 11/21/2018 10:27",
+		"newWith:following:" : "BD 11/21/2018 10:41" },
 	"instance" : {
-		"aboutToBeGrabbedBy:" : "BD 11/15/2018 14:55",
+		"aboutToBeGrabbedBy:" : "BD 11/21/2018 10:40",
+		"appendLast:" : "BD 11/21/2018 11:19",
+		"attachFollowing:" : "BD 11/21/2018 11:21",
+		"attachHere:" : "BD 11/21/2018 11:40",
 		"attachmentOffset" : "BD 11/15/2018 13:48",
-		"dropped:into:" : "BD 11/20/2018 11:55",
-		"dropped:intoLowerPartOf:" : "BD 11/20/2018 15:52",
-		"dropped:intoUpperPartOf:" : "BD 11/20/2018 11:56",
+		"dropped:into:" : "BD 11/21/2018 11:12",
+		"dropped:intoLowerPartOf:" : "BD 11/21/2018 10:50",
+		"dropped:intoUpperPartOf:" : "BD 11/21/2018 11:23",
 		"followingPiece" : "BD 11/15/2018 11:57",
-		"followingPiece:" : "BD 11/15/2018 13:48",
+		"followingPiece:" : "BD 11/21/2018 11:08",
 		"initialize" : "BD 11/20/2018 12:10",
+		"insertMorph:" : "BD 11/21/2018 11:09",
+		"isTerminated" : "BD 11/21/2018 10:52",
+		"prependNewWith:" : "BD 11/21/2018 10:55",
 		"puzzlePiece" : "BD 11/15/2018 11:57",
 		"puzzlePiece:" : "BD 11/15/2018 12:12",
-		"removedMorph:" : "BD 11/15/2018 13:39" } }
+		"removedMorph:" : "BD 11/21/2018 11:11",
+		"swapContentWith:" : "BD 11/21/2018 11:40" } }
