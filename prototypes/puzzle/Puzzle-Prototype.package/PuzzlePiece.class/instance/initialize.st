@@ -4,4 +4,5 @@ initialize
 	super initialize.
 	self
 		color: Color random;
-		extent: self class defaultSize.
+		extent: self class defaultSize;
+		beSticky.

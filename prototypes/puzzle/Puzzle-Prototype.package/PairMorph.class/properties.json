@@ -6,11 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"topSpacer",
-		"bottomSpacer",
-		"branches" ],
-	"name" : "ForkPuzzlePiece",
+		"leftElement",
+		"rightElement" ],
+	"name" : "PairMorph",
 	"pools" : [
 		 ],
-	"super" : "PuzzlePiece",
+	"super" : "Morph",
 	"type" : "normal" }

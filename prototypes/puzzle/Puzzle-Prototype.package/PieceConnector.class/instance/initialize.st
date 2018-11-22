@@ -3,6 +3,7 @@ initialize
 
 	super initialize.
 	self 
-		color: Color transparent;
 		vResizing: #shrinkWrap;
-		hResizing: #shrinkWrap.
+		hResizing: #shrinkWrap;
+		layoutPolicy: TableLayout new;
+		color: Color transparent.

@@ -4,7 +4,7 @@ acceptDroppingMorph: aMorph event: anEvent
 	super acceptDroppingMorph: aMorph event: anEvent.
 	
 	(self middleLeftBounds containsPoint: anEvent position)
-		ifTrue: [self owner dropped: aMorph intoMiddleLeftPartOf: self].
+		ifTrue: [self droppedIntoLeftPart: aMorph].
 		
 	(self middleRightBounds containsPoint: anEvent position)
-		ifTrue: [self owner dropped: aMorph intoUpperPartOf: self].
+		ifTrue: [self droppedIntoRightPart: aMorph].

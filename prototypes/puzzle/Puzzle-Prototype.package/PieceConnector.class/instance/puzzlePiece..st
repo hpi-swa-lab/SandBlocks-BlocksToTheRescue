@@ -2,6 +2,5 @@ accessing
 puzzlePiece: aPuzzlePiece
 
 	puzzlePiece := aPuzzlePiece.
-	self addMorph: puzzlePiece.
-	puzzlePiece position: self position.
-	self changed.
+	self addMorph: puzzlePiece inFrontOf: self followingPiece.
+	self layoutChanged.
