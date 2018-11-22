@@ -1,5 +1,6 @@
 accessing
 insertMorph: aMorph
-
-	self addMorph: aMorph behind: self puzzlePiece.
+	"For some reason addMorph: behind: hast to be deferred. Nobody knows...."
+	Project current addDeferredUIMessage: [self addMorph: aMorph behind: self puzzlePiece].
 	self layoutChanged.
+	
