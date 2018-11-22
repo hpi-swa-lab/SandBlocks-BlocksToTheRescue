@@ -1,4 +1,0 @@
-accessing
-secondFollowingPiece
-
-	^ secondFollowingPiece

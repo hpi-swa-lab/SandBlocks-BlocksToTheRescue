@@ -1,6 +1,8 @@
 event handling
 acceptDroppingMorph: aMorph event: anEvent
 
-	anEvent position y > (self height / 2 + self top)
-		ifTrue: [self owner dropped: aMorph intoLowerPartOf: self]
-		ifFalse: [self owner dropped: aMorph intoUpperPartOf: self].
+	(self lowerBounds containsPoint: anEvent position)
+		ifTrue: [self owner dropped: aMorph intoLowerPartOf: self].
+		
+	(self upperBounds containsPoint: anEvent position)
+		ifTrue: [self owner dropped: aMorph intoUpperPartOf: self].

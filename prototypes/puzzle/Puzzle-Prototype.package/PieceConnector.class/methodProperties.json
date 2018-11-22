@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"defaultNew" : "BD 11/21/2018 10:27",
+		"defaultForkNew" : "BD 11/22/2018 09:52",
+		"defaultNew" : "BD 11/22/2018 09:52",
 		"newWith:following:" : "BD 11/21/2018 10:41" },
 	"instance" : {
 		"aboutToBeGrabbedBy:" : "BD 11/21/2018 10:40",
@@ -10,6 +11,7 @@
 		"attachmentOffset" : "BD 11/15/2018 13:48",
 		"dropped:into:" : "BD 11/21/2018 11:12",
 		"dropped:intoLowerPartOf:" : "BD 11/21/2018 10:50",
+		"dropped:intoMiddleLeftPartOf:" : "BD 11/22/2018 10:55",
 		"dropped:intoUpperPartOf:" : "BD 11/21/2018 11:23",
 		"followingPiece" : "BD 11/15/2018 11:57",
 		"followingPiece:" : "BD 11/21/2018 11:08",
