@@ -1,4 +1,4 @@
 defaults
 defaultColor
 
-	^ Color gray muchDarker.
+	^ Color white.
