@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"defaultSize" : "BD 11/22/2018 10:20" },
+		"defaultSize" : "BD 11/22/2018 10:20",
+		"new" : "BD 11/26/2018 14:30" },
 	"instance" : {
 		"acceptDroppingMorph:event:" : "mt 11/23/2018 10:03",
 		"bottomSpacer" : "LM 11/22/2018 14:12",

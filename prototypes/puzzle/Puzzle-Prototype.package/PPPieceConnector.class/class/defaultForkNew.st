@@ -2,5 +2,5 @@ as yet unclassified
 defaultForkNew
 	
 	^ self new
-		puzzlePiece: PPForkPuzzlePiece new;
+		puzzlePiece: PPForkPuzzlePiece create;
 		yourself

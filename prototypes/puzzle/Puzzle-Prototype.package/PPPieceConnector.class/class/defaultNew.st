@@ -2,5 +2,5 @@ as yet unclassified
 defaultNew
 	
 	^ self new
-		puzzlePiece: PPPuzzlePiece new;
+		puzzlePiece: PPPuzzlePiece create;
 		yourself
