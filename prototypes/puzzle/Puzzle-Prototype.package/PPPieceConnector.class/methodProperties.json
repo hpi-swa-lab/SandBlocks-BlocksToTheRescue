@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultForkNew" : "BD 11/26/2018 13:27",
+		"defaultNew" : "BD 11/26/2018 13:27",
+		"newWith:following:" : "mt 11/23/2018 09:56" },
+	"instance" : {
+		"appendLast:" : "mt 11/23/2018 09:44",
+		"attachFollowing:" : "mt 11/23/2018 09:44",
+		"attachHere:" : "BD 11/22/2018 16:35",
+		"attachmentOffset" : "BD 11/15/2018 13:48",
+		"dropped:into:" : "mt 11/23/2018 09:44",
+		"dropped:intoLowerPartOf:" : "mt 11/23/2018 09:50",
+		"dropped:intoUpperPartOf:" : "mt 11/23/2018 09:50",
+		"followingConnector" : "mt 11/23/2018 09:44",
+		"followingConnector:" : "mt 11/23/2018 09:44",
+		"followingPiece" : "BD 11/15/2018 11:57",
+		"followingPiece:" : "BD 11/21/2018 11:08",
+		"handlesMouseDown:" : "LM 11/22/2018 15:10",
+		"initialize" : "mt 11/23/2018 08:40",
+		"insertMorph:" : "mt 11/23/2018 09:53",
+		"isTerminated" : "mt 11/23/2018 09:43",
+		"mouseDown:" : "LM 11/22/2018 15:09",
+		"prependNewWith:" : "mt 11/23/2018 09:43",
+		"puzzlePiece" : "BD 11/15/2018 11:57",
+		"puzzlePiece:" : "mt 11/23/2018 09:43",
+		"removedMorph:" : "mt 11/23/2018 09:44",
+		"swapContentWith:" : "mt 11/23/2018 10:02" } }

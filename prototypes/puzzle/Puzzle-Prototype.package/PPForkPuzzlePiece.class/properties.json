@@ -1,0 +1,16 @@
+{
+	"category" : "Puzzle-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topSpacer",
+		"bottomSpacer",
+		"branches" ],
+	"name" : "PPForkPuzzlePiece",
+	"pools" : [
+		 ],
+	"super" : "PPPuzzlePiece",
+	"type" : "normal" }
