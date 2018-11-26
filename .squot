@@ -17,5 +17,6 @@ OrderedDictionary {
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Tests.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-View.package' : #SquotCypressCodeSerializer,
+	'prototypes\/puzzle\/BaselineOfPuzzlePrototype.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer
 }

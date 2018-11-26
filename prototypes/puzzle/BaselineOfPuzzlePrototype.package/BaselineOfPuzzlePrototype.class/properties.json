@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPuzzlePrototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPuzzlePrototype",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
