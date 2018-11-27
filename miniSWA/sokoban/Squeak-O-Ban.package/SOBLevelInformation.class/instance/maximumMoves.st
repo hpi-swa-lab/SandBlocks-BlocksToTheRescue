@@ -1,4 +1,0 @@
-accessing
-maximumMoves 
-	
-	^ 100

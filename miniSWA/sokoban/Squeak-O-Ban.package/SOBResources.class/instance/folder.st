@@ -1,4 +1,0 @@
-accessing
-folder
-
-	^ 'resources/sokoban/'

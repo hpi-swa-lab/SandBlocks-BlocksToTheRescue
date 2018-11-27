@@ -1,0 +1,15 @@
+{
+	"category" : "Metablocks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to" ],
+	"name" : "MBFlow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

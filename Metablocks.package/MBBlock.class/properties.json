@@ -1,0 +1,15 @@
+{
+	"category" : "Metablocks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inputs",
+		"outputs" ],
+	"name" : "MBBlock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
