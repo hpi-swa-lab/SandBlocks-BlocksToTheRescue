@@ -1,0 +1,14 @@
+{
+	"category" : "Metablocks-Language1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "MBL1DataFlow",
+	"pools" : [
+		 ],
+	"super" : "MBFlow",
+	"type" : "normal" }

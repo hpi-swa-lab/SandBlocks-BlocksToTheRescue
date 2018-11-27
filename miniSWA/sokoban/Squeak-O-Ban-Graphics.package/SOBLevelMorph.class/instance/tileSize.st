@@ -1,4 +1,0 @@
-accessing
-tileSize 
-
-	^ 32

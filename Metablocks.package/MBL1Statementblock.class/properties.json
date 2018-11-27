@@ -1,0 +1,14 @@
+{
+	"category" : "Metablocks-Language1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MBL1Statementblock",
+	"pools" : [
+		 ],
+	"super" : "MBPrimitiveBlock",
+	"type" : "normal" }

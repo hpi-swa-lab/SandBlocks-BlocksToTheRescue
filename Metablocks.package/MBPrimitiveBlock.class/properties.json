@@ -1,0 +1,14 @@
+{
+	"category" : "Metablocks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MBPrimitiveBlock",
+	"pools" : [
+		 ],
+	"super" : "MBBlock",
+	"type" : "normal" }
