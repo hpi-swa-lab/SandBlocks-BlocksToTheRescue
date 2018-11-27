@@ -1,4 +1,4 @@
-as yet unclassified
+dropping/grabbing
 aboutToBeGrabbedBy: aHand
 
 	^ (aHand position x > (self left + self width / 2))

@@ -3,8 +3,7 @@ initialize
 
 	super initialize.
 	self 
-		vResizing: #shrinkWrap;
-		hResizing: #shrinkWrap;
+		enableShrinkWrap;
 		layoutPolicy: TableLayout new;
 		color: Color transparent;
 		borderWidth: 1;

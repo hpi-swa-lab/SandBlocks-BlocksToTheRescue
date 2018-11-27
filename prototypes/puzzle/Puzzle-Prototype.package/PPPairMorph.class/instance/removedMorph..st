@@ -1,4 +1,4 @@
-as yet unclassified
+submorphs-add/remove
 removedMorph: aMorph
 
 	self leftElement = aMorph
