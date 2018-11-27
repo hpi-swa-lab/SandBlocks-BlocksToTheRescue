@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"emptyData" : "LB 11/27/2018 15:55",
+		"isControlFlow" : "LB 11/27/2018 15:47",
+		"isDataFlow" : "LB 11/27/2018 15:47",
+		"trigger" : "LB 11/27/2018 15:55" } }

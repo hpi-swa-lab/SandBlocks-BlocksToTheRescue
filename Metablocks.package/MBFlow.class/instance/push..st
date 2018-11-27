@@ -1,5 +1,5 @@
 as yet unclassified
-pushData: anObject
+push: anObject
 
 	self data: anObject.
-	
+	self to inputTriggered.

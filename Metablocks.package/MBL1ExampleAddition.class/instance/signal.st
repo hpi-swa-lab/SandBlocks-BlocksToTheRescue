@@ -1,0 +1,4 @@
+accessing
+signal
+
+	^ signal

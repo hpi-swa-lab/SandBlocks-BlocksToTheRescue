@@ -1,4 +1,4 @@
-accessing-private
+accessing
 data: anObject
 
 	data := anObject.
