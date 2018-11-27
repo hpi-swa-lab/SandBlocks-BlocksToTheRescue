@@ -1,6 +1,6 @@
 accessing
 visitForkPuzzlePiece: aPPForkPuzzlePiece
 
-	^ '2 atRandom = 1
+	^ aPPForkPuzzlePiece condition, '
 		ifTrue: [', (self visit: aPPForkPuzzlePiece branches leftElement), ']
 		ifFalse: [', (self visit: aPPForkPuzzlePiece branches rightElement), ']'
