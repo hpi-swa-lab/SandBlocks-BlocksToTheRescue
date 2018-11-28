@@ -1,0 +1,4 @@
+accessing
+emptyData
+
+	^ nil

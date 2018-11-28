@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block" ],
-	"name" : "MBL1Statementblock",
+		 ],
+	"name" : "MBL1OutputSignal",
 	"pools" : [
 		 ],
-	"super" : "MBPrimitiveBlock",
+	"super" : "MBBlock",
 	"type" : "normal" }

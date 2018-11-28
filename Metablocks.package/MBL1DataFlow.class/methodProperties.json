@@ -2,6 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"data" : "LB 11/27/2018 14:04",
-		"data:" : "LB 11/27/2018 14:04",
-		"pushData:" : "LB 11/27/2018 14:08" } }
+		"isControlFlow" : "LB 11/27/2018 15:47",
+		"isDataFlow" : "LB 11/27/2018 15:47" } }

@@ -6,9 +6,14 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block" ],
-	"name" : "MBL1Statementblock",
+		"input1",
+		"input2",
+		"output",
+		"control",
+		"addition",
+		"signal" ],
+	"name" : "MBL1ExampleAddition",
 	"pools" : [
 		 ],
-	"super" : "MBPrimitiveBlock",
+	"super" : "Object",
 	"type" : "normal" }

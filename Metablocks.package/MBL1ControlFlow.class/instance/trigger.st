@@ -1,4 +1,4 @@
 as yet unclassified
 trigger
 
-	self to inputTriggered.
+	self push: true.

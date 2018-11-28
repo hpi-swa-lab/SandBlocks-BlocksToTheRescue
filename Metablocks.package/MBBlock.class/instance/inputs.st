@@ -1,4 +1,4 @@
 accessing
 inputs
 
-	^ inputs
+	^ inputs ifNil: [inputs := OrderedCollection new]

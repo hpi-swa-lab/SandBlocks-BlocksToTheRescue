@@ -1,4 +1,4 @@
 accessing
 outputs
 
-	^ outputs
+	^ outputs ifNil: [outputs := OrderedCollection new]
