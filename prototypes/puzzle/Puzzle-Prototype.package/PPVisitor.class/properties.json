@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"code" ],
-	"name" : "PPCodeGenerator",
+		 ],
+	"name" : "PPVisitor",
 	"pools" : [
 		 ],
-	"super" : "PPVisitor",
+	"super" : "Object",
 	"type" : "normal" }

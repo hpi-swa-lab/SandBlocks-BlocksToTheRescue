@@ -1,4 +1,4 @@
-accessing
+visiting
 visitForkPuzzlePiece: aPPForkPuzzlePiece
 
 	^ aPPForkPuzzlePiece code, '
