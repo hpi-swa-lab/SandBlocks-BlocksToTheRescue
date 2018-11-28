@@ -1,0 +1,4 @@
+string representation
+representationCharacterPlain
+
+	^ $#

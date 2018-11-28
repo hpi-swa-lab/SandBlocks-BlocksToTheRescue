@@ -8,8 +8,7 @@
 	"instvars" : [
 		"topSpacer",
 		"bottomSpacer",
-		"branches",
-		"condition" ],
+		"branches" ],
 	"name" : "PPForkPuzzlePiece",
 	"pools" : [
 		 ],

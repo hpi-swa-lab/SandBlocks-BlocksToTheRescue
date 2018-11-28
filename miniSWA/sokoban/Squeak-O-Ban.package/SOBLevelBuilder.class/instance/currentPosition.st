@@ -1,0 +1,4 @@
+accessing
+currentPosition
+
+	^ currentPosition

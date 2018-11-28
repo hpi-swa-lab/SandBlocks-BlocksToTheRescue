@@ -1,0 +1,4 @@
+testing
+isFree
+
+	^ false

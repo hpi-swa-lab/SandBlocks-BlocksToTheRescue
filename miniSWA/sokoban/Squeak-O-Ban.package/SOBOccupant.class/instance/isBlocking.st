@@ -1,0 +1,4 @@
+testing
+isBlocking 
+
+	^ self subclassResponsibility
