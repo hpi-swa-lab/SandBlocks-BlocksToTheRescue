@@ -1,6 +1,5 @@
 as yet unclassified
 visitAPieceConnector: aPPPieceConnector
-
-	self 
-		visit: aPPPieceConnector puzzlePiece;
-		visitFollowing: aPPPieceConnector.
+	
+	self stack push: aPPPieceConnector.
+	self visit: aPPPieceConnector puzzlePiece.

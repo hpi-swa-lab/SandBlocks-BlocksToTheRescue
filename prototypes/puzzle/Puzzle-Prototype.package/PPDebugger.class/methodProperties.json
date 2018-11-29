@@ -1,17 +1,20 @@
 {
 	"class" : {
-		"newFor:" : "LM 11/29/2018 10:11",
+		"newFor:" : "BD 11/29/2018 14:40",
 		"open" : "LM 11/29/2018 09:47",
-		"openFor:" : "LM 11/29/2018 10:13" },
+		"openFor:" : "BD 11/29/2018 14:42" },
 	"instance" : {
-		"abandonButtonSpec" : "LM 11/29/2018 10:02",
-		"buildWith:" : "LM 11/29/2018 10:02",
-		"buttonSpecs" : "LM 11/29/2018 10:03",
+		"abandonButtonSpec" : "BD 11/29/2018 15:22",
+		"abandonDebugging" : "BD 11/29/2018 15:22",
+		"buildWith:" : "BD 11/29/2018 15:21",
+		"buttonSpecs" : "BD 11/29/2018 15:31",
+		"codeWalker" : "BD 11/29/2018 14:40",
+		"codeWalker:" : "BD 11/29/2018 14:41",
 		"createButtonSpec:with:" : "LM 11/29/2018 09:52",
-		"createWindowSpec:" : "LM 11/29/2018 09:52",
-		"currentStep" : "LM 11/29/2018 10:14",
-		"currentStep:" : "LM 11/29/2018 10:14",
-		"puzzleBeginning" : "LM 11/29/2018 10:08",
-		"puzzleBeginning:" : "LM 11/29/2018 10:18",
+		"createWindowSpec:" : "BD 11/29/2018 15:24",
+		"restartButtonSpec" : "BD 11/29/2018 15:31",
+		"restartDebugging" : "BD 11/29/2018 15:30",
 		"stepButtonSpec" : "LM 11/29/2018 10:02",
-		"stepOver" : "LM 11/29/2018 10:18" } }
+		"stepOver" : "BD 11/29/2018 14:35",
+		"window" : "BD 11/29/2018 15:21",
+		"window:" : "BD 11/29/2018 15:21" } }

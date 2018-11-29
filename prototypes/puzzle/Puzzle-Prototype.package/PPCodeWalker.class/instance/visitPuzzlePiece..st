@@ -1,4 +1,7 @@
 as yet unclassified
 visitPuzzlePiece: aPPPuzzlePiece
 	
-	self highlightAndLowlight: aPPPuzzlePiece.
+	self stack pop.
+	self highlight: aPPPuzzlePiece.
+	Compiler evaluate: aPPPuzzlePiece code.
+	self increaseInstructionPointer.

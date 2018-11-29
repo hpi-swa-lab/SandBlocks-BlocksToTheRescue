@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"piecesWalked" ],
+		"stack",
+		"instructionPointer",
+		"startingPieceConnector" ],
 	"name" : "PPCodeWalker",
 	"pools" : [
 		 ],

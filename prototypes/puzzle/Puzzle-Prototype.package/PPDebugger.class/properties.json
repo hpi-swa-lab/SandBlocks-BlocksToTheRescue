@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"puzzleBeginning",
-		"currentStep" ],
+		"codeWalker",
+		"window" ],
 	"name" : "PPDebugger",
 	"pools" : [
 		 ],

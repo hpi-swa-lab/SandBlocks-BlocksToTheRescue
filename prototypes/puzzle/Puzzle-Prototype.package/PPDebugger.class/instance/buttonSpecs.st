@@ -3,5 +3,6 @@ buttonSpecs
 
 	^ {
 		self stepButtonSpec.
-		self abandonButtonSpec
+		self restartButtonSpec.
+		self abandonButtonSpec.
 	}

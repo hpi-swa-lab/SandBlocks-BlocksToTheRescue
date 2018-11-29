@@ -1,4 +1,4 @@
 as yet unclassified
-openFor: aPPPieceConnector
+openFor: aPPCodeWalker
 
-	^ ToolBuilder default open: (self newFor: aPPPieceConnector)
+	^ ToolBuilder default open: (self newFor: aPPCodeWalker)

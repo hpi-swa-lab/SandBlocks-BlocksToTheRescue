@@ -1,6 +1,6 @@
 as yet unclassified
-newFor: aPPPieceConnector
+newFor: aPPCodeWalker
 
 	^ self new
-		puzzleBeginning: aPPPieceConnector;
+		codeWalker: aPPCodeWalker;
 		yourself

@@ -1,0 +1,4 @@
+accessing
+instructionPointer
+
+	^ instructionPointer

@@ -2,4 +2,4 @@ as yet unclassified
 initialize 
 
 	super initialize.
-	self piecesWalked: 0.
+	self stack: Stack new.

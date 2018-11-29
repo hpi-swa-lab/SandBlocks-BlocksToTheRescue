@@ -1,15 +1,20 @@
 {
 	"class" : {
-		 },
+		"newFor:" : "BD 11/29/2018 14:52" },
 	"instance" : {
-		"highlight:during:" : "LM 11/29/2018 09:44",
-		"highlightAndLowlight:" : "LM 11/29/2018 09:44",
-		"highlightColor" : "LM 11/28/2018 11:08",
-		"initialize" : "BD 11/28/2018 12:18",
-		"piecesWalked" : "BD 11/28/2018 11:58",
-		"piecesWalked:" : "BD 11/28/2018 11:58",
-		"visitAPieceConnector:" : "LM 11/28/2018 10:58",
-		"visitBranchesOf:" : "LM 11/28/2018 11:06",
-		"visitFollowing:" : "LM 11/28/2018 10:59",
-		"visitForkPuzzlePiece:" : "LM 11/29/2018 09:43",
-		"visitPuzzlePiece:" : "LM 11/29/2018 09:45" } }
+		"highlight:" : "BD 11/29/2018 13:42",
+		"increaseInstructionPointer" : "BD 11/29/2018 14:11",
+		"initialize" : "BD 11/29/2018 13:34",
+		"instructionPointer" : "BD 11/29/2018 13:34",
+		"instructionPointer:" : "BD 11/29/2018 13:34",
+		"isFinished" : "BD 11/29/2018 13:40",
+		"resetToStart" : "BD 11/29/2018 14:52",
+		"stack" : "BD 11/29/2018 11:01",
+		"stack:" : "BD 11/29/2018 11:01",
+		"startingPieceConnector" : "BD 11/29/2018 14:51",
+		"startingPieceConnector:" : "BD 11/29/2018 14:51",
+		"step" : "BD 11/29/2018 14:11",
+		"visitAPieceConnector:" : "BD 11/29/2018 13:40",
+		"visitBranchesOf:" : "BD 11/29/2018 14:08",
+		"visitForkPuzzlePiece:" : "BD 11/29/2018 14:12",
+		"visitPuzzlePiece:" : "BD 11/29/2018 14:49" } }
