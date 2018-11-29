@@ -2,7 +2,7 @@
 	"class" : {
 		"newFor:" : "BD 11/29/2018 14:52" },
 	"instance" : {
-		"highlight:" : "BD 11/29/2018 13:42",
+		"highlight:" : "LM 11/29/2018 16:32",
 		"increaseInstructionPointer" : "BD 11/29/2018 14:11",
 		"initialize" : "BD 11/29/2018 13:34",
 		"instructionPointer" : "BD 11/29/2018 13:34",
@@ -17,4 +17,5 @@
 		"visitAPieceConnector:" : "BD 11/29/2018 13:40",
 		"visitBranchesOf:" : "BD 11/29/2018 14:08",
 		"visitForkPuzzlePiece:" : "BD 11/29/2018 14:12",
-		"visitPuzzlePiece:" : "BD 11/29/2018 14:49" } }
+		"visitPuzzlePiece:" : "BD 11/29/2018 14:49",
+		"visitSpacer:" : "LM 11/29/2018 16:54" } }

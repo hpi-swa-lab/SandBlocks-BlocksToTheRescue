@@ -7,4 +7,5 @@ buildWith: aToolBuilder
 		windowSpec children add: (self createButtonSpec: each with: aToolBuilder)].
 	
 	self window: (aToolBuilder build: windowSpec).
+	self restartDebugging.
 	^ self window

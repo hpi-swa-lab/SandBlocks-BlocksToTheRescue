@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"codeWalker",
-		"window",
-		"highlighter" ],
-	"name" : "PPDebugger",
+		 ],
+	"name" : "PPSpacer",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "Morph",
 	"type" : "normal" }

@@ -1,4 +1,4 @@
 as yet unclassified
 highlight: aMorph
 
-	aMorph color: Color random.
+	"aMorph color: Color random."

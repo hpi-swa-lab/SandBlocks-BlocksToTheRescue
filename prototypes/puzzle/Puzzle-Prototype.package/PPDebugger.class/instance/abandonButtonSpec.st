@@ -3,6 +3,6 @@ abandonButtonSpec
 
 	^ Dictionary withAll: {
 		#frame->(LayoutFrame fractions: (0.5 @ 0.5 corner: 1 @ 1)).
-		#label->'Abondon'.
+		#label->'Abandon'.
 		#action->#abandonDebugging
 	}
