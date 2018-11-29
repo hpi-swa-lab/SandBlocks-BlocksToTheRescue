@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"changeColorOf:to:after:" : "BD 11/28/2018 12:30",
-		"highlightAndLowlight:" : "BD 11/28/2018 12:23",
+		"highlight:during:" : "LM 11/29/2018 09:44",
+		"highlightAndLowlight:" : "LM 11/29/2018 09:44",
 		"highlightColor" : "LM 11/28/2018 11:08",
 		"initialize" : "BD 11/28/2018 12:18",
 		"piecesWalked" : "BD 11/28/2018 11:58",
@@ -11,5 +11,5 @@
 		"visitAPieceConnector:" : "LM 11/28/2018 10:58",
 		"visitBranchesOf:" : "LM 11/28/2018 11:06",
 		"visitFollowing:" : "LM 11/28/2018 10:59",
-		"visitForkPuzzlePiece:" : "LM 11/28/2018 11:05",
-		"visitPuzzlePiece:" : "BD 11/28/2018 12:16" } }
+		"visitForkPuzzlePiece:" : "LM 11/29/2018 09:43",
+		"visitPuzzlePiece:" : "LM 11/29/2018 09:45" } }
