@@ -1,0 +1,4 @@
+conversions
+asData
+
+	self setVertices: {0@0 . 8@0 . 8@8 . 0@8}.

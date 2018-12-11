@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'Graph-Proto.package' : #SquotCypressCodeSerializer,
 	'Metablocks.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/BaselineOfBreakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,

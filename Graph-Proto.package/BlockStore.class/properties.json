@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Proto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BlockStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
