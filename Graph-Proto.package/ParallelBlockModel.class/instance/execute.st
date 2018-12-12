@@ -9,7 +9,7 @@ execute
 		promise := Promise new.
 		promise whenResolved: [:value | 
 			counter := counter + 1.
-			(Compiler evaluate: (counter asString , ' ' , self perl conditionText contents asString))
+			(Compiler evaluate: (counter asString , self perl conditionText contents asString))
 				ifTrue: [					
 						processes do: [:process | process ~=  Processor activeProcess
 													ifTrue: [process terminate]].
