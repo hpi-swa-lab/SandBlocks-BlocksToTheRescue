@@ -1,7 +1,10 @@
 as yet unclassified
 for: aBlockModel
-
-	^ self new 
+	
+	| view |
+	view := self new 
 		blockModel: aBlockModel;
 		build;
-		yourself
+		yourself.
+	aBlockModel view: view.
+	^ view

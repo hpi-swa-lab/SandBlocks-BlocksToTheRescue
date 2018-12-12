@@ -12,7 +12,8 @@
 		"outputDatas",
 		"outputFlowDecider",
 		"action",
-		"data" ],
+		"data",
+		"view" ],
 	"name" : "BlockModel",
 	"pools" : [
 		 ],
