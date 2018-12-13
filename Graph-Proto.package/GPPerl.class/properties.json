@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Proto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conditionText" ],
+	"name" : "GPPerl",
+	"pools" : [
+		 ],
+	"super" : "GPPort",
+	"type" : "normal" }
