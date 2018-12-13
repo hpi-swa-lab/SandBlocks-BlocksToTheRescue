@@ -8,7 +8,7 @@
 	"instvars" : [
 		"startMorph",
 		"endMorph" ],
-	"name" : "Connection",
+	"name" : "GPConnection",
 	"pools" : [
 		 ],
 	"super" : "PolygonMorph",

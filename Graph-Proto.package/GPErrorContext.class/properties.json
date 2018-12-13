@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"conditionTextMorph" ],
-	"name" : "GPPerl",
+		 ],
+	"name" : "GPErrorContext",
 	"pools" : [
 		 ],
-	"super" : "GPPort",
+	"super" : "Morph",
 	"type" : "normal" }

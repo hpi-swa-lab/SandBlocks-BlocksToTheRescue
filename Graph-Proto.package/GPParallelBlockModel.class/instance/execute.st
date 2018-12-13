@@ -2,8 +2,10 @@ as yet unclassified
 execute 
 	
 	
-	self processes: OrderedCollection new.
-	self finishedProcessesCount: 0.
-	self executeStartBlocks.
+	self 
+		processes: OrderedCollection new;
+		finishedProcessesCount: 0;
+		errorCount: 0;
+		executeStartBlocks.
 	
 	

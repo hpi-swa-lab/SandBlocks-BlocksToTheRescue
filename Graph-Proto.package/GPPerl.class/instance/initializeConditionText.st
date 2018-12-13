@@ -1,7 +1,7 @@
 as yet unclassified
 initializeConditionText
 
-	self conditionText: TextMorph new.
-	self addMorph: self conditionText.
-	self conditionText center: self center.
+	self conditionTextMorph: TextMorph new.
+	self addMorph: self conditionTextMorph.
+	self conditionTextMorph center: self center.
 	
