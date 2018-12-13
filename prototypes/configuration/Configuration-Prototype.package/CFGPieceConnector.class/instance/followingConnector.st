@@ -1,0 +1,4 @@
+accessing
+followingConnector
+
+	^ followingConnector

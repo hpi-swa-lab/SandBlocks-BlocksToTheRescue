@@ -1,0 +1,15 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"puzzlePiece",
+		"followingConnector" ],
+	"name" : "CFGPieceConnector",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"newFor:" : "LM 12/13/2018 15:20" },
+	"instance" : {
+		"accumulateList:From:" : "LM 12/13/2018 15:44",
+		"accumulateListFrom:" : "LM 12/13/2018 15:43",
+		"configuration" : "LM 12/13/2018 15:16",
+		"configuration:" : "LM 12/13/2018 15:17",
+		"options" : "LM 12/13/2018 14:59",
+		"options:" : "LM 12/13/2018 14:59",
+		"settingForOptions:" : "LM 12/13/2018 16:20",
+		"visitAPieceConnector:" : "LM 12/13/2018 16:05",
+		"visitForkPuzzlePiece:" : "LM 12/13/2018 16:03",
+		"visitPuzzlePiece:" : "LM 12/13/2018 15:04",
+		"visitSpacer:" : "LM 12/13/2018 15:14" } }
