@@ -1,0 +1,4 @@
+as yet unclassified
+moons: aDictionary
+
+	aDictionary do: [:each | self addMorph: (Satellite fromArray: each)].

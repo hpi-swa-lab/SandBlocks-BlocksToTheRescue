@@ -1,0 +1,14 @@
+{
+	"category" : "PlanetSimulation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CelestialBody",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
