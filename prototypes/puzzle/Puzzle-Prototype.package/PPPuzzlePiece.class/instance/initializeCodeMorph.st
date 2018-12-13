@@ -2,4 +2,5 @@ initialization
 initializeCodeMorph
 
 	self codeMorph: StringMorph new.
-	self addMorph: codeMorph.
+	self codeMorph lock.
+	self addMorph: self codeMorph.
