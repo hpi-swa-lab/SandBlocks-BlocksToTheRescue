@@ -1,4 +1,4 @@
 as yet unclassified
-accept: aVisitor
+accept: aPPVisitor
 
-	^ aVisitor visitForkPuzzlePiece: self
+	^ aPPVisitor visitForkPuzzlePiece: self

@@ -10,5 +10,5 @@
 	"name" : "PPCodeGenerator",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PPVisitor",
 	"type" : "normal" }

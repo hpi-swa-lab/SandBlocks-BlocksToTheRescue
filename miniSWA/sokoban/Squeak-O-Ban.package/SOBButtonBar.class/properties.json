@@ -1,0 +1,16 @@
+{
+	"category" : "Squeak-O-Ban-Graphics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"next",
+		"previous",
+		"reload" ],
+	"name" : "SOBButtonBar",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

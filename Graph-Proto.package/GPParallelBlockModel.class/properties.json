@@ -1,0 +1,16 @@
+{
+	"category" : "Graph-Proto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"perl",
+		"processes",
+		"finishedProcessesCount" ],
+	"name" : "GPParallelBlockModel",
+	"pools" : [
+		 ],
+	"super" : "GPBlockModel",
+	"type" : "normal" }

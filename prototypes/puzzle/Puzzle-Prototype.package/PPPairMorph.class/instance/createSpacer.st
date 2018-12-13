@@ -1,8 +1,10 @@
 initialization
 createSpacer
 		
-	^ Morph new 
+	| spacer |
+	spacer := PPSpacer new 
 		extent: PPPuzzlePiece defaultSize;
 		color: Color transparent;
 		borderWidth: 0;
-		yourself
+		yourself.
+	^ PPPieceConnector newWith: spacer following: nil

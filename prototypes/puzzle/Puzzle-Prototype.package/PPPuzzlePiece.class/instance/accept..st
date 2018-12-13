@@ -1,4 +1,4 @@
 drag-and-drop
-accept: aVisitor
+accept: aPPVisitor
 
-	^ aVisitor visitPuzzlePiece: self
+	^ aPPVisitor visitPuzzlePiece: self

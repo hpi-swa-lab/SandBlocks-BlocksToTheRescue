@@ -1,0 +1,4 @@
+accessing
+rightValueGetter
+
+	^ rightValueGetter

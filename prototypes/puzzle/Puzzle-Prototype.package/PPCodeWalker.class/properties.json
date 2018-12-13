@@ -1,0 +1,16 @@
+{
+	"category" : "Puzzle-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack",
+		"instructionPointer",
+		"startingPieceConnector" ],
+	"name" : "PPCodeWalker",
+	"pools" : [
+		 ],
+	"super" : "PPVisitor",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
 testing
-accept: aVisitor
+accept: aPPVisitor
 
-	^ aVisitor visitAPieceConnector: self
+	^ aPPVisitor visitAPieceConnector: self

@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'Graph-Proto.package' : #SquotCypressCodeSerializer,
 	'Metablocks.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/BaselineOfBreakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,
@@ -11,6 +12,7 @@ OrderedDictionary {
 	'miniSWA\/sokoban\/Squeak-O-Ban-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban-Graphics.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/sokoban\/Squeak-O-Ban-Tests.package' : #SquotCypressCodeSerializer,
+	'miniSWA\/sokoban\/Squeak-O-Ban.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/BaselineOfSpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/spaceinvaders\/SpaceInvaders.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/BaselineOfTetris.package' : #SquotCypressCodeSerializer,
