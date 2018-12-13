@@ -1,6 +1,7 @@
 logic
 nextBlock
 
-	| portInOtherBlock |
-	portInOtherBlock := self portToNext connectedPort.
-	^ portInOtherBlock ifNotNil: [portInOtherBlock block]
+	| startPortInNextBlock |
+	startPortInNextBlock := self portToNext connectedPort.
+	
+	^ startPortInNextBlock ifNotNil: [startPortInNextBlock block]

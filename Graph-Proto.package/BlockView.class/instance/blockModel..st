@@ -1,4 +1,4 @@
 accessing
-blockModel: anObject
+blockModel: aGPBlockModel
 
-	blockModel := anObject.
+	blockModel := aGPBlockModel.

@@ -1,4 +1,4 @@
 accessing
-block: anObject
+block: aBlockModel
 
-	block := anObject.
+	block := aBlockModel.

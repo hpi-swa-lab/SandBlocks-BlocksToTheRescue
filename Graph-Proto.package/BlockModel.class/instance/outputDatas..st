@@ -1,4 +1,4 @@
 accessing
-outputDatas: anObject
+outputDatas: anOrderedCollection
 
-	outputDatas := anObject.
+	outputDatas := anOrderedCollection.

@@ -1,4 +1,4 @@
 configuration
-outputFlowDecider: anObject
+outputFlowDecider: anOrderedCollection
 
-	outputFlowDecider := anObject.
+	outputFlowDecider := anOrderedCollection.

@@ -1,4 +1,4 @@
 accessing
-type: anObject
+type: aGPPortType
 
-	type := anObject.
+	type := aGPPortType.

@@ -1,4 +1,4 @@
 accessing
-portType: anObject
+portType: aSymbol
 
-	portType := anObject.
+	portType := aSymbol.

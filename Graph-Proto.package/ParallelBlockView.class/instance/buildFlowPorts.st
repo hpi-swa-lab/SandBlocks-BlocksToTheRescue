@@ -1,5 +1,6 @@
 as yet unclassified
 buildFlowPorts 
 
-	self buildInputFlows;
-		buildPerl
+	self
+		buildInputFlows;
+		buildPerl.

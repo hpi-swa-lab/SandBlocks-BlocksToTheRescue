@@ -1,4 +1,4 @@
 accessing
-dragLine: anObject
+dragLine: aPolygonMorph
 
-	dragLine := anObject.
+	dragLine := aPolygonMorph.

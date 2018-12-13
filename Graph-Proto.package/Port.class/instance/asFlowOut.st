@@ -5,4 +5,4 @@ asFlowOut
 		asFlow;
 		type: PortType flowOut;
 		leftValueGetter: [self];
-		rightValueGetter: [self connectedPort ifNotNilDo: [:port | port block]]
+		rightValueGetter: [self connectedPort ifNotNilDo: [:port | port block]].

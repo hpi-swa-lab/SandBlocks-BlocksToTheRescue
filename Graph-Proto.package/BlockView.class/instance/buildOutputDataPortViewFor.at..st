@@ -3,7 +3,7 @@ buildOutputDataPortViewFor: aPort at: aNumber
 
 	self buildPort: aPort at: [:port |
 		port topRight: self topRight. 
-		port top: (aNumber + self topOffset) * (port height + 3)] 
+		port top: (aNumber + self topOffset) * (port height + 3)].
 	
 	
 

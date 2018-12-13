@@ -1,4 +1,4 @@
 accessing
-direction: anObject
+direction: aSymbol
 
-	direction := anObject.
+	direction := aSymbol.

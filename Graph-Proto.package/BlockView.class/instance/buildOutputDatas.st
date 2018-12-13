@@ -1,5 +1,5 @@
 building
 buildOutputDatas
 
-	self blockModel outputDatas doWithIndex: [:each :index | 
-		self buildOutputDataPortViewFor: each at: index]
+	self blockModel outputDatas doWithIndex:
+		[:each :index | self buildOutputDataPortViewFor: each at: index].

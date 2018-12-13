@@ -1,4 +1,4 @@
 as yet unclassified
 buildPerl
 	
-	self buildPerlViewFor: self blockModel perl
+	self buildPerlViewFor: self blockModel perl.

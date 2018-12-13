@@ -1,4 +1,4 @@
 configuration
-action: anObject
+action: aBlock
 
-	action := anObject.
+	action := aBlock.

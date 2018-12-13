@@ -5,4 +5,4 @@ asFlowIn
 		asFlow;
 	 	type: PortType flowIn;
 		leftValueGetter: [self connectedPort ifNotNilDo: [:port | port block]];
-		rightValueGetter: [self]
+		rightValueGetter: [self].

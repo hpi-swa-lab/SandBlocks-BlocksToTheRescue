@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"asPerl" : "BD 12/13/2018 10:38",
+		"conditionBlock" : "BD 12/13/2018 10:20",
 		"conditionText" : "WoC 12/12/2018 14:21",
-		"conditionText:" : "WoC 12/12/2018 14:21",
-		"initialize" : "WoC 12/12/2018 15:17" } }
+		"conditionText:" : "BD 12/13/2018 10:35",
+		"initialize" : "BD 12/13/2018 10:38",
+		"initializeConditionText" : "BD 12/13/2018 10:36",
+		"vertices" : "BD 12/13/2018 10:35" } }

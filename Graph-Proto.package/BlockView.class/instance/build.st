@@ -3,4 +3,4 @@ build
 
 	self buildName;
 		buildFlowPorts;
-		buildDataPorts
+		buildDataPorts.

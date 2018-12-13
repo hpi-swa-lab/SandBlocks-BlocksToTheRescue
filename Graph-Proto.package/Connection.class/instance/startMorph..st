@@ -1,5 +1,5 @@
 accessing
-startMorph: anObject
+startMorph: aPort
 
-	startMorph := anObject.
-	anObject connection: self
+	startMorph := aPort.
+	aPort connection: self

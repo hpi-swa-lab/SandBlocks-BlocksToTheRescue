@@ -7,6 +7,6 @@ mouseUp: evt
 	Port allInstances 
 		detect: [:each | each containsPoint: evt position]
 		ifFound: [:port | port getDrop: self]
-		ifNone: []
+		ifNone: [].
 	
 	"evt hand inspect"

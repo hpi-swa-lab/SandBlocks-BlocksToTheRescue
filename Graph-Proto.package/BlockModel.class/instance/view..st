@@ -1,4 +1,4 @@
 accessing
-view: anObject
+view: aGPBlockView
 
-	view := anObject.
+	view := aGPBlockView.

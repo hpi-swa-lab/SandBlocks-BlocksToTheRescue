@@ -1,4 +1,4 @@
 accessing
-connection: anObject
+connection: aConnection
 
-	connection := anObject.
+	connection := aConnection.

@@ -5,4 +5,4 @@ asDataOut
 		asData;
 		type: PortType dataOut;
 		leftValueGetter: [self block getDataAt: self];
-		rightValueGetter: [self connectedPort rightValue]
+		rightValueGetter: [self connectedPort rightValue].

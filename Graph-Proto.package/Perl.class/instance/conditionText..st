@@ -1,4 +1,4 @@
 accessing
-conditionText: anObject
+conditionText: aTextMorph
 
-	conditionText := anObject.
+	conditionText := aTextMorph.

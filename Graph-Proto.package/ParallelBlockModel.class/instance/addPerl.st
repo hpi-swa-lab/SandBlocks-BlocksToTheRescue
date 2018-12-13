@@ -1,4 +1,4 @@
 as yet unclassified
 addPerl
 
-	self perl: Perl new
+	self perl: Perl new.

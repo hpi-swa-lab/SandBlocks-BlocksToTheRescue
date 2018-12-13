@@ -1,4 +1,4 @@
 accessing
-inputFlows: anObject
+inputFlows: anOrderedCollection
 
-	inputFlows := anObject.
+	inputFlows := anOrderedCollection.

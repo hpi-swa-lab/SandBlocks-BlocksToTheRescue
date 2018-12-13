@@ -1,4 +1,4 @@
 accessing
-rightValueGetter: anObject
+rightValueGetter: aBlock
 
-	rightValueGetter := anObject.
+	rightValueGetter := aBlock.

@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"perl" ],
+		"perl",
+		"processes",
+		"finishedProcessesCount" ],
 	"name" : "ParallelBlockModel",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
 add ports
 addOutputData
 
-	self outputDatas add: Port new asDataOut 
+	self outputDatas add: Port new asDataOut.

@@ -1,4 +1,4 @@
 accessing
-perl: anObject
+perl: aGPPerl
 
-	perl := anObject.
+	perl := aGPPerl.
