@@ -1,15 +1,15 @@
 {
-	"category" : "Graph-Proto",
+	"category" : "Configuration-Prototype",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"startMorph",
-		"endMorph" ],
-	"name" : "Connection",
+		"code",
+		"codeMorph" ],
+	"name" : "CFGPuzzlePiece",
 	"pools" : [
 		 ],
-	"super" : "PolygonMorph",
+	"super" : "Morph",
 	"type" : "normal" }

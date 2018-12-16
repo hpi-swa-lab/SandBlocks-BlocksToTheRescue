@@ -1,0 +1,4 @@
+initialization
+spacerSize
+
+	^ PPPuzzlePiece defaultSize

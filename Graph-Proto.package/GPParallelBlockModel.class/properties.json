@@ -8,7 +8,9 @@
 	"instvars" : [
 		"perl",
 		"processes",
-		"finishedProcessesCount" ],
+		"finishedProcessesCount",
+		"errorCount",
+		"errorContext" ],
 	"name" : "GPParallelBlockModel",
 	"pools" : [
 		 ],
