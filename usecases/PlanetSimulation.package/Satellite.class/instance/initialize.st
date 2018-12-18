@@ -3,5 +3,4 @@ initialize
 
 	super initialize.
 	self 
-		time: 0;
-		currentRotation: 0.
+		time: 0.

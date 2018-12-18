@@ -6,12 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"eccentricity",
-		"semimajoraxis",
-		"period",
-		"time" ],
-	"name" : "Satellite",
+		"currentValue",
+		"formula",
+		"accuracy" ],
+	"name" : "NewtonMethod",
 	"pools" : [
 		 ],
-	"super" : "CelestialBody",
+	"super" : "Object",
 	"type" : "normal" }
