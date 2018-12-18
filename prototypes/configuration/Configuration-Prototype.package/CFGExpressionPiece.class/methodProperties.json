@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defaultNew" : "LM 12/17/2018 09:55",
+		"defaultSize" : "LM 12/17/2018 10:21" },
+	"instance" : {
+		"accept:" : "LM 12/17/2018 10:47",
+		"acceptDroppingMorph:event:" : "LM 12/17/2018 10:05",
+		"addSpacersAround:" : "LM 12/17/2018 10:11",
+		"createSpacer" : "LM 12/17/2018 09:46",
+		"drawHighlightOn:" : "LM 12/17/2018 10:12",
+		"initialize" : "LM 12/17/2018 10:21",
+		"initializeCodeMorph" : "LM 12/17/2018 09:48",
+		"initializeLayout" : "LM 12/17/2018 09:56",
+		"leftElement" : "LM 12/17/2018 09:38",
+		"leftElement:" : "LM 12/17/2018 10:10",
+		"removedMorph:" : "LM 12/17/2018 10:07",
+		"rightElement" : "LM 12/17/2018 09:38",
+		"rightElement:" : "LM 12/17/2018 10:10" } }

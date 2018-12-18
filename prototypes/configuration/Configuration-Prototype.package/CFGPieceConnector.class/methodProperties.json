@@ -1,8 +1,10 @@
 {
 	"class" : {
+		"defaultExpressionNew" : "LM 12/17/2018 10:01",
 		"defaultForkNew" : "LM 12/13/2018 14:16",
 		"defaultNew" : "LM 12/13/2018 14:09",
 		"defaultOptionNew" : "LM 12/13/2018 14:09",
+		"defaultSettingsReferenceNew" : "LM 12/17/2018 10:54",
 		"defaultWithCode:" : "LM 12/13/2018 10:43",
 		"newWith:following:" : "LM 12/13/2018 13:58" },
 	"instance" : {

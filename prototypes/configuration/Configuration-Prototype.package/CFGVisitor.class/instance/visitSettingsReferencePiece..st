@@ -1,0 +1,4 @@
+as yet unclassified
+visitSettingsReferencePiece: aCFGSettingReference
+
+	self subclassResponsibility.

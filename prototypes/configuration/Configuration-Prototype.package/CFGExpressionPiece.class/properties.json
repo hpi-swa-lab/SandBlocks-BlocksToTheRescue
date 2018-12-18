@@ -1,0 +1,15 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftElement",
+		"rightElement" ],
+	"name" : "CFGExpressionPiece",
+	"pools" : [
+		 ],
+	"super" : "CFGPuzzlePiece",
+	"type" : "normal" }

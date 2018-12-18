@@ -6,10 +6,14 @@
 		"accumulateListFrom:" : "LM 12/13/2018 15:43",
 		"configuration" : "LM 12/13/2018 15:16",
 		"configuration:" : "LM 12/13/2018 15:17",
+		"convertSettingsToObjects:" : "LM 12/17/2018 15:08",
 		"options" : "LM 12/13/2018 14:59",
 		"options:" : "LM 12/13/2018 14:59",
-		"settingForOptions:" : "LM 12/13/2018 16:20",
+		"plainSettingForOptions:" : "LM 12/17/2018 13:54",
+		"settingForOptions:" : "LM 12/17/2018 13:55",
 		"visitAPieceConnector:" : "LM 12/13/2018 16:05",
+		"visitExpressionPiece:" : "LM 12/17/2018 15:11",
 		"visitForkPuzzlePiece:" : "LM 12/13/2018 16:03",
 		"visitPuzzlePiece:" : "LM 12/13/2018 15:04",
-		"visitSpacer:" : "LM 12/13/2018 15:14" } }
+		"visitSettingsReferencePiece:" : "LM 12/17/2018 15:01",
+		"visitSpacer:" : "LM 12/17/2018 10:38" } }

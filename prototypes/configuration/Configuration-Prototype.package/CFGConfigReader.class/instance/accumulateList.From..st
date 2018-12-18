@@ -1,4 +1,4 @@
-as yet unclassified
+visiting
 accumulateList: anOrderedCollection From: aCFGPieceConnector
 	
 	anOrderedCollection addLast: (self visit: aCFGPieceConnector puzzlePiece).
