@@ -2,4 +2,5 @@ initialization
 initializeStyle
 
 	self color: Color brown.
-	self layoutPolicy: ProportionalLayout new.
+	self extent: 90@80.
+	self layoutPolicy: GPBlockLayout new.

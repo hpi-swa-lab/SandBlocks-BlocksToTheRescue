@@ -1,6 +1,10 @@
 building
 build
 
-	self buildName;
+	self
+		initializeContainers;
+		buildName;
 		buildFlowPorts;
-		buildDataPorts.
+		buildDataPorts;
+		setLayoutParameters;
+		addContainers.
