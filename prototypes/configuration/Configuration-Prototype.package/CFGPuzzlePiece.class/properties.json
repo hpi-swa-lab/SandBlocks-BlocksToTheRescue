@@ -1,0 +1,15 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"code",
+		"codeMorph" ],
+	"name" : "CFGPuzzlePiece",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

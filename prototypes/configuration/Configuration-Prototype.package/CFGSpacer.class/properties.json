@@ -1,0 +1,14 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFGSpacer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

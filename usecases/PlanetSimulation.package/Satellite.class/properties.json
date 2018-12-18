@@ -9,8 +9,7 @@
 		"eccentricity",
 		"semimajoraxis",
 		"period",
-		"time",
-		"currentRotation" ],
+		"time" ],
 	"name" : "Satellite",
 	"pools" : [
 		 ],

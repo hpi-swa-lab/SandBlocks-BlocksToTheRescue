@@ -1,0 +1,16 @@
+{
+	"category" : "PlanetSimulation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentValue",
+		"formula",
+		"accuracy" ],
+	"name" : "NewtonMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

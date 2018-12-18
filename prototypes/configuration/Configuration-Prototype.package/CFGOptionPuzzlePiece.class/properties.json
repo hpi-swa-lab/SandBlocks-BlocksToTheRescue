@@ -1,0 +1,16 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topSpacer",
+		"bottomSpacer",
+		"branches" ],
+	"name" : "CFGOptionPuzzlePiece",
+	"pools" : [
+		 ],
+	"super" : "CFGPuzzlePiece",
+	"type" : "normal" }
