@@ -1,4 +1,4 @@
-as yet unclassified
+visiting
 visitSpacer: aCFGSpacer
 	
-	^ nil
+	^ ''

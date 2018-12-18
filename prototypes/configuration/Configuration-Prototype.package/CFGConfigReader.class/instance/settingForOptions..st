@@ -1,7 +1,4 @@
-as yet unclassified
+settings reading
 settingForOptions: aCollection
 
-	self options: (OrderedCollection newFrom: aCollection).
-	^ self options
-		ifEmpty: [nil]
-		ifNotEmpty: [self visit: self configuration].
+	^ self convertSettingsToObjects: (self plainSettingForOptions: aCollection)

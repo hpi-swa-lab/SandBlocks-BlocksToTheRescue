@@ -1,4 +1,4 @@
-as yet unclassified
+visiting
 accumulateListFrom: aCFGPieceConnector
 
 	^ self accumulateList: OrderedCollection new From: aCFGPieceConnector.

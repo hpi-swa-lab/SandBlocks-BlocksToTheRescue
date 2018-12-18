@@ -4,7 +4,9 @@
 	"instance" : {
 		"visit:" : "LM 11/28/2018 10:51",
 		"visitAPieceConnector:" : "LM 11/28/2018 10:53",
+		"visitExpressionPiece:" : "LM 12/17/2018 10:13",
 		"visitFollowing:" : "LM 11/28/2018 10:53",
 		"visitForkPuzzlePiece:" : "LM 11/28/2018 10:53",
 		"visitPuzzlePiece:" : "LM 11/28/2018 10:54",
+		"visitSettingsReferencePiece:" : "LM 12/17/2018 13:55",
 		"visitSpacer:" : "LM 11/29/2018 16:23" } }
