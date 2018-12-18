@@ -1,0 +1,14 @@
+{
+	"category" : "Graph-Proto",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gridPositionName" ],
+	"name" : "GPLayoutFrame",
+	"pools" : [
+		 ],
+	"super" : "LayoutFrame",
+	"type" : "normal" }

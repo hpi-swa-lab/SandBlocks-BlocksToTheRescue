@@ -4,5 +4,5 @@ asFlowOut
 	self 
 		asFlow;
 		type: GPPortType flowOut;
-		leftValueGetter: [self];
+		leftValueGetter: [self block];
 		rightValueGetter: [self connectedPort ifNotNilDo: [:port | port block]].
