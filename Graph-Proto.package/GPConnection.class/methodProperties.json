@@ -2,9 +2,12 @@
 	"class" : {
 		"from:to:" : "WoC 11/29/2018 09:44" },
 	"instance" : {
+		"delete" : "WoC 12/18/2018 16:11",
 		"endMorph" : "WoC 11/29/2018 09:30",
 		"endMorph:" : "BD 12/13/2018 10:27",
+		"handlesMouseDown:" : "WoC 12/18/2018 16:06",
 		"morphicLayerNumber" : "WoC 12/12/2018 14:35",
+		"mouseDown:" : "WoC 12/18/2018 16:06",
 		"otherSideOf:" : "WoC 11/29/2018 10:01",
 		"place" : "BD 12/13/2018 10:27",
 		"startMorph" : "WoC 11/29/2018 09:30",
