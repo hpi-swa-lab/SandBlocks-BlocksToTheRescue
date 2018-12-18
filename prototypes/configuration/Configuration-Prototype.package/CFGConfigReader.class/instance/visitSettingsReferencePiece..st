@@ -1,4 +1,5 @@
 visiting
 visitSettingsReferencePiece: aCFGSettingReference
 
-	^ self plainSettingForOptions: (Compiler evaluate: '{', aCFGSettingReference code, '}').
+	^ (self class newFor: self configuration) 
+		plainSettingForOptions: (Compiler evaluate: '{', aCFGSettingReference code, '}').
