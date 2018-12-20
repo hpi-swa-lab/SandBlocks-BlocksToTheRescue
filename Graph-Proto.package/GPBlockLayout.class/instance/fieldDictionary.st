@@ -1,0 +1,4 @@
+accessing
+fieldDictionary
+
+	^ fieldDictionary

@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"blockModel" ],
+		"blockModel",
+		"inputFlowContainer",
+		"outputFlowContainer",
+		"inputDataContainer",
+		"outputDataContainer" ],
 	"name" : "GPBlockView",
 	"pools" : [
 		 ],

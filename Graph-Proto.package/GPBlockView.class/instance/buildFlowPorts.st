@@ -1,8 +1,9 @@
 building
 buildFlowPorts
 
-	self buildInputFlows;
-		buildOutputFlows.
+	self
+		buildInputFlowsIn: self inputFlowContainer;
+		buildOutputFlowsIn: self outputFlowContainer.
 	
 
 	

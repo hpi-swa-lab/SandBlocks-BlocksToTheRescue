@@ -1,0 +1,14 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFGSettingReference",
+	"pools" : [
+		 ],
+	"super" : "CFGPuzzlePiece",
+	"type" : "normal" }

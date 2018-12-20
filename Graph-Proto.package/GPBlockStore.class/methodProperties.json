@@ -3,7 +3,9 @@
 		"open" : "WoC 12/12/2018 12:15" },
 	"instance" : {
 		"dataSource" : "BD 12/13/2018 10:44",
+		"exampleBlock" : "WoC 12/18/2018 13:53",
 		"ifBlock" : "BD 12/13/2018 10:44",
+		"log" : "WoC 12/15/2018 12:52",
 		"normie" : "BD 12/13/2018 10:44",
 		"parallelNormie" : "BD 12/13/2018 10:44",
 		"registeredBlockTypes" : "WoC 12/12/2018 12:12" } }

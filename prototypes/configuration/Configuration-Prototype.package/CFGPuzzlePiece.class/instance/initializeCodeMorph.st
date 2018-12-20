@@ -3,4 +3,7 @@ initializeCodeMorph
 
 	self codeMorph: StringMorph new.
 	self codeMorph lock.
-	self addMorph: self codeMorph.
+	self 
+		hResizing: #shrinkWrap;
+		vResizing: #shrinkWrap;
+		addMorph: self codeMorph.
