@@ -10,7 +10,8 @@
 		"inputFlowContainer",
 		"outputFlowContainer",
 		"inputDataContainer",
-		"outputDataContainer" ],
+		"outputDataContainer",
+		"codeMorph" ],
 	"name" : "GPBlockView",
 	"pools" : [
 		 ],

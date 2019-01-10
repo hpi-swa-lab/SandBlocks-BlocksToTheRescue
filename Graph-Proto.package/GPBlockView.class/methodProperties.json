@@ -2,6 +2,7 @@
 	"class" : {
 		"for:" : "WoC 12/12/2018 14:44" },
 	"instance" : {
+		"accept:" : "LM 1/10/2019 11:48",
 		"addContainers" : "BD 12/18/2018 10:56",
 		"blockModel" : "WoC 11/29/2018 10:33",
 		"blockModel:" : "BD 12/13/2018 10:23",
@@ -28,9 +29,13 @@
 		"buildOutputFlowsIn:" : "BD 12/18/2018 10:35",
 		"buildPort:at:" : "BD 12/13/2018 10:25",
 		"buildPort:at:in:" : "BD 12/18/2018 10:33",
+		"code" : "LM 1/10/2019 11:57",
+		"code:" : "LM 1/10/2019 11:27",
+		"codeMorph" : "LM 1/10/2019 11:27",
+		"codeMorph:" : "LM 1/10/2019 11:30",
 		"execute" : "BD 12/13/2018 10:26",
 		"handlesMouseDown:" : "WoC 12/12/2018 14:30",
-		"initialize" : "WoC 11/29/2018 22:37",
+		"initialize" : "LM 1/10/2019 13:35",
 		"initializeContainers" : "WoC 12/18/2018 22:05",
 		"initializeStyle" : "BD 12/18/2018 11:09",
 		"inputDataContainer" : "BD 12/18/2018 10:40",
