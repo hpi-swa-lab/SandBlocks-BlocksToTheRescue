@@ -1,5 +1,5 @@
 building
 buildDataPorts
 
-	self buildInputDatas;
-		buildOutputDatas.
+	self buildInputDatasIn: self inputDataContainer;
+		buildOutputDatasIn: self outputDataContainer.

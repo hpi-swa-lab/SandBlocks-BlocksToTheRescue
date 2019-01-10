@@ -4,4 +4,4 @@ eccentricAnomaly
 	^ (NewtonMethod
 		formula: self eccentricAnomalyNewtonFormula
 		startValue: self meanAnomaly
-		accuracy: 0.00000001) calculate
+		accuracy: 0.1**10) calculate

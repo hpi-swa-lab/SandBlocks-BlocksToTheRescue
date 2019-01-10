@@ -1,4 +1,4 @@
 as yet unclassified
-cubeKilometers
+megameters
 
 	^ 1
