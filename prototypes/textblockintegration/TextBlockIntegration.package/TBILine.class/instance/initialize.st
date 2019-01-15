@@ -8,4 +8,6 @@ initialize
 		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
 		assureTableProperties.
-	self layoutProperties listDirection: #leftToRight.
+		
+	self layoutProperties
+		listDirection: #leftToRight.

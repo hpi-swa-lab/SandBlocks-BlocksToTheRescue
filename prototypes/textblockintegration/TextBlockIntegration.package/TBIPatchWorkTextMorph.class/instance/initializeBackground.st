@@ -9,6 +9,7 @@ initializeBackground
 		vResizing: #shrinkWrap;
 		layoutPolicy: TableLayout new;
 		assureTableProperties.
+		
 	self background layoutProperties 
 		listDirection: #topToBottom;
-		wrapCentering: #topLeft.
+		cellPositioning: #topLeft.
