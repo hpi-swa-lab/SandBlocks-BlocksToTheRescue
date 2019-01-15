@@ -1,0 +1,14 @@
+{
+	"category" : "TextBlockIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TBILine",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

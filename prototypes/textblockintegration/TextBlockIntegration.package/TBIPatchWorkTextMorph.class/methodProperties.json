@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addLine" : "BD 1/15/2019 12:00",
+		"addPatch:inLine:" : "BD 1/15/2019 11:58",
+		"background" : "BD 1/15/2019 11:17",
+		"background:" : "BD 1/15/2019 11:17",
+		"initialize" : "BD 1/15/2019 11:36",
+		"initializeBackground" : "BD 1/15/2019 12:07",
+		"patches" : "BD 1/15/2019 11:09",
+		"patches:" : "BD 1/15/2019 11:09" } }
