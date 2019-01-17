@@ -1,6 +1,9 @@
 {
 	"class" : {
-		"isColorConstant:" : "ms 1/15/2019 14:24",
-		"metaToolIconSelector:" : "ms 1/15/2019 14:20" },
+		"isColorConstant:" : "ms 1/17/2019 16:08",
+		"isMethodClassVariableGetter:" : "ms 1/17/2019 15:48",
+		"isMethodRGBColorConstant:" : "ms 1/17/2019 15:48",
+		"metaToolIconSelector:" : "ms 1/15/2019 14:20",
+		"probablyIsColorReturningMethod:" : "ms 1/17/2019 16:08" },
 	"instance" : {
 		 } }
