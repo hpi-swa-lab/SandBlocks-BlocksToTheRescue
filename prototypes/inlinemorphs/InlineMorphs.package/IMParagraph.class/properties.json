@@ -1,0 +1,14 @@
+{
+	"category" : "InlineMorphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IMParagraph",
+	"pools" : [
+		 ],
+	"super" : "NewParagraph",
+	"type" : "normal" }
