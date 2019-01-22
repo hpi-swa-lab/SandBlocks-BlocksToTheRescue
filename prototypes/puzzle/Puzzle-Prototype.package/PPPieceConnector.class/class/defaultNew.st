@@ -3,5 +3,4 @@ defaultNew
 	
 	^ self new
 		puzzlePiece: PPPuzzlePiece create;
-		fullBounds;
 		yourself

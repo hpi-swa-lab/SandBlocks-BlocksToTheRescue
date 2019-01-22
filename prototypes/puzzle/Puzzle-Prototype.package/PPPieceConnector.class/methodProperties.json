@@ -1,9 +1,8 @@
 {
 	"class" : {
-		"defaultForkNew" : "LM 12/13/2018 13:57",
-		"defaultNew" : "LM 12/13/2018 13:57",
-		"defaultWithCode:" : "LM 12/13/2018 10:43",
-		"newWith:following:" : "LM 12/13/2018 13:58" },
+		"defaultForkNew" : "BD 11/26/2018 14:26",
+		"defaultNew" : "BD 11/26/2018 14:26",
+		"newWith:following:" : "mt 11/23/2018 09:56" },
 	"instance" : {
 		"accept:" : "LM 11/28/2018 10:55",
 		"appendLast:" : "mt 11/23/2018 09:44",
@@ -16,8 +15,8 @@
 		"enableShrinkWrap" : "BD 11/27/2018 09:06",
 		"followingConnector" : "mt 11/23/2018 09:44",
 		"followingConnector:" : "mt 11/23/2018 09:44",
-		"handlesMouseDown:" : "LM 12/13/2018 09:59",
-		"initialize" : "BD 12/4/2018 09:40",
+		"handlesMouseDown:" : "LM 11/22/2018 15:10",
+		"initialize" : "BD 11/27/2018 09:06",
 		"insertMorph:" : "mt 11/23/2018 09:53",
 		"isTerminated" : "mt 11/23/2018 09:43",
 		"mouseDown:" : "LM 11/22/2018 15:09",

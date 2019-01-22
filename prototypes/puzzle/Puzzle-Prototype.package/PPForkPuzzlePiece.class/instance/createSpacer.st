@@ -2,7 +2,7 @@ initialization
 createSpacer
 		
 	^ Morph new 
-		extent: self spacerSize;
+		extent: PPPuzzlePiece defaultSize;
 		color: Color transparent;
 		borderWidth: 0;
 		yourself

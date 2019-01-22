@@ -1,4 +1,0 @@
-accessing
-puzzlePiece
-
-	^ puzzlePiece

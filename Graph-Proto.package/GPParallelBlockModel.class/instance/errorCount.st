@@ -1,4 +1,0 @@
-accessing
-errorCount
-
-	^ errorCount

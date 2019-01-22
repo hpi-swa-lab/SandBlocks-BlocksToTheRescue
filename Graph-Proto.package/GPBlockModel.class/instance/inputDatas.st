@@ -1,4 +1,0 @@
-accessing
-inputDatas
-
-	^ inputDatas

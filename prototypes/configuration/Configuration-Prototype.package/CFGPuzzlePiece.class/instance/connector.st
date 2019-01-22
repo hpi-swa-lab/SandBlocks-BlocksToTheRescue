@@ -1,4 +1,0 @@
-accessing
-connector
-
-	^ self owner

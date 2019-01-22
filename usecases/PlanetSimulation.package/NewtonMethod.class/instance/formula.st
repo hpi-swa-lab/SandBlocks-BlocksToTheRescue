@@ -1,4 +1,0 @@
-accessing
-formula
-
-	^ formula
