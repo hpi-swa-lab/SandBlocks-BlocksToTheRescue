@@ -13,4 +13,4 @@ assignees: ''
 
 **Ziele**
 
-[//] Bitte vergiss nicht dich zu assignen (wenn du beginnst an dem Issue zu arbeiten) und den entsprechenden Milestone anzugeben.
+[//]: <Bitte vergiss nicht dich zu assignen (wenn du beginnst an dem Issue zu arbeiten) und den entsprechenden Milestone anzugeben.>
