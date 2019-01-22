@@ -1,12 +1,16 @@
 ---
 name: Work item
-about: An item to be worked on
+about: Ein Item, an dem konkret gerade gearbeitet wird
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Motivation & Context**
+**Motivation & Kontext**
 
-**Goals**
+**Bezugspunkt**
+
+**Ziele**
+
+[//] Bitte vergiss nicht dich zu assignen (wenn du beginnst an dem Issue zu arbeiten) und den entsprechenden Milestone anzugeben.
