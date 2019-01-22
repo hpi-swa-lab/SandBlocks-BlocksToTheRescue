@@ -1,0 +1,17 @@
+{
+	"category" : "PlanetSimulation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eccentricity",
+		"semimajoraxis",
+		"period",
+		"time" ],
+	"name" : "Satellite",
+	"pools" : [
+		 ],
+	"super" : "CelestialBody",
+	"type" : "normal" }

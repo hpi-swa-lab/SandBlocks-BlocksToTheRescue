@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aboutToBeGrabbedBy:" : "LM 12/13/2018 14:50",
+		"createSpacer" : "LM 12/17/2018 09:46",
+		"enableShrinkWrap" : "LM 11/22/2018 14:33",
+		"initialize" : "LM 12/13/2018 14:10",
+		"initializeSpacers" : "LM 11/22/2018 14:45",
+		"leftElement" : "LM 11/22/2018 14:23",
+		"leftElement:" : "LM 12/13/2018 14:47",
+		"removedMorph:" : "LM 11/22/2018 15:17",
+		"rightElement" : "LM 11/22/2018 14:23",
+		"rightElement:" : "LM 11/22/2018 15:22" } }

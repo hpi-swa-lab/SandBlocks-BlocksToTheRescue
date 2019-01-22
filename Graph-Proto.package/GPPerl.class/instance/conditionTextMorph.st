@@ -1,0 +1,4 @@
+accessing
+conditionTextMorph
+
+	^ conditionTextMorph

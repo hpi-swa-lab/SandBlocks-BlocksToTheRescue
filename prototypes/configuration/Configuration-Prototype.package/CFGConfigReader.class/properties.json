@@ -1,0 +1,15 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"options",
+		"configuration" ],
+	"name" : "CFGConfigReader",
+	"pools" : [
+		 ],
+	"super" : "CFGVisitor",
+	"type" : "normal" }

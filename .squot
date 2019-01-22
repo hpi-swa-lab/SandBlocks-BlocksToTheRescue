@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'Graph-Proto.package' : #SquotCypressCodeSerializer,
 	'Metablocks.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/BaselineOfBreakout.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,
@@ -18,6 +19,12 @@ OrderedDictionary {
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Tests.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-View.package' : #SquotCypressCodeSerializer,
+	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer,
+	'prototypes\/configuration\/Configuration-Prototype.package' : #SquotCypressCodeSerializer,
+	'prototypes\/inlinemorphs\/InlineMorphs.package' : #SquotCypressCodeSerializer,
+	'prototypes\/multiplecodeviews\/MultipleCodeViews.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/BaselineOfPuzzlePrototype.package' : #SquotCypressCodeSerializer,
-	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer
+	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,
+	'prototypes\/textblockintegration\/TextBlockIntegration.package' : #SquotCypressCodeSerializer,
+	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer
 }

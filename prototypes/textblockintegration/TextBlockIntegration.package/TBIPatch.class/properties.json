@@ -1,0 +1,15 @@
+{
+	"category" : "TextBlockIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"type" ],
+	"name" : "TBIPatch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

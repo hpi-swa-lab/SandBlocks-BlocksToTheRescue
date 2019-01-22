@@ -1,0 +1,15 @@
+{
+	"category" : "Configuration-Prototype",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftElement",
+		"rightElement" ],
+	"name" : "CFGPairMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

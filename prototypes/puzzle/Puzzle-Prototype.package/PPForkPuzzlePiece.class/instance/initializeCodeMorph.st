@@ -1,7 +1,6 @@
 accessing
 initializeCodeMorph
 
-	self
-		codeMorph: StringMorph new;
-		initializeSpacers.
+	super initializeCodeMorph.
+	self initializeSpacers.
 	self topSpacer addMorph: codeMorph.

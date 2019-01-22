@@ -1,0 +1,14 @@
+{
+	"category" : "IconsForMessages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ColorIconTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

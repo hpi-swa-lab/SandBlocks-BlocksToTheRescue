@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blockFor:connectedTo:" : "LM 1/10/2019 11:24",
+		"codeStringFor:" : "LM 1/10/2019 13:22",
+		"connect:to:" : "LM 1/10/2019 10:24",
+		"generateIfBlock:connectedTo:" : "LM 1/10/2019 13:25",
+		"generateMessageBlock:connectedTo:" : "LM 1/10/2019 10:10",
+		"generateStatementBlock:connectedTo:" : "LM 1/10/2019 10:08",
+		"lastBlockInChain:" : "LM 1/10/2019 10:48",
+		"visitBlockNode:" : "LM 1/10/2019 10:43" } }
