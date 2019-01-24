@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"continueThisLine" ],
-	"name" : "IMCompositionScanner",
+		 ],
+	"name" : "IMColorMorph",
 	"pools" : [
 		 ],
-	"super" : "CompositionScanner",
+	"super" : "Morph",
 	"type" : "normal" }

@@ -2,5 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"composeFrom:inRectangle:firstLine:leftSide:rightSide:" : "BD 1/22/2019 12:07",
-		"endOfRun" : "BD 1/22/2019 12:07" } }
+		"composeFrom:inRectangle:firstLine:leftSide:rightSide:" : "BD 1/24/2019 14:30",
+		"continueThisLine" : "BD 1/24/2019 14:09",
+		"continueThisLine:" : "BD 1/24/2019 14:09",
+		"endOfRun" : "BD 1/24/2019 14:43" } }
