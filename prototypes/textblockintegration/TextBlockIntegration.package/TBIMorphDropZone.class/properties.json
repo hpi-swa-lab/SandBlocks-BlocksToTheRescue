@@ -1,0 +1,15 @@
+{
+	"category" : "TextBlockIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"image" ],
+	"name" : "TBIMorphDropZone",
+	"pools" : [
+		 ],
+	"super" : "TBIPatchBlockContent",
+	"type" : "normal" }

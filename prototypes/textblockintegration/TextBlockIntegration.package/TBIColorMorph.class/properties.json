@@ -10,5 +10,5 @@
 	"name" : "TBIColorMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "TBIPatchBlockContent",
 	"type" : "normal" }

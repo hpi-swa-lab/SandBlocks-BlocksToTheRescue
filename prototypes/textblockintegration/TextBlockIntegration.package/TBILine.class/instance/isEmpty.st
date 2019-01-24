@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isEmpty
 
 	^ self patches isEmpty

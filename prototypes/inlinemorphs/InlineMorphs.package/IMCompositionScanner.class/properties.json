@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"continueThisLine" ],
 	"name" : "IMCompositionScanner",
 	"pools" : [
 		 ],

@@ -1,0 +1,15 @@
+{
+	"category" : "TextBlockIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"image",
+		"imageMorph" ],
+	"name" : "TBIImageMorph",
+	"pools" : [
+		 ],
+	"super" : "TBIPatchBlockContent",
+	"type" : "normal" }
