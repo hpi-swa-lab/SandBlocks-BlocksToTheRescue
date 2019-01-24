@@ -1,0 +1,14 @@
+{
+	"category" : "InlineMorphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inlineMorph" ],
+	"name" : "IMTextAttribute",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }
