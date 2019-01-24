@@ -1,7 +1,7 @@
 instance creation
-newBlock: aMorph
+newBlock
 
 	^ self new
-		morph: Morph new;
+		morph: (TBIColorMorph new);
 		type: #block;
 		yourself
