@@ -2,9 +2,22 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addLine" : "BD 1/15/2019 12:00",
+		"addLine" : "WoC 1/22/2019 14:11",
 		"addPatch:inLine:" : "BD 1/15/2019 11:58",
 		"background" : "BD 1/15/2019 11:17",
 		"background:" : "BD 1/15/2019 11:17",
-		"initialize" : "BD 1/15/2019 15:19",
-		"initializeBackground" : "BD 1/15/2019 15:52" } }
+		"chooseBlockType" : "WoC 1/24/2019 11:18",
+		"createAndAddTextIfNecessary" : "WoC 1/22/2019 13:31",
+		"currentLine" : "WoC 1/17/2019 14:29",
+		"currentLineNumber" : "WoC 1/17/2019 13:46",
+		"currentLineNumber:" : "WoC 1/17/2019 13:46",
+		"filterEvent:for:" : "WoC 1/24/2019 10:52",
+		"focusPatch:" : "WoC 1/22/2019 11:37",
+		"goToLine:" : "WoC 1/17/2019 15:20",
+		"handleKeyboardEvent:" : "WoC 1/24/2019 11:50",
+		"initialize" : "WoC 1/17/2019 13:47",
+		"initializeBackground" : "BD 1/15/2019 15:52",
+		"layoutChanged" : "WoC 1/22/2019 12:07",
+		"lines" : "WoC 1/17/2019 13:26",
+		"lines:" : "WoC 1/17/2019 13:26",
+		"registeredBlockClassses" : "WoC 1/24/2019 13:10" } }

@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"newBlock:" : "BD 1/15/2019 11:31",
+		"newBlock" : "WoC 1/24/2019 09:58",
+		"newBlock:" : "WoC 1/24/2019 11:20",
+		"newText" : "WoC 1/17/2019 11:44",
 		"newText:" : "BD 1/15/2019 11:31" },
 	"instance" : {
-		"handlesMouseDown:" : "BD 1/15/2019 15:43",
 		"morph" : "BD 1/15/2019 11:14",
 		"morph:" : "BD 1/15/2019 11:14",
-		"mouseDown:" : "BD 1/15/2019 15:45",
 		"type" : "BD 1/15/2019 11:14",
 		"type:" : "BD 1/15/2019 11:15" } }

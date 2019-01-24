@@ -1,0 +1,4 @@
+accessing
+currentLineNumber
+
+	^ currentLineNumber

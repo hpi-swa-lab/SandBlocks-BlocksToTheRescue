@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dropFiles:" : "WoC 1/24/2019 14:24",
+		"formFrom:" : "WoC 1/24/2019 14:28",
+		"handleDroppedImage:event:" : "WoC 1/24/2019 14:30",
+		"handleDroppedItem:event:" : "WoC 1/24/2019 14:28",
+		"image" : "WoC 1/24/2019 13:48",
+		"image:" : "WoC 1/24/2019 13:48",
+		"imageMorph" : "WoC 1/24/2019 14:29",
+		"imageMorph:" : "WoC 1/24/2019 14:29",
+		"initialize" : "WoC 1/24/2019 14:33",
+		"isImageFileName:" : "WoC 1/24/2019 14:25",
+		"isImageStream:" : "WoC 1/24/2019 14:09",
+		"wantsDropFiles:" : "WoC 1/24/2019 13:57" } }

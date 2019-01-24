@@ -1,9 +1,10 @@
-as yet unclassified
+initialization
 initialize 
 
 	super initialize.
+	self patches: OrderedCollection new.
 	self 
-		color: Color seaFoam;
+		color: Color transparent;
 		layoutPolicy: TableLayout new;
 		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;

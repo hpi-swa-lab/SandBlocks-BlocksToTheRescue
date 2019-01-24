@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"patches" ],
-	"name" : "TBILine",
+		"morph",
+		"image" ],
+	"name" : "TBIMorphDropZone",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "TBIPatchBlockContent",
 	"type" : "normal" }
