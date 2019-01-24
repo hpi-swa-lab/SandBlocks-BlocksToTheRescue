@@ -1,4 +1,4 @@
 *IconsForMessages
 asIcon
 
-	^ self asIconOfSize:12
+	^ self asIconOfSize: 12

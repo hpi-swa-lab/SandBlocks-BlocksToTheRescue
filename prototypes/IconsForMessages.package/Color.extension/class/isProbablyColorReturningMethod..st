@@ -1,5 +1,5 @@
 *IconsForMessages
-probablyIsColorReturningMethod: messageSymbol
+isProbablyColorReturningMethod: messageSymbol
 
 	^ (self isMethodClassVariableGetter: messageSymbol)
 		or: [self isMethodRGBColorConstant: messageSymbol]

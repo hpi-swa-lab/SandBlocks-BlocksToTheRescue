@@ -2,5 +2,5 @@
 metaToolIconSelector: aSymbol
 
 	(self isColorConstant: aSymbol)
-		ifTrue: [^ #testRed].
+		ifTrue: [^ MethodReference class: self selector: aSymbol].
 	^ #blank
