@@ -16,9 +16,10 @@ endOfRun
 			spaceX := destX := destX + attribute inlineMorph width.
 			line setRight: spaceX.
 			line paddingWidth: rightMargin - destX.
-			self continueThisLine: rightMargin > 0.
 			(lastIndex = text size)
-				ifFalse: [runLength := (text runLengthFor: (lastIndex := lastIndex + 1)).
+				ifFalse: [
+					self continueThisLine: rightMargin > 0.
+					runLength := (text runLengthFor: (lastIndex := lastIndex + 1)).
 					runStopIndex := lastIndex + (runLength - 1).
 					self setStopConditions].
 			leftMargin := spaceX.
