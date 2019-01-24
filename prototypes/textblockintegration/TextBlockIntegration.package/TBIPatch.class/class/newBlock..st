@@ -2,6 +2,6 @@ instance creation
 newBlock: aMorph
 
 	^ self new
-		morph: Morph new;
+		morph: aMorph;
 		type: #block;
 		yourself

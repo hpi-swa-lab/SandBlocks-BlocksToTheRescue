@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TBIColorMorph",
+		"morph",
+		"image" ],
+	"name" : "TBIMorphDropZone",
 	"pools" : [
 		 ],
 	"super" : "TBIPatchBlockContent",

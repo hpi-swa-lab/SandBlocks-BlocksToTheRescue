@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "TBIColorMorph",
+	"name" : "TBIPatchBlockContent",
 	"pools" : [
 		 ],
-	"super" : "TBIPatchBlockContent",
+	"super" : "Morph",
 	"type" : "normal" }

@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TBIColorMorph",
+		"image",
+		"imageMorph" ],
+	"name" : "TBIImageMorph",
 	"pools" : [
 		 ],
 	"super" : "TBIPatchBlockContent",

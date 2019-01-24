@@ -21,4 +21,8 @@ handleKeyboardEvent: evt
 	
 	evt commandKeyPressed 
 		ifTrue: [evt keyCharacter = $b
-					ifTrue: [self addPatch: TBIPatch newBlock inLine: self currentLineNumber]]
+					ifTrue: [ | blockClass |
+						blockClass := self chooseBlockType.
+						blockClass ifNotNil: [self 
+								addPatch: (TBIPatch newBlock: blockClass new)
+								inLine: self currentLineNumber]]]
