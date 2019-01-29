@@ -1,0 +1,4 @@
+*MorphicMethods
+isMorphMessage
+
+	^ false

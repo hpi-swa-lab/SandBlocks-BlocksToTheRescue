@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicMethods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clientMethod" ],
+	"name" : "MorphMessage",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

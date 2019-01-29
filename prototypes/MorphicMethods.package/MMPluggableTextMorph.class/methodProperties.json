@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawWrapBorderOn:" : "ms 1/24/2019 16:10",
+		"methodMorph" : "ms 1/24/2019 16:49",
+		"mode" : "ms 1/24/2019 16:08",
+		"mode:" : "ms 1/24/2019 16:09",
+		"setText:" : "ms 1/24/2019 16:14",
+		"showText" : "ms 1/24/2019 15:59",
+		"showTool" : "ms 1/24/2019 16:51",
+		"toolMorph" : "ms 1/24/2019 16:54",
+		"toolMorph:" : "ms 1/24/2019 15:58",
+		"update:" : "ms 1/24/2019 16:47",
+		"update:with:" : "ms 1/24/2019 16:43",
+		"updateMethodMorph" : "ms 1/24/2019 16:50" } }
