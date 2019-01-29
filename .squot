@@ -27,5 +27,8 @@ OrderedDictionary {
 	'miniSWA\/breakout\/Breakout-Tests.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/breakout\/Breakout-Core.package' : #SquotCypressCodeSerializer,
-	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer
+	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer,
+	'prototypes\/BaselineOfMorphicMethods.package' : #SquotCypressCodeSerializer,
+	'prototypes\/inlinemorphs\/BaselineOfInlineMorphs.package' : #SquotCypressCodeSerializer,
+	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer
 }

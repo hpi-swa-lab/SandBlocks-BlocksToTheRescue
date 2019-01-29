@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTextBlockIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTextBlockIntegration",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
