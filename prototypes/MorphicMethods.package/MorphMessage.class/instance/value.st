@@ -1,4 +1,4 @@
 evaluating
 value
 
-	^ 42
+	^ self color

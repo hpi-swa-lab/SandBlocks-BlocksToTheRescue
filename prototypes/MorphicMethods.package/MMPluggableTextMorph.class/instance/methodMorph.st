@@ -4,7 +4,9 @@ methodMorph
 	| class selector method fallBackMorph |
 	class := self model selectedClassOrMetaClass.
 	selector := self model selectedMessageName.
-	fallBackMorph := Morph new color: Color random; yourself.
+	fallBackMorph := Morph new
+		setProperty: #errorOnDraw toValue: true;
+		yourself.
 	
 	class ifNil: [^ fallBackMorph].
 	selector ifNil: [^ fallBackMorph].
