@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfInlineMorphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfInlineMorphs",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
