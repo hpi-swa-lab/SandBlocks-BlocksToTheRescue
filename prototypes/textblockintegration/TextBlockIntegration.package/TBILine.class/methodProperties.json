@@ -3,6 +3,9 @@
 		 },
 	"instance" : {
 		"addPatch:" : "WoC 1/17/2019 15:05",
+		"args" : "WoC 1/29/2019 10:13",
+		"code" : "WoC 1/29/2019 10:10",
+		"doIt" : "WoC 1/29/2019 10:07",
 		"firstTextPatch" : "WoC 1/17/2019 15:09",
 		"initialize" : "WoC 1/24/2019 10:00",
 		"isEmpty" : "WoC 1/22/2019 13:30",
