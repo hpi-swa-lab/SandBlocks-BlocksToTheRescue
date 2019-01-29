@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicMethods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MMTestClazz",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

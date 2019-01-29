@@ -11,3 +11,4 @@ isMethodClassVariableGetter: aSymbol
 			and: [literal1 key == classVariableName]
 			and: [self classPool includesKey: literal1 key]
 			and: [literal1 value class == self]]
+		and: [(self perform: aSymbol) isColor]
