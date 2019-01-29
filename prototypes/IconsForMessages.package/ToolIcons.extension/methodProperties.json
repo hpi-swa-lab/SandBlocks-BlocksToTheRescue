@@ -1,5 +1,12 @@
 {
 	"class" : {
-		"allIconsMorph" : "ms 1/22/2019 17:35" },
+		"allIconsMorph" : "ms 1/22/2019 17:35",
+		"emptyIcon" : "ms 1/29/2019 15:00",
+		"icon:" : "ms 1/29/2019 12:15",
+		"iconForClass:" : "ms 1/29/2019 12:15",
+		"iconForClass:symbol:" : "ms 1/29/2019 17:11",
+		"iconForMethod:" : "ms 1/29/2019 17:09",
+		"iconSymbolForClass:" : "ms 1/29/2019 11:53",
+		"iconSymbolForClass:selector:" : "ms 1/29/2019 11:24" },
 	"instance" : {
 		 } }
