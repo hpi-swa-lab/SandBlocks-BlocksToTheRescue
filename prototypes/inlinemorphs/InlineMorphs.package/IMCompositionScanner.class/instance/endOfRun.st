@@ -6,7 +6,6 @@ endOfRun
 
 	| runLength textConfig |
 	textConfig := text runs at: lastIndex.
-	FileStream stdout nextPutAll: textConfig printString, Character lf; flush.
 	textConfig 
 		detect: [:each | each isKindOf: IMTextAttribute]
 		ifFound: [:attribute | 
