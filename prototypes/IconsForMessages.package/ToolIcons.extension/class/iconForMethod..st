@@ -4,11 +4,18 @@ iconForMethod: aMethodReference
 	
 	aMethodReference isValid ifFalse: [^ self emptyIcon].
 	
-	(aMethodReference compiledMethod pragmaAt: #messageIcon:)
-		ifNotNil: [:pragma | ^ self icon: (pragma argumentAt: 1)].
-	
-	"self method: (aBehavior >> aSelector) priority: 1 ifRulesApplied: [:icon | ^ icon]."
-
-	^ self icon: (self
+	"^ self icon: (self
 		iconForClass: aMethodReference actualClass
-		symbol: aMethodReference methodSymbol)
+		symbol: aMethodReference methodSymbol)"
+	^ [self icon: (self
+		selectIconUsing: #(
+			strategyPragmaMessageIconSymbol:
+			strategyPragmaMessageIconAt:
+			strategyToolIconSelector:
+			strategyMethodFeatures:
+			strategyMethodHierarchy:
+			strategyMethodPrimitive:)
+		with: aMethodReference
+		ifNotFound: [#blank])]
+	on: Exception
+	do: [:ex | self icon: #brokenMorphIcon]
