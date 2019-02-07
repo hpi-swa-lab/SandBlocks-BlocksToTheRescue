@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"clientMethod" ],
-	"name" : "MorphMessage",
+	"name" : "MorphMethod",
 	"pools" : [
 		 ],
 	"super" : "Morph",
