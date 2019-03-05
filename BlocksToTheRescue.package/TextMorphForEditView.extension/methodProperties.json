@@ -2,5 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"adjustEmbeddedMorphs" : "LM 3/5/2019 13:28",
-		"handleInteraction:fromEvent:" : "LM 3/5/2019 13:29" } }
+		"adjustEmbeddedMorphs" : "LM 3/5/2019 16:22",
+		"handleInteraction:fromEvent:" : "LM 3/5/2019 13:29",
+		"invalidRect:from:" : "LM 3/5/2019 16:34" } }
