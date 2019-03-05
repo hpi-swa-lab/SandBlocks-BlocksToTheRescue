@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-Als ein [//]: # (Art des Nutzers)
-möchte ich [//]: # (Feature)
-damit [//]: # (Grund des Feature)
+Als ein <!-- Art des Nutzers -->
+möchte ich <!-- Feature -->
+damit <!-- Grund des Feature -->
