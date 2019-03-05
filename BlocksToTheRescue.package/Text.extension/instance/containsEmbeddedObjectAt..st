@@ -1,5 +1,5 @@
 *BlocksToTheRescue
 containsEmbeddedObjectAt: anInteger
 
-	^ (self attributesAt: anInteger) anySatisfy: [:aTextAttribute |
+	^ (self attributesAt: anInteger ifAbsent: [{}]) anySatisfy: [:aTextAttribute |
 		aTextAttribute anchoredMorph isNil not]
