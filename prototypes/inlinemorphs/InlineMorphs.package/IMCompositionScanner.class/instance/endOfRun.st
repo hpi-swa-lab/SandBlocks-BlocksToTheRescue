@@ -6,7 +6,7 @@ endOfRun
 
 	| runLength textConfig |
 	textConfig := text runs at: lastIndex.
-	textConfig 
+	^ textConfig 
 		detect: [:each | each isKindOf: IMTextAttribute]
 		ifFound: [:attribute | 
 			attribute inlineMorph topLeft: destX - 3 @ destY.
@@ -22,14 +22,5 @@ endOfRun
 					runStopIndex := lastIndex + (runLength - 1).
 					self setStopConditions].
 			leftMargin := spaceX.
-			^ true]
-		ifNone: [].
-	(lastIndex = text size)
-	ifTrue:	[line stop: lastIndex.
-			spaceX := destX.
-			line paddingWidth: rightMargin - destX.
-			^true]
-	ifFalse:	[runLength := (text runLengthFor: (lastIndex := lastIndex + 1)).
-			runStopIndex := lastIndex + (runLength - 1).
-			self setStopConditions.
-			^false]
+			true]
+		ifNone: [super endOfRun].
