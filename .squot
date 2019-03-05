@@ -30,5 +30,6 @@ OrderedDictionary {
 	'prototypes\/BaselineOfMorphicMethods.package' : #SquotCypressCodeSerializer,
 	'prototypes\/inlinemorphs\/BaselineOfInlineMorphs.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer,
-	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer
+	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue.package' : #SquotCypressCodeSerializer
 }
