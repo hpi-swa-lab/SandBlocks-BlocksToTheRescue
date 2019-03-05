@@ -1,0 +1,8 @@
+as yet unclassified
+selectionAsStreamWithContext: aContext
+	"Answer a ReadStream on the text in the paragraph that is currently  selected."
+
+	^ReadStream
+		on: (self splitSelectionWithContext: aContext)
+		from: self startIndex
+		to: self stopIndex - 1

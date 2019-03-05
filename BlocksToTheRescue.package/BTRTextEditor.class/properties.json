@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRTextEditor",
+	"pools" : [
+		 ],
+	"super" : "TextEditor",
+	"type" : "normal" }
