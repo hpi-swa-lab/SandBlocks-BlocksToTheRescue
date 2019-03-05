@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"image",
+		"imageMorph" ],
+	"name" : "BTRImageMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRBlock",
+	"type" : "normal" }
