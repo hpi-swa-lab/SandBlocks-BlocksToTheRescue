@@ -1,0 +1,4 @@
+accessing
+addedCharacters
+
+	^ addedCharacters
