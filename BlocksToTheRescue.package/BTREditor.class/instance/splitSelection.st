@@ -12,7 +12,7 @@ splitSelection
 			textAttributes
 				detect: [ :aTextAttribute | aTextAttribute anchoredMorph isNil not]
 				ifFound: [ :aTextAttribute |  | name blockReference |
-					name := 'neceruse', counter asString.
+					name := 'block', aTextAttribute anchoredMorph identityHash asString, counter asString.
 					self bindingsAt: name put: aTextAttribute anchoredMorph. 
 					"(self bindingOf: name) value: aTextAttribute anchoredMorph."
 					blockReference := '(', name, ' value)'.
@@ -21,4 +21,5 @@ splitSelection
 					self addedCharacters: self addedCharacters + blockReference size]
 				ifNone: [sourceString := sourceString, aCharacter]].
 	
+	Transcript showln: sourceString.
 	^ sourceString 
