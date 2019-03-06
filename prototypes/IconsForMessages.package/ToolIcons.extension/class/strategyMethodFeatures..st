@@ -5,9 +5,9 @@ strategyMethodFeatures: aMethodReference
 		at: aMethodReference methodSymbol
 		ifPresent: [:method | self
 			selectIconUsing: #(
+				methodFeatureConstantMethod:
 				methodFeatureBreakpoint:
 				methodFeatureLiterals:
-				methodFeatureMorphMessage:
 				methodFeatureOverriding:
 				methodFeatureReportableSlip:)
 			with: method]

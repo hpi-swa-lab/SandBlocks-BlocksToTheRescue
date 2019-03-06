@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"methodReference",
-		"value" ],
-	"name" : "BTRConstantMethod",
+		 ],
+	"name" : "BTRBrowser",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Browser",
 	"type" : "normal" }
