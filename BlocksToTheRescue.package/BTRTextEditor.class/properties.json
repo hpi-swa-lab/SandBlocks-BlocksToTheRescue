@@ -10,5 +10,5 @@
 	"name" : "BTRTextEditor",
 	"pools" : [
 		 ],
-	"super" : "TextEditor",
+	"super" : "SmalltalkEditor",
 	"type" : "normal" }
