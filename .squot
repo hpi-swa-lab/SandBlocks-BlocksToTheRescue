@@ -23,13 +23,13 @@ OrderedDictionary {
 	'prototypes\/BaselineOfMorphicMethods.package' : #SquotCypressCodeSerializer,
 	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer,
 	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer,
-	'prototypes\/configuration\/Configuration-Prototype.package' : #SquotCypressCodeSerializer,
 	'prototypes\/inlinemorphs\/BaselineOfInlineMorphs.package' : #SquotCypressCodeSerializer,
 	'prototypes\/inlinemorphs\/InlineMorphs.package' : #SquotCypressCodeSerializer,
 	'prototypes\/multiplecodeviews\/MultipleCodeViews.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/BaselineOfPuzzlePrototype.package' : #SquotCypressCodeSerializer,
-	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/TextBlockIntegration.package' : #SquotCypressCodeSerializer,
-	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer
+	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,
+	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer,
+	'prototypes\/configuration\/Configuration-Prototype.package' : #SquotCypressCodeSerializer
 }
