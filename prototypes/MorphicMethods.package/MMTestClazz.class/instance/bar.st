@@ -2,4 +2,4 @@ as yet unclassified
 bar
 	
 	<BTRConstantMethod>
-	^ (Color r: 1 g: 0.0 b: 0.0)
+	^ (Color r: 0.173 g: 0.224 b: 0.207)
