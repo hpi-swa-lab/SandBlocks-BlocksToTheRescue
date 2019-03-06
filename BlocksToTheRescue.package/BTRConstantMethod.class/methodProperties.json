@@ -1,6 +1,13 @@
 {
 	"class" : {
-		 },
+		"on:" : "ms 3/6/2019 11:46" },
 	"instance" : {
 		"asEditorMorph" : "LB 3/6/2019 11:29",
-		"value" : "LB 3/6/2019 11:29" } }
+		"install" : "ms 3/6/2019 11:46",
+		"methodClass" : "ms 3/6/2019 11:43",
+		"methodClass:" : "ms 3/6/2019 11:43",
+		"run:with:in:" : "ms 3/6/2019 11:44",
+		"selector" : "ms 3/6/2019 11:45",
+		"selector:" : "ms 3/6/2019 11:45",
+		"value" : "LB 3/6/2019 11:29",
+		"valueWithReceiver:arguments:" : "ms 3/6/2019 11:44" } }
