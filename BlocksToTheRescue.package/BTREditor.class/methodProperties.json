@@ -1,6 +1,7 @@
 {
 	"class" : {
-		 },
+		"install" : "WoC 3/6/2019 13:23",
+		"uninstall" : "WoC 3/6/2019 13:25" },
 	"instance" : {
 		"addedCharacters" : "BD 3/6/2019 11:45",
 		"addedCharacters:" : "BD 3/6/2019 11:45",
