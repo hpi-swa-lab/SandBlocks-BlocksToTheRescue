@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"codeMorph" ],
+	"name" : "BTRBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }
