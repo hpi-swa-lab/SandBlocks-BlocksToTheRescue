@@ -2,4 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"characterBlockAtPoint:index:in:" : "LM 3/5/2019 11:23" } }
+		"characterBlockAtPoint:index:in:" : "LM 3/5/2019 11:23",
+		"placeEmbeddedObject:" : "nice 10/6/2013 14:55" } }
