@@ -1,4 +1,4 @@
-*IconsForMessages-Icons
+*IconsForMessages
 brokenMorphIcon
 
 	^ (Morph new

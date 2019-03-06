@@ -1,4 +1,4 @@
-*IconsForMessages-Icons
+*IconsForMessages
 allIconsMorph
 	| morph pos |
 	morph := BorderedMorph new

@@ -1,8 +1,5 @@
 {
 	"class" : {
-		"example1" : "BD 3/6/2019 14:05",
-		"example2" : "BD 3/6/2019 15:19",
-		"example3" : "BD 3/6/2019 15:05",
 		"install" : "WoC 3/6/2019 13:23",
 		"uninstall" : "WoC 3/6/2019 13:25" },
 	"instance" : {

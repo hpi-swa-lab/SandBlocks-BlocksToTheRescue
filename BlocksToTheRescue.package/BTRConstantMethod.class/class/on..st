@@ -1,4 +1,7 @@
-instance creation
+as yet unclassified
 on: method
 
-	 ^ self onReference: method methodReference
+	 ^ self new
+		clientMethod: method;
+		install;
+		yourself
