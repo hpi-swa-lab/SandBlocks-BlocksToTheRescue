@@ -2,4 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"buildDefaultBrowserWith:" : "LB 3/6/2019 14:00" } }
+		"buildDefaultBrowserWith:" : "LB 3/6/2019 14:00",
+		"constantEditorSymbol" : "LB 3/6/2019 14:26",
+		"contentsSymbolQuints" : "LB 3/6/2019 14:16",
+		"installConstantEditor" : "LB 3/6/2019 14:38",
+		"isConstantMethod" : "LB 3/6/2019 14:21",
+		"isShowingConstantEditor" : "LB 3/6/2019 14:27",
+		"optionalContentsSymbolQuints" : "LB 3/6/2019 14:26",
+		"showingConstantEditorString" : "LB 3/6/2019 14:28",
+		"toggleConstantEditor" : "LB 3/6/2019 14:34" } }
