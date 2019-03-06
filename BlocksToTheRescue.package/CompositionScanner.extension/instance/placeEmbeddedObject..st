@@ -1,13 +1,13 @@
 *BlocksToTheRescue
 placeEmbeddedObject: anchoredMorph
-	| w descent |
-	"Workaround: The following should really use #textAnchorType"
-	anchoredMorph relativeTextAnchorPosition ifNotNil:[^true].
-	w := anchoredMorph width.
-	(destX + w > rightMargin and: [(leftMargin + w) <= rightMargin or: [lastIndex > line first]])
+	| width descent |
+	anchoredMorph textAnchorType = #paragraph ifTrue: [^ true].
+	"If it is not anchored at the paragraph we assume that it is inline."
+	width := anchoredMorph width.
+	(destX + width > rightMargin and: [(leftMargin + width) <= rightMargin or: [lastIndex > line first]])
 		ifTrue: ["Won't fit, but would on next line"
 				^ false].
-	destX := destX + w + kern.
+	destX := destX + width + kern.
 	descent := lineHeight - baseline.
 	baseline := baseline max: (anchoredMorph height / 2) floor.
 	lineHeight := lineHeight max: anchoredMorph height.
