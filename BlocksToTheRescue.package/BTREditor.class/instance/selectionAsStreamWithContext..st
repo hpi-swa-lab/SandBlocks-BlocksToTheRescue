@@ -5,4 +5,4 @@ selectionAsStreamWithContext: aContext
 	^ReadStream
 		on: self splitSelection
 		from: self startIndex
-		to: self stopIndex - 1
+		to: self stopIndex + self addedCharacters - 1
