@@ -2,5 +2,7 @@
 	"class" : {
 		"yellowDotIcon" : "ms 1/29/2019 18:00" },
 	"instance" : {
+		"bar" : "",
+		"foo" : "",
 		"oldStyle" : "ms 1/29/2019 17:59",
 		"oldStyle2" : "ms 1/29/2019 17:59" } }

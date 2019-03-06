@@ -20,16 +20,16 @@ OrderedDictionary {
 	'miniSWA\/tetris\/Tetris-Core.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-Tests.package' : #SquotCypressCodeSerializer,
 	'miniSWA\/tetris\/Tetris-View.package' : #SquotCypressCodeSerializer,
+	'prototypes\/BaselineOfMorphicMethods.package' : #SquotCypressCodeSerializer,
 	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer,
 	'prototypes\/MorphicMethods.package' : #SquotCypressCodeSerializer,
 	'prototypes\/configuration\/Configuration-Prototype.package' : #SquotCypressCodeSerializer,
-	'prototypes\/BaselineOfMorphicMethods.package' : #SquotCypressCodeSerializer,
+	'prototypes\/inlinemorphs\/BaselineOfInlineMorphs.package' : #SquotCypressCodeSerializer,
 	'prototypes\/inlinemorphs\/InlineMorphs.package' : #SquotCypressCodeSerializer,
 	'prototypes\/multiplecodeviews\/MultipleCodeViews.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/BaselineOfPuzzlePrototype.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,
-	'prototypes\/inlinemorphs\/BaselineOfInlineMorphs.package' : #SquotCypressCodeSerializer,
+	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/TextBlockIntegration.package' : #SquotCypressCodeSerializer,
-	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer,
-	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer
+	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer
 }

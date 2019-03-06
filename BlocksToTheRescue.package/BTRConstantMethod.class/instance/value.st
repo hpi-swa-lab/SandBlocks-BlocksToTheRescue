@@ -1,4 +1,4 @@
 evaluating
 value
 
-	self shouldBeImplemented
+	^ value
