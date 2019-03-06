@@ -1,0 +1,4 @@
+accessing
+asEditorMorph
+
+	self shouldBeImplemented

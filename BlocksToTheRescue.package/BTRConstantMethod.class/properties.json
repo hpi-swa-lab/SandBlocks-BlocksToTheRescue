@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRTextEditor",
+		"selector",
+		"methodClass",
+		"value" ],
+	"name" : "BTRConstantMethod",
 	"pools" : [
 		 ],
-	"super" : "TextEditor",
+	"super" : "Object",
 	"type" : "normal" }
