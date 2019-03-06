@@ -12,7 +12,8 @@ splitSelection
 			textAttributes
 				detect: [ :aTextAttribute | aTextAttribute anchoredMorph isNil not]
 				ifFound: [ :aTextAttribute |  | name blockReference |
-					name := 'block', aTextAttribute anchoredMorph identityHash asString, counter asString.
+					"We have to ensure that we definitely get a unique name for the bindings. I fsomeone really uses block<hasIDOfaBlock>_<number>, we can't help him."
+					name := 'block', aTextAttribute anchoredMorph identityHash asString, '_', counter asString.
 					self bindingsAt: name put: aTextAttribute anchoredMorph. 
 					"(self bindingOf: name) value: aTextAttribute anchoredMorph."
 					blockReference := '(', name, ' value)'.
@@ -21,5 +22,4 @@ splitSelection
 					self addedCharacters: self addedCharacters + blockReference size]
 				ifNone: [sourceString := sourceString, aCharacter]].
 	
-	Transcript showln: sourceString.
 	^ sourceString 
