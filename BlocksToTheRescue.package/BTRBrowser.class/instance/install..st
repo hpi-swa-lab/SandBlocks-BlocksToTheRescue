@@ -1,4 +1,4 @@
-as yet unclassified
+code pane
 install: aPane
 
 	| aWindow codePane boundsToUse |

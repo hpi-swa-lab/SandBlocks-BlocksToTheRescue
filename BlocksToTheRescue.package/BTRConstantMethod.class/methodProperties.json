@@ -1,5 +1,7 @@
 {
 	"class" : {
+		"canBeCreatedFrom:" : "LB 3/6/2019 16:50",
+		"fromCompiledMethod:" : "LB 3/6/2019 16:39",
 		"on:" : "ms 3/6/2019 14:17",
 		"on:selector:" : "ms 3/6/2019 14:17",
 		"onReference:" : "ms 3/6/2019 14:16" },

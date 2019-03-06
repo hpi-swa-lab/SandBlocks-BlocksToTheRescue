@@ -1,4 +1,4 @@
-as yet unclassified
+toolbuilder
 buildDefaultBrowserWith: builder
 
 "Chaning windowcolor to better distinguish from normal browsers"

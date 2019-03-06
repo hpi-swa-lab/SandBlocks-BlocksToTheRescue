@@ -1,4 +1,4 @@
-as yet unclassified
+controls
 contentsSymbolQuints
 
 	^ super contentsSymbolQuints , 

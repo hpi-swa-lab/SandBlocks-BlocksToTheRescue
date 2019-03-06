@@ -1,4 +1,4 @@
-as yet unclassified
+toolbuilder
 buildCodePaneWith: builder
 	| textSpec top buttonSpec annoSpec |
 	self wantsOptionalButtons ifTrue: [

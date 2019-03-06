@@ -3,5 +3,7 @@
 		"yellowDotIcon" : "ms 1/29/2019 18:00" },
 	"instance" : {
 		"bar" : "",
+		"foo" : "",
+		"iCannotBecomeAConstantMethod" : "LB 3/6/2019 16:53",
 		"oldStyle" : "ms 1/29/2019 17:59",
 		"oldStyle2" : "ms 1/29/2019 17:59" } }
