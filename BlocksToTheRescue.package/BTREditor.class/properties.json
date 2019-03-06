@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BTRTextEditor",
+	"name" : "BTREditor",
 	"pools" : [
 		 ],
 	"super" : "SmalltalkEditor",

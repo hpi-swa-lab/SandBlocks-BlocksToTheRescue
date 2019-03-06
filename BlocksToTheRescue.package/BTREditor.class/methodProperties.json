@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bindingsAt:put:" : "BD 3/6/2019 11:05",
+		"evaluateSelectionAndDo:" : "BD 3/6/2019 10:53",
+		"selectionAsStreamWithContext:" : "BD 3/6/2019 10:55",
+		"splitSelection" : "BD 3/6/2019 11:18" } }

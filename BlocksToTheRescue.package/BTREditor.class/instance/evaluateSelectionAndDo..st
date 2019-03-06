@@ -13,7 +13,7 @@ evaluateSelectionAndDo: aBlock
 		ifFalse: [rcvr := ctxt := nil].
 	result := [
 		rcvr class evaluatorClass new 
-			evaluate: self selectionAsStream"(self selectionAsStreamWithContext: ctxt)"
+			evaluate: (self selectionAsStreamWithContext: ctxt)
 			in: ctxt
 			to: rcvr
 			environment: (model environment ifNil: [Smalltalk globals])
