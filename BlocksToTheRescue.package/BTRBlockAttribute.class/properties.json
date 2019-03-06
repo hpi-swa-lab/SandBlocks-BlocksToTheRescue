@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"anchoredBlock" ],
+	"name" : "BTRBlockAttribute",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }

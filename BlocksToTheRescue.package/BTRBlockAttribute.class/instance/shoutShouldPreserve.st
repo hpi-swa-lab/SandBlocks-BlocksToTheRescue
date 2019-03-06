@@ -1,4 +1,4 @@
-*BlocksToTheRescue
+shoutCore
 shoutShouldPreserve
 
 	^ true

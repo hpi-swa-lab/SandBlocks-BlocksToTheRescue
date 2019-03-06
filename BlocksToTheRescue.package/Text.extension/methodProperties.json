@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"attributesAt:ifAbsent:" : "LM 3/5/2019 13:57" } }
+		"attributesAt:ifAbsent:" : "LM 3/5/2019 13:57",
+		"copyReplaceFrom:to:with:" : "Elina Emsbach 3/6/2019 15:52",
+		"replaceFrom:to:with:" : "Elina Emsbach 3/6/2019 15:52",
+		"replaceFrom:to:with:startingAt:" : "Elina Emsbach 3/6/2019 15:53",
+		"runsForReplacement" : "Elina Emsbach 3/6/2019 15:37" } }
