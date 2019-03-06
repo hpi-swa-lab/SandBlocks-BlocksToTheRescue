@@ -9,6 +9,6 @@ placeEmbeddedObject: anchoredMorph
 				^ false].
 	destX := destX + w + kern.
 	descent := lineHeight - baseline.
-	baseline := baseline max: anchoredMorph height / 2.
+	baseline := baseline max: (anchoredMorph height / 2) floor.
 	lineHeight := lineHeight max: anchoredMorph height.
 	^ true

@@ -7,7 +7,7 @@ placeEmbeddedObject: anchoredMorphOrForm
 		^true
 	].
 	(anchoredMorphOrForm isMorph or: [anchoredMorphOrForm isPrimitiveCostume]) ifTrue: [
-		anchoredMorphOrForm position: (destX@(lineY + line baseline - (line lineHeight / 2))) - morphicOffset
+		anchoredMorphOrForm position: (destX@(lineY + line baseline - ((anchoredMorphOrForm height / 2) floor))) - morphicOffset
 	] ifFalse: [
 		self displayEmbeddedForm: anchoredMorphOrForm
 	].
