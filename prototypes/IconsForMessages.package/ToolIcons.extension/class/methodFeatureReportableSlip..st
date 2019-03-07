@@ -1,5 +1,6 @@
 *IconsForMessages-Strategies
-methodFeatureReportableSlip: aCompiledMethod
+methodFeatureReportableSlip: method
 	<iconSymbol: #breakpoint>
 	
-	^ aCompiledMethod hasReportableSlip
+	^ (method respondsTo: #hasReportableSlip)
+		and: [method hasReportableSlip]

@@ -18,4 +18,5 @@ iconForMethod: aMethodReference
 		with: aMethodReference
 		ifNotFound: [#blank])]
 	on: Exception
-	do: [:ex | self icon: #brokenMorphIcon]
+	do: [:ex | (ex isKindOf: Halt) ifTrue: [ex pass].
+		self icon: #brokenMorphIcon]
