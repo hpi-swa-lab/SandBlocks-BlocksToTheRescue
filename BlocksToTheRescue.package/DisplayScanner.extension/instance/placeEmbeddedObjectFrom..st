@@ -6,7 +6,7 @@ placeEmbeddedObjectFrom: aTextAttribute
 	anchoredMorphOrForm relativeTextAnchorPosition 
 		ifNotNil: [^ self placeEmbeddedObjectRelative: anchoredMorphOrForm].
 	
-	position := (destX + aTextAttribute embeddedObjectPadding at: #left) @ (lineY + line baseline - (anchoredMorphOrForm height / 2) floor).
+	position := (destX + aTextAttribute embeddedObjectPadding at: #left) @ (lineY + (aTextAttribute embeddedObjectPadding at: #top)).
 	(anchoredMorphOrForm isMorph or: [anchoredMorphOrForm isPrimitiveCostume]) 
 		ifTrue: [anchoredMorphOrForm position: position - morphicOffset] 
 		ifFalse: [self displayEmbeddedForm: anchoredMorphOrForm at: position].
