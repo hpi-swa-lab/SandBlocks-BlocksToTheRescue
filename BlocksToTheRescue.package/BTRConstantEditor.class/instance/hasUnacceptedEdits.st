@@ -1,4 +1,5 @@
 as yet unclassified
 hasUnacceptedEdits
 
-	self shouldBeImplemented.
+	^ false
+	"self shouldBeImplemented."

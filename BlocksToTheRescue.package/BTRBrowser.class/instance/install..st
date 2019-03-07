@@ -11,4 +11,5 @@ install: aPane
 	aPane owner clipSubmorphs: false.
 	self codeMorph: aPane.
 
+	self changed: #editorSwitched.
 	self contentsChanged
