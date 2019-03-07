@@ -4,5 +4,6 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [spec 
-				package: 'BlocksToTheRescue-Test';
-				package: 'BlocksToTheRescue'].
+				package: 'BlocksToTheRescue';
+				"package: 'BlocksToTheRescue-Test' with: [spec requires: #('BlocksToTheRescue')];"
+				group: 'default' with: #('BlocksToTheRescue')].
