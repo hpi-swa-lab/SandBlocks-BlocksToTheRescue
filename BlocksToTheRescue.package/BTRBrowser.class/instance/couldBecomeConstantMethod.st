@@ -1,6 +1,6 @@
 constant methods
 couldBecomeConstantMethod
 
-	^ self method
+	^ (self method
 		ifNotNil: [:method | BTRConstantMethod canBeCreatedFrom: method]
-		ifNil: [false]
+		ifNil: [false]) and: [self isConstantMethod not]

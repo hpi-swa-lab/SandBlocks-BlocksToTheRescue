@@ -6,6 +6,8 @@ update: anAspect
 		[#acceptChanges] -> [self accept].
 		[#revertChanges] -> [self cancel].
 		[#editSelection] -> [].
-		[#editorSwitched] -> [(self model codeMorph ~= self viewPort) ifTrue: [self model: nil]].
-		[#contents] -> [self changed: #contentMorphs].
+		[#contents] -> 
+			[(self model codeMorph = self viewPort) 
+				ifTrue: [self changed: #contentMorphs]
+				ifFalse: [self model: nil]].
 	} otherwise: [].
