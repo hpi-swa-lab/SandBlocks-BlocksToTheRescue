@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"selector",
-		"methodClass",
+		"methodReference",
 		"value" ],
 	"name" : "BTRConstantMethod",
 	"pools" : [

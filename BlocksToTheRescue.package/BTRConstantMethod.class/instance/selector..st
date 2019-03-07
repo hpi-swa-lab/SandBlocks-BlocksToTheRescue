@@ -1,3 +1,4 @@
 accessing
 selector: aSymbol
-	selector := aSymbol
+
+	self class: self methodClass selector: aSymbol.
