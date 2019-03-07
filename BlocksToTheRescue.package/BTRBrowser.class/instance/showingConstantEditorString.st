@@ -1,4 +1,4 @@
-as yet unclassified
+constant methods
 showingConstantEditorString
 
 	^ (self isShowingConstantEditor

@@ -1,4 +1,4 @@
-as yet unclassified
+constant methods
 toggleConstantEditor
 
 	self okToChange ifTrue:
@@ -6,7 +6,8 @@ toggleConstantEditor
 			ifTrue:
 				[contentsSymbol := #source]
 			ifFalse:
-				[self installConstantEditor.
+				[self ensureConstantMethodIfCanceled: [^ self].
+				self installConstantEditor.
 				contentsSymbol := self constantEditorSymbol].
 		self setContentsToForceRefetch.
 		self contentsChanged]
