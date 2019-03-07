@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'BaselineOfBlocksToTheRescue.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue.package' : #SquotCypressCodeSerializer,
 	'Graph-Proto.package' : #SquotCypressCodeSerializer,
 	'Metablocks.package' : #SquotCypressCodeSerializer,

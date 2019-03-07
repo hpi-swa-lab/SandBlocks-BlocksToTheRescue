@@ -6,9 +6,10 @@
 		"emptyIcon" : "ms 1/29/2019 15:00",
 		"icon:" : "ms 2/7/2019 15:47",
 		"iconForClass:" : "ms 1/29/2019 12:15",
-		"iconForMethod:" : "ms 3/7/2019 11:59",
+		"iconForMethod:" : "ms 3/7/2019 14:18",
 		"iconSymbolForClass:" : "ms 3/7/2019 12:00",
 		"iconSymbolForClass:selector:" : "ms 3/7/2019 12:00",
+		"iconSymbolForMethod:" : "ms 3/7/2019 14:17",
 		"methodFeatureBreakpoint:" : "ms 3/7/2019 10:54",
 		"methodFeatureLiterals:" : "ms 3/7/2019 10:54",
 		"methodFeatureMethodIcon:" : "ms 3/7/2019 11:39",
@@ -28,6 +29,6 @@
 		"strategyMethodPrimitive:" : "ms 3/7/2019 10:36",
 		"strategyPragmaMessageIconAt:" : "ms 2/5/2019 12:14",
 		"strategyPragmaMessageIconSymbol:" : "ms 2/7/2019 14:32",
-		"strategyToolIconSelector:" : "ms 2/5/2019 14:43" },
+		"strategyToolIconSelector:" : "ms 3/7/2019 13:41" },
 	"instance" : {
 		 } }

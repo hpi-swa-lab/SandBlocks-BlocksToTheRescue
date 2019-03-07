@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"scanner",
+		"text",
+		"textAttribute" ],
+	"name" : "TestCompositionScanner",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

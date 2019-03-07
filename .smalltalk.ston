@@ -1,27 +1,14 @@
 SmalltalkCISpec {
 	#loading : [
 		SCIMetacelloLoadSpec {
-			#baseline : 'Breakout',
+			#baseline : 'BlocksToTheRescue',
 			#platforms : [ #squeak ],
-			#directory : 'miniSWA/breakout',
-			#load : [ 'tests' ]
-		},
-		SCIMetacelloLoadSpec {
-			#baseline : 'Tetris',
-			#platforms : [ #squeak ],
-			#directory : 'miniSWA/tetris',
-			#load : [ 'tests' ]
-		},
-		SCIMetacelloLoadSpec {
-			#baseline : 'SpaceInvaders',
-			#platforms : [ #squeak ],
-			#directory : 'miniSWA/spaceinvaders',
 			#load : [ 'default' ]
 		}
 	],
 	#testing : {
 		#include : {
-		      #categories : [ 'Breakout', 'Tetris', 'SpaceInvaders' ]
+		      #categories : [ 'BlocksToTheRescue' ]
 		}
 	}
 }
