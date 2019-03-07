@@ -1,7 +1,7 @@
-as yet unclassified
+controls
 optionalContentsSymbolQuints
 	"The quints are put in here as tuples in the form condition -> quint"
-	^ {#isConstantMethod -> 
+	^ {#constantEditorAvailable -> 
 		{self constantEditorSymbol
 			. #toggleConstantEditor 
 			. #showingConstantEditorString 

@@ -1,4 +1,4 @@
-as yet unclassified
+constant methods
 isShowingConstantEditor
 
 	^ self contentsSymbol == self constantEditorSymbol
