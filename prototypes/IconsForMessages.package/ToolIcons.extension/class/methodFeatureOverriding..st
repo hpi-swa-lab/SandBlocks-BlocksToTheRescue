@@ -1,9 +1,10 @@
 *IconsForMessages-Strategies
-methodFeatureOverriding: aCompiledMethod
+methodFeatureOverriding: method
 
-	^ (aCompiledMethod literals
-		includesAnyOf: #(shouldBeImplemented subclassResponsibility))
-			ifTrue: [(aCompiledMethod methodClass
-				isSelectorOverridden: aCompiledMethod selector)
-					ifTrue: [#abstract]
-					ifFalse: [#notOverridden]]
+	^ (method respondsTo: #hasBreakpoint)
+		and: [(method literals
+			includesAnyOf: #(shouldBeImplemented subclassResponsibility))
+				ifTrue: [(method methodClass
+					isSelectorOverridden: method selector)
+						ifTrue: [#abstract]
+						ifFalse: [#notOverridden]]]

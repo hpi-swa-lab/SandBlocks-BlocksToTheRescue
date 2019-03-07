@@ -1,5 +1,6 @@
 *IconsForMessages
 iconSymbolForClass: aClassNameSymbol
+	"Answer an icon symbol to be shown for the given class name."
 	
 	self environment
 		at: aClassNameSymbol

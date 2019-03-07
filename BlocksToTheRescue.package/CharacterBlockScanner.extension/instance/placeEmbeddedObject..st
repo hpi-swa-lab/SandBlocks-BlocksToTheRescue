@@ -1,10 +1,12 @@
 *BlocksToTheRescue
 placeEmbeddedObject: anchoredMorph
-	"Workaround: The following should really use #textAnchorType"
-	| w |
-	anchoredMorph relativeTextAnchorPosition ifNotNil:[^true].
-	w := anchoredMorph width.
-	specialWidth := w.
-	(destX + w > characterPoint x) ifTrue: [^false].
-	destX := destX + w + kern.
+	
+	| width horizontalPadding |
+	anchoredMorph textAnchorType = #paragraph
+		ifTrue: [^ true].
+	"horizontalPadding := anchoredMorph"
+	width := anchoredMorph width.
+	specialWidth := width.
+	(destX + width > characterPoint x) ifTrue: [^false].
+	destX := destX + width + kern.
 	^ true

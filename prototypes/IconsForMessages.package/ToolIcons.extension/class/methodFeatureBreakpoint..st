@@ -1,5 +1,6 @@
 *IconsForMessages-Strategies
-methodFeatureBreakpoint: aCompiledMethod
+methodFeatureBreakpoint: method
 	<iconSymbol: #breakpoint>
 	
-	^ aCompiledMethod hasBreakpoint
+	^ (method respondsTo: #hasBreakpoint)
+		and: [method hasBreakpoint]
