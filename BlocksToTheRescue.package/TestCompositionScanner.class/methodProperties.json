@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertHasDefaultHeight:" : "Elina Emsbach 3/7/2019 15:02",
+		"composeLine" : "Elina Emsbach 3/7/2019 15:17",
+		"morph" : "Elina Emsbach 3/7/2019 13:34",
+		"morph:" : "Elina Emsbach 3/7/2019 13:35",
+		"scanner" : "Elina Emsbach 3/7/2019 13:36",
+		"scanner:" : "Elina Emsbach 3/7/2019 13:36",
+		"setUp" : "Elina Emsbach 3/7/2019 15:22",
+		"testBaselineHeight" : "Elina Emsbach 3/7/2019 15:17",
+		"testLineHeightHigherThanMorph" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingMorph" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingMorphDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingSpecialCharacterDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 15:17",
+		"testMissingTextAttribute" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingTextAttributeDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 15:18",
+		"text" : "Elina Emsbach 3/7/2019 13:39",
+		"text:" : "Elina Emsbach 3/7/2019 13:39",
+		"textAttribute" : "Elina Emsbach 3/7/2019 14:04",
+		"textAttribute:" : "Elina Emsbach 3/7/2019 14:05" } }

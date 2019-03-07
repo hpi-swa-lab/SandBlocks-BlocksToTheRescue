@@ -6,4 +6,9 @@ asEditorMorph
 			on: self
 			originalColor: self value
 			setColorSelector: #value:].
+	self value isMorph ifTrue: 
+		[^ BTRMorphEditorMorph
+			on: self
+			startValue: self value
+			setValueSelector: #value].
 	self shouldBeImplemented.
