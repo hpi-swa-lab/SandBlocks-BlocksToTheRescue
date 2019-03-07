@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBlocksToTheRescue",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
