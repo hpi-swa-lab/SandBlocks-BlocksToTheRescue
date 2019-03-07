@@ -1,8 +1,10 @@
 *IconsForMessages-Strategies
-methodFeatureLiterals: aCompiledMethod
+methodFeatureLiterals: method
 
-	^ self selectIconUsing: #(
-			methodLiteralsContainFlagged:
-			methodLiteralsContainHalting:
-			methodLiteralsContainShouldNotImplement:)
-		with: aCompiledMethod literals
+	^ (method respondsTo: #literals)
+		and: [self
+			selectIconUsing: #(
+				methodLiteralsContainFlagged:
+				methodLiteralsContainHalting:
+				methodLiteralsContainShouldNotImplement:)
+			with: method literals]
