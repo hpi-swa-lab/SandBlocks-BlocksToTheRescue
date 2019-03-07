@@ -1,3 +1,4 @@
 accessing
 methodClass: aClassDescription
-	methodClass := aClassDescription
+
+	self class: aClassDescription selector: self selector.
