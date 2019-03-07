@@ -1,0 +1,4 @@
+examples
+exampleMetaToolIconSelector
+
+	"see >> metaToolIconSelector:"
