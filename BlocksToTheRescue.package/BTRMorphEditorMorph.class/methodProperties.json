@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"on:startValue:setValueSelector:" : "LB 3/7/2019 11:48" },
+	"instance" : {
+		"addMorph:" : "LB 3/7/2019 11:44",
+		"initialize" : "LB 3/7/2019 11:36",
+		"on:startValue:setValueSelector:" : "LB 3/7/2019 11:47",
+		"value" : "LB 3/7/2019 11:44",
+		"xyz" : "LB 3/7/2019 12:25" } }
