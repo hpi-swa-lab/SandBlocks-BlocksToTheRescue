@@ -3,7 +3,6 @@ SmalltalkCISpec {
 		SCIMetacelloLoadSpec {
 			#baseline : 'BlocksToTheRescue',
 			#platforms : [ #squeak ],
-			#directory : 'miniSWA/spaceinvaders',
 			#load : [ 'default' ]
 		}
 	],
