@@ -2,5 +2,23 @@
 	"class" : {
 		 },
 	"instance" : {
-		"accept" : "LB 3/7/2019 11:33",
-		"hasUnacceptedEdits" : "LB 3/7/2019 11:34" } }
+		"accept" : "LB 3/7/2019 15:01",
+		"buildWith:" : "LB 3/7/2019 16:29",
+		"cancel" : "LB 3/7/2019 13:52",
+		"cmdActionMap" : "LB 3/7/2019 14:20",
+		"contentMorphs" : "LB 3/7/2019 16:34",
+		"getValueSelector" : "LB 3/7/2019 12:47",
+		"getValueSelector:" : "LB 3/7/2019 12:47",
+		"hasUnacceptedEdits" : "LB 3/7/2019 16:37",
+		"keyStroke:" : "LB 3/7/2019 16:36",
+		"model" : "LB 3/7/2019 12:47",
+		"model:" : "LB 3/7/2019 16:01",
+		"modelValue" : "LB 3/7/2019 13:50",
+		"modelValue:" : "LB 3/7/2019 13:51",
+		"setValueSelector" : "LB 3/7/2019 12:47",
+		"setValueSelector:" : "LB 3/7/2019 12:47",
+		"update:" : "LB 3/7/2019 16:29",
+		"value" : "LB 3/7/2019 13:45",
+		"value:" : "LB 3/7/2019 13:45",
+		"viewPort" : "LB 3/7/2019 15:42",
+		"viewPort:" : "LB 3/7/2019 15:42" } }

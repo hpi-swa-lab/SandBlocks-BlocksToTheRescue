@@ -3,10 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"AdornmentCache" ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"editor" ],
 	"name" : "BTRMorphEditorMorph",
 	"pools" : [
 		 ],

@@ -1,4 +1,5 @@
 as yet unclassified
 accept
 
-	self shouldBeImplemented.
+	self halt.
+	self modelValue: self value.

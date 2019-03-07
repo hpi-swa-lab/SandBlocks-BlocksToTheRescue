@@ -1,16 +1,13 @@
 {
-	"category" : "BlocksToTheRescue",
+	"category" : "MorphicMethods",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"model",
-		"getValueSelector",
-		"setValueSelector",
-		"viewPort" ],
-	"name" : "BTRConstantEditor",
+		 ],
+	"name" : "Horcher",
 	"pools" : [
 		 ],
 	"super" : "Object",

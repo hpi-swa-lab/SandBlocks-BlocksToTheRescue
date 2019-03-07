@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"codeMorph" ],
+		"codeMorph",
+		"horcher" ],
 	"name" : "BTRBrowser",
 	"pools" : [
 		 ],
