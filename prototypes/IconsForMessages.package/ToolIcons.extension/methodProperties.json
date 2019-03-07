@@ -1,13 +1,14 @@
 {
 	"class" : {
 		"allIconsMorph" : "ms 1/22/2019 17:35",
-		"brokenMorphIcon" : "ms 2/7/2019 15:37",
+		"brokenMorph" : "ms 3/7/2019 11:58",
+		"brokenMorphIcon" : "ms 3/7/2019 11:58",
 		"emptyIcon" : "ms 1/29/2019 15:00",
 		"icon:" : "ms 2/7/2019 15:47",
 		"iconForClass:" : "ms 1/29/2019 12:15",
-		"iconForMethod:" : "ms 3/7/2019 11:38",
-		"iconSymbolForClass:" : "ms 1/29/2019 11:53",
-		"iconSymbolForClass:selector:" : "ms 1/29/2019 11:24",
+		"iconForMethod:" : "ms 3/7/2019 11:59",
+		"iconSymbolForClass:" : "ms 3/7/2019 12:00",
+		"iconSymbolForClass:selector:" : "ms 3/7/2019 12:00",
 		"methodFeatureBreakpoint:" : "ms 3/7/2019 10:54",
 		"methodFeatureLiterals:" : "ms 3/7/2019 10:54",
 		"methodFeatureMethodIcon:" : "ms 3/7/2019 11:39",
