@@ -32,5 +32,6 @@ OrderedDictionary {
 	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/BaselineOfTextBlockIntegration.package' : #SquotCypressCodeSerializer,
 	'prototypes\/textblockintegration\/TextBlockIntegration.package' : #SquotCypressCodeSerializer,
-	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer
+	'usecases\/PlanetSimulation.package' : #SquotCypressCodeSerializer,
+	'tools\/Squot-CoAuthorsExtension.package' : #SquotCypressCodeSerializer
 }
