@@ -27,12 +27,12 @@ parseCue: aCue noPattern: noPattern ifFail: aBlock
 			myStream := ex newSource 
 				ifNil: [subSelection
 							ifTrue:
-								[(RWBinaryOrTextStream 
+								[(ReadStream 
 									on: cue requestor text
 									from: cue requestor selectionInterval first
 									to:  cue requestor selectionInterval last) ascii]
 							ifFalse:
-								[(RWBinaryOrTextStream 
+								[(ReadStream 
 									on: cue requestor text
 									from: 0
 									to: cue requestor text size) ascii]]

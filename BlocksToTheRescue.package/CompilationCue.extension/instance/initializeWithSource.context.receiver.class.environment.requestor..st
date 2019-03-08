@@ -3,7 +3,7 @@ initializeWithSource: aTextOrString context: aContext receiver: recObject class:
 	self initialize.
 	source := (aTextOrString isKindOf: PositionableStream)
 		ifTrue: [ aTextOrString ]
-		ifFalse: [ (RWBinaryOrTextStream 
+		ifFalse: [ (ReadStream 
 					on: aTextOrString
 					from: 0
 					to: aTextOrString size) ascii ].
