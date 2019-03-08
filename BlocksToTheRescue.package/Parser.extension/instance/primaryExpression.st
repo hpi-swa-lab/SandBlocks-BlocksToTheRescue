@@ -28,10 +28,9 @@ primaryExpression
 		ifTrue: 
 			[parseNode := encoder encodeLiteral: self advance.
 			^true].
-	(hereType == #binary and: [here = (String value: 1)])
+	(hereType == #binary and: [here = BTRBlockAttribute blockCharacter])
 		ifTrue:
 			[| textAttributes |
-			
 			textAttributes := source contents asText attributesAt: hereMark.	"character has always a length of 1"
 			textAttributes detect: [:each | each anchoredMorph notNil] 
 				ifFound: [:blockAttribute | 
