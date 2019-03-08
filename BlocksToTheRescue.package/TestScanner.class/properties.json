@@ -6,9 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TestCompositionScanner",
+		"morph",
+		"scanner",
+		"text",
+		"textAttribute" ],
+	"name" : "TestScanner",
 	"pools" : [
 		 ],
-	"super" : "TestScanner",
+	"super" : "TestCase",
 	"type" : "normal" }
