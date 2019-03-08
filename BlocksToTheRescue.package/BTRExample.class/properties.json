@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"OldEditorClass" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"addedCharacters" ],
-	"name" : "BTREditor",
+		 ],
+	"name" : "BTRExample",
 	"pools" : [
 		 ],
-	"super" : "SmalltalkEditor",
+	"super" : "Object",
 	"type" : "normal" }
