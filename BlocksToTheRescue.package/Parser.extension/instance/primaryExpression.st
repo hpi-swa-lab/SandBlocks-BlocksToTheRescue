@@ -1,6 +1,6 @@
 *BlocksToTheRescue
 primaryExpression 
-
+	
 	hereType == #word 
 		ifTrue: 
 			[parseNode := self variable.
@@ -28,7 +28,7 @@ primaryExpression
 		ifTrue: 
 			[parseNode := encoder encodeLiteral: self advance.
 			^true].
-	(hereType == #binary and: [here = BTRBlockAttribute blockCharacter])
+	(hereType == #binary and: [BTRBlockAttribute isBlockCharacter: here])
 		ifTrue:
 			[| textAttributes |
 			textAttributes := source contents asText attributesAt: hereMark.	"character has always a length of 1"
