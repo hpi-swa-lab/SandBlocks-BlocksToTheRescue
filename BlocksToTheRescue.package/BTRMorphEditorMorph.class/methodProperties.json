@@ -6,11 +6,13 @@
 	"instance" : {
 		"acceptDroppingMorph:event:" : "LB 3/7/2019 15:05",
 		"drawFrameAdornmentOn:" : "LB 3/7/2019 15:27",
-		"drawOverlayOn:" : "LB 3/7/2019 15:24",
+		"drawOverlayOn:" : "LB 3/8/2019 10:08",
 		"editor" : "LB 3/7/2019 14:00",
 		"editor:" : "LB 3/7/2019 14:00",
 		"initialize" : "LB 3/7/2019 15:03",
 		"keyStroke:" : "LB 3/7/2019 14:16",
 		"on:startValue:setValueSelector:" : "LB 3/7/2019 14:49",
 		"setMorph:" : "LB 3/7/2019 15:09",
-		"value" : "LB 3/7/2019 15:03" } }
+		"update" : "LB 3/8/2019 10:56",
+		"value" : "LB 3/7/2019 15:03",
+		"value:" : "LB 3/8/2019 10:56" } }

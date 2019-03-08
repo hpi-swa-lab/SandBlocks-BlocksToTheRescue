@@ -1,4 +1,4 @@
 as yet unclassified
 value: anObject
 
-	self shouldBeImplemented
+	self morph perform: self setValueSelector with: anObject

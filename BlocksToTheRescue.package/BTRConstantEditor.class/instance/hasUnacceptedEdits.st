@@ -1,5 +1,4 @@
-as yet unclassified
+accessing
 hasUnacceptedEdits
 
-	^ false
-	"self shouldBeImplemented."
+	^ hasUnacceptedEdits ifNil: [hasUnacceptedEdits := false]

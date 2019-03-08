@@ -1,5 +1,5 @@
 as yet unclassified
 accept
 
-	self halt.
-	self modelValue: self value.
+	self content value: self value.
+	self hasUnacceptedEdits: false.
