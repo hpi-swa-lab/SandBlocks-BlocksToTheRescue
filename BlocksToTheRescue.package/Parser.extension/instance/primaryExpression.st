@@ -24,20 +24,10 @@ primaryExpression
 			(self match: #rightParenthesis)
 				ifFalse: [^self expected: 'right parenthesis'].
 			^true].
-	(hereType == #string or: [hereType == #number or: [hereType == #literal or: [hereType == #character]]])
+	(hereType == #string or: [hereType == #number or: [hereType == #literal or: [hereType == #character or: [hereType == #block]]]])
 		ifTrue: 
 			[parseNode := encoder encodeLiteral: self advance.
 			^true].
-	(hereType == #binary and: [BTRBlockAttribute isBlockCharacter: here])
-		ifTrue:
-			[| textAttributes |
-			textAttributes := source contents asText attributesAt: hereMark.	"character has always a length of 1"
-			textAttributes detect: [:each | each anchoredMorph notNil] 
-				ifFound: [:blockAttribute | 
-							self advance.
-							parseNode := encoder encodeLiteral: blockAttribute anchoredMorph value. 
-						 	 ^true]
-				ifNone: [^false]].
 	(here == #- and: [tokenType == #number and: [1 + hereEnd = mark]])
 		ifTrue: 
 			[self advance.
