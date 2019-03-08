@@ -1,6 +1,5 @@
-as yet unclassified
+event handling
 keyStroke: aKeyboardEvent
 
-	self halt.
-	aKeyboardEvent controlKeyPressed ifTrue:
-		[self perform: (self cmdActionMap at: aKeyboardEvent keyValue ifAbsent: [#yourself])].
+	(aKeyboardEvent controlKeyPressed or: [aKeyboardEvent commandKeyPressed]) ifTrue:
+		[self perform: (self cmdActionMap at: aKeyboardEvent keyCharacter ifAbsent: [#yourself])].

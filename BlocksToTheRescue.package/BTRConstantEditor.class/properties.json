@@ -12,7 +12,8 @@
 		"setValueSelector",
 		"valueChangedSelector",
 		"viewPort",
-		"hasUnacceptedEdits" ],
+		"hasUnacceptedEdits",
+		"eventHandler" ],
 	"name" : "BTRConstantEditor",
 	"pools" : [
 		 ],
