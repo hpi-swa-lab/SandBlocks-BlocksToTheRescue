@@ -1,4 +1,8 @@
 *BlocksToTheRescue
 readBlock
-
-	 ^ ((source contents asText attributesAt: mark) detect: [:each | each anchoredMorph notNil] ifNone: [^ nil "will only happen when we get a string, which should never happen during relevant compile steps"]) anchoredMorph value .
+	
+	| startOfToken initalPosition |
+	startOfToken := mark.
+	initalPosition := source instVarNamed: 'initialPositionOrNil'.
+	initalPosition ifNotNil: [startOfToken := startOfToken - initalPosition].  
+	 ^ ((source contents asText attributesAt: startOfToken) detect: [:each | each anchoredMorph notNil] ifNone: [self haltOnce. ^ nil]) anchoredMorph value .
