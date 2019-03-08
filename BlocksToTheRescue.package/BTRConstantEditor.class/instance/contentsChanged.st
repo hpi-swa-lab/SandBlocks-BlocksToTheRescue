@@ -10,4 +10,5 @@ contentsChanged
 	self content editorMorphSpecs do: [:each | self instVarNamed: each key put: each value].
 	self changed: #contentMorphs. 
 	self morph addDependent: self.
-	self value: self content value.
+	self cancel.
+	self assert: self value = self content value.

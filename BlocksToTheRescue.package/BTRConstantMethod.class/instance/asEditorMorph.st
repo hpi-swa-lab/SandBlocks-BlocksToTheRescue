@@ -4,7 +4,7 @@ asEditorMorph
 	self value isColor ifTrue: 
 		[^ NewColorPickerMorph
 			on: nil
-			originalColor: self value
+			originalColor: Color green
 			setColorSelector: nil].
 	self value isMorph ifTrue: 
 		[^ BTRMorphEditorMorph new].
