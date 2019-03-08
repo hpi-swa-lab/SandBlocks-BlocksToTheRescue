@@ -1,11 +1,11 @@
 fileIn/Out
 scanFrom: aStream
 
-	| className class |
-	className := aStream upTo: $;.
-	class := self environment at: className asSymbol.
-	class ifNotNil: [
-		^ self new 
-			anchoredBlock: class new;
-			yourself].
-	^ self new
+	| length morphStream |
+	length := (aStream upTo: $;) asInteger.
+	morphStream := (MultiByteBinaryOrTextStream with: (aStream next: length)) binary reset.
+	aStream next ~= $; 
+		ifTrue: [self error: 'Read morph length does not match expected morph length'].
+	^ self new 
+		anchoredBlock: morphStream fileInObjectAndCode;
+		yourself
