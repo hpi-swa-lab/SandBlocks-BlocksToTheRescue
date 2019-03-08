@@ -3,7 +3,7 @@ update: anAspect
 
 	anAspect caseOf: {
 		"[self getValueSelector] -> [self value: self modelValue]."
-		[self valueChangedSelector] -> [self valueChanged].
+		[self valueChangedSelector] -> [self value ~= self content value ifTrue: [self valueChanged]].
 		[#wantToChange] -> [self canDiscardEdits ifFalse: [self promptForCancel]].
 		[#contents] -> 
 			[(self model codeMorph = self viewPort) 

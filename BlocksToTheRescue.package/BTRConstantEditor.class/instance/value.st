@@ -1,4 +1,4 @@
 as yet unclassified
 value
 
-	self morph perform: self getValueSelector.
+	^ self morph perform: self getValueSelector.

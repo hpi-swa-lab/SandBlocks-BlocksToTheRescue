@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AdornmentCache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FrameAdornmentMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
