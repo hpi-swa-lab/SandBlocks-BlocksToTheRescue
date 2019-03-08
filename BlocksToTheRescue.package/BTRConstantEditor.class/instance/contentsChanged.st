@@ -11,4 +11,3 @@ contentsChanged
 	self changed: #contentMorphs. 
 	self morph addDependent: self.
 	self cancel.
-	self assert: self value = self content value.
