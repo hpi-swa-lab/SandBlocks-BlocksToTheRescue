@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "TestCompositionScanner",
+	"name" : "TestCharacterBlockScanner",
 	"pools" : [
 		 ],
-	"super" : "TestScanner",
+	"super" : "TestScannerUsingComposition",
 	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+fifthCharacterWidth
+
+	^ 8

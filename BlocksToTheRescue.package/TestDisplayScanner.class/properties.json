@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "TestCompositionScanner",
+	"name" : "TestDisplayScanner",
 	"pools" : [
 		 ],
-	"super" : "TestScanner",
+	"super" : "TestScannerUsingComposition",
 	"type" : "normal" }
