@@ -3,6 +3,8 @@
 		"adornmentCache" : "LB 3/8/2019 11:37",
 		"adornmentWithColor:" : "LB 3/8/2019 11:37" },
 	"instance" : {
+		"condition" : "LB 3/8/2019 12:44",
+		"condition:" : "LB 3/8/2019 12:42",
 		"drawFrameAdornmentOn:" : "LB 3/8/2019 11:51",
-		"fullDrawOn:" : "LB 3/8/2019 12:08",
+		"fullDrawOn:" : "LB 3/8/2019 12:45",
 		"initialize" : "LB 3/8/2019 11:40" } }
