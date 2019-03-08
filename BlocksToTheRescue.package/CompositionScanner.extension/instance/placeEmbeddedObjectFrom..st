@@ -10,6 +10,6 @@ placeEmbeddedObjectFrom: aTextAttribute
 		ifTrue: ["Won't fit, but would on next line"
 				^ false].
 	destX := destX + width + kern.
-	baseline := baseline max: (anchoredMorph height / 2) floor + (aTextAttribute embeddedObjectPadding at: #top).
+	baseline := baseline max: (anchoredMorph height + font ascent / 2) floor + (aTextAttribute embeddedObjectPadding at: #top).
 	lineHeight := lineHeight max: anchoredMorph height + aTextAttribute verticalPadding.
 	^ true
