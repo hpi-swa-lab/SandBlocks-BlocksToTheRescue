@@ -7,9 +7,12 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"model",
+		"content",
 		"getValueSelector",
 		"setValueSelector",
-		"viewPort" ],
+		"valueChangedSelector",
+		"viewPort",
+		"hasUnacceptedEdits" ],
 	"name" : "BTRConstantEditor",
 	"pools" : [
 		 ],

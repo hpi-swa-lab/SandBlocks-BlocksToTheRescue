@@ -1,4 +1,4 @@
 accessing
 setValueSelector
 
-	^ setValueSelector
+	^ setValueSelector ifNil: [#value:]

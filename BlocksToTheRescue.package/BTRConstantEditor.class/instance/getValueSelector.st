@@ -1,4 +1,4 @@
 accessing
 getValueSelector
 
-	^ getValueSelector
+	^ getValueSelector ifNil: [#value]

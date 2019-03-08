@@ -2,4 +2,4 @@ as yet unclassified
 drawOverlayOn: aCanvas
 
 	super drawOverlayOn: aCanvas.
-	self drawFrameAdornmentOn: aCanvas.
+	self hasUnacceptedEdits ifTrue: [self drawFrameAdornmentOn: aCanvas].
