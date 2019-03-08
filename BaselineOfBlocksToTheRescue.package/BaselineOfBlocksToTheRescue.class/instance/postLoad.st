@@ -1,0 +1,4 @@
+baseline
+postLoad
+
+	Scanner initializeTypeTable.
