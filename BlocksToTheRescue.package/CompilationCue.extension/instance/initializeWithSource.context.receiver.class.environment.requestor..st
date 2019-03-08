@@ -3,10 +3,10 @@ initializeWithSource: aTextOrString context: aContext receiver: recObject class:
 	self initialize.
 	source := (aTextOrString isKindOf: PositionableStream)
 		ifTrue: [ aTextOrString ]
-		ifFalse: [ (ReadStream 
+		ifFalse: [ReadStream 
 					on: aTextOrString
 					from: 0
-					to: aTextOrString size) ascii ].
+					to: aTextOrString size ].
 	context := aContext.
 	receiver := recObject.
 	class := aClass.

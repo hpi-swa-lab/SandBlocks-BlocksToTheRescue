@@ -27,15 +27,15 @@ parseCue: aCue noPattern: noPattern ifFail: aBlock
 			myStream := ex newSource 
 				ifNil: [subSelection
 							ifTrue:
-								[(ReadStream 
+								[ReadStream 
 									on: cue requestor text
 									from: cue requestor selectionInterval first
-									to:  cue requestor selectionInterval last) ascii]
+									to:  cue requestor selectionInterval last]
 							ifFalse:
-								[(ReadStream 
+								[ReadStream 
 									on: cue requestor text
 									from: 0
-									to: cue requestor text size) ascii]]
+									to: cue requestor text size]]
 				ifNotNil: [:src | myStream := src readStream]].
 	 repeatNeeded] whileTrue:
 		[encoder := self encoder class new].
