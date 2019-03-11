@@ -4,4 +4,5 @@
 	"instance" : {
 		"isBTRBlock" : "BD 3/11/2019 14:16",
 		"parseBTRBlock" : "BD 3/11/2019 14:16",
-		"parseExpression" : "BD 3/11/2019 14:17" } }
+		"parseExpression" : "BD 3/11/2019 14:30",
+		"parseTerm" : "BD 3/11/2019 14:17" } }

@@ -1,7 +1,7 @@
 *BlocksToTheRescue
 parseExpression
 	| assignType |
-	self isBTRBlock ifTrue: [self parseBTRBlock].
+	self isBTRBlock ifTrue: [self parseBTRBlock. ^self].
 	self isName
 		ifTrue: [self
 				scanPast: (self resolve: currentToken).
