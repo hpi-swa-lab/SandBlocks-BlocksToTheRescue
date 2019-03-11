@@ -6,9 +6,9 @@
 		"on:selector:" : "ms 3/6/2019 14:17",
 		"onReference:" : "ms 3/6/2019 14:16" },
 	"instance" : {
-		"asEditorMorph" : "LB 3/8/2019 12:16",
 		"class:selector:" : "ms 3/6/2019 14:19",
-		"editorMorphSpecs" : "LB 3/8/2019 10:52",
+		"editorMorphSpec" : "LB 3/11/2019 14:26",
+		"editorMorphSpec:" : "LB 3/11/2019 14:25",
 		"flushCache" : "LB 3/11/2019 11:06",
 		"getSourceFor:in:" : "LB 3/7/2019 11:56",
 		"hasBreakpoint" : "LB 3/6/2019 12:33",
@@ -33,4 +33,5 @@
 		"timeStamp:" : "LB 3/11/2019 11:45",
 		"value" : "LB 3/6/2019 12:42",
 		"value:" : "LB 3/11/2019 11:46",
+		"valueEditorMorphSpec" : "LB 3/11/2019 14:32",
 		"valueWithReceiver:arguments:" : "ms 3/6/2019 11:44" } }
