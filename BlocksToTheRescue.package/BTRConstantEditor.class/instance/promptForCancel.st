@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 promptForCancel
 	"Ask if it is OK to cancel changes to text"
 	(self confirm:

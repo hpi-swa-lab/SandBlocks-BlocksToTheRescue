@@ -5,10 +5,7 @@ contentsChanged
 		removeDependent: self;
 		eventHandler: nil.
 	self content: self model method.
-	self 
-		getValueSelector: nil;
-		setValueSelector: nil;
-		valueChangedSelector: nil.
+	self resetValueSelectors.
 	self content editorMorphSpecs do: [:each | self instVarNamed: each key put: each value].
 	self changed: #contentMorphs. 
 	self morph 
