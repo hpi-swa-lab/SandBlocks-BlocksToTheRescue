@@ -1,9 +1,7 @@
 *BlocksToTheRescue
 parseExpression
 	| assignType |
-	currentTokenFirst == BTRBlockAttribute blockCharacter
-		ifTrue: [self scanPast: #block.
-			self parseCascade].
+	self isBTRBlock ifTrue: [self parseBTRBlock].
 	self isName
 		ifTrue: [self
 				scanPast: (self resolve: currentToken).

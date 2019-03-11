@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"parseExpression" : "WoC 3/11/2019 13:38" } }
+		"isBTRBlock" : "BD 3/11/2019 14:16",
+		"parseBTRBlock" : "BD 3/11/2019 14:16",
+		"parseExpression" : "BD 3/11/2019 14:17" } }
