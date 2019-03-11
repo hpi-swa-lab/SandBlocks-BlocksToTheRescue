@@ -1,4 +1,4 @@
-as yet unclassified
+source code management
 methodHome
 
 	^ self methodClass

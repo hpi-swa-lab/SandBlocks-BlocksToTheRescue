@@ -1,4 +1,6 @@
-as yet unclassified
+cleaning
 flushCache
 
-	self becomeForward: nil.
+	"See CompiledMethod#flushCache"
+	"self becomeForward: nil."
+	<primitive: 116>

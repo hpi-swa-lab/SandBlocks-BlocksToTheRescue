@@ -1,6 +1,6 @@
-as yet unclassified
+source code management
 messages
 
-	"Set of all messages called in this method - empty"
+	"Set of all message selectors called in this method - empty"
 	^ Set new
 	

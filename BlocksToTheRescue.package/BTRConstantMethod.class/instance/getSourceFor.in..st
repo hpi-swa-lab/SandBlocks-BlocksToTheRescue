@@ -1,4 +1,4 @@
-as yet unclassified
+source code management
 getSourceFor: aSelector in: aClass
 
 	self assert: aSelector = self selector.
