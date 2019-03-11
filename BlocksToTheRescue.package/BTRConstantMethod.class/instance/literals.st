@@ -1,6 +1,6 @@
-as yet unclassified
+source code management
 literals
 
-	"Set of all literals called in this method - empty"
-	^ Set new
+	"Array of all literals used in this method - empty"
+	^ Array new
 	

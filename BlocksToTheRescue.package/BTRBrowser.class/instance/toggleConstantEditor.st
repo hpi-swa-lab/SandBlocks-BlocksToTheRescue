@@ -4,10 +4,10 @@ toggleConstantEditor
 	self okToChange ifTrue:
 		[self isShowingConstantEditor
 			ifTrue:
-				[contentsSymbol := #source]
+				[self setDefaultContents]
 			ifFalse:
 				[self ensureConstantMethodIfCanceled: [^ self].
 				self installConstantEditor.
-				contentsSymbol := self constantEditorSymbol].
+				self contentsSymbol: self constantEditorSymbol].
 		self setContentsToForceRefetch.
 		self contentsChanged]

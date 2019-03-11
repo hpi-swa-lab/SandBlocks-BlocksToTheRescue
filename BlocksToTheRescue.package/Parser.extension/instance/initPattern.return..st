@@ -1,12 +1,12 @@
 *BlocksToTheRescue
-initPattern: aString return: aBlock
-
-	| result |
+initPattern: t1 return: t2 
+	| t3 |
 	self
-		init: (ReadStream on: aString)
-		cue: (CompilationCue source: aString)
-		failBlock: [^nil].
+		init: (ReadStream on: t1)
+		cue: (CompilationCue source: t1)
+		failBlock: [^ nil].
 	encoder := self.
-	result := aBlock value: (self pattern: false inContext: nil).
-	encoder := failBlock := nil.  "break cycles"
-	^result
+	t3 := t2
+				value: (self pattern: false inContext: nil).
+	encoder := failBlock := nil.
+	^ t3

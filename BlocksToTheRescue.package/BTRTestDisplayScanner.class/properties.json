@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Test",
+	"category" : "BlocksToTheRescue-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"line" ],
-	"name" : "TestScannerUsingComposition",
+		 ],
+	"name" : "BTRTestDisplayScanner",
 	"pools" : [
 		 ],
-	"super" : "TestScanner",
+	"super" : "BTRTestScannerUsingComposition",
 	"type" : "normal" }

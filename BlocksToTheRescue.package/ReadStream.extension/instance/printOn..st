@@ -1,5 +1,4 @@
 *BlocksToTheRescue
-printOn: aStream
- 
-	aStream nextPutAll: 'aReadStream '.
-	collection printOn: aStream.
+printOn: t1 
+	t1 nextPutAll: 'aReadStream '.
+	collection printOn: t1
