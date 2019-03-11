@@ -2,7 +2,6 @@
 readBlock
 	
 	| startOfToken initalPosition |
-	self haltOnce.
 	startOfToken := mark.
 	initalPosition := source instVarNamed: 'initialPositionOrNil'. 
 	(initalPosition isNil or: [initalPosition = 1])

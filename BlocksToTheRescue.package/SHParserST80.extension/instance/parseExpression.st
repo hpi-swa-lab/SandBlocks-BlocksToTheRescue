@@ -1,6 +1,6 @@
 *BlocksToTheRescue
 parseExpression
-	| t1 |
+	| assignType |
 	currentTokenFirst == BTRBlockAttribute blockCharacter
 		ifTrue: [self scanPast: #block.
 			self parseCascade].
@@ -8,10 +8,10 @@ parseExpression
 		ifTrue: [self
 				scanPast: (self resolve: currentToken).
 			self isAssignment
-				ifTrue: [t1 := self isAnsiAssignment
+				ifTrue: [assignType := self isAnsiAssignment
 								ifTrue: [#ansiAssignment]
 								ifFalse: [#assignment].
-					self scanPast: t1.
+					self scanPast: assignType.
 					self parseExpression]
 				ifFalse: [self parseCascade]]
 		ifFalse: [self parseTerm.
