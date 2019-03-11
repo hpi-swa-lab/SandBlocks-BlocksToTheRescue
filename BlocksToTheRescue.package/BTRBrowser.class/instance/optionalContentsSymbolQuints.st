@@ -1,7 +1,7 @@
 controls
 optionalContentsSymbolQuints
 	"The quints are put in here as tuples in the form condition -> quint"
-	^ {#isConstantMethod -> 
+	^ {#hasConstantMethodSelected -> 
 		{self constantEditorSymbol
 			. #toggleConstantEditor 
 			. #showingConstantEditorString 

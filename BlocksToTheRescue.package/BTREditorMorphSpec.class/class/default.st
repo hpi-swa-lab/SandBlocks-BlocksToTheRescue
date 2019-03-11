@@ -4,4 +4,5 @@ default
 	^ self new
 		getValueSelector: #value;
 		setValueSelector: #value:;
-		valueChangedSelector: #valueChanged
+		valueChangedSelector: #valueChanged;
+		constructor: [Morph new]
