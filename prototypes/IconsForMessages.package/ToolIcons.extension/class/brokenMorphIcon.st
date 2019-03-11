@@ -1,4 +1,4 @@
 *IconsForMessages-Icons
 brokenMorphIcon
 
-	^ self iconNamed: #brokenMorphIcon
+	^ self iconNamed: #brokenMorph
