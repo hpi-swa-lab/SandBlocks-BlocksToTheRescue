@@ -1,4 +1,4 @@
 constant methods
 isConstantMethod
 
-	^ self method isKindOf: BTRConstantMethod
+	^self isShowingMethod and: [self method notNil] and: [self method isConstantMethod]

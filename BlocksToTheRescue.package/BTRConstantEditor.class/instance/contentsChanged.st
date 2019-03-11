@@ -6,7 +6,7 @@ contentsChanged
 		eventHandler: nil.
 	self content: self model method.
 	self resetValueSelectors.
-	self content editorMorphSpecs do: [:each | self instVarNamed: each key put: each value].
+	self content editorMorphSpec applyTo: self.
 	self changed: #contentMorphs. 
 	self morph 
 		addDependent: self;

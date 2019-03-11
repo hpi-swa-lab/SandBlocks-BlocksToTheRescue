@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"methodReference",
-		"value",
-		"timeStamp",
-		"editorMorphSpec" ],
-	"name" : "BTRConstantMethod",
+		"constructor",
+		"getValueSelector",
+		"setValueSelector",
+		"valueChangedSelector" ],
+	"name" : "BTREditorMorphSpec",
 	"pools" : [
 		 ],
 	"super" : "Object",
