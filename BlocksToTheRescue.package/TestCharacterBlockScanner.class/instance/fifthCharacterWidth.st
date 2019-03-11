@@ -1,4 +1,4 @@
 accessing
 fifthCharacterWidth
 
-	^ 8
+	^ self font widthOfString: self text asString from: 5 to: 5
