@@ -1,5 +1,5 @@
 {
-	"category" : "BlocksToTheRescue-Test",
+	"category" : "BlocksToTheRescue-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -10,7 +10,7 @@
 		"scanner",
 		"text",
 		"textAttribute" ],
-	"name" : "TestScanner",
+	"name" : "BTRTestScanner",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
