@@ -1,4 +1,4 @@
-*IconsForMessages-Icons
+*IconsForMessages
 allIconsMorph
 	| morph pos |
 	self icons ifEmpty: [^ 'ToolIcons cache is empty' asMorph].

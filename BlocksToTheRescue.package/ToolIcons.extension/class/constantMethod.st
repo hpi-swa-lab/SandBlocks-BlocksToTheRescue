@@ -1,6 +1,0 @@
-*BlocksToTheRescue
-constantMethod
-
-	^ Form fromBinaryStream: (Base64MimeConverter mimeDecodeToBytes:  'iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAT0lEQVQoz7WR2
-woAIAhDXfT/v3x6yZBuYJDgg+icm2a/Q7EAGA1JV2QfHhnBCwOAJIszXi9MvnneSI+Zo
-R7FHTSUrEvlZsLupLzoJ1szj2sbskriikRgTwAAAABJRU5ErkJggg==' readStream)
