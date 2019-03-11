@@ -1,4 +1,4 @@
 constant methods
 constantEditorAvailable
 
-	^ self isConstantMethod or: [self couldBecomeConstantMethod]
+	^ self hasConstantMethodSelected or: [self couldBecomeConstantMethod]
