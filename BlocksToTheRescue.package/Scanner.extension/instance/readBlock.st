@@ -7,4 +7,4 @@ readBlock
 	(initalPosition isNil or: [initalPosition = 1])
 		ifTrue: ["startOfToken := startOfToken - 1"]
 		ifFalse: [startOfToken := startOfToken - initalPosition + 1].
-	 ^ ((source contents asText attributesAt: startOfToken) detect: [:each | each anchoredMorph notNil] ifNone: [self haltOnce. ^ nil]) anchoredMorph value .
+	 ^ ((source contents asText attributesAt: startOfToken) detect: [:each | each anchoredMorph notNil] ifNone: [self haltOnce. ^ nil]) anchoredMorph value.
