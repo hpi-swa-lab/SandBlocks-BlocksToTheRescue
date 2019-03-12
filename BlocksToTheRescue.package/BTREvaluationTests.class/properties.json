@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BTRTestCharacterBlockScanner",
+	"name" : "BTREvaluationTests",
 	"pools" : [
 		 ],
-	"super" : "BTRTestScannerUsingComposition",
+	"super" : "TestCase",
 	"type" : "normal" }
