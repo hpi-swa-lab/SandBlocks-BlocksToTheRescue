@@ -1,0 +1,3 @@
+accessing
+tileColor
+	^ tileColor
