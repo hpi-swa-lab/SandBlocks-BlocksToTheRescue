@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawFrameAdornmentOn: aCanvas
 	| form |
 	form := self class adornmentWithColor: self color.

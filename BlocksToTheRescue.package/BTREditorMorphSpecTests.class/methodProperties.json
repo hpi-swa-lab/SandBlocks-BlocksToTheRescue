@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fixture" : "LB 3/12/2019 10:20",
+		"testApplySelectors" : "LB 3/12/2019 10:23",
+		"testConstructorCreatesCorrectMorph" : "LB 3/12/2019 10:23",
+		"testEquals" : "LB 3/12/2019 15:05" } }

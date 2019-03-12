@@ -1,4 +1,4 @@
 accessing
-condition: anObject
+condition: aBlockOrBoolean
 
-	condition := anObject.
+	condition := aBlockOrBoolean.

@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"accept" : "LB 3/11/2019 11:56",
+		"acceptSpec:" : "LB 3/12/2019 10:21",
 		"buildWith:" : "LB 3/7/2019 16:29",
 		"canDiscardEdits" : "LB 3/8/2019 10:14",
 		"cancel" : "LB 3/8/2019 14:31",
@@ -10,7 +11,7 @@
 		"content" : "LB 3/8/2019 10:33",
 		"content:" : "LB 3/8/2019 10:32",
 		"contentMorphs" : "LB 3/11/2019 13:52",
-		"contentsChanged" : "LB 3/11/2019 13:51",
+		"contentsChanged" : "LB 3/12/2019 10:21",
 		"eventHandler" : "LB 3/8/2019 14:21",
 		"eventHandler:" : "LB 3/8/2019 14:21",
 		"getValueSelector" : "LB 3/11/2019 13:49",

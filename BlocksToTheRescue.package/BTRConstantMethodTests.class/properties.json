@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRConstantMethodTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

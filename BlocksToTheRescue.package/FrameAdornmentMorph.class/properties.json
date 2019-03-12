@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"AdornmentCache" ],
-	"commentStamp" : "",
+	"commentStamp" : "LB 3/12/2019 10:16",
 	"instvars" : [
 		"condition" ],
 	"name" : "FrameAdornmentMorph",

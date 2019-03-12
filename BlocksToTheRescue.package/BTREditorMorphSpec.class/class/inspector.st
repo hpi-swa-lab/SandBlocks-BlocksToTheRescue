@@ -6,6 +6,6 @@ inspector
 		getValueSelector: [:morph | morph model object];
 		valueChangedSelector: #inspectObject;
 		constructor: 
-			[(Inspector openOn: nil)
+			[self buildWindowFreeInspector
 				beSticky;
 				yourself]

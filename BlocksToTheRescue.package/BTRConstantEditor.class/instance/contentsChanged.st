@@ -6,7 +6,7 @@ contentsChanged
 		eventHandler: nil.
 	self content: self model method.
 	self resetValueSelectors.
-	self content editorMorphSpec applyTo: self.
+	self acceptSpec: self content editorMorphSpec.
 	self changed: #contentMorphs. 
 	self morph 
 		addDependent: self;

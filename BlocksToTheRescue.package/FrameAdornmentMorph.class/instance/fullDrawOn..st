@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 fullDrawOn: aCanvas
 
 	self position: self owner topRight.
