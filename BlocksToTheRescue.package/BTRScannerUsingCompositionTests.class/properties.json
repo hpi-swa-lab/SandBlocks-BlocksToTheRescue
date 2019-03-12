@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRTestCompositionScanner",
+		"line" ],
+	"name" : "BTRScannerUsingCompositionTests",
 	"pools" : [
 		 ],
-	"super" : "BTRTestScanner",
+	"super" : "BTRScannerTests",
 	"type" : "normal" }

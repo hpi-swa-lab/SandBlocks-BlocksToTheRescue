@@ -10,7 +10,7 @@
 		"scanner",
 		"text",
 		"textAttribute" ],
-	"name" : "BTRTestScanner",
+	"name" : "BTRScannerTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
