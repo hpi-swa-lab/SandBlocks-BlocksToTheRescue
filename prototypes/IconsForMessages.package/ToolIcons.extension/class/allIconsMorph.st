@@ -1,6 +1,7 @@
-*IconsForMessages-Icons
+*IconsForMessages
 allIconsMorph
 	| morph pos |
+	self icons ifEmpty: [^ 'ToolIcons cache is empty' asMorph].
 	morph := BorderedMorph new
 		color: Color transparent;
 		name: 'ToolIcons Preview';

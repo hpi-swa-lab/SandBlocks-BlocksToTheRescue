@@ -1,7 +1,7 @@
 controls
 optionalContentsSymbolQuints
 	"The quints are put in here as tuples in the form condition -> quint"
-	^ {#isConstantMethod -> 
+	^ {#hasConstantMethodSelected -> 
 		{self constantEditorSymbol
 			. #toggleConstantEditor 
 			. #showingConstantEditorString 
@@ -13,5 +13,5 @@ optionalContentsSymbolQuints
 			. #showingConstantEditorString 
 			. 'constant editor'
 			. 'this method can be transformed into a constant one' translated}.} 
-	select: [:each | self perform: each key]
+	select: [:each | (self perform: each key) = true]
 	thenCollect: [:each | each value]
