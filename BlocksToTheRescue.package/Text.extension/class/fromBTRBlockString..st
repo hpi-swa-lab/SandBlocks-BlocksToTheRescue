@@ -1,5 +1,5 @@
 *BlocksToTheRescue
-fromBlockString: aString
+fromBTRBlockString: aString
 	"Answer an instance of me whose characters are those of the argument, aString."
 	| stream resultString attributes |
 	(aString includesAllOf:{Character value: 1 . Character value: 2})

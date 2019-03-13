@@ -1,7 +1,7 @@
 *BlocksToTheRescue
 compile: aString classified: aString1 withStamp: aString2 notifying: aRequestor logSource: aBoolean inClass: aClass
 
-	text := Text fromBlockString: aString.
+	text := Text fromBTRBlockString: aString.
 	category := aString1.
 	changeStamp := aString2.
 	requestor := aRequestor.

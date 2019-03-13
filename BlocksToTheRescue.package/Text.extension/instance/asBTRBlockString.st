@@ -1,5 +1,5 @@
 *BlocksToTheRescue
-asBlockString
+asBTRBlockString
 
 	| writeStream readStream |
 	writeStream := WriteStream on: ''.
