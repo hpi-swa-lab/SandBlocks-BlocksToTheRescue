@@ -1,4 +1,4 @@
 as yet unclassified
-bar
+timeStamp
 
-	self bar: 5.
+	^ ''

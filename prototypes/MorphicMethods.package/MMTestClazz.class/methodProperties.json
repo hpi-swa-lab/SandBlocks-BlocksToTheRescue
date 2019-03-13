@@ -2,7 +2,8 @@
 	"class" : {
 		"yellowDotIcon" : "ms 1/29/2019 18:00" },
 	"instance" : {
-		"bar" : "",
+		"bar" : "LB 3/13/2019 13:10",
+		"bar:" : "",
 		"foo" : "",
 		"foo2" : "",
 		"iCannotBecomeAConstantMethod" : "LB 3/6/2019 16:53",

@@ -1,4 +1,4 @@
-source code management
+compliance
 methodHome
 
 	^ self methodClass
