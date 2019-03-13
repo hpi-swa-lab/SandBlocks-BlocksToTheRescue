@@ -5,7 +5,7 @@ writeScanOn: aStream
 	morphStream := MultiByteBinaryOrTextStream on: ''.
 	self anchoredBlock allMorphsDo: [:each | each prepareToBeSaved].
 	morphStream fileOutClass: nil andObject: self anchoredBlock.
-	morphBinary := morphStream contents asByteArray fullPrintString.
+	morphBinary := morphStream contents asByteArray base64Encoded.
 	aStream
 		nextPut: self class scanCharacter;
 		nextPutAll: morphBinary size asString;
