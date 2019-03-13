@@ -2,7 +2,7 @@ drawing
 drawTilesOn: aCanvas
 
 	(self bounds insetBy: self borderStyle inset)
-		tiledBy: self tileSize do: [ :aPoint :aRectangle |
+		tiledBy: self tileSize do: [ :indexPosition :tileRectangle |
 			aCanvas
-				fillRectangle: aRectangle
-				color: (self colorForTile: aPoint)].
+				fillRectangle: tileRectangle
+				color: (self colorForTile: indexPosition)].
