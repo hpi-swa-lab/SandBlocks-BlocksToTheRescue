@@ -4,7 +4,6 @@ about: Ein feature, das von einem (hypothetischen) Nutzer gewünscht ist
 title: ''
 labels: Sprintziel / feature
 assignees: ''
-milestone: Sprint 6 - Integration erster Blöcke
 
 ---
 
