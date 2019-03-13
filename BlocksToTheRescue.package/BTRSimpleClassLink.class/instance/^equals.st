@@ -1,4 +1,4 @@
 comparing
 = other 
 	^ (other class == self class) 
-		and: [other anchoredMorph == anchoredBlock] 
+		and: [other anchoredClass == self anchoredClass]
