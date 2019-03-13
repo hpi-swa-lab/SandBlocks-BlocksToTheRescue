@@ -2,5 +2,5 @@ initialize-release
 install
 
 	self methodClass 
-		compile: self selector asString;
+		compile: (self addParamsTo: self selector);
 		addSelector: self selector withMethod: self.

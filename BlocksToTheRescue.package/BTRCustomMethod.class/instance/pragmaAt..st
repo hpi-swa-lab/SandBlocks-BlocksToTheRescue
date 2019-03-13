@@ -1,5 +1,5 @@
 source code management
 pragmaAt: aKey
 	"Answer the pragma with selector aKey, or nil if none."
-	"No Pragmas in constant methods"
-	^nil
+	"By default, no Pragmas in custom methods as they have no source code"
+	^ nil

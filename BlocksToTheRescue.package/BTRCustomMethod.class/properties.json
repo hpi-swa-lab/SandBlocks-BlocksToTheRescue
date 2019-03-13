@@ -6,12 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"methodReference",
-		"value",
-		"timeStamp",
-		"editorMorphSpec" ],
-	"name" : "BTRConstantMethod",
+		"methodClass",
+		"selector" ],
+	"name" : "BTRCustomMethod",
 	"pools" : [
 		 ],
-	"super" : "BTRCustomMethod",
+	"super" : "Object",
 	"type" : "normal" }

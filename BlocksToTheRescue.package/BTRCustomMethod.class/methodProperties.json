@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addParamsTo:" : "LB 3/13/2019 11:38",
+		"flushCache" : "LB 3/13/2019 10:55",
+		"getSourceFor:in:" : "LB 3/13/2019 11:02",
+		"hasBreakpoint" : "LB 3/13/2019 10:55",
+		"install" : "LB 3/13/2019 11:39",
+		"isConstantMethod" : "LB 3/13/2019 11:00",
+		"last" : "LB 3/13/2019 10:56",
+		"literals" : "LB 3/13/2019 10:56",
+		"messages" : "LB 3/13/2019 10:56",
+		"methodClass" : "LB 3/13/2019 10:55",
+		"methodClass:" : "LB 3/13/2019 10:55",
+		"methodHome" : "LB 3/13/2019 10:56",
+		"numArgs" : "LB 3/13/2019 11:02",
+		"pragmaAt:" : "LB 3/13/2019 10:59",
+		"pragmas" : "LB 3/13/2019 10:56",
+		"refersTo:primaryBytecodeScanner:secondaryBytecodeScanner:thorough:" : "LB 3/13/2019 10:59",
+		"selector" : "LB 3/13/2019 10:55",
+		"selector:" : "LB 3/13/2019 10:55",
+		"sourcePointer" : "LB 3/13/2019 10:56",
+		"timeStamp" : "LB 3/13/2019 11:02" } }
