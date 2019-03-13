@@ -1,5 +1,6 @@
 *IconsForMessages
 methodIcon
-	<iconSymbol: #constantMethod>
 
-	^ true
+	^ (self value respondsTo: #asIcon) 
+		ifTrue: [self value asIcon]
+		ifFalse: [#constantMethod]
