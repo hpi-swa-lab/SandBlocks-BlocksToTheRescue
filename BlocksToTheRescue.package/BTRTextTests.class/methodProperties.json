@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "Elina Emsbach 3/13/2019 14:44",
+		"testAsBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:57",
+		"testConversion" : "Elina Emsbach 3/13/2019 15:16",
+		"testConversionMultipleMorphsPerCharacter" : "Elina Emsbach 3/13/2019 16:07",
+		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55" } }
