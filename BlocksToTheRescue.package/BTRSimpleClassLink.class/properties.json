@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"anchoredClass" ],
+	"name" : "BTRSimpleClassLink",
+	"pools" : [
+		 ],
+	"super" : "TextAction",
+	"type" : "normal" }
