@@ -25,7 +25,7 @@ widgetSpecs: builder
 		model: self;
 		getText: #message;
 		setText: #message:;
-		frame: (LayoutFrame fractions: (0@0.7 corner: 1@1) offsets: (0@0 corner: 0@(-25)));
+		frame: (LayoutFrame fractions: (0@0.7 corner: 0.8@1) offsets: (0@0 corner: 0@(-25)));
 		yourself.
 	self buildCoAuthorSelector: builder.
 	self buildButtonBar: builder}
