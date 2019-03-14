@@ -3,7 +3,7 @@ testConversion
 
 	| morph newMorph text |
 	morph := Morph new 
-		color: Color banana;
+		color: Color pantonePurpleU;
 		extent: 80 @ 20;
 		addMorph: StarMorph new;
 		yourself.
