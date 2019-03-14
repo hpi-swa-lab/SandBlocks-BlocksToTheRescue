@@ -2,7 +2,7 @@ coloring
 colorsMixedUpTo: depth
 
 	^ (depth = 1)
-		ifTrue: [self inmostBracketColor asOrderedCollection]
+		ifTrue: [self utmostBracketColor asOrderedCollection]
 		ifFalse: [
 			(0 to: depth-1) collect: [ :i |
 				self inmostBracketColor
