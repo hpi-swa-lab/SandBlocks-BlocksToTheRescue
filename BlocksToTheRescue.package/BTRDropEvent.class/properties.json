@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"causingEvent" ],
+	"name" : "BTRDropEvent",
+	"pools" : [
+		 ],
+	"super" : "DropEvent",
+	"type" : "normal" }
