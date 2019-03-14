@@ -10,4 +10,5 @@ baseline: spec
 				group: 'default' with: #('BlocksToTheRescue');
 				yourself.
 			spec
+				preLoadDoIt: #preLoad;
 				postLoadDoIt: #postLoad].
