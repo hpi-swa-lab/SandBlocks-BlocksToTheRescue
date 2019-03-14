@@ -24,9 +24,13 @@ primaryExpression
 			(self match: #rightParenthesis)
 				ifFalse: [^self expected: 'right parenthesis'].
 			^true].
-	(hereType == #string or: [hereType == #number or: [hereType == #literal or: [hereType == #character or: [hereType == #block]]]])
+	(hereType == #string or: [hereType == #number or: [hereType == #literal or: [hereType == #character]]])
 		ifTrue: 
 			[parseNode := encoder encodeLiteral: self advance.
+			^true].
+	hereType == #block
+		ifTrue: 
+			[parseNode := self encodeBlock.
 			^true].
 	(here == #- and: [tokenType == #number and: [1 + hereEnd = mark]])
 		ifTrue: 
