@@ -7,16 +7,14 @@ testDoIt
 	morph := Morph new.
 	newExtent := self newMorphExtent.
 
-	Compiler new evaluate: 
+	Compiler new
+		evaluate: 
 			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredMorph: morph)),
 			(Text withAll: ' extent: ', newExtent)
-			in: nil
-			to: nil
-			environment: Smalltalk globals
-			notifying: nil
-			ifFail: []
-			logged: true.	
+		in: nil
+		to: nil
+		notifying: nil
+		ifFail: []
+		logged: true.	
 
 	self assert: newExtent equals: morph extent.
-		
-	
