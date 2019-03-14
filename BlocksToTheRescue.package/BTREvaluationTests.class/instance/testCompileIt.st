@@ -1,5 +1,8 @@
 testing
 testCompileIt
+	"Squeak Version < 5.2 didn't have the same compiler structure we need to
+	compile Text instead of Strings. This test will then fail because the Morph
+	cannot be used as a literal and nil is used instead."
 
 	| resultingMorph selector newExtent |
 	selector := self temporaryMethodSelector.

@@ -1,4 +1,4 @@
 coloring
 utmostBracketColor
 
-	^ Color lightYellow
+	^ self fallbackInmostBracketColor
