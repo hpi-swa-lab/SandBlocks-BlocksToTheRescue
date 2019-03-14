@@ -1,7 +1,7 @@
 testing
 testCompileIt
 
-	| morph selector newExtent |
+	| resultingMorph selector newExtent |
 	selector := self temporaryMethodSelector.
 	newExtent := self newMorphExtent.
 
@@ -14,7 +14,8 @@ testCompileIt
 		notifying: nil.
 	self assert: (self respondsTo: selector).
 
-	morph := self perform: selector.
+	resultingMorph := self perform: selector.
 	self class removeSelector: selector.
 
-	self assert: newExtent equals: morph extent.
+	self assert: resultingMorph isMorph.
+	self assert: resultingMorph extent equals: newExtent.
