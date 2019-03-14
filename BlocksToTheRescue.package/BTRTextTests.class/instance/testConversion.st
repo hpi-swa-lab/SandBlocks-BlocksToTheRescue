@@ -2,8 +2,8 @@ testing
 testConversion
 
 	| morph newMorph text |
-	morph := Morph new 
-		color: Color pantonePurpleU;
+	morph := Morph new
+		color: Color random;
 		extent: 80 @ 20;
 		addMorph: StarMorph new;
 		yourself.
@@ -11,6 +11,7 @@ testConversion
 			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredMorph: morph)),
 			(Text withAll: ' extent: (500 random) @ (500 random).').
 	text := Text fromBTRBlockString: text asBTRBlockString.
+
 	self assert: 1 equals: text embeddedMorphs size.
 	newMorph := text embeddedMorphs asOrderedCollection first.
 	self assert: morph class equals: newMorph class.
