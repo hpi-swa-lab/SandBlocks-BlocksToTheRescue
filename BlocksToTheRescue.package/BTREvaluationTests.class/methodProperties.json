@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testCompileIt" : "BD 3/11/2019 16:09",
-		"testDoIt" : "BD 3/11/2019 15:34" } }
+		"newMorphExtent" : "ms 3/14/2019 10:23",
+		"setUp" : "ms 3/14/2019 10:11",
+		"temporaryMethodSelector" : "ms 3/14/2019 10:20",
+		"testCompileIt" : "ms 3/14/2019 10:23",
+		"testDoIt" : "ms 3/14/2019 10:23" } }
