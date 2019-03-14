@@ -5,8 +5,7 @@ adjustEmbeddedMorphs
 	embeddedMorphs := self text embeddedMorphs.
 	self submorphsDo: [:each |
 		(embeddedMorphs includes: each)
-			 ifFalse: [each eventHandler: nil.
-					  each abandon]].
+			 ifFalse: [ each abandon]].
 	self text embeddedMorphs do: [:each |
 		(self submorphs includes: each)
 			ifFalse: [ | eventHandler |

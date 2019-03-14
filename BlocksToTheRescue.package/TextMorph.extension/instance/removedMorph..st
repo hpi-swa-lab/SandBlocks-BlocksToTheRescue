@@ -8,4 +8,5 @@ removedMorph: aMorph
 		self fit].
 	aMorph textAnchorType: nil.
 	aMorph relativeTextAnchorPosition: nil.
+	aMorph eventHandler: nil.
 	super removedMorph: aMorph.
