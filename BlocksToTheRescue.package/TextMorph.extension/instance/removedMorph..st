@@ -2,7 +2,6 @@
 removedMorph: aMorph
 	| range |
 	range := self findRunForMorph: aMorph.
-	self haltOnce.
 	range ifNotNil:
 		[self editor replace: range with: Text new.
 		self fit].

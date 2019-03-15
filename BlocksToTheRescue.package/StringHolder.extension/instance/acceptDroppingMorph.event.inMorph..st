@@ -12,7 +12,8 @@ acceptDroppingMorph: dropee event: evt inMorph: targetMorph
 				ifTrue: [externalName]
 				ifFalse: ['a' , externalName].
 	textWithMorph :=  (Text string: (String value: 1) attributes: {(BTRBlockAttribute new anchoredMorph: dropee)}).
-	selectionPosition := (targetMorph textMorph paragraph characterBlockAtPoint: evt position- targetMorph position) stringIndex.
+	self haltOnce.
+	selectionPosition := (targetMorph textMorph paragraph characterBlockAtPoint: evt position + targetMorph scroller transform offset) stringIndex.
 	targetMorph setSelection: (selectionPosition to: selectionPosition - 1).
 	targetMorph correctSelectionWithString: textWithMorph.
 	(dropee isKindOf: TransferMorph)
