@@ -2,6 +2,7 @@
 iconSymbolForMethod: aMethodReference
 	"Answer an icon symbol to be shown for the given method reference."
 	
+	aMethodReference methodSymbol isDoIt ifTrue: [^ #play].
 	aMethodReference isValid ifFalse: [^ #brokenMorph].
 	
 	^ self
