@@ -7,8 +7,8 @@ asBTRBlockString
 	[readStream atEnd]
 		whileFalse: [
 			writeStream nextPutAll: (readStream upTo: Character startOfHeading).
-			(readStream atEnd)
-				ifFalse: [
+			(readStream last = Character startOfHeading)
+				ifTrue: [
 					writeStream nextPut: Character startOfHeading.
 					self attributesAt: readStream position do: [:attribute | attribute writeScanOn: writeStream].
 					writeStream nextPut: Character startOfText]].
