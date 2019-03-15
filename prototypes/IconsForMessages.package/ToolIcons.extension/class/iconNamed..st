@@ -1,8 +1,8 @@
 *IconsForMessages
 iconNamed: aSymbol
 
-	^self icons
+	^ self icons
 		at: aSymbol
-		ifAbsentPut: [(self respondsTo: aSymbol)
-			ifTrue: [self perform: aSymbol]
-			ifFalse: [self perform: (aSymbol asString, 'Icon') asSymbol]]
+		ifAbsent: [(self tryFindIcon: aSymbol)
+			ifNil: [self brokenMorph]
+			ifNotNil: [:icon | self icons at: aSymbol put: icon]]
