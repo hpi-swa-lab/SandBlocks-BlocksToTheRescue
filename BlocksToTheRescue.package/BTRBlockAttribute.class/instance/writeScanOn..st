@@ -8,9 +8,11 @@ writeScanOn: aStream
 	morphBinary := morphStream contents asByteArray base64Encoded.
 	aStream
 		nextPut: self class scanCharacter;
-		nextPutAll: morphBinary size asString;
+		nextPut: $#;
+		nextPutAll: 'V1';
+		nextPut: $; ;
+		nextPutAll: morphBinary size printStringHex;
 		nextPut: $; ;
 		nextPutAll: morphBinary;
 		nextPut: $; .
-		
 	
