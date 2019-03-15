@@ -6,6 +6,6 @@ appendCoAuthors
 			ifNotEmpty: [
 				self message: (self message, String crlfcrlf, String crlf,
 					(String streamContents: [:s | (selection
-						collect: [ :gitStamp | 'Co-authored-by: ', gitStamp asStringWithoutTimestamp])
+						collect: [ :gitStamp | self coAuthorString, gitStamp asStringWithoutTimestamp])
 						asStringOn: s delimiter: String crlf])).
 				self changed: #message]].
