@@ -5,7 +5,7 @@
 		"parseBTRBlockString:" : "LM 3/13/2019 16:52",
 		"parseBTRBlockStringSequenceFrom:into:withAttributes:" : "LM 3/13/2019 16:46" },
 	"instance" : {
-		"asBTRBlockString" : "LM 3/13/2019 16:36",
+		"asBTRBlockString" : "LM 3/15/2019 15:39",
 		"attributesAt:ifAbsent:" : "LM 3/5/2019 13:57",
 		"copyReplaceFrom:to:with:" : "Elina Emsbach 3/6/2019 15:52",
 		"makeSelectorBoldIn:" : "BD 3/8/2019 14:51",
