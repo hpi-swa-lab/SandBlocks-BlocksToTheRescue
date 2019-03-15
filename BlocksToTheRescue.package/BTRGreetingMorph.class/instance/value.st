@@ -1,5 +1,5 @@
 as yet unclassified
 value 
 
-	Transcript showln: 'Hello world!'.
+	Transcript showln: self greeting.
 	^ Color green

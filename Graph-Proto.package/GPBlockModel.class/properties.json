@@ -13,7 +13,8 @@
 		"outputFlowDecider",
 		"action",
 		"data",
-		"view" ],
+		"view",
+		"role" ],
 	"name" : "GPBlockModel",
 	"pools" : [
 		 ],
