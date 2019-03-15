@@ -2,7 +2,7 @@
 acceptDroppingMorph: dropee event: evt inMorph: targetMorph 
 	"Return the dropee to its old position, and add a reference to it at the
 	cursor point."
-	| morphName externalName reference |
+	| textWithMorph externalName reference selectionPosition |
 	(dropee isKindOf: TransferMorph)
 		ifTrue: [reference := dropee passenger.
 			externalName := dropee passenger className]
@@ -11,8 +11,10 @@ acceptDroppingMorph: dropee event: evt inMorph: targetMorph
 	externalName := externalName isOctetString
 				ifTrue: [externalName]
 				ifFalse: ['a' , externalName].
-	morphName :=  (Text string: (String value: 1) attributes: {(BTRBlockAttribute new anchoredMorph: dropee)}).
-	targetMorph correctSelectionWithString: morphName.
+	textWithMorph :=  (Text string: (String value: 1) attributes: {(BTRBlockAttribute new anchoredMorph: dropee)}).
+	selectionPosition := (targetMorph textMorph paragraph characterBlockAtPoint: evt position- targetMorph position) stringIndex.
+	targetMorph setSelection: (selectionPosition to: selectionPosition - 1).
+	targetMorph correctSelectionWithString: textWithMorph.
 	(dropee isKindOf: TransferMorph)
 		ifFalse: [dropee rejectDropMorphEvent: evt].
 	^ true"success"

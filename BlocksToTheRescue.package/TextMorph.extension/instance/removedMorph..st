@@ -2,9 +2,9 @@
 removedMorph: aMorph
 	| range |
 	range := self findRunForMorph: aMorph.
+	self haltOnce.
 	range ifNotNil:
-		[self paragraph replaceFrom: range first to: range last
-				with: Text new displaying: false.
+		[self editor replace: range with: Text new.
 		self fit].
 	aMorph textAnchorType: nil.
 	aMorph relativeTextAnchorPosition: nil.
