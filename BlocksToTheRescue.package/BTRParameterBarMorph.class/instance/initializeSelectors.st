@@ -1,10 +1,11 @@
 as yet unclassified
 initializeSelectors
 
+	self removeAllMorphs.
 	self selectors reversed do: [:each | 
 		self 
 			addMorph: (TextMorph new 
 								wrapFlag: false;
-								backgroundColor: Color gray;
+								backgroundColor: Color white;
 								yourself);
 			addMorph: (StringMorph contents: each,': ')].

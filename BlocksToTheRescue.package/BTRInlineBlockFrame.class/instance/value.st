@@ -1,5 +1,4 @@
 as yet unclassified
 value
 
-	Transcript showln: (self valueAtSelector: #foo).
-	^ self valueAtSelector: #foo
+	^ self block valueWithArguments: (self selectors collect: [:each | self valueAtSelector: each] as: Array)
