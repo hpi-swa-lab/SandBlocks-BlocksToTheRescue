@@ -1,4 +1,4 @@
 fileIn/Out
 scanCharacter
 
-	^ Character value: 1
+	^ Character startOfHeading
