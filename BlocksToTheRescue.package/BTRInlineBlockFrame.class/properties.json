@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"parameterBar",
-		"viewPort" ],
+		"viewPort",
+		"block" ],
 	"name" : "BTRInlineBlockFrame",
 	"pools" : [
 		 ],

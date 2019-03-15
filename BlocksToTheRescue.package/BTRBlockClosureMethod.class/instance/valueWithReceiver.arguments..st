@@ -1,5 +1,5 @@
 evaluating
-run: aSelector with: anArrayOfObjects in: aReceiver
+valueWithReceiver: aReceiver arguments: anArrayOfObjects
 
 	[self blockClosure outerContext receiver: aReceiver.
 	^ self blockClosure valueWithArguments: anArrayOfObjects.] 
