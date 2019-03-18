@@ -1,4 +1,4 @@
-*BlocksToTheRescue
+*BlocksToTheRescue-Core
 storeOn: aStream
 
 	aStream nextPut: $(.
