@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Execution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parameterBar",
+		"viewPort",
+		"block" ],
+	"name" : "BTRInlineBlockFrame",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

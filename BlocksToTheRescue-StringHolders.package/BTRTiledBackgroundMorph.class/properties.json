@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tileSize",
+		"tileColor" ],
+	"name" : "BTRTiledBackgroundMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

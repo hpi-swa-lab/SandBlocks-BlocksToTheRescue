@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodReference",
+		"value",
+		"timeStamp",
+		"editorMorphSpec" ],
+	"name" : "BTRConstantMethod",
+	"pools" : [
+		 ],
+	"super" : "BTRCustomMethod",
+	"type" : "normal" }

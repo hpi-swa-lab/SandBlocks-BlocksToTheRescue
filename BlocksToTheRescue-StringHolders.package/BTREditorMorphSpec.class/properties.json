@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"constructor",
+		"getValueSelector",
+		"setValueSelector",
+		"valueChangedSelector" ],
+	"name" : "BTREditorMorphSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

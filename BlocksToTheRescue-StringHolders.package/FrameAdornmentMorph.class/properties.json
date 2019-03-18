@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AdornmentCache" ],
+	"commentStamp" : "LB 3/12/2019 10:16",
+	"instvars" : [
+		"condition" ],
+	"name" : "FrameAdornmentMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

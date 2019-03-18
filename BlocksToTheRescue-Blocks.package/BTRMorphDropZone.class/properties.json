@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"image" ],
+	"name" : "BTRMorphDropZone",
+	"pools" : [
+		 ],
+	"super" : "BTRBlock",
+	"type" : "normal" }

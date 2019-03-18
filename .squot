@@ -1,5 +1,9 @@
 OrderedDictionary {
 	'BlocksToTheRescue-Core.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Tests.package' : #SquotCypressCodeSerializer,
-	'BaselineOfBlocksToTheRescue.package' : #SquotCypressCodeSerializer
+	'BaselineOfBlocksToTheRescue.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Blocks.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Examples.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Execution.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-StringHolders.package' : #SquotCypressCodeSerializer
 }
