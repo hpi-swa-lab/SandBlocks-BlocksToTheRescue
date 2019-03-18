@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"blockCharacter" : "BD 3/8/2019 09:53",
+		"isBlockCharacter:" : "LM 3/15/2019 13:14",
+		"originalScanFrom:" : "LM 3/15/2019 14:35",
+		"scanCharacter" : "LM 3/15/2019 14:11",
+		"scanError:" : "LM 3/15/2019 14:34",
+		"scanFrom:" : "LM 3/15/2019 14:19",
+		"scanFrom:version:" : "LM 3/18/2019 10:01",
+		"scanFromV1:" : "LM 3/18/2019 09:50",
+		"scanFromV2:" : "LM 3/18/2019 09:56",
+		"versionedScanFrom:" : "LM 3/15/2019 14:21" },
+	"instance" : {
+		"=" : "LM 3/13/2019 10:27",
+		"anchoredBlock" : "Elina Emsbach 3/6/2019 15:44",
+		"anchoredBlock:" : "Elina Emsbach 3/6/2019 15:44",
+		"anchoredMorph" : "Elina Emsbach 3/6/2019 15:44",
+		"anchoredMorph:" : "Elina Emsbach 3/6/2019 15:45",
+		"copy" : "Elina Emsbach 3/6/2019 15:51",
+		"couldDeriveFromPrettyPrinting" : "Elina Emsbach 3/6/2019 15:42",
+		"embeddedObjectPadding" : "Elina Emsbach 3/7/2019 12:06",
+		"hash" : "Elina Emsbach 3/6/2019 15:43",
+		"mayBeExtended" : "Elina Emsbach 3/6/2019 15:42",
+		"serializationVersion" : "LM 3/18/2019 10:26",
+		"shoutShouldPreserve" : "Elina Emsbach 3/6/2019 15:45",
+		"wantsCopyOnInsert" : "Elina Emsbach 3/6/2019 15:47",
+		"writeScanOn:" : "LM 3/18/2019 10:35" } }

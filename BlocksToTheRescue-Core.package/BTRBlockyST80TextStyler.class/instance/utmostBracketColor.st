@@ -1,0 +1,4 @@
+coloring
+utmostBracketColor
+
+	^ self fallbackInmostBracketColor

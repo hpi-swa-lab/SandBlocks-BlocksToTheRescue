@@ -1,2 +1,2 @@
-SystemOrganization addCategory: #BlocksToTheRescue!
+SystemOrganization addCategory: #'BlocksToTheRescue-Core'!
 SystemOrganization addCategory: #'BlocksToTheRescue-Tests'!

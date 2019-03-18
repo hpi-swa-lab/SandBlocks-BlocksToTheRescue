@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'BlocksToTheRescue-Core.package' : #SquotCypressCodeSerializer,
 	'Metablocks.package' : #SquotCypressCodeSerializer,
 	'tools\/Squot-CoAuthorsExtension.package' : #SquotCypressCodeSerializer,
 	'prototypes\/puzzle\/Puzzle-Prototype.package' : #SquotCypressCodeSerializer,

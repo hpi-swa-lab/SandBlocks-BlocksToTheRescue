@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildCodePaneWith:" : "LB 3/6/2019 15:38",
+		"buildDefaultBrowserWith:" : "LB 3/18/2019 14:37",
+		"buildMorphicCodePaneWith:" : "LB 3/6/2019 15:35",
+		"codeMorph" : "LB 3/6/2019 15:24",
+		"codeMorph:" : "LB 3/6/2019 15:23",
+		"codeTextSpec" : "LB 3/18/2019 10:38",
+		"constantEditorAvailable" : "LB 3/11/2019 15:45",
+		"constantEditorSymbol" : "LB 3/6/2019 14:26",
+		"contentsChanged" : "LB 3/6/2019 15:59",
+		"contentsSymbolQuints" : "LB 3/6/2019 14:16",
+		"couldBecomeConstantMethod" : "LB 3/11/2019 15:45",
+		"ensureConstantMethodIfCanceled:" : "LB 3/7/2019 17:20",
+		"hasConstantMethodSelected" : "LB 3/11/2019 15:45",
+		"install:" : "LB 3/11/2019 10:34",
+		"installConstantEditor" : "LB 3/8/2019 10:28",
+		"installTextualCodingPane" : "LB 3/6/2019 15:46",
+		"isShowingConstantEditor" : "LB 3/6/2019 14:27",
+		"isShowingMethod" : "LB 3/11/2019 13:59",
+		"method" : "LB 3/7/2019 16:06",
+		"optionalContentsSymbolQuints" : "LB 3/11/2019 15:45",
+		"restoreTextualCodingPane" : "LB 3/6/2019 15:23",
+		"setDefaultContents" : "LB 3/6/2019 16:10",
+		"showingConstantEditorString" : "LB 3/6/2019 14:28",
+		"toggleConstantEditor" : "LB 3/11/2019 10:41" } }

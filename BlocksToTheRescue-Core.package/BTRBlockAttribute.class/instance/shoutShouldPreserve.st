@@ -1,0 +1,4 @@
+shoutCore
+shoutShouldPreserve
+
+	^ true
