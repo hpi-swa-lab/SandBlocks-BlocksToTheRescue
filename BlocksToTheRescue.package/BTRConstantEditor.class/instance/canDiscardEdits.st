@@ -1,4 +1,4 @@
 dependents access
 canDiscardEdits
 
-	^ self shouldSaveEdits not
+	^ self hasUnacceptedEdits not

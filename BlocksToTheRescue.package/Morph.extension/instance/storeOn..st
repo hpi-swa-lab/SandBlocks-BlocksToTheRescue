@@ -3,7 +3,7 @@ storeOn: aStream
 
 	aStream nextPut: $(.
 	aStream nextPutAll: self class name, ' basicNew'.
-	self class instVarNames do:
+	self class allInstVarNames do:
 		[:variableName |
 		variableName caseOf: {
 			['owner'] -> [].

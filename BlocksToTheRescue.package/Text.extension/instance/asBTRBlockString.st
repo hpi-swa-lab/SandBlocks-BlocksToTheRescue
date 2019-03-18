@@ -10,6 +10,7 @@ asBTRBlockString
 			(readStream last = Character startOfHeading)
 				ifTrue: [
 					writeStream nextPut: Character startOfHeading.
-					self attributesAt: readStream position do: [:attribute | attribute writeScanOn: writeStream].
+					self attributesAt: readStream position do: [:textAttribute | 
+						textAttribute shoutShouldPreserve ifTrue: [textAttribute writeScanOn: writeStream]].
 					writeStream nextPut: Character startOfText]].
 	^ writeStream contents

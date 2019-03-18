@@ -1,13 +1,16 @@
 {
 	"class" : {
-		 },
+		"btrScanFromImage1:" : "LM 3/18/2019 14:52" },
 	"instance" : {
+		"btrSerializationVersion" : "LM 3/18/2019 14:45",
+		"btrStoreOn:" : "LM 3/18/2019 14:47",
+		"defaultSize" : "LM 3/18/2019 14:42",
 		"dropFiles:" : "WoC 1/24/2019 14:24",
 		"formFrom:" : "WoC 1/24/2019 14:28",
-		"handleDroppedImage:event:" : "WoC 1/24/2019 14:30",
+		"handleDroppedImage:event:" : "LM 3/18/2019 14:40",
 		"handleDroppedItem:event:" : "WoC 1/24/2019 14:28",
 		"image" : "WoC 1/24/2019 13:48",
-		"image:" : "WoC 1/24/2019 13:48",
+		"image:" : "LM 3/18/2019 14:41",
 		"imageMorph" : "WoC 1/24/2019 14:29",
 		"imageMorph:" : "WoC 1/24/2019 14:29",
 		"initialize" : "WoC 1/24/2019 14:33",
