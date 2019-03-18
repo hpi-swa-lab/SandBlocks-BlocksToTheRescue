@@ -1,4 +1,0 @@
-running
-createScanner
-
-	^ CompositionScanner new
