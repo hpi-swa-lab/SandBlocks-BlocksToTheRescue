@@ -6,8 +6,9 @@
 		"scanCharacter" : "LM 3/15/2019 14:11",
 		"scanError:" : "LM 3/15/2019 14:34",
 		"scanFrom:" : "LM 3/15/2019 14:19",
-		"scanFrom:version:" : "LM 3/15/2019 14:34",
-		"scanFromV1:" : "LM 3/15/2019 14:42",
+		"scanFrom:version:" : "LM 3/18/2019 10:01",
+		"scanFromV1:" : "LM 3/18/2019 09:50",
+		"scanFromV2:" : "LM 3/18/2019 09:56",
 		"versionedScanFrom:" : "LM 3/15/2019 14:21" },
 	"instance" : {
 		"=" : "LM 3/13/2019 10:27",
@@ -20,6 +21,7 @@
 		"embeddedObjectPadding" : "Elina Emsbach 3/7/2019 12:06",
 		"hash" : "Elina Emsbach 3/6/2019 15:43",
 		"mayBeExtended" : "Elina Emsbach 3/6/2019 15:42",
+		"serializationVersion" : "LM 3/18/2019 10:26",
 		"shoutShouldPreserve" : "Elina Emsbach 3/6/2019 15:45",
 		"wantsCopyOnInsert" : "Elina Emsbach 3/6/2019 15:47",
-		"writeScanOn:" : "LM 3/15/2019 14:43" } }
+		"writeScanOn:" : "LM 3/18/2019 10:35" } }

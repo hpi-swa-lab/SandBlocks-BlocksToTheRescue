@@ -1,5 +1,5 @@
 testing
-testConversion
+testConversionMorphInBetween
 
 	| morph newMorph text |
 	morph := Morph new
