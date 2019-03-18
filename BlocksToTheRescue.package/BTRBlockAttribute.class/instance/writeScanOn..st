@@ -1,18 +1,18 @@
 fileIn/fileOut
 writeScanOn: aStream
-	
-	| morphStream morphBinary |
-	morphStream := MultiByteBinaryOrTextStream on: ''.
-	self anchoredBlock allMorphsDo: [:each | each prepareToBeSaved].
-	morphStream fileOutClass: nil andObject: self anchoredBlock.
-	morphBinary := morphStream contents asByteArray base64Encoded.
+
+	| objectStream |
+	objectStream := WriteStream on: ''.
+	self anchoredBlock btrWriteScanOn: objectStream.
+
 	aStream
 		nextPut: self class scanCharacter;
 		nextPut: $#;
-		nextPutAll: 'V1';
+		nextPutAll: self serializationVersion;
 		nextPut: $; ;
-		nextPutAll: morphBinary size printStringHex;
+		nextPutAll: self anchoredBlock className;
 		nextPut: $; ;
-		nextPutAll: morphBinary;
+		nextPutAll: objectStream size printStringHex;
+		nextPut: $; ;
+		nextPutAll: objectStream contents;
 		nextPut: $; .
-	
