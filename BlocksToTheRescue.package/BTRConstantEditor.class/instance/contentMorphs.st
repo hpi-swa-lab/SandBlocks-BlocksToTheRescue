@@ -4,7 +4,7 @@ contentMorphs
 	^ {	FrameAdornmentMorph new
 			addDependent: self;
 			color: Color orange;
-			condition: [self hasUnacceptedEdits]
+			condition: [self saveEdits]
 			yourself.
 		(self content 
 			ifNotNil: [self content editorMorphSpec construct] 

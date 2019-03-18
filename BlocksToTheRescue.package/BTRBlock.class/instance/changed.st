@@ -1,5 +1,5 @@
-as yet unclassified
+editing
 changed
 
 	super changed.
-	self owner ifNotNil: [self owner hasUnacceptedEdits: true].
+	self saveChange.
