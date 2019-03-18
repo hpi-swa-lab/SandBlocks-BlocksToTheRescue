@@ -3,12 +3,12 @@ SmalltalkCISpec {
 		SCIMetacelloLoadSpec {
 			#baseline : 'BlocksToTheRescue',
 			#platforms : [ #squeak ],
-			#load : [ 'default' ]
+			#load : [ 'tests' ]
 		}
 	],
 	#testing : {
 		#include : {
-		      #categories : [ 'BlocksToTheRescue' ]
+		      #categories : [ 'BlocksToTheRescue-Tests' ]
 		}
 	}
 }
