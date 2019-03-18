@@ -8,7 +8,9 @@ adjustEmbeddedMorphs
 			 ifFalse: [ each abandon]].
 	self text embeddedMorphs do: [:each |
 		(self submorphs includes: each)
-			ifFalse: [ | eventHandler |
-				eventHandler := EventHandler new on: #mouseDown send: #startDragging:onMorph: to: self.
-				each eventHandler: eventHandler.
-				self addMorph: each]].
+			ifFalse: [self addMorph: each].
+		each eventHandler ifNil: [ |  eventHandler |
+			eventHandler := EventHandler new on: #mouseDown send: #startDragging:onMorph: to: self.
+				each eventHandler: eventHandler]].
+		
+		
