@@ -1,4 +1,4 @@
-as yet unclassified
+morph
 acceptDroppingMorph: aMorph event: anEvent
 
 	^ self submorphs isEmpty

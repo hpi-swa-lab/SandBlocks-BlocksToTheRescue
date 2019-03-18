@@ -1,6 +1,9 @@
-as yet unclassified
+morph
 setMorph: aMorph
 
+	self changeProportionalLayout.
 	^ self submorphs isEmpty ifTrue: 
-		[self addMorphCentered: aMorph.
+		[self 
+			addMorph: aMorph.
+		aMorph position: aMorph owner center.
 		aMorph addDependent: self].
