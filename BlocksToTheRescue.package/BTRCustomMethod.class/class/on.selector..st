@@ -1,8 +1,7 @@
 as yet unclassified
 on: aClass selector: aSymbol
 
-	^ self new
+	^ (self selector: aSymbol)
 		methodClass: aClass;
-		selector: aSymbol;
 		install;
 		yourself
