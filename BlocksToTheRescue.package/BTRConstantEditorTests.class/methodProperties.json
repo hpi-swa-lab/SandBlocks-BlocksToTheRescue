@@ -8,8 +8,8 @@
 		"makeChange" : "LB 3/12/2019 15:19",
 		"setUp" : "LB 3/12/2019 10:55",
 		"testAllowsAlternativeEditorSpec" : "LB 3/12/2019 15:23",
-		"testChangesAreDetected" : "LB 3/12/2019 10:55",
+		"testChangesAreDetected" : "Elina Emsbach 3/18/2019 11:45",
 		"testEditorKnowsItsMethod" : "LB 3/12/2019 10:46",
 		"testPromptsOnUnsavedCancel" : "LB 3/12/2019 15:21",
-		"testSaveHasNoEdits" : "LB 3/12/2019 15:19",
+		"testSaveHasNoEdits" : "Elina Emsbach 3/18/2019 11:45",
 		"testSaveSetsValue" : "LB 3/12/2019 11:04" } }

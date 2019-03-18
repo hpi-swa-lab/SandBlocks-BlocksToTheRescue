@@ -1,4 +1,4 @@
 accessing
-hasUnacceptedEdits
+saveEdits
 
 	^ hasUnacceptedEdits ifNil: [hasUnacceptedEdits := false]
