@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:57",
+		"testConversionMissingMorphs" : "LM 3/15/2019 15:38",
+		"testConversionMorphAsFirstCharacter" : "LM 3/15/2019 15:37",
+		"testConversionMorphAsOnlyCharacter" : "LM 3/15/2019 15:37",
+		"testConversionMorphAtLastCharacter" : "LM 3/15/2019 15:37",
+		"testConversionMorphInBetween" : "LM 3/15/2019 15:40",
+		"testConversionMultipleMorphsPerCharacter" : "LM 3/13/2019 16:20",
+		"testEmptyConversion" : "LM 3/15/2019 15:39",
+		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55" } }

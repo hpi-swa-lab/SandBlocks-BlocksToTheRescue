@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'BlocksToTheRescue-Core.package' : #SquotCypressCodeSerializer
+	'BlocksToTheRescue-Core.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Tests.package' : #SquotCypressCodeSerializer
 }

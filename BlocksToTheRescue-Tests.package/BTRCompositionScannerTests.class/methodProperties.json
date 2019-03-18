@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertHasDefaultHeight:" : "Elina Emsbach 3/8/2019 15:00",
+		"composeLine" : "Elina Emsbach 3/7/2019 15:17",
+		"createScanner" : "Elina Emsbach 3/8/2019 13:42",
+		"scanner:" : "Elina Emsbach 3/8/2019 13:40",
+		"testBaselineHeight" : "Elina Emsbach 3/7/2019 15:17",
+		"testLineHeightHigherThanMorph" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingMorph" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingMorphDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 15:18",
+		"testMissingSpecialCharacterDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 15:17",
+		"testMissingTextAttribute" : "Elina Emsbach 3/7/2019 16:01",
+		"testMissingTextAttributeDoesNotIncreaseLineHeight" : "Elina Emsbach 3/7/2019 16:01" } }
