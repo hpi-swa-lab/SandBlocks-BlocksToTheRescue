@@ -1,4 +1,0 @@
-shoutCore
-shoutShouldPreserve
-
-	^ true

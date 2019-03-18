@@ -1,4 +1,0 @@
-constant methods
-constantEditorSymbol
-
-	^ #constantEditor

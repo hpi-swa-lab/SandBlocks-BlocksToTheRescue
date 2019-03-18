@@ -1,4 +1,0 @@
-accessing
-anchoredMorph
-
-	^ self anchoredBlock

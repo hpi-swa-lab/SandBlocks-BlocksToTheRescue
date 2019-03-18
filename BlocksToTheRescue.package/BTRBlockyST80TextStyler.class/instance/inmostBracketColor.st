@@ -1,4 +1,0 @@
-coloring
-inmostBracketColor
-
-	^ Color red
