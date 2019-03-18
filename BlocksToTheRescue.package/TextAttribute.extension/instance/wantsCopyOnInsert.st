@@ -1,4 +1,0 @@
-*BlocksToTheRescue
-wantsCopyOnInsert
-
-	^ false
