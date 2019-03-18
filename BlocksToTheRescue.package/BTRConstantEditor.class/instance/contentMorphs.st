@@ -1,13 +1,13 @@
 accessing
 contentMorphs
 
-	^ {	FrameAdornmentMorph new
+	^ {FrameAdornmentMorph new
 			addDependent: self;
 			color: Color orange;
-			condition: [self hasUnacceptedEdits]
+			condition: [self shouldSaveEdits]
 			yourself.
 		(self content 
 			ifNotNil: [self content editorMorphSpec construct] 
 			ifNil: [Morph new color: Color transparent; yourself])
-				layoutFrame: (LayoutFrame fractions: (0@0 extent: 1@1));
-				yourself.}
+			layoutFrame: (LayoutFrame fractions: (0@0 extent: 1@1));
+			yourself.}

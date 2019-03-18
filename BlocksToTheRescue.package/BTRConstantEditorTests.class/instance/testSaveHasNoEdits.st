@@ -3,4 +3,4 @@ testSaveHasNoEdits
 
 	self makeChange.
 	self editor accept.
-	self deny: self editor hasUnacceptedEdits.
+	self deny: self editor shouldSaveEdits.
