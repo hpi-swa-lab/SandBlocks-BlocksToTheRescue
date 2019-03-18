@@ -10,5 +10,5 @@
 	"name" : "BTRMorphEditorMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "BTRTiledBackgroundMorph",
 	"type" : "normal" }
