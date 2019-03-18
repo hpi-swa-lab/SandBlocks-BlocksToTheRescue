@@ -1,4 +1,4 @@
-*BlocksToTheRescue
+*BlocksToTheRescue-Core
 editorMorphSpec
 
 	^ BTREditorMorphSpec default
