@@ -6,5 +6,5 @@ OrderedDictionary {
 	'BlocksToTheRescue-Examples.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Execution.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-StringHolders.package' : #SquotCypressCodeSerializer,
-	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer
+	'tools\/ToolIconsPlus.package' : #SquotCypressCodeSerializer
 }

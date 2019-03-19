@@ -5,6 +5,6 @@ baseline: spec
 		for: #'common'
 		do: [
 			spec
-				package: 'IconsForMessages';
-				package: 'MorphicMethods' with: [spec requires: #('IconsForMessages')];
+				package: 'ToolIconsPlus';
+				package: 'MorphicMethods' with: [spec requires: #('ToolIconsPlus')];
 				yourself].
