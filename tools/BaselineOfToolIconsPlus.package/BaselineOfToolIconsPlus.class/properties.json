@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfToolIconsPlus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfToolIconsPlus",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

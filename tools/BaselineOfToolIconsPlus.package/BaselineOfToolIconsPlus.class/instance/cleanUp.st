@@ -1,5 +1,5 @@
 cleanUp
-cleanUpToolIcons
+cleanUp
 
 	ToolIcons class removeCategory: #accessing.
 	ToolIcons class removeCategory: #private.
