@@ -4,11 +4,18 @@ SmalltalkCISpec {
 			#baseline : 'BlocksToTheRescue',
 			#platforms : [ #squeak ],
 			#load : [ 'tests' ]
+		},
+		SCIMetacelloLoadSpec {
+			#baseline : 'ToolIconsPlus',
+			#platforms : [ #squeak ],
+			#directory : 'tools',
+			#load : [ 'tests' ]
 		}
 	],
 	#testing : {
 		#include : {
-		      #categories : [ 'BlocksToTheRescue-Tests' ]
-		}
+		      #categories : [ 'BlocksToTheRescue-Tests', 'ToolIconsPlus-Tests' ]
+		},
+		#failOnZeroTests : true
 	}
 }
