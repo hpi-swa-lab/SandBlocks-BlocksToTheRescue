@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #ToolIconsPlus!
+SystemOrganization addCategory: #'ToolIconsPlus-Tests'!
