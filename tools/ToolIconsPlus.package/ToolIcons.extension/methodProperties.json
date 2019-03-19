@@ -9,6 +9,7 @@
 		"breakpointIcon" : "ms 3/11/2019 17:15",
 		"brokenMorphIcon" : "ms 3/11/2019 17:15",
 		"checkmarkIcon" : "ms 3/11/2019 17:16",
+		"cleanUp" : "ms 3/19/2019 10:41",
 		"clearCache" : "ms 3/11/2019 14:37",
 		"collectionIcon" : "ms 3/11/2019 17:16",
 		"doesNotUnderstand:" : "ms 3/15/2019 11:11",
@@ -52,6 +53,10 @@
 		"strategyToolIconSelector:" : "ms 3/7/2019 13:41",
 		"streamIcon" : "ms 3/11/2019 17:17",
 		"stringIcon" : "ms 3/11/2019 17:17",
+		"testGrayIcon" : "ms 3/19/2019 10:36",
+		"testGreenIcon" : "ms 3/19/2019 10:36",
+		"testOrangeIcon" : "ms 3/19/2019 10:36",
+		"testRedIcon" : "ms 3/19/2019 10:36",
 		"tryFindIcon:" : "ms 3/15/2019 11:10" },
 	"instance" : {
 		 } }

@@ -1,0 +1,4 @@
+*ToolIconsPlus
+cleanUp
+
+	self clearCache.
