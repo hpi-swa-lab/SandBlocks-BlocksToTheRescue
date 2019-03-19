@@ -6,9 +6,8 @@ baseline: spec
 		do: [
 			spec 
 				package: 'ToolIconsPlus';
-				package: 'ToolIconsPlus-Tests' with: [spec requires: #('ToolIconsPlus')];
 				group: 'default' with: #('ToolIconsPlus');
-				group: 'tests' with: #('ToolIconsPlus-Tests');
+				group: 'tests' with: #('ToolIconsPlus');
 				yourself.
 			spec
 				postLoadDoIt: #postLoad].
