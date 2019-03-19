@@ -5,4 +5,5 @@
 		"adjustEmbeddedMorphs" : "LM 3/18/2019 14:21",
 		"handleInteraction:fromEvent:" : "LM 3/5/2019 13:29",
 		"invalidRect:from:" : "LM 3/5/2019 16:34",
-		"startDragging:onMorph:" : "BD 3/14/2019 15:57" } }
+		"startDragging:onMorph:" : "BD 3/14/2019 15:57",
+		"updateFromParagraph" : "LM 3/19/2019 15:20" } }
