@@ -1,0 +1,14 @@
+{
+	"category" : "ToolIconsPlus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ToolIconsTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
