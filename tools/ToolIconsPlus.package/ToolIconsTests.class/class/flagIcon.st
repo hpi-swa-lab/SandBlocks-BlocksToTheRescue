@@ -1,4 +1,4 @@
 constants
 flagIcon
 
-	^ ToolIcons icon: #flag
+	^ ToolIcons iconNamed: #flag

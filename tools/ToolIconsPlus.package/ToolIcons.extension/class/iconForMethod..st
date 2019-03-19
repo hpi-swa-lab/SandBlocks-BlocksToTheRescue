@@ -10,7 +10,4 @@ iconForMethod: aMethodReference
 	     metaToolIconSelector: aSymbol for class side methods
 	 - in the method object (the one in the methodDict) via implementing methodIcon"
 	
-	^ [self icon: (self iconSymbolForMethod: aMethodReference)]
-		on: Exception
-		do: [:ex | (ex isKindOf: Halt) ifTrue: [ex pass].
-			self brokenMorphIcon]
+	^ self icon: (self safeIconSymbolForMethod: aMethodReference)
