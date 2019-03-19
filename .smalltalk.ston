@@ -13,9 +13,8 @@ SmalltalkCISpec {
 		}
 	],
 	#testing : {
-		#include : {
-		      #categories : [ 'BlocksToTheRescue-Tests', 'ToolIconsPlus-Tests' ]
-		},
-		#failOnZeroTests : true
+		#categories : [ 'BlocksToTheRescue-Tests', 'ToolIconsPlus-Tests' ],
+		#failOnZeroTests : true,
+		#onWarningLog : true
 	}
 }
