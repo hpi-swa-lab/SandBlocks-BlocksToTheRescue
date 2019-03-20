@@ -5,11 +5,13 @@
 		"metaToolIconSelector:" : "ms 3/7/2019 14:09",
 		"toolIconSelector:" : "ms 3/7/2019 14:09" },
 	"instance" : {
+		"assertForm:equals:" : "ms 3/20/2019 14:22",
 		"exampleMessageIconAtPragma" : "ms 3/7/2019 13:45",
 		"exampleMessageIconSymbolPragma" : "ms 3/7/2019 13:43",
 		"exampleToolIconSelector" : "ms 3/7/2019 13:53",
-		"testIconNameRedirect" : "ms 3/19/2019 14:29",
-		"testMessageIconAtPragma" : "ms 3/7/2019 14:13",
-		"testMessageIconSymbolPragma" : "ms 3/7/2019 14:13",
-		"testMetaToolIconSelector" : "ms 3/19/2019 13:56",
-		"testToolIconSelector" : "ms 3/7/2019 14:12" } }
+		"testFormPixelsEqual" : "ms 3/20/2019 14:22",
+		"testIconNameRedirect" : "ms 3/19/2019 18:54",
+		"testMessageIconAtPragma" : "ms 3/19/2019 18:54",
+		"testMessageIconSymbolPragma" : "ms 3/19/2019 18:54",
+		"testMetaToolIconSelector" : "ms 3/19/2019 18:54",
+		"testToolIconSelector" : "ms 3/19/2019 18:54" } }
