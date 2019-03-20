@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Autocompletion",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRAutocompletionHook",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
