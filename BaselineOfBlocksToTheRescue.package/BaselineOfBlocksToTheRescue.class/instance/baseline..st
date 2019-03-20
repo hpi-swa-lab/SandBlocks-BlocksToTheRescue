@@ -4,16 +4,20 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [
+			spec package: 'Autocompletion' with: [
+				spec repository: 'github://MrModder/Autocompletion:master/packages'].
 			spec 
 				package: 'BlocksToTheRescue-Core';
 				package: 'BlocksToTheRescue-Blocks' with: [spec requires: #('BlocksToTheRescue-Core')];
 				package: 'BlocksToTheRescue-StringHolders' with: [spec requires: #('BlocksToTheRescue-Core')];
 				package: 'BlocksToTheRescue-Execution' with: [spec requires: #('BlocksToTheRescue-Blocks')];
 				package: 'BlocksToTheRescue-Examples' with: [spec requires: #('BlocksToTheRescue-Blocks')];
-				package: 'BlocksToTheRescue-Autocompletion' with: [spec requires: #('BlocksToTheRescue-Blocks')];
-				package: 'BlocksToTheRescue-Tests' with: [spec requires: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-StringHolders')];
+				package: 'BlocksToTheRescue-Autocompletion' with: [spec requires: #('BlocksToTheRescue-Blocks' 'Autocompletion')];
+				package: 'BlocksToTheRescue-Tests' with: [spec requires: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-StringHolders')].
+				
+			spec
 				group: 'default' with: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-Blocks' 'BlocksToTheRescue-StringHolders' 'BlocksToTheRescue-Execution');
-				group: 'autocompleted' with: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-Blocks' 'BlocksToTheRescue-StringHolders' 'BlocksToTheRescue-Execution' 'BlocksToTheRescue-Autocompletion');
+				group: 'autocompleted' with: #('default' 'BlocksToTheRescue-Autocompletion');
 				group: 'tests' with: #('BlocksToTheRescue-Tests');
 				yourself.
 			spec
