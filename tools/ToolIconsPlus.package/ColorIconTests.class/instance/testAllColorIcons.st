@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testAllColorIcons
 
 	Color methodDict keysDo: [ :messageSymbol |
