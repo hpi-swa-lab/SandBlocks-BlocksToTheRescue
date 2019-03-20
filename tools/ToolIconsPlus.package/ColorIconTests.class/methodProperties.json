@@ -2,6 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAllColorConstants" : "ms 1/17/2019 16:02",
+		"testAllColorIcons" : "ms 3/20/2019 15:00",
 		"testClassVariableConstantMethodDetection" : "ms 1/17/2019 15:17",
 		"testRGBConstructorConstantMethodDetection" : "ms 1/17/2019 14:59" } }
