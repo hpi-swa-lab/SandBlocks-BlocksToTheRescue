@@ -1,6 +1,10 @@
 *ToolIconsPlus
-icon: aSymbolOrForm
+icon: aSymbolOrFormOrCollection
 
-	aSymbolOrForm isForm ifTrue: [^ aSymbolOrForm].
-	aSymbolOrForm isSymbol ifTrue: [^ self iconNamed: aSymbolOrForm].
+	aSymbolOrFormOrCollection isForm
+		ifTrue: [^ aSymbolOrFormOrCollection].
+	aSymbolOrFormOrCollection isSymbol
+		ifTrue: [^ self iconNamed: aSymbolOrFormOrCollection].
+	aSymbolOrFormOrCollection isCollection
+		ifTrue: [^ self overlayIcons: aSymbolOrFormOrCollection].
 	^ self emptyIcon

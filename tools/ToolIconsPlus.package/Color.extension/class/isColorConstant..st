@@ -1,6 +1,5 @@
 *ToolIconsPlus
 isColorConstant: aSymbol
 
-	^ (self respondsTo: aSymbol)
-		and: [aSymbol numArgs = 0]
+	^ (self isNoArgumentMethod: aSymbol)
 		and: [self isProbablyColorReturningMethod: aSymbol]
