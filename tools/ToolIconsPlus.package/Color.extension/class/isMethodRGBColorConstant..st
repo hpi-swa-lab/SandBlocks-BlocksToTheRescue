@@ -1,7 +1,8 @@
 *ToolIconsPlus
-isMethodRGBColorConstant: method
+isMethodRGBColorConstant: aSymbol
 
-	| literal1 literal2 |
+	| method literal1 literal2 |
+	method := self theMetaClass methodDict at: aSymbol ifAbsent: [^ false].
 	literal1 := method literals first.
 	literal2 := method literals second.
 	

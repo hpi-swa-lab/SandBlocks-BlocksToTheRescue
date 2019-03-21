@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"previewIcon" : "BD 3/21/2019 09:44" },
+		 },
 	"instance" : {
 		"acceptDroppingMorph:event:" : "WoC 1/24/2019 12:02",
 		"handlesMouseDown:" : "WoC 1/24/2019 13:25",
