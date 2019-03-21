@@ -5,4 +5,5 @@ default
 		getValueSelector: #value;
 		setValueSelector: #value:;
 		valueChangedSelector: #valueChanged;
-		constructor: [Morph new]
+		constructor: [Morph new];
+		yourself

@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"anchoredBlock",
-		"anchoredMorph" ],
-	"name" : "BTRBlockAttribute",
+		"constructor" ],
+	"name" : "BTRInlineMorphSpec",
 	"pools" : [
 		 ],
-	"super" : "TextAttribute",
+	"super" : "Object",
 	"type" : "normal" }
