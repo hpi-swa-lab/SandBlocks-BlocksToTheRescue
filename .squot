@@ -9,5 +9,6 @@ OrderedDictionary {
 	'tools\/ToolIconsPlus.package' : #SquotCypressCodeSerializer,
 	'tools\/BaselineOfToolIconsPlus.package' : #SquotCypressCodeSerializer,
 	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Autocompletion.package' : #SquotCypressCodeSerializer
+	'BlocksToTheRescue-Autocompletion.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Assets.package' : #SquotCypressCodeSerializer
 }
