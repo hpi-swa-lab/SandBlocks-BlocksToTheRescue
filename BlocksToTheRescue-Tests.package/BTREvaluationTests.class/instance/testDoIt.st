@@ -9,7 +9,7 @@ testDoIt
 
 	Compiler new
 		evaluate: 
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredMorph: morph)),
+			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredBlock: morph)),
 			(Text withAll: ' extent: ', newExtent)
 		in: nil
 		to: nil

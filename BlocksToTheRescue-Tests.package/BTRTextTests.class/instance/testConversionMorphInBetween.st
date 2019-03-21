@@ -8,7 +8,7 @@ testConversionMorphInBetween
 		addMorph: StarMorph new;
 		yourself.
 	text := (Text withAll: '^ '),
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredMorph: morph)),
+			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredBlock: morph)),
 			(Text withAll: ' extent: (500 random) @ (500 random).').
 	text := Text fromBTRBlockString: text asBTRBlockString.
 
