@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "ms 3/21/2019 15:55",
+		"initializeTools" : "ms 3/21/2019 15:54",
+		"toggleInsertBlockSelector" : "ms 3/21/2019 15:54",
+		"tools" : "ms 3/21/2019 15:50",
+		"tools:" : "ms 3/21/2019 15:50" } }

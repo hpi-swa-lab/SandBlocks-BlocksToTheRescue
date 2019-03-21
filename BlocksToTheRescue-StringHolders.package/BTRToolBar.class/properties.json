@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tools" ],
+	"name" : "BTRToolBar",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
