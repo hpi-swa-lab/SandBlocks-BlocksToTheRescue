@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRImageMorphPlus",
+		"originalImage",
+		"shownImage" ],
+	"name" : "BTRRescalingImageMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRImageMorph",
+	"super" : "BTRTiledBackgroundMorph",
 	"type" : "normal" }
