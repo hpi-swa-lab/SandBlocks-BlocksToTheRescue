@@ -1,5 +1,4 @@
 as yet unclassified
 initializeLayout
 
-	self
-		layoutPolicy: ProportionalLayout new.
+	self layoutPolicy: ProportionalLayout new.

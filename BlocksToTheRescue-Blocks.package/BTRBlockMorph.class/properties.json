@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morph",
-		"image" ],
-	"name" : "BTRMorphDropZone",
+		 ],
+	"name" : "BTRBlockMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "Morph",
 	"type" : "normal" }
