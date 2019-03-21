@@ -7,7 +7,7 @@ baseline: spec
 			spec package: 'Autocompletion' with: [
 				spec repository: 'github://MrModder/Autocompletion:master/packages'].
 			spec 
-				package: 'BlocksToTheRescue-Core';
+				package: 'BlocksToTheRescue-Core' with: [spec postLoadDoIt: #initializeScanner];
 				package: 'BlocksToTheRescue-Blocks' with: [spec requires: #('BlocksToTheRescue-Core')];
 				package: 'BlocksToTheRescue-StringHolders' with: [spec requires: #('BlocksToTheRescue-Core')];
 				package: 'BlocksToTheRescue-Execution' with: [spec requires: #('BlocksToTheRescue-Blocks' 'BlocksToTheRescue-StringHolders')];
