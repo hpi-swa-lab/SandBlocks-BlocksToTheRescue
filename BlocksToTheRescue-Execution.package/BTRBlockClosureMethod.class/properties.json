@@ -1,16 +1,13 @@
 {
-	"category" : "BlocksToTheRescue-StringHolders",
+	"category" : "BlocksToTheRescue-Execution",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"methodReference",
-		"value",
-		"timeStamp",
-		"editorMorphSpec" ],
-	"name" : "BTRConstantMethod",
+		"blockClosure" ],
+	"name" : "BTRBlockClosureMethod",
 	"pools" : [
 		 ],
 	"super" : "BTRCustomMethod",
