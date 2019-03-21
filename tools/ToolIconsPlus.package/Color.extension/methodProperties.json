@@ -1,10 +1,12 @@
 {
 	"class" : {
-		"isColorConstant:" : "ms 1/24/2019 10:53",
-		"isMethodClassVariableGetter:" : "ms 1/22/2019 12:02",
-		"isMethodRGBColorConstant:" : "ms 1/17/2019 15:48",
-		"isProbablyColorReturningMethod:" : "ms 1/24/2019 10:53",
-		"metaToolIconSelector:" : "ms 1/29/2019 17:24" },
+		"isColorConstant:" : "ms 3/20/2019 14:54",
+		"isMethodClassVariableGetter:" : "ms 3/20/2019 14:43",
+		"isMethodRGBColorConstant:" : "ms 3/20/2019 14:42",
+		"isNoArgumentMethod:" : "ms 3/20/2019 14:54",
+		"isProbablyColorReturningMethod:" : "ms 3/20/2019 14:55",
+		"metaColorIconFor:" : "ms 3/20/2019 14:57",
+		"metaToolIconSelector:" : "ms 3/20/2019 14:57" },
 	"instance" : {
 		"asIcon" : "ms 1/24/2019 10:48",
 		"asIconOfSize:" : "ms 1/17/2019 10:26" } }

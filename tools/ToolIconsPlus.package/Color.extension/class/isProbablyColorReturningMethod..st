@@ -1,5 +1,6 @@
 *ToolIconsPlus
-isProbablyColorReturningMethod: messageSymbol
+isProbablyColorReturningMethod: method
 
-	^ (self isMethodClassVariableGetter: messageSymbol)
-		or: [self isMethodRGBColorConstant: messageSymbol]
+	^ method isCompiledMethod
+		and: [(self isMethodClassVariableGetter: method)
+			or: [self isMethodRGBColorConstant: method]]
