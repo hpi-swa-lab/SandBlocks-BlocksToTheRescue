@@ -1,0 +1,4 @@
+view
+editorMorphSpec
+
+	^ self shouldBeImplemented
