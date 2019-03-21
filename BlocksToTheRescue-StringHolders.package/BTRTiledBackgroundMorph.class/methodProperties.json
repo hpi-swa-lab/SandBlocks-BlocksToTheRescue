@@ -3,8 +3,10 @@
 		 },
 	"instance" : {
 		"colorForTile:" : "ms 3/12/2019 11:02",
-		"drawOn:" : "ms 3/12/2019 10:30",
-		"drawTilesOn:" : "ms 3/12/2019 11:59",
+		"drawBorderOn:" : "ms 3/21/2019 16:41",
+		"drawOn:" : "ms 3/21/2019 16:43",
+		"drawTilesOn:" : "ms 3/21/2019 16:48",
+		"drawTilesOn:inside:" : "ms 3/21/2019 16:40",
 		"initialize" : "ms 3/12/2019 11:03",
 		"tileColor" : "ms 3/12/2019 10:11",
 		"tileColor:" : "ms 3/12/2019 10:12",
