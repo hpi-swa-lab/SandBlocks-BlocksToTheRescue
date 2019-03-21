@@ -1,3 +1,5 @@
 accessing
 image
-	^ image
+
+	"compatibility to ImageMorph"
+	^ self originalImage

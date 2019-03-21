@@ -1,3 +1,5 @@
 accessing
 image: aForm
-	image := aForm
+
+	"compatibility to ImageMorph"
+	self originalImage: aForm.

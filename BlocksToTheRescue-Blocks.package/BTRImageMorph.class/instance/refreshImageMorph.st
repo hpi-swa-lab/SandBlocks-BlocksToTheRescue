@@ -5,5 +5,5 @@ refreshImageMorph
 		ifNil: [self imageMorph hide]
 		ifNotNil: [self imageMorph
 			show;
-			newForm: (self image scaledToSize: self innerBounds extent);
+			image: (self image scaledToSize: self innerBounds extent);
 			center: self center].

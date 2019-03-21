@@ -1,7 +1,7 @@
-as yet unclassified
+drawing
 drawOn: aCanvas
 
 	super drawOn: aCanvas.
 	self image ifNotNil: [self image isTranslucent
-		ifTrue: [aCanvas translucentImage: self image at: self innerBounds origin]
-		ifFalse: [aCanvas drawImage: self image at: self innerBounds origin]].
+		ifTrue: [aCanvas translucentImage: self shownImage at: self imageOrigin]
+		ifFalse: [aCanvas drawImage: self shownImage at: self imageOrigin]].
