@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Autocompletion",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRBlockEntry",
+	"pools" : [
+		 ],
+	"super" : "ECEntry",
+	"type" : "normal" }

@@ -1,6 +1,5 @@
 *ToolIconsPlus
 metaToolIconSelector: aSymbol
 
-	^ (self isColorConstant: aSymbol)
-		ifTrue: [(self perform: aSymbol) asIcon]
-		ifFalse: [nil]
+	^ (self isNoArgumentMethod: aSymbol)
+		ifTrue: [self metaColorIconFor: aSymbol]
