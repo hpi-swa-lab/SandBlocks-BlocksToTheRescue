@@ -10,7 +10,7 @@ baseline: spec
 				package: 'BlocksToTheRescue-Core';
 				package: 'BlocksToTheRescue-Blocks' with: [spec requires: #('BlocksToTheRescue-Core')];
 				package: 'BlocksToTheRescue-StringHolders' with: [spec requires: #('BlocksToTheRescue-Core')];
-				package: 'BlocksToTheRescue-Execution' with: [spec requires: #('BlocksToTheRescue-Blocks')];
+				package: 'BlocksToTheRescue-Execution' with: [spec requires: #('BlocksToTheRescue-Blocks' 'BlocksToTheRescue-StringHolders')];
 				package: 'BlocksToTheRescue-Examples' with: [spec requires: #('BlocksToTheRescue-Blocks')];
 				package: 'BlocksToTheRescue-Autocompletion' with: [spec requires: #('BlocksToTheRescue-Blocks' 'Autocompletion')];
 				package: 'BlocksToTheRescue-Tests' with: [spec requires: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-StringHolders' 'BlocksToTheRescue-Execution')].
