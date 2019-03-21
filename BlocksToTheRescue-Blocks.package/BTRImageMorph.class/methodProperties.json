@@ -1,10 +1,11 @@
 {
 	"class" : {
 		"btrScanFromImage1:" : "LM 3/18/2019 14:52",
+		"btrScanFromImage2:" : "ms 3/21/2019 18:10",
 		"previewIcon" : "BD 3/21/2019 10:11" },
 	"instance" : {
-		"btrSerializationVersion" : "LM 3/18/2019 14:45",
-		"btrStoreOn:" : "LM 3/18/2019 14:47",
+		"btrSerializationVersion" : "ms 3/21/2019 18:03",
+		"btrStoreOn:" : "ms 3/21/2019 18:09",
 		"defaultSize" : "LM 3/18/2019 14:42",
 		"dropFiles:" : "WoC 1/24/2019 14:24",
 		"extent:" : "ms 3/21/2019 17:54",
