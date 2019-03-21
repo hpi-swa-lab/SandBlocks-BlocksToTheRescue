@@ -1,4 +1,4 @@
 accessing
-imageMorph: anObject
+imageMorph: anImageMorph
 
-	imageMorph := anObject.
+	imageMorph := anImageMorph.
