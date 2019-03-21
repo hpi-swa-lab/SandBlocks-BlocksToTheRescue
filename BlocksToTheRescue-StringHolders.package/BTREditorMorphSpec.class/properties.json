@@ -6,12 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"constructor",
 		"getValueSelector",
 		"setValueSelector",
 		"valueChangedSelector" ],
 	"name" : "BTREditorMorphSpec",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRInlineMorphSpec",
 	"type" : "normal" }

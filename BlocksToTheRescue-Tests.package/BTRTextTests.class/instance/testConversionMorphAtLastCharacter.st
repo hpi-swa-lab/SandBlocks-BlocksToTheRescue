@@ -4,7 +4,7 @@ testConversionMorphAtLastCharacter
 	| morph newMorph text newText |
 	morph := Morph new.
 	text := (Text withAll: ' '),
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredMorph: morph)).
+			(Text string: (String value: 1) attribute: (BTRBlockAttribute new anchoredBlock: morph)).
 	newText := Text fromBTRBlockString: text asBTRBlockString.
 
 	self assert: text string equals: newText string.

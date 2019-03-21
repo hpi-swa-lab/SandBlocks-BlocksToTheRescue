@@ -6,4 +6,5 @@
 	"instance" : {
 		"btrSerializationVersion" : "LM 3/18/2019 10:19",
 		"btrStoreOn:" : "LM 3/18/2019 10:20",
-		"btrWriteScanOn:" : "LM 3/18/2019 10:19" } }
+		"btrWriteScanOn:" : "LM 3/18/2019 10:19",
+		"inlineMorphSpec" : "LM 3/21/2019 15:52" } }
