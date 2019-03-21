@@ -2,5 +2,5 @@ tests
 testIconNameRedirect
 
 	self
-		assertForm: ToolIcons flag
+		assert: ToolIcons flag
 		equals: (ToolIcons iconNamed: #flag).

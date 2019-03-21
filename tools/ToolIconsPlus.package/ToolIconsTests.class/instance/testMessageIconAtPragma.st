@@ -2,6 +2,6 @@ tests
 testMessageIconAtPragma
 
 	self
-		assertForm: (ToolIcons iconForMethod: (MethodReference
+		assert: (ToolIcons iconForMethod: (MethodReference
 			class: self class selector: #exampleMessageIconAtPragma))
 		equals: self class flagIcon.
