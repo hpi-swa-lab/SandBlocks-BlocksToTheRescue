@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Assets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
