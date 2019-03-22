@@ -8,4 +8,7 @@ readBlock
 		ifTrue: ["startOfToken := startOfToken - 1"]
 		ifFalse: [startOfToken := startOfToken - initalPosition + 1].
 	self flag: #TODO.
-	 ^ ((source contents asText attributesAt: startOfToken) detect: [:each | each anchoredMorph notNil] ifNone: [self haltOnce. ^ nil]) anchoredMorph.
+	 ^ ((source contents asText attributesAt: startOfToken) 
+		detect: [:each | each blockModel notNil]
+		ifNone: [self haltOnce. ^ nil])
+			blockModel
