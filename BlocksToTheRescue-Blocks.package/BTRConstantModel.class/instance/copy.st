@@ -1,6 +1,6 @@
 as yet unclassified
 copy
 
-	^ self copy
+	^ super copy
 		value: self value copy;
 		yourself
