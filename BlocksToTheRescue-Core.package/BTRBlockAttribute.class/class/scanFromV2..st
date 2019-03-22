@@ -12,5 +12,5 @@ scanFromV2: aStream
 	
 	objectStream := (ReadStream on: serializedObject).
 	^ self new 
-		anchoredBlock: (class btrScanFrom: objectStream);
+		blockModel: (class btrScanFrom: objectStream);
 		yourself

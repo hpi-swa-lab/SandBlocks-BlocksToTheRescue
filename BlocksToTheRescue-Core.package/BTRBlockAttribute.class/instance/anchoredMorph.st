@@ -1,4 +1,4 @@
 accessing
 anchoredMorph
 
-	^ self anchoredBlock
+	^ anchoredMorph ifNil: [anchoredMorph := self blockModel inlineView]

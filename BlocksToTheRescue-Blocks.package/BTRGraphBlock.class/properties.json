@@ -1,13 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Execution",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block" ],
-	"name" : "BTRGraphBlockNode",
+		"nodes",
+		"edges" ],
+	"name" : "BTRGraphBlock",
 	"pools" : [
 		 ],
 	"super" : "Object",

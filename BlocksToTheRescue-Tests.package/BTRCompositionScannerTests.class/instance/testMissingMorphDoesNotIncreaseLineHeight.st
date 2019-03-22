@@ -2,6 +2,6 @@ testing
 testMissingMorphDoesNotIncreaseLineHeight
 
 	| line |
-	self textAttribute anchoredBlock: nil.
+	self textAttribute blockModel: nil.
 	line := self composeLine.
 	self assertHasDefaultHeight: line.

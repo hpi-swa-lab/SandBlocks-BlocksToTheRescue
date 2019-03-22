@@ -3,4 +3,4 @@ completion
 
 	^ (Text 
 		string: (BTRBlockAttribute blockCharacter asString)
-		attributes: {(BTRBlockAttribute new anchoredBlock: contents new)})
+		attributes: {(BTRBlockAttribute new blockModel: contents new)})

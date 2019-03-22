@@ -9,5 +9,5 @@ originalScanFrom: aStream
 	morphBinary := (Base64MimeConverter mimeDecodeToBytes: (ReadStream on: morphBinary)) contents.	
 	morphStream := (MultiByteBinaryOrTextStream with: morphBinary) binary reset.
 	^ self new 
-		anchoredBlock: morphStream fileInObjectAndCode;
+		blockModel: morphStream fileInObjectAndCode;
 		yourself

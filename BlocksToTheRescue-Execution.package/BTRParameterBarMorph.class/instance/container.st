@@ -1,4 +1,0 @@
-accessing
-container
-
-	^ self owner

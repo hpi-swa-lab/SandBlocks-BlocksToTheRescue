@@ -1,7 +1,7 @@
 testing
 testMissingMorph
 
-	self textAttribute anchoredBlock: nil.
+	self textAttribute blockModel: nil.
 	self 
 		shouldnt: [self composeLine] 
 		raise: Exception.

@@ -1,4 +1,4 @@
 as yet unclassified
-barHeight
+inlineView
 
-	^ 30
+	^ self
