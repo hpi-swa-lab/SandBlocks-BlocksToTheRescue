@@ -1,7 +1,7 @@
 as yet unclassified
 example5
 
-	^ #V2;BTRImageMorph;BAB5;Image1;<~M,6r;%14!\!!!!.8Ou6I!!!"@!!!"2#R18/!#gNu[f?Dl,tUKj<-V_CI0E_Wh9pGM&5Pi9G:A4]
+	^ #V2;BTRImageMorph;BABB;Image2;60@50;<~M,6r;%14!\!!!!.8Ou6I!!!"@!!!"2#R18/!#gNu[f?Dl,tUKj<-V_CI0E_Wh9pGM&5Pi9G:A4]
 $?bY%mdBKqDr'7*h;-oCPo?KQipN%SrG*L$^ZU+8F"T9PP+:2]ZY$>mZXo?V2&Pe^_Is`##239h
 J;YBL4d>0l+IB5CSgFkceYA2Q)I6;tFKq.*VoB?tFk5d&CTuY6"8$X+Yd$YZUE%NQenATp7$LGt
 E2=:s/Zms1d_J/NL942UP?&'N\HT>q))T"e1:d$q0+/XI=j#*OY;+<iL1Od#/?>Mam$`+]<`Y6"

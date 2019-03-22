@@ -1,5 +1,5 @@
 accessing
-newForm: aForm
+image
 
 	"compatibility to ImageMorph"
-	self image: aForm.
+	^ self originalImage

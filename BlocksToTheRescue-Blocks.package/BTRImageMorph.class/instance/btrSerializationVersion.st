@@ -1,4 +1,4 @@
 fileIn/out
 btrSerializationVersion
 
-	^ 'Image1'
+	^ 'Image2'
