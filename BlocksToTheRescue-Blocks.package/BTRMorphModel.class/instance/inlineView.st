@@ -1,0 +1,4 @@
+views
+inlineView
+
+	^ self value

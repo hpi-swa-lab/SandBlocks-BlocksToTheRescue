@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"btrScanFromColor1:" : "LM 3/18/2019 10:51",
+		"btrScanFromColor1:" : "LM 3/22/2019 15:34",
 		"previewIcon" : "BD 3/21/2019 09:42" },
 	"instance" : {
 		"btrSerializationVersion" : "LM 3/18/2019 10:49",
 		"btrStoreOn:" : "LM 3/18/2019 10:51",
-		"color:" : "ms 3/18/2019 11:21",
+		"color:" : "LM 3/22/2019 14:18",
 		"handlesMouseDown:" : "BD 3/14/2019 14:35",
 		"initialize" : "ms 3/18/2019 11:28",
 		"mouseDown:" : "BD 3/15/2019 09:32",

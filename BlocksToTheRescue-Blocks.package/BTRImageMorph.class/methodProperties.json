@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"btrScanFromImage1:" : "LM 3/18/2019 14:52",
-		"btrScanFromImage2:" : "ms 3/21/2019 18:10",
+		"btrScanFromImage2:" : "LM 3/22/2019 15:34",
 		"previewIcon" : "BD 3/21/2019 10:11" },
 	"instance" : {
 		"btrSerializationVersion" : "ms 3/21/2019 18:03",
@@ -13,7 +13,7 @@
 		"handleDroppedImage:event:" : "ms 3/21/2019 16:17",
 		"handleDroppedItem:event:" : "WoC 1/24/2019 14:28",
 		"image" : "WoC 1/24/2019 13:48",
-		"image:" : "ms 3/21/2019 16:31",
+		"image:" : "LM 3/22/2019 14:21",
 		"imageMorph" : "WoC 1/24/2019 14:29",
 		"imageMorph:" : "ms 3/21/2019 15:59",
 		"initialize" : "ms 3/21/2019 17:53",

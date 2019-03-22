@@ -4,10 +4,10 @@
 	"instance" : {
 		"testAsBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:57",
 		"testConversionMissingMorphs" : "LM 3/15/2019 15:38",
-		"testConversionMorphAsFirstCharacter" : "LM 3/22/2019 13:48",
-		"testConversionMorphAsOnlyCharacter" : "LM 3/22/2019 13:48",
-		"testConversionMorphAtLastCharacter" : "LM 3/22/2019 13:48",
-		"testConversionMorphInBetween" : "LM 3/22/2019 13:48",
-		"testConversionMultipleMorphsPerCharacter" : "LM 3/22/2019 13:48",
+		"testConversionMorphAsFirstCharacter" : "LM 3/22/2019 15:38",
+		"testConversionMorphAsOnlyCharacter" : "LM 3/22/2019 15:39",
+		"testConversionMorphAtLastCharacter" : "LM 3/22/2019 15:39",
+		"testConversionMorphInBetween" : "LM 3/22/2019 15:39",
+		"testConversionMultipleMorphsPerCharacter" : "LM 3/22/2019 15:39",
 		"testEmptyConversion" : "LM 3/15/2019 15:39",
 		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55" } }

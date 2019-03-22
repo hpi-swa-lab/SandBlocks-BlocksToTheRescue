@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"btrScanFromConstant1:" : "LM 3/22/2019 15:19",
+		"for:" : "LM 3/22/2019 14:46",
+		"worksForObject:" : "LM 3/22/2019 14:34" },
+	"instance" : {
+		"btrSerializationVersion" : "LM 3/22/2019 15:10",
+		"btrStoreOn:" : "LM 3/22/2019 15:28",
+		"defaultValue" : "LM 3/22/2019 14:24",
+		"initialize" : "LM 3/22/2019 14:50",
+		"inlineView" : "LM 3/22/2019 14:12",
+		"value" : "LM 3/22/2019 14:04",
+		"value:" : "LM 3/22/2019 14:04" } }

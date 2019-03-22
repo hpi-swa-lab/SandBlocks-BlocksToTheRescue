@@ -11,7 +11,7 @@ testCompileIt
 	self class
 		compile: 
 			(Text withAll: selector asString, String crlfcrlf, '	^ '),
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new blockModel: Morph new)),
+			(Text string: (String value: 1) attribute: (BTRBlockAttribute new blockModel: (BTRConstantModel for: Morph new))),
 			(Text withAll: ' extent: ', newExtent)
 		classified: #'test-run'
 		notifying: nil.

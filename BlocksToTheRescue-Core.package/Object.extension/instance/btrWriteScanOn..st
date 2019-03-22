@@ -1,7 +1,17 @@
 *BlocksToTheRescue-Core
 btrWriteScanOn: aWriteStream
 
-	aWriteStream
+	|objectStream|
+	objectStream := WriteStream on: ''.
+
+	objectStream
 		nextPutAll: self btrSerializationVersion;
 		nextPut: $; .
-	self btrStoreOn: aWriteStream.
+	self btrStoreOn: objectStream.
+	aWriteStream
+		nextPutAll: self className;
+		nextPut: $; ;
+		nextPutAll: objectStream size printStringHex;
+		nextPut: $; ;
+		nextPutAll: objectStream contents;
+		nextPut: $; .

@@ -7,7 +7,4 @@ btrScanFromImage2: aReadStream
 	imageBinary := aReadStream upToEnd ascii85Decoded asByteArray.
 	image := PNGReadWriter formFromStream: (ReadStream on: imageBinary).
 	
-	^ self new
-		extent: width@height;
-		image: image;
-		yourself.
+	^ BTRConstantModel for: image
