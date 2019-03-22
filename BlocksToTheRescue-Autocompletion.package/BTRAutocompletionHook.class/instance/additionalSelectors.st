@@ -1,7 +1,8 @@
 as yet unclassified
 additionalSelectors
 
-	^ BTRBlockMorph allSubclasses collect: [:each |
-		BTRBlockEntry
-			contents: each
-			type: #selector]
+	^ (TBTRBlockModel users gather: [:each | each withAllSubclasses]) 
+		collect: [:each |
+			BTRBlockEntry
+				contents: each
+				type: #selector]
