@@ -1,5 +1,4 @@
 *BlocksToTheRescue-Core
 wantsDroppedMorph: dropee event: aDropEvent inMorph: target
 
-	^ ((aDropEvent respondsTo: #causingEvent) and: [aDropEvent causingEvent shiftPressed]) or: [dropee isKindOf: TransferMorph]
-		
+	^ ((aDropEvent respondsTo: #causingEvent) and: [aDropEvent causingEvent shiftPressed])
