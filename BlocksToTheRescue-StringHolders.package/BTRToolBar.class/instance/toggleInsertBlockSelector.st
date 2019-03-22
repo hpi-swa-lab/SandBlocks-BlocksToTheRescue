@@ -1,4 +1,0 @@
-actions
-toggleInsertBlockSelector
-
-	self notYetImplemented.
