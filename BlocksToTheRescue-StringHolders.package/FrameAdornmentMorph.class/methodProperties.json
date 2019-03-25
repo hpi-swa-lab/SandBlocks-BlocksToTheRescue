@@ -1,10 +1,13 @@
 {
 	"class" : {
 		"adornmentCache" : "LB 3/8/2019 11:37",
-		"adornmentWithColor:" : "LB 3/8/2019 11:37" },
+		"adornmentWithColor:" : "LB 3/8/2019 11:37",
+		"simpleFrameAdornments" : "LB 3/25/2019 11:37" },
 	"instance" : {
 		"condition" : "LB 3/8/2019 12:44",
 		"condition:" : "LB 3/12/2019 10:15",
-		"drawFrameAdornmentOn:" : "LB 3/8/2019 11:51",
+		"drawFrameAdornmentOn:" : "LB 3/25/2019 11:27",
+		"drawSimpleAdornmentOn:" : "LB 3/25/2019 11:28",
+		"drawTriangularAdornmentOn:" : "LB 3/25/2019 11:26",
 		"fullDrawOn:" : "LB 3/8/2019 12:45",
 		"initialize" : "LB 3/8/2019 11:40" } }
