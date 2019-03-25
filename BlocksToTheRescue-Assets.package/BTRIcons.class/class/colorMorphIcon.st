@@ -1,7 +1,7 @@
 as yet unclassified
 colorMorphIcon
 
-	^ #V2;BTRImageMorph;1FD;Image1;<~M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-#R18/!*45Ik5YJ_:e=&@<-V_,N]fqM;&%",)es=d_8TCd
+	^ #V2;BTRImageMorph;203;Image2;60@50;<~M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-#R18/!*45Ik5YJ_:e=&@<-V_,N]fqM;&%",)es=d_8TCd
 2`I(DEO/XJOhs[$*,;rL>Qegq8d%GUFr.,DC8bG75l)=4W56`PnFV(r?c2?'Hga&Zh.Q)`AFoo3
 Z5PtAM@eAHdj/bX<M;]qbe%D8>j*'FN8$O(PYd`g""N6Qa$+Htq$#D]FUqct>7gJ2Q_4LFDFS%#
 !94n;Jk]8ZY3Tal3DO3._@?15%l?#Kg!E/8s5.U-c+e(;"`Mn3=SaZc0nJ#43k-l;%[RRIqLk9!
