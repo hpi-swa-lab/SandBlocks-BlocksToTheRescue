@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"on:selector:" : "BD 3/25/2019 14:51",
 		"previewIcon" : "LM 3/22/2019 15:57" },
 	"instance" : {
 		"addParamsTo:" : "BD 3/25/2019 12:15",
@@ -10,15 +11,17 @@
 		"getSourceFor:in:" : "BD 3/25/2019 12:16",
 		"hasBreakpoint" : "BD 3/25/2019 12:16",
 		"hasLiteralThorough:" : "BD 3/25/2019 12:16",
+		"initialize" : "BD 3/25/2019 15:02",
 		"inlineView" : "BD 3/25/2019 11:46",
 		"install" : "BD 3/25/2019 12:17",
+		"isConstantMethod" : "BD 3/25/2019 15:03",
 		"last" : "BD 3/25/2019 12:17",
 		"literals" : "BD 3/25/2019 12:17",
 		"messages" : "BD 3/25/2019 12:17",
 		"methodClass" : "BD 3/25/2019 12:27",
 		"methodClass:" : "BD 3/25/2019 12:09",
 		"methodHome" : "BD 3/25/2019 12:09",
-		"numArgs" : "BD 3/25/2019 12:18",
+		"numArgs" : "BD 3/25/2019 14:59",
 		"pragmaAt:" : "BD 3/25/2019 12:18",
 		"pragmas" : "BD 3/25/2019 12:18",
 		"properties" : "BD 3/25/2019 12:06",

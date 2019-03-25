@@ -1,0 +1,4 @@
+block methods
+blockEditorSymbol
+
+	^ #blockEditor

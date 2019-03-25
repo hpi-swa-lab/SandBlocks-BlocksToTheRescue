@@ -12,6 +12,7 @@ optionalContentsSymbolQuints
 			. #toggleConstantEditor 
 			. #showingConstantEditorString 
 			. 'constant editor'
-			. 'this method can be transformed into a constant one' translated}.} 
+			. 'this method can be transformed into a constant one' translated}.
+	} 
 	select: [:each | (self perform: each key) = true]
 	thenCollect: [:each | each value]

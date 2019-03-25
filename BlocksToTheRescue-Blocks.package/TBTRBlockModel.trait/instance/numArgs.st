@@ -1,4 +1,4 @@
 accessing
 numArgs
 
-	^ self shouldBeImplemented
+	^ 0
