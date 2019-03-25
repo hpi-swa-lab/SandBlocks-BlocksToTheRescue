@@ -4,6 +4,6 @@ comparing
 	^ super = anObject or: 
 		[anObject class = self class 
 		and: [self constructor sourceString = anObject constructor sourceString] 
-		and: [self adapter: self getValueSelector equals: anObject getValueSelector] 
-		and: [self adapter: self setValueSelector equals: anObject setValueSelector] 
-		and: [self adapter: self valueChangedSelector equals: anObject valueChangedSelector]]
+		and: [(self stringOf: self getValueSelector) = (self stringOf: anObject getValueSelector)]
+		and: [(self stringOf: self setValueSelector) = (self stringOf: anObject setValueSelector)] 
+		and: [(self stringOf: self valueChangedSelector) = (self stringOf: anObject valueChangedSelector)]]
