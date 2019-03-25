@@ -2,4 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"availableBlockModelClasses" : "WoC 3/25/2019 12:37",
+		"insertAndSelectText:at:" : "WoC 3/25/2019 14:14",
+		"insertBlock" : "WoC 3/25/2019 14:36",
+		"insertBlock:" : "WoC 3/25/2019 14:29",
+		"selectBlockModelClass" : "WoC 3/25/2019 11:57",
 		"selectionAsStream" : "BD 3/8/2019 10:29" } }
