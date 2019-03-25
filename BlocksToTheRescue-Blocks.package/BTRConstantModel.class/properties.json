@@ -7,6 +7,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"properties",
 		"value" ],
 	"name" : "BTRConstantModel",
 	"pools" : [

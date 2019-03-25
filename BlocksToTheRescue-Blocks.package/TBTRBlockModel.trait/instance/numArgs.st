@@ -1,4 +1,4 @@
-interface-views
-inlineView
+accessing
+numArgs
 
 	^ self shouldBeImplemented
