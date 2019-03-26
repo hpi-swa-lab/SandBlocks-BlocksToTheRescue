@@ -5,4 +5,7 @@ buildWith: aBuilder
 		model: self;
 		children: #contentMorphs;
 		name: 'Constant Editor View';
-		buildWith: aBuilder) in: [:panel | self viewPort: panel. panel]
+		buildWith: aBuilder) in: [:panel | 
+			panel eventHandler: self eventHandler.
+			self viewPort: panel.
+			panel]

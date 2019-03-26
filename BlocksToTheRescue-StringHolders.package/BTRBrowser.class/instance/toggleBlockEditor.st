@@ -6,10 +6,7 @@ toggleBlockEditor
 			self isShowingBlockEditor
 				ifTrue: [self setDefaultContents]
 				ifFalse: [
-					(BTRConstantModel
-						on: self method methodClass
-						selector: self method selector)
-							install.
+					self ensureBlockMethodIfCanceled: [^ self].
 					self installBlockEditor].
 			self setContentsToForceRefetch.
 			self contentsChanged].
