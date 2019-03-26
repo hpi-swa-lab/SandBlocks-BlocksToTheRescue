@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"askForBlockModel" : "LM 3/26/2019 12:05",
+		"askForBlockModel" : "LM 3/26/2019 17:30",
 		"availableBlockModelClasses" : "LM 3/26/2019 12:03",
 		"blockEditorSymbol" : "BD 3/25/2019 14:12",
 		"buildCodePaneWith:" : "LB 3/6/2019 15:38",
 		"buildDefaultBrowserWith:" : "LB 3/19/2019 09:57",
 		"buildMorphicCodePaneWith:" : "LB 3/6/2019 15:35",
+		"canConvertToBlockModel:" : "LM 3/26/2019 16:32",
 		"codeMorph" : "LB 3/6/2019 15:24",
 		"codeMorph:" : "LB 3/6/2019 15:23",
 		"codeTextSpec" : "ms 3/22/2019 10:54",
@@ -15,11 +16,12 @@
 		"constantEditorSymbol" : "LB 3/6/2019 14:26",
 		"contentsChanged" : "LB 3/6/2019 15:59",
 		"contentsSymbolQuints" : "LM 3/26/2019 11:48",
+		"convertToBlockModel:" : "LM 3/26/2019 17:27",
 		"couldBecomeBlockModel" : "LM 3/26/2019 11:36",
 		"couldBecomeConstantMethod" : "LB 3/11/2019 15:45",
-		"ensureBlockMethodIfCanceled:" : "LM 3/26/2019 12:00",
+		"ensureBlockMethodIfCanceled:" : "LM 3/26/2019 16:42",
 		"ensureConstantMethodIfCanceled:" : "LB 3/7/2019 17:20",
-		"hasBlockModelSelected" : "LM 3/26/2019 15:34",
+		"hasBlockModelSelected" : "LM 3/26/2019 16:33",
 		"hasConstantMethodSelected" : "LB 3/11/2019 15:45",
 		"install:" : "LB 3/11/2019 10:34",
 		"installBlockEditor" : "BD 3/25/2019 14:44",
@@ -35,4 +37,5 @@
 		"showingConstantEditorString" : "LB 3/6/2019 14:28",
 		"showingConvertToBlockString" : "LM 3/26/2019 11:53",
 		"toggleBlockEditor" : "LM 3/26/2019 12:03",
-		"toggleConstantEditor" : "LB 3/11/2019 10:41" } }
+		"toggleConstantEditor" : "LB 3/11/2019 10:41",
+		"tryConvertToBlockModel:" : "LM 3/26/2019 16:42" } }

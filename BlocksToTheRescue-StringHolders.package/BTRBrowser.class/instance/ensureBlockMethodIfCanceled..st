@@ -2,8 +2,6 @@ block methods
 ensureBlockMethodIfCanceled: aBlock
 
 	| blockModel |
-	blockModel := self method.
-	blockModel isBTRBlockModel
-		ifFalse: [blockModel := self askForBlockModel].
+	blockModel := self tryConvertToBlockModel: self method.
 	blockModel ifNil: [^ aBlock value].
 	blockModel install.

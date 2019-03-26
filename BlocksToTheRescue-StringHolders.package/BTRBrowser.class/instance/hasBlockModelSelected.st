@@ -1,5 +1,5 @@
-constant methods
+block methods
 hasBlockModelSelected
 
 	^ self hasMessageSelected 
-		and: [self method isBTRBlockModel or: [self method pragmas includes: #BTRBlockModel]]
+		and: [self method isBTRBlockModel or: [self canConvertToBlockModel: self method]]
