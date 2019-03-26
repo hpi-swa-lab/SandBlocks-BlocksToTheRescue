@@ -1,4 +1,4 @@
-as yet unclassified
+views
 methodIcon
 
 	^ self class previewIcon

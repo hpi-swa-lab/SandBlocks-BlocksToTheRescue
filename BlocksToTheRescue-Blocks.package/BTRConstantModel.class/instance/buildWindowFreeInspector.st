@@ -1,4 +1,4 @@
-nil
+views
 buildWindowFreeInspector
 
 	^ ((MorphicToolBuilder newSubclass
