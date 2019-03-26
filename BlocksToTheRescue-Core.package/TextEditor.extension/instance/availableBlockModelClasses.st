@@ -1,4 +1,4 @@
 *BlocksToTheRescue-Core
 availableBlockModelClasses
 
-	^ BTRConstantModel allSubclasses
+	^ TBTRBlockModel users gather: [:each | each withAllSubclasses]

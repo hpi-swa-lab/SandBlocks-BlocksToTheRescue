@@ -2,11 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"availableBlockModelClasses" : "ms 3/22/2019 16:20",
 		"initialize" : "ms 3/22/2019 14:07",
-		"initializeTools" : "ms 3/22/2019 14:48",
-		"insertBlock:" : "ms 3/22/2019 17:02",
-		"selectAndInsertBlock" : "ms 3/22/2019 16:24",
-		"selectBlockModelClass" : "ms 3/22/2019 16:20",
+		"initializeTools" : "WoC 3/26/2019 10:19",
+		"insertBlock" : "WoC 3/26/2019 10:23",
 		"tools" : "ms 3/21/2019 15:50",
 		"tools:" : "ms 3/21/2019 15:50" } }

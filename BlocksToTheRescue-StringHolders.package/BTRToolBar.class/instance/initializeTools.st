@@ -5,4 +5,4 @@ initializeTools
 		at: #insertBlock put: {
 			#icon -> ToolIcons morph.
 			#toolTip -> 'Insert a new block'.
-			#action -> #selectAndInsertBlock}.
+			#action -> #insertBlock}.
