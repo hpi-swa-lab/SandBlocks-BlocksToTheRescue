@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph" ],
+		"graph",
+		"activeNodes",
+		"activeEdges",
+		"remainingNodes",
+		"results" ],
 	"name" : "BTRGraphBlockInterpreter",
 	"pools" : [
 		 ],
