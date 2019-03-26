@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block" ],
+		"code" ],
 	"name" : "BTRGraphBlockNode",
 	"pools" : [
 		 ],

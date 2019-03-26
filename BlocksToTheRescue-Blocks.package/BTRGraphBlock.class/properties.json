@@ -11,5 +11,5 @@
 	"name" : "BTRGraphBlock",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractBlockModel",
 	"type" : "normal" }

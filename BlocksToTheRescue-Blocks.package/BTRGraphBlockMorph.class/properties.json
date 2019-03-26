@@ -7,12 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"graph",
-		"activeNodes",
-		"activeEdges",
-		"remainingNodes",
-		"results" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"layers" ],
+	"name" : "BTRGraphBlockMorph",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Morph",
 	"type" : "normal" }

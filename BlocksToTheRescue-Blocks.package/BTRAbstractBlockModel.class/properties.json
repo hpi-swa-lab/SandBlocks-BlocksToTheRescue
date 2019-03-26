@@ -2,17 +2,15 @@
 	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"activeNodes",
-		"activeEdges",
-		"remainingNodes",
-		"results" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"properties" ],
+	"name" : "BTRAbstractBlockModel",
 	"pools" : [
 		 ],
 	"super" : "Object",
+	"traitcomposition" : "TBTRBlockModel",
 	"type" : "normal" }

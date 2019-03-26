@@ -1,4 +1,4 @@
 accessing
 edges: anObject
 
-	edges := anObject.
+	edges := anObject asOrderedCollection.
