@@ -1,7 +1,6 @@
 as yet unclassified
 previewIcon
 
-	^ Smalltalk 
+	^ (Smalltalk 
 		at: #BTRIcons 
-		ifPresent: [:icons | icons defaultMorphIcon] 
-		ifAbsent: [ToolIcons morph]
+		ifPresent: [:icons | icons defaultMorphIcon]) ifNil: [ToolIcons morph]

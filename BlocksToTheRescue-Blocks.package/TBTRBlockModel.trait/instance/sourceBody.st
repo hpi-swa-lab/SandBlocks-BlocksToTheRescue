@@ -1,8 +1,4 @@
 accessing
 sourceBody
 	
-	| stream |
-	stream := WriteStream on: ''.
-	self btrWriteScanOn: stream.
-	
-	^ stream contents
+	^ (Text fromString: '^ '), BTRBlockAttribute asTextFrom: self.

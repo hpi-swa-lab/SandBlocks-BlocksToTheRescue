@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"on:selector:" : "BD 3/25/2019 14:51",
-		"previewIcon" : "LM 3/22/2019 15:57" },
+		"previewIcon" : "LM 3/26/2019 11:00" },
 	"instance" : {
 		"addParamsTo:" : "BD 3/25/2019 12:15",
 		"editorView" : "LM 3/22/2019 13:45",
@@ -14,6 +14,7 @@
 		"initialize" : "BD 3/25/2019 15:02",
 		"inlineView" : "BD 3/25/2019 11:46",
 		"install" : "BD 3/25/2019 12:17",
+		"isBTRBlockModel" : "LM 3/26/2019 10:12",
 		"isConstantMethod" : "BD 3/25/2019 15:03",
 		"last" : "BD 3/25/2019 12:17",
 		"literals" : "BD 3/25/2019 12:17",
@@ -21,6 +22,8 @@
 		"methodClass" : "BD 3/25/2019 12:27",
 		"methodClass:" : "BD 3/25/2019 12:09",
 		"methodHome" : "BD 3/25/2019 12:09",
+		"methodIcon" : "LM 3/26/2019 13:52",
+		"methodReference" : "LM 3/26/2019 14:00",
 		"numArgs" : "BD 3/25/2019 14:59",
 		"pragmaAt:" : "BD 3/25/2019 12:18",
 		"pragmas" : "BD 3/25/2019 12:18",
@@ -31,8 +34,8 @@
 		"selector" : "BD 3/25/2019 12:29",
 		"selector:" : "BD 3/25/2019 12:13",
 		"selectorWithParams" : "BD 3/25/2019 12:19",
-		"sourceBody" : "BD 3/25/2019 12:21",
-		"sourceHeader" : "BD 3/25/2019 12:22",
+		"sourceBody" : "LM 3/26/2019 14:49",
+		"sourceHeader" : "LM 3/26/2019 14:47",
 		"sourcePointer" : "BD 3/25/2019 12:21",
 		"timeStamp" : "BD 3/25/2019 12:32",
 		"timeStamp:" : "BD 3/25/2019 12:32",

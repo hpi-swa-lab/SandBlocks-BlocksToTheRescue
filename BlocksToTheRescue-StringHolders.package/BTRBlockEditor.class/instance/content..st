@@ -1,6 +1,6 @@
 accessing
-content: anObject
+content: aTBTRBlockModel
 	
 	content ifNotNil: [content removeDependent: self].
-	content := anObject.
+	content := aTBTRBlockModel.
 	content ifNotNil: [content addDependent: self].

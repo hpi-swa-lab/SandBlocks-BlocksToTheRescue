@@ -1,6 +1,6 @@
-nil
+views
 buildWindowFreeInspector
 
-	^ (MorphicToolBuilder newSubclass
+	^ ((MorphicToolBuilder newSubclass
 		compile: 'buildPluggableWindow: spec ^ self buildPluggablePanel: spec';
-		new) open: (Inspector inspect: self)
+		new) open: (Inspector inspect: self)) abandon "Do not accidentaly open the Inspector in the world"
