@@ -1,0 +1,21 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"content",
+		"getValueSelector",
+		"setValueSelector",
+		"valueChangedSelector",
+		"viewPort",
+		"hasUnacceptedEdits",
+		"eventHandler" ],
+	"name" : "BTRBlockEditor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
