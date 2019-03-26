@@ -2,5 +2,5 @@ views
 inlineView
 	
 	^ self buildWindowFreeInspector
-		extent: 200@100;
+		extent: 300@150;
 		yourself
