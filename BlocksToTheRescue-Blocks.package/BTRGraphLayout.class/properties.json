@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"node" ],
-	"name" : "BTRGraphNodeMorph",
+		 ],
+	"name" : "BTRGraphLayout",
 	"pools" : [
 		 ],
-	"super" : "CircleMorph",
+	"super" : "LayoutPolicy",
 	"type" : "normal" }
