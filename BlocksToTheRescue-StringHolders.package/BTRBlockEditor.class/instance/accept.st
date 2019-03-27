@@ -1,6 +1,7 @@
 actions
 accept
 
-	self content value: self value.
+	self content install.
+	self contentsChanged.
 	self hasUnacceptedEdits: false.
 	self model changed: #annotation.

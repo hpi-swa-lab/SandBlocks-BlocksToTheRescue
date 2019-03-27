@@ -4,5 +4,8 @@ buildWith: aBuilder
 	^ (PluggablePanelSpec new
 		model: self;
 		children: #contentMorphs;
-		name: 'Constant Editor View';
-		buildWith: aBuilder) in: [:panel | self viewPort: panel. panel]
+		name: 'Block Editor View';
+		buildWith: aBuilder) in: [:panel | 
+			panel eventHandler: self eventHandler.
+			self viewPort: panel.
+			panel]

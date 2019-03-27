@@ -6,5 +6,3 @@ initializeEventHandler
 		on: #mouseEnter send: #mouseEnter: to: self;
 		on: #mouseLeave send: #mouseLeave: to: self;
 		on: #keyStroke send: #keyStroke: to: self.
-		
-		

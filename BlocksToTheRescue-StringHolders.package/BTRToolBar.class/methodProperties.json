@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"canInsertBlock" : "ms 3/27/2019 10:58",
 		"initialize" : "ms 3/22/2019 14:07",
 		"initializeTools" : "WoC 3/26/2019 10:19",
 		"insertBlock" : "WoC 3/26/2019 10:23",
+		"selectAndInsertBlock" : "ms 3/27/2019 10:59",
 		"tools" : "ms 3/21/2019 15:50",
 		"tools:" : "ms 3/21/2019 15:50" } }

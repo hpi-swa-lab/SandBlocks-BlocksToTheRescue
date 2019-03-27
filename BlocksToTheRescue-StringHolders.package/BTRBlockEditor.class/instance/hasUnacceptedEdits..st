@@ -1,5 +1,5 @@
 accessing
-hasUnacceptedEdits: anObject
+hasUnacceptedEdits: aBoolean
 
-	hasUnacceptedEdits := anObject.
-	self morph changed.
+	hasUnacceptedEdits := aBoolean.
+	self viewPort changed.
