@@ -1,11 +1,24 @@
 {
 	"class" : {
-		 },
+		"example1" : "LB 3/26/2019 14:52",
+		"exampleExecution" : "LB 3/26/2019 14:30" },
 	"instance" : {
+		"addEdge:" : "LB 3/26/2019 15:13",
+		"addNode:" : "LB 3/26/2019 15:13",
 		"edges" : "LB 3/15/2019 15:27",
-		"edges:" : "LB 3/15/2019 15:27",
-		"interpreterClass" : "LB 3/15/2019 15:34",
+		"edges:" : "LB 3/26/2019 14:40",
+		"endNodes" : "LB 3/26/2019 13:29",
+		"executionContext" : "LB 3/26/2019 11:33",
+		"incoming:" : "LB 3/26/2019 12:57",
+		"initialize" : "LB 3/26/2019 12:57",
+		"inlineView" : "LB 3/26/2019 14:47",
+		"interpreterClass" : "LB 3/26/2019 11:27",
 		"nodes" : "LB 3/15/2019 15:27",
-		"nodes:" : "LB 3/15/2019 15:27",
-		"selectors" : "LB 3/15/2019 15:33",
-		"valueWithArguments:" : "LB 3/15/2019 15:35" } }
+		"nodes:" : "LB 3/26/2019 14:39",
+		"outgoing:" : "LB 3/26/2019 12:57",
+		"removeEdge:" : "LB 3/26/2019 14:37",
+		"removeNode:" : "LB 3/26/2019 14:37",
+		"startNodes" : "LB 3/26/2019 13:29",
+		"value" : "LB 3/26/2019 12:01",
+		"valueWithArguments:" : "LB 3/26/2019 11:31",
+		"variableNamed:" : "LB 3/26/2019 11:33" } }

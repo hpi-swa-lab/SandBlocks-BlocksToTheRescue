@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties" ],
+	"name" : "BTRAbstractBlockModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

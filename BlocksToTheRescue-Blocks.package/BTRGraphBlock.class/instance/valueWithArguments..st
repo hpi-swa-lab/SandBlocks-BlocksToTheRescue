@@ -1,4 +1,4 @@
-as yet unclassified
+evaluating
 valueWithArguments: anArray
 
-	(self interpreterClass on: self) valueWithArguments: anArray.
+	^ (self interpreterClass on: self) valueWithArguments: anArray.

@@ -8,3 +8,4 @@ encodeBlock
 				precedence: 1
 				from: encoder
 				sourceRange: (hereMark to: hereMark).
+	"^ encoder encodeBlock: self advance"

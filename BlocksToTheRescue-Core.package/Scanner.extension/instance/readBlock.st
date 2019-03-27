@@ -7,7 +7,6 @@ readBlock
 	(initalPosition isNil or: [initalPosition = 1])
 		ifTrue: ["startOfToken := startOfToken - 1"]
 		ifFalse: [startOfToken := startOfToken - initalPosition + 1].
-	self flag: #TODO.
 	 ^ ((source contents asText attributesAt: startOfToken) 
 		detect: [:each | each blockModel notNil]
 		ifNone: [self haltOnce. ^ nil])

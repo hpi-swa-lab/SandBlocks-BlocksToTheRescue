@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"block" : "LB 3/15/2019 15:31",
-		"block:" : "LB 3/15/2019 15:31",
-		"valuesWithArgs:" : "LB 3/15/2019 15:31" } }
+		"argumentAt:" : "LB 3/26/2019 12:01",
+		"arguments" : "LB 3/26/2019 12:01",
+		"code" : "LB 3/26/2019 14:52",
+		"code:" : "LB 3/26/2019 14:52",
+		"executionContext" : "LB 3/26/2019 14:53",
+		"printOn:" : "LB 3/26/2019 14:52",
+		"valuesWith:in:" : "LB 3/26/2019 14:52" } }

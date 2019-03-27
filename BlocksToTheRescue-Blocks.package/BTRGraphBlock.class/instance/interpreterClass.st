@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 interpreterClass
 
-	^ BTRGraphBlockInterpreter new
+	^ BTRGraphBlockInterpreter

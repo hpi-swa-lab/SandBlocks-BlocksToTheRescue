@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"__" ],
+	"name" : "BTR___",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
