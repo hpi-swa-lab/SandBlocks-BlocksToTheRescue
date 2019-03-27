@@ -1,6 +1,7 @@
 actions
 accept
 
-	self content copy install.
+	self content install.
+	self contentsChanged.
 	self hasUnacceptedEdits: false.
 	self model changed: #annotation.
