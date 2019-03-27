@@ -1,4 +1,0 @@
-accessing
-viewPort
-
-	^ viewPort
