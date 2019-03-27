@@ -1,6 +1,8 @@
 {
 	"class" : {
-		 },
+		"btrScanFromForm1:" : "ms 3/27/2019 10:13" },
 	"instance" : {
+		"btrSerializationVersion" : "ms 3/27/2019 10:12",
+		"btrStoreOn:" : "ms 3/27/2019 10:15",
 		"editorMorphSpec" : "LB 3/11/2019 14:44",
 		"textAnchorType" : "Elina Emsbach 3/6/2019 16:20" } }

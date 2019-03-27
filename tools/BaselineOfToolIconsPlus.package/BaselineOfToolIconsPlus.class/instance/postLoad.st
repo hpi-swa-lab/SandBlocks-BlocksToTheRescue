@@ -1,4 +1,4 @@
 baseline
 postLoad
 
-	self cleanUp.
+	self fixToolIconsClass.
