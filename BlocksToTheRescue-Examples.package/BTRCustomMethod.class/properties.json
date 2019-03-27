@@ -1,13 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Execution",
+	"category" : "BlocksToTheRescue-Examples",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRBlock",
+		"methodClass",
+		"selector" ],
+	"name" : "BTRCustomMethod",
 	"pools" : [
 		 ],
 	"super" : "Object",
