@@ -1,4 +1,4 @@
 accessing
 defaultValue
 
-	^ Color blue
+	^ Color seaFoam
