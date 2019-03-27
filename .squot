@@ -3,7 +3,7 @@ OrderedDictionary {
 	'BlocksToTheRescue-Tests.package' : #SquotCypressCodeSerializer,
 	'BaselineOfBlocksToTheRescue.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Blocks.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Execution.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Example.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-StringHolders.package' : #SquotCypressCodeSerializer,
 	'tools\/ToolIconsPlus.package' : #SquotCypressCodeSerializer,
 	'tools\/BaselineOfToolIconsPlus.package' : #SquotCypressCodeSerializer,
