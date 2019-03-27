@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node" ],
+	"name" : "BTRGraphNodeMorph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph" ],
+	"name" : "BTRGraphEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRTiledBackgroundMorph",
+	"type" : "normal" }
