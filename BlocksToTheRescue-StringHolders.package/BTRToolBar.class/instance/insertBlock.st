@@ -1,6 +1,6 @@
 actions
 insertBlock
 
-	| textMorph |
-	textMorph := ActiveHand keyboardFocus.
-	textMorph editor insertBlock
+	self canInsertBlock ifTrue: [ | textMorph |
+		textMorph := ActiveHand keyboardFocus.
+		textMorph editor insertBlock].
