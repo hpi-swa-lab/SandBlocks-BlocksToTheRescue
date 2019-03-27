@@ -1,4 +1,4 @@
 as yet unclassified
 nodeSpace
 
-	^ 20@20
+	^ 20 @ 20
