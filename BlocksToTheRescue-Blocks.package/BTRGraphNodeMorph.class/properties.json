@@ -10,5 +10,5 @@
 	"name" : "BTRGraphNodeMorph",
 	"pools" : [
 		 ],
-	"super" : "CircleMorph",
+	"super" : "PluggableTextMorphPlus",
 	"type" : "normal" }

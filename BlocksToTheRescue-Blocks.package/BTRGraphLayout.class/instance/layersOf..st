@@ -1,10 +1,14 @@
 layout
 layersOf: aBTRGraphEditorMorph
 
-	| depths  |
+	| depths queue |
 	depths := Dictionary new.
-	aBTRGraphEditorMorph graph startNodes do: [:each | depths at: each put: 1].
-	aBTRGraphEditorMorph graph edges do: [:each | depths 
-		at: each value 
-		put: ((depths at: each value ifAbsent: [0]) max: (depths at: each key) + 1)].
+	queue := aBTRGraphEditorMorph graph startNodes copy.
+	queue do: [:each | depths at: each put: 1].
+	[queue isEmpty] whileFalse: [| current |
+		current := queue removeFirst.
+		(aBTRGraphEditorMorph graph outgoing: current) do: [:each |depths 
+			at: each value 
+			put: ((depths at: each value ifAbsent: [0]) max: (depths at: each key) + 1).
+		queue addLast: each value]].
 	^ depths keys groupBy: [:each | depths at: each]

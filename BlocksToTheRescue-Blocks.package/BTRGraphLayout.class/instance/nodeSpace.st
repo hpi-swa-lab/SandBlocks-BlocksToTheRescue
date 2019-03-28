@@ -1,4 +1,4 @@
 layout
 nodeSpace
 
-	^ 100 @ 100
+	^ 200 @ 100
