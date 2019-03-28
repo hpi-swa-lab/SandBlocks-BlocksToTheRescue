@@ -18,3 +18,4 @@ putSource: sourceStr fromParseNode: methodNode inFile: fileIndex withPreamble: p
 	file nextChunkPut: ' '.
 	InMidstOfFileinNotification signal ifFalse: [file flush].
 	self checkOKToAdd: sourceStr size at: remoteString position.
+	self setSourcePosition: remoteString position inFile: fileIndex.

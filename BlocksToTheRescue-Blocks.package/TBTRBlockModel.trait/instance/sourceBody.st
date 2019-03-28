@@ -1,4 +1,4 @@
 accessing
 sourceBody
 	
-	^ (Text fromString: '^ '), BTRBlockAttribute asTextFrom: self.
+	^ (Text fromString: '^ '), (BTRBlockAttribute asTextFrom: self copy).
