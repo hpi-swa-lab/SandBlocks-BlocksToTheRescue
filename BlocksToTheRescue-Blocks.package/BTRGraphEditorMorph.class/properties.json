@@ -1,12 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-StringHolders",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph" ],
+		"graph",
+		"nodeViews",
+		"edgeViews" ],
 	"name" : "BTRGraphEditorMorph",
 	"pools" : [
 		 ],
