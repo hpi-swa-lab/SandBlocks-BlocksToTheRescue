@@ -1,4 +1,4 @@
 views
-properties
+btrProperties
 	
 	 ^ properties

@@ -1,4 +1,4 @@
 views
-properties: aDictionary
+btrProperties: aDictionary
 	
 	properties := aDictionary.

@@ -1,4 +1,4 @@
 interface-accessing
-properties
+btrProperties
 	
 	^ properties ifNil: [properties := Dictionary new]

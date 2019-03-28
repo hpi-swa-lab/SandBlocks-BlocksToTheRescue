@@ -1,12 +1,13 @@
 *BlocksToTheRescue-Core
-initPattern: t1 return: t2 
-	| t3 |
+initPattern: aStringOrText return: aBlock 
+	| result text |
+	text := aStringOrText asBTRText.
 	self
-		init: (ReadStream on: t1)
-		cue: (CompilationCue source: t1)
+		init: (ReadStream on: text)
+		cue: (CompilationCue source: text)
 		failBlock: [^ nil].
 	encoder := self.
-	t3 := t2
+	result := aBlock
 				value: (self pattern: false inContext: nil).
 	encoder := failBlock := nil.
-	^ t3
+	^ result
