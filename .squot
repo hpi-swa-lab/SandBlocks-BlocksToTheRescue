@@ -3,12 +3,11 @@ OrderedDictionary {
 	'BlocksToTheRescue-Tests.package' : #SquotCypressCodeSerializer,
 	'BaselineOfBlocksToTheRescue.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Blocks.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Examples.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Execution.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-StringHolders.package' : #SquotCypressCodeSerializer,
 	'tools\/ToolIconsPlus.package' : #SquotCypressCodeSerializer,
 	'tools\/BaselineOfToolIconsPlus.package' : #SquotCypressCodeSerializer,
 	'prototypes\/IconsForMessages.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Autocompletion.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Assets.package' : #SquotCypressCodeSerializer
+	'BlocksToTheRescue-Assets.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Examples.package' : #SquotCypressCodeSerializer
 }

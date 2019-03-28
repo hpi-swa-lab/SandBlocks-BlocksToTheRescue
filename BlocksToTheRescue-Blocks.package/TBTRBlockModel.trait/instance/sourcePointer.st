@@ -1,4 +1,5 @@
 compliance
 sourcePointer
-
-	^ 0
+	
+	"We do not have a source pointer"
+	^nil

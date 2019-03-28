@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editor" ],
+	"name" : "BTRBlockEditorTests",
+	"pools" : [
+		 ],
+	"super" : "BTRConstantModelTests",
+	"type" : "normal" }

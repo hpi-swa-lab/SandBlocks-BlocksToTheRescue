@@ -1,4 +1,0 @@
-compliance
-fileIndex
-
-	^ 1

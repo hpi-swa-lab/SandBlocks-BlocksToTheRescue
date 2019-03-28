@@ -1,4 +1,4 @@
 accessing
 selector
 
-	^ self properties at: #selector ifAbsent: [nil]
+	^ self btrProperties at: #selector ifAbsent: [nil]

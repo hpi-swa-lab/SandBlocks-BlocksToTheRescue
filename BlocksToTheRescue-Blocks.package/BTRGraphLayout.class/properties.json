@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRGraphLayout",
+	"pools" : [
+		 ],
+	"super" : "LayoutPolicy",
+	"type" : "normal" }

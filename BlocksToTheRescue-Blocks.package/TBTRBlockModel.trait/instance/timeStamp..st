@@ -1,4 +1,4 @@
 accessing
 timeStamp: aString
 
-	self properties at: #timeStamp put: aString.
+	self btrProperties at: #timeStamp put: aString.

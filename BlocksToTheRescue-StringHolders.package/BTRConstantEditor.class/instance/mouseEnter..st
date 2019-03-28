@@ -1,2 +1,0 @@
-event handling
-mouseEnter: anEvent
