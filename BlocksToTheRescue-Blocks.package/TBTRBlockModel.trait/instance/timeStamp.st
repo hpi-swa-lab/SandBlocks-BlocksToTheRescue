@@ -1,4 +1,4 @@
 accessing
 timeStamp
 
-	^ self properties at: #timeStamp ifAbsent: ['']
+	^ self btrProperties at: #timeStamp ifAbsent: ['']

@@ -1,7 +1,4 @@
-interface-accessing
+compliance
 properties
-	
-	"This should be an accessor to a instance variabls any trait user must define"
-	 ^ self shouldBeImplemented
-	
-	"^ properties"
+
+	^ self btrProperties at: #compiledMethodProperties ifAbsent: [nil]

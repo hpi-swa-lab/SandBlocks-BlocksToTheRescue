@@ -1,4 +1,4 @@
 accessing
 selector: anObject
 
-	self properties at: #selector put: anObject.
+	self btrProperties at: #selector put: anObject.

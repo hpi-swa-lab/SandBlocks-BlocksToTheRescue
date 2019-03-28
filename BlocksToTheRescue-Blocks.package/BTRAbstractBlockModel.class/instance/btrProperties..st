@@ -1,4 +1,4 @@
 interface-accessing
-properties: aDictionary
+btrProperties: aDictionary
 	
 	properties := aDictionary.
