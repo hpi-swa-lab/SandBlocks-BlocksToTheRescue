@@ -1,4 +1,4 @@
 accessing
-graph: aBTRGraphBlock
+graph: anObject
 
-	graph := aBTRGraphBlock.
+	graph := anObject.
