@@ -2,7 +2,7 @@ layout
 layersOf: aBTRGraphEditorMorph
 
 	| depths queue |
-	depths := Dictionary new.
+	depths := IdentityDictionary new.
 	queue := aBTRGraphEditorMorph graph startNodes copy.
 	queue do: [:each | depths at: each put: 1].
 	[queue isEmpty] whileFalse: [| current |
