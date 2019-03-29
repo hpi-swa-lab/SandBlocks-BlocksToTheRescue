@@ -1,4 +1,4 @@
 as yet unclassified
 minWidth
 
-	^ self layers keys max + 1 *  self nodeSpace x
+	^ (self maxOf: self layers keys) + 1 *  self nodeSpace x

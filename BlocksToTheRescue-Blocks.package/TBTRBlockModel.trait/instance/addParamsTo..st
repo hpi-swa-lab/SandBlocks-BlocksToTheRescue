@@ -6,6 +6,6 @@ addParamsTo: aSymbol
 		aSymbol keywords withIndexDo: 
 			[:each :index | result 
 				nextPutAll: each;
-				nextPut: $ ;
+				nextPut: Character space;
 				nextPut: (Character alphabet at: index);
-				nextPut: $ ]]
+				nextPut: Character space]]

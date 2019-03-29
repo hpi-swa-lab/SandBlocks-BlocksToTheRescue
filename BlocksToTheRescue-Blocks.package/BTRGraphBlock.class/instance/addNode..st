@@ -1,4 +1,5 @@
 accessing
 addNode: aNode
 
-	[^ self nodes addLast: aNode] ensure: [self changed]
+	[aNode addDependent: self.
+	^ self nodes addLast: aNode] ensure: [self changed]

@@ -1,5 +1,4 @@
 compliance
 sourcePointer
-	
-	"We do not have a source pointer"
-	^nil
+
+	^ self btrProperties at: #sourcePointer ifAbsent: [nil]

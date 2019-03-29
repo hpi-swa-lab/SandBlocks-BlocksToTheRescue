@@ -1,6 +1,4 @@
 initialize-release
 install
 
-	self methodClass 
-		compile: self selectorWithParams;
-		addSelector: self selector withMethod: self.
+	self methodClass compile: (self getSourceFor: self methodClass in: self selector).
