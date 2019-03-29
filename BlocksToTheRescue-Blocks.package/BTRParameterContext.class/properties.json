@@ -9,7 +9,7 @@
 		"sender",
 		"tempNames",
 		"arguments" ],
-	"name" : "TestContext",
+	"name" : "BTRParameterContext",
 	"pools" : [
 		 ],
 	"super" : "Object",
