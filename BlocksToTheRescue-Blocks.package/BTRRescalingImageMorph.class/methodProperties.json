@@ -1,7 +1,8 @@
 {
 	"class" : {
-		 },
+		"withForm:" : "ms 3/29/2019 13:05" },
 	"instance" : {
+		"asImageMorph" : "ms 3/29/2019 13:07",
 		"drawOn:" : "ms 3/21/2019 17:39",
 		"extent:" : "ms 3/21/2019 17:33",
 		"image" : "ms 3/21/2019 17:33",
