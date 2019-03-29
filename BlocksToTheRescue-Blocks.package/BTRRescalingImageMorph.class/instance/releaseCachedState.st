@@ -2,4 +2,4 @@ caching
 releaseCachedState
 
 	super releaseCachedState.
-	originalImage hibernate.
+	self image ifNotNil: [self image hibernate].
