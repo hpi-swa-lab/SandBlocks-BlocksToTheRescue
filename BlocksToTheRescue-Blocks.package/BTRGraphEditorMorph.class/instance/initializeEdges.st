@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeEdges
 
 	| added removed |
