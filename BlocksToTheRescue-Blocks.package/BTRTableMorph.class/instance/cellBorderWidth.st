@@ -1,0 +1,4 @@
+initialization
+cellBorderWidth
+	
+	^ 1

@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"table" ],
+	"name" : "BTRTableEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRTiledBackgroundMorph",
+	"type" : "normal" }
