@@ -11,8 +11,8 @@ iconSymbolForMethod: aMethodReference
 			strategyPragmaMessageIconAt:
 			strategyToolIconSelector:
 			strategyMethodFeatures:
-			strategyMethodClassHierarchy:
 			strategyMethodTraitHierarchy:
+			strategyMethodClassHierarchy:
 			strategyMethodPrimitive:)
 		with: aMethodReference
 		ifNotFound: [#blank]
