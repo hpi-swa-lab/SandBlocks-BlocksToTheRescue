@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"emitCodeForEffect:encoder:" : "WoC 3/28/2019 17:14",
 		"emitCodeForValue:encoder:" : "WoC 3/28/2019 10:54",
 		"printOn:indent:" : "WoC 3/28/2019 11:08",
+		"sizeCodeForEffect:" : "WoC 3/28/2019 17:14",
 		"sizeCodeForValue:" : "WoC 3/27/2019 15:37" } }
