@@ -1,4 +1,5 @@
 *BlocksToTheRescue-Core
 asRectangle
 
-	^ self origin: 0@0
+	^ 0 asPoint extent: self
+	"^ self origin: 0@0"
