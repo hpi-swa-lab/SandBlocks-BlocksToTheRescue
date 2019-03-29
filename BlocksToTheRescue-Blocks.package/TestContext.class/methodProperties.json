@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"basicNew:" : "LB 3/28/2019 17:16",
+		"new" : "LB 3/28/2019 17:17" },
+	"instance" : {
+		"arguments" : "LB 3/28/2019 16:29",
+		"arguments:" : "LB 3/28/2019 16:29",
+		"doesNotUnderstand:" : "LB 3/28/2019 17:19",
+		"insertSender:" : "LB 3/28/2019 16:49",
+		"isDead" : "LB 3/28/2019 17:08",
+		"method" : "LB 3/28/2019 16:31",
+		"printDetails:" : "LB 3/28/2019 16:41",
+		"receiver" : "LB 3/28/2019 16:36",
+		"resume:" : "LB 3/28/2019 17:27",
+		"return:" : "LB 3/28/2019 17:21",
+		"sender" : "LB 3/28/2019 16:26",
+		"sender:" : "LB 3/28/2019 16:26",
+		"tempAt:" : "LB 3/28/2019 16:30",
+		"tempNames" : "LB 3/28/2019 16:29",
+		"tempNames:" : "LB 3/28/2019 16:29" } }

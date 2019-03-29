@@ -1,4 +1,3 @@
 compliance
 fileIndex
-
-	^ 1
+	^SourceFiles fileIndexFromSourcePointer: self sourcePointer

@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blockClosure" ],
+	"name" : "BTRBlockClosureMethod",
+	"pools" : [
+		 ],
+	"super" : "BTRCustomMethod",
+	"type" : "normal" }

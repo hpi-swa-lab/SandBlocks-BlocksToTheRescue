@@ -1,4 +1,4 @@
 compliance
 filePosition
 
-	^ nil
+	^SourceFiles filePositionFromSourcePointer: self sourcePointer
