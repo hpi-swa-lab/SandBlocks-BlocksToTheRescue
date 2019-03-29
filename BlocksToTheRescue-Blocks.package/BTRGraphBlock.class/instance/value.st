@@ -1,4 +1,4 @@
 interface-evaluating
 value
 
-	^ self valueWithArguments: {'nice'}
+	^ self valueInContext: thisContext sender

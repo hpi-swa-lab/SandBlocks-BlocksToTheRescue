@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"current" ],
-	"name" : "BTRGraphLayout",
+		"sender",
+		"tempNames",
+		"arguments" ],
+	"name" : "BTRParameterContext",
 	"pools" : [
 		 ],
-	"super" : "LayoutPolicy",
-	"type" : "normal" }
+	"super" : "Object",
+	"type" : "variable" }

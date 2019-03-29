@@ -2,6 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
+		"current" : "LB 3/29/2019 13:34",
+		"current:" : "LB 3/29/2019 13:34",
+		"layers" : "LB 3/29/2019 13:35",
 		"layersOf:" : "LB 3/28/2019 15:40",
-		"layout:in:" : "LB 3/28/2019 15:41",
-		"nodeSpace" : "LB 3/28/2019 10:07" } }
+		"layout:in:" : "LB 3/29/2019 14:15",
+		"layoutEdges" : "LB 3/29/2019 14:05",
+		"layoutNodes" : "LB 3/29/2019 14:05",
+		"layoutSignatureBar" : "LB 3/29/2019 14:50",
+		"nodeOffset" : "LB 3/29/2019 14:05",
+		"nodeSpace" : "LB 3/28/2019 10:07",
+		"signatureBarHeight" : "LB 3/29/2019 14:19" } }

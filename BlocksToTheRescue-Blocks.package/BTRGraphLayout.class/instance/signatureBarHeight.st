@@ -1,0 +1,4 @@
+layout
+signatureBarHeight
+
+	^ 25

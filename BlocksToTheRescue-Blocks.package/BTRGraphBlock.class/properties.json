@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"nodes",
-		"edges" ],
+		"edges",
+		"parameterNames" ],
 	"name" : "BTRGraphBlock",
 	"pools" : [
 		 ],
