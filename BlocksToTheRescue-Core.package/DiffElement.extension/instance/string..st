@@ -1,5 +1,5 @@
 *BlocksToTheRescue-Core
 string: aString
 
-	string := aString asText.
+	string := aString asBTRText.
 	hash := string hash
