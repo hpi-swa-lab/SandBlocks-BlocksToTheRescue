@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"originalImage",
-		"shownImage" ],
+		"image",
+		"scaleMode",
+		"origin" ],
 	"name" : "BTRRescalingImageMorph",
 	"pools" : [
 		 ],

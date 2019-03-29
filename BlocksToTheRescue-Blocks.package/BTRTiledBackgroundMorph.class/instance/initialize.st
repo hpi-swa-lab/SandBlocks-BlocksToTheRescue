@@ -2,6 +2,5 @@ initialization
 initialize
 
 	super initialize.
-	self color: Color gray.
-	self tileColor: Color lightGray.
+	self transparencyBackground.
 	self tileSize: 8.
