@@ -14,7 +14,6 @@ putSource: sourceStr fromParseNode: methodNode inFile: fileIndex withPreamble: p
 	file setToEnd.
 
 	preambleBlock value: file.  "Write the preamble"
-	self haltOnce.
 	remoteString := RemoteString newString: sourceStr onFileNumber: fileIndex toFile: file.
 	file nextChunkPut: ' '.
 	InMidstOfFileinNotification signal ifFalse: [file flush].

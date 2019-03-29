@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "BTRTableModel",
+	"pools" : [
+		 ],
+	"super" : "BTRAbstractBlockModel",
+	"type" : "normal" }

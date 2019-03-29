@@ -1,3 +1,7 @@
 compliance
 fileIndex
-	^SourceFiles fileIndexFromSourcePointer: self sourcePointer
+
+	^ self sourcePointer
+		ifNotNil: [SourceFiles fileIndexFromSourcePointer: self sourcePointer]
+		ifNil: 0
+	
