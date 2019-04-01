@@ -3,7 +3,14 @@
 		 },
 	"instance" : {
 		"emitCodeForEffect:encoder:" : "WoC 3/28/2019 17:14",
-		"emitCodeForValue:encoder:" : "WoC 3/28/2019 10:54",
+		"emitCodeForValue:encoder:" : "WoC 4/1/2019 14:21",
+		"generateSelectorWith:" : "WoC 4/1/2019 13:56",
 		"printOn:indent:" : "WoC 3/28/2019 11:08",
+		"pushBlockModel:encoder:" : "WoC 4/1/2019 14:21",
+		"pushSelector:encoder:" : "WoC 4/1/2019 14:20",
+		"pushThisContext:encoder:" : "WoC 4/1/2019 14:19",
+		"selector" : "WoC 4/1/2019 14:02",
+		"selectorNode" : "WoC 4/1/2019 13:51",
+		"selectorNode:" : "WoC 4/1/2019 13:51",
 		"sizeCodeForEffect:" : "WoC 3/28/2019 17:14",
-		"sizeCodeForValue:" : "WoC 3/27/2019 15:37" } }
+		"sizeCodeForValue:" : "WoC 4/1/2019 14:15" } }

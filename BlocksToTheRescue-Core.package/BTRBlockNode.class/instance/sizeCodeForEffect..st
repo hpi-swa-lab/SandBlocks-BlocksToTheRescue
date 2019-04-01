@@ -1,4 +1,4 @@
-as yet unclassified
+code generation
 sizeCodeForEffect: encoder
 
 	^ (self sizeCodeForValue: encoder) + encoder sizePop

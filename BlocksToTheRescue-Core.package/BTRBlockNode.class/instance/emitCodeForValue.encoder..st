@@ -1,7 +1,7 @@
-as yet unclassified
+code generation
 emitCodeForValue: stack encoder: encoder
 
-	stack push: 1.
-	encoder genPushLiteral: index.
+	self pushBlockModel: stack encoder: encoder.
+	self pushThisContext: stack encoder: encoder.
 	pc := encoder nextPC.
-	encoder genSendSpecial: 26 numArgs: 0.		"send: value"
+	self pushSelector: stack encoder: encoder.

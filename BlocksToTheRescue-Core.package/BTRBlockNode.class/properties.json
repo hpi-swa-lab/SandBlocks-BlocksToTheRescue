@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"selectorNode" ],
 	"name" : "BTRBlockNode",
 	"pools" : [
 		 ],
