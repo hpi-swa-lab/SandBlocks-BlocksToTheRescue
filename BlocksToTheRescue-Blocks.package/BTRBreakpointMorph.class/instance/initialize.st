@@ -7,5 +7,5 @@ initialize
 		borderWidth: 1;
 		borderColor: Color gray;
 		iconMorph: self enabledIcon asMorph;
-		textMorph: '1x' asMorph;
-		extent: 48@18.
+		"textMorph: '1x' asMorph;"
+		extent: 18@18.
