@@ -2,5 +2,5 @@ initialize-release
 initialize
 
 	super initialize.
-	self color: #V2;BTRColorModel;32;Constant1;Color;1E;1;(Color r: 0.0 g: 1 b: 0.502);;.
+	self color: Color seaFoam.
 	self btrProperties: Dictionary new.
