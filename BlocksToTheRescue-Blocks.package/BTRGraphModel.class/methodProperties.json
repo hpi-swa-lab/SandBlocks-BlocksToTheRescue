@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"example1" : "ee 3/27/2019 15:53",
+		"example1" : "BD 4/1/2019 09:57",
 		"exampleExecution" : "LB 3/26/2019 14:30" },
 	"instance" : {
-		"=" : "LB 3/28/2019 12:13",
+		"=" : "BD 4/1/2019 10:00",
 		"addEdge:" : "LB 3/26/2019 15:13",
 		"addNode:" : "LB 3/28/2019 11:36",
 		"chooseNodeFrom:" : "LB 3/28/2019 13:59",
@@ -13,7 +13,7 @@
 		"editorView" : "ee 3/27/2019 16:01",
 		"endNodes" : "LB 3/26/2019 13:29",
 		"executionContext" : "LB 3/29/2019 13:25",
-		"hash" : "LB 3/28/2019 12:12",
+		"hash" : "BD 4/1/2019 10:01",
 		"incoming:" : "LB 3/26/2019 12:57",
 		"initialize" : "ee 3/27/2019 15:18",
 		"inlineView" : "LB 3/26/2019 14:47",

@@ -1,7 +1,7 @@
 *BlocksToTheRescue-Core
 encodeBlock
 
-	| btrBlockModel btrBlockNode|
+	| btrBlockModel btrBlockNode |
 	btrBlockModel := self advance.
 	btrBlockNode := encoder encodeBlock: btrBlockModel.
 	encoder
