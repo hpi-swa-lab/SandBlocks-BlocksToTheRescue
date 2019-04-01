@@ -1,0 +1,4 @@
+toolbuilder
+signatureBarHeight
+
+	^ 20
