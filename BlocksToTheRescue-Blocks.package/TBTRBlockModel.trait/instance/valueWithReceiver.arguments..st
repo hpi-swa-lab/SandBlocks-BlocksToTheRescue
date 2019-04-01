@@ -1,4 +1,9 @@
 evaluating
 valueWithReceiver: anObject arguments: anArrayOfObjects
 
-	^ self value
+	| parameterContext |
+	parameterContext := BTRParameterContext new 
+			sender: thisContext sender;
+			arguments: anArrayOfObjects;
+			tempNames: self parameterNames.
+	^ self valueInContext: parameterContext

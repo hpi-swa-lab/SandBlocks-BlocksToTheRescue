@@ -1,4 +1,4 @@
 comparing
 hash
 
-	^ self value hash
+	^ super hash bitXor: self value hash

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changed" : "ms 4/1/2019 11:47",
+		"disabledIcon" : "ms 4/1/2019 11:41",
+		"enabledIcon" : "ms 4/1/2019 11:36",
+		"handlesMouseDown:" : "ms 4/1/2019 11:43",
+		"icon:" : "ms 4/1/2019 11:51",
+		"iconMorph" : "ms 4/1/2019 11:45",
+		"iconMorph:" : "ms 4/1/2019 12:18",
+		"initialize" : "ms 4/1/2019 12:18",
+		"mayActOnClick" : "ms 4/1/2019 11:54",
+		"mouseDown:" : "ms 4/1/2019 11:43",
+		"textMorph" : "ms 4/1/2019 12:17",
+		"textMorph:" : "ms 4/1/2019 12:19" } }

@@ -1,4 +1,4 @@
 as yet unclassified
 exampleB
 	<BTRBlockModel>
-	^ #V2;BTRColorModel;30;Constant1;Color;1C;1;(Color r: 1 g: 0.0 b: 0.0);;
+	^ #V2;BTRColorModel;54;Constant1;TranslucentColor;35;1;(TranslucentColor r: 1 g: 0.575 b: 0.0 alpha: 0.98);;
