@@ -1,4 +1,4 @@
 comparing
 = other
 
-	^ other class = self class and: [self value = other value]
+	^ super = other and: [self value = other value]

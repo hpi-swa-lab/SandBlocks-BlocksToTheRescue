@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"nodes",
-		"edges" ],
-	"name" : "BTRGraphModel",
+		"enabled",
+		"once" ],
+	"name" : "BTRBreakpoint",
 	"pools" : [
 		 ],
 	"super" : "BTRAbstractBlockModel",
