@@ -1,4 +1,4 @@
 interface-accessing
 postCopy
 
-	^ self shouldBeImplemented
+	^ super postCopy
