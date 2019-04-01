@@ -1,5 +1,5 @@
 accessing
 sourceHeader
 
-	^ Text fromString: (self selectorWithParams, '
+	^ Text fromString: (self signature, '
 	<BTRBlockModel>')

@@ -8,5 +8,6 @@ example1
 	node4 := BTRGraphNode new code: '{self arguments first asString, '' piles of '', self arguments second}'.
 	graph := BTRGraphModel new.
 	graph nodes: {node2. node3. node4. node1}.
-	graph edges: {node1 -> node2. node1 -> node3. node2 -> node4. node3 -> node4}.
+	graph edges: {node1 -> node2. node2 -> node4. node1 -> node3.  node3 -> node4}.
+	graph parameterNames: {'foo'. 'bar'}.
 	^ graph

@@ -1,9 +1,9 @@
-as yet unclassified
+initialization
 initializeSignatureBar
 
 	self 
 		signatureBar: (PluggableTextMorphPlus 
-			on: self
+			on: self 
 			text: #signature
 			accept: #signature:
 			readSelection: nil
