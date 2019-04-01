@@ -1,4 +1,0 @@
-layout
-signatureBarHeight
-
-	^ 25
