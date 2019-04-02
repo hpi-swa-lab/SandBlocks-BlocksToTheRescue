@@ -1,4 +1,4 @@
 drawing
 drawingOrigin
 
-	^ self innerBounds perform: self origin
+	^ self innerBoundsInWorld perform: self origin

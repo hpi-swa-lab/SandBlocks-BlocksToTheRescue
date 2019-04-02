@@ -1,4 +1,4 @@
 geometry
 boundingBox
 
-	^ self innerBounds extent asRectangle
+	^ self innerBoundsInWorld extent asRectangle

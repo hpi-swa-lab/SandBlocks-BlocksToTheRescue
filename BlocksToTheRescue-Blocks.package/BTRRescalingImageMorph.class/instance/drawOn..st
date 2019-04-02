@@ -2,9 +2,10 @@ drawing
 drawOn: aCanvas
 
 	super drawOn: aCanvas.
+	
 	self image ifNotNil: [aCanvas
 		translateTo: self drawingOrigin
-		clippingTo: self innerBounds
+		clippingTo: self innerBoundsInWorld
 		during: [:oCanvas | | canvasBoundingBox imageBoundingBox |
 			canvasBoundingBox := self boundingBox translatedToOrigin: self origin.
 			imageBoundingBox := self image boundingBox translatedToOrigin: self origin.
