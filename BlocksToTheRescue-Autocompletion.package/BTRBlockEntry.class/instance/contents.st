@@ -1,4 +1,4 @@
 as yet unclassified
 contents
 
-	^ contents name
+	^ contents displayName

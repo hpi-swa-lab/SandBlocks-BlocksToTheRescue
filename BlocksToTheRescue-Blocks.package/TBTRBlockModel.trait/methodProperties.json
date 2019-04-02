@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"displayName" : "LM 4/1/2019 16:50",
+		"isAbstract" : "LM 4/1/2019 16:50",
 		"on:selector:" : "BD 3/25/2019 14:51",
-		"previewIcon" : "LM 3/26/2019 11:00" },
+		"previewIcon" : "LM 3/26/2019 11:00",
+		"previewInstance" : "LM 4/1/2019 16:50" },
 	"instance" : {
 		"=" : "BD 4/1/2019 10:19",
 		"addParamsTo:" : "BD 3/28/2019 14:04",
