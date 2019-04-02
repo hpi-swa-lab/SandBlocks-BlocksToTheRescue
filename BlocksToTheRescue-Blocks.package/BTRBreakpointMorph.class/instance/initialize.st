@@ -6,6 +6,6 @@ initialize
 		color: Color transparent;
 		borderWidth: 1;
 		borderColor: Color gray;
-		iconMorph: self enabledIcon asMorph;
-		"textMorph: '1x' asMorph;"
-		extent: 18@18.
+		enableToggleMorph: ImageMorph new;
+		onceToggleMorph: ImageMorph new;
+		extent: 52@18.

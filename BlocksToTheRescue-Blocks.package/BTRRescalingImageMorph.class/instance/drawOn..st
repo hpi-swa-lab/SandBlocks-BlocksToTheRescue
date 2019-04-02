@@ -4,7 +4,7 @@ drawOn: aCanvas
 	super drawOn: aCanvas.
 	self image ifNotNil: [aCanvas
 		translateTo: self drawingOrigin
-		clippingTo: self innerBounds
+		clippingTo: self innerBoundsInWorld
 		during: [:oCanvas | | canvasBoundingBox imageBoundingBox |
 			canvasBoundingBox := self boundingBox translatedToOrigin: self origin.
 			imageBoundingBox := self image boundingBox translatedToOrigin: self origin.
@@ -12,5 +12,5 @@ drawOn: aCanvas
 				transformBy: (self transformationFrom: imageBoundingBox onTo: canvasBoundingBox)
 				clippingTo: canvasBoundingBox
 				during: [:tCanvas | self image isTranslucent
-					ifTrue: [tCanvas translucentImage: self image at: imageBoundingBox origin]
-					ifFalse: [tCanvas drawImage: self image at: imageBoundingBox origin]]]].
+					ifTrue: [tCanvas translucentImage: self image at: imageBoundingBox origin + 1]
+					ifFalse: [tCanvas drawImage: self image at: imageBoundingBox origin + 1]]]].

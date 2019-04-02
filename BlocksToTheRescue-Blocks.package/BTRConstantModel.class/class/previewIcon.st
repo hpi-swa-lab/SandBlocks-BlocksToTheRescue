@@ -1,4 +1,4 @@
-as yet unclassified
+insertion
 previewIcon
 
 	Smalltalk at: #BTRIcons ifPresent: [:icons | ^ icons defaultMorphIcon].
