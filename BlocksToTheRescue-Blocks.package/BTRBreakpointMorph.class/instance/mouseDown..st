@@ -1,5 +1,8 @@
 event handling
 mouseDown: evt
-	
-	self blockModel toggleEnabled.
+
+	evt handler = self enableToggleMorph
+		ifTrue: [self blockModel toggleEnabled].
+	evt handler = self onceToggleMorph
+		ifTrue: [self blockModel toggleOnce].
 	self changed.

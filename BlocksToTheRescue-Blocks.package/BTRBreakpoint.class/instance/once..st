@@ -1,3 +1,5 @@
 accessing
 once: aBoolean
-	once := aBoolean
+
+	once := aBoolean.
+	self changed: #once.

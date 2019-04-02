@@ -1,6 +1,8 @@
 interface-views
 inlineView
 
-	^ BTRBreakpointMorph new
-		blockModel: self;
-		yourself
+	Transcript showln: 'new iv'.
+	^ self addDependent: (
+		BTRBreakpointMorph new
+			blockModel: self;
+			yourself)

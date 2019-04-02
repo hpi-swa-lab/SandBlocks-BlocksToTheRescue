@@ -1,4 +1,4 @@
 constants
-disabledIcon
+toggleDisabledIcon
 
 	^ ToolIcons breakpoint asGrayScale2
