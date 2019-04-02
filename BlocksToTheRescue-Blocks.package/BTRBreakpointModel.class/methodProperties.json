@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"btrScanFromBP1:" : "ms 4/2/2019 14:21",
 		"previewIcon" : "LM 4/1/2019 17:27" },
 	"instance" : {
+		"btrSerializationVersion" : "ms 4/2/2019 14:10",
+		"btrStoreOn:" : "ms 4/2/2019 14:17",
 		"enabled" : "ms 4/1/2019 10:02",
 		"enabled:" : "ms 4/2/2019 11:32",
 		"initialize" : "ms 4/2/2019 13:32",
