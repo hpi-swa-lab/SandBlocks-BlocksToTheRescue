@@ -2,7 +2,7 @@ block methods
 askForBlockModel
 
 	^ (UIManager default
-		chooseFrom: (self availableBlockModelClasses collect: [:class | class name])
+		chooseFrom: (self availableBlockModelClasses collect: [:class | class displayName])
 		values: self availableBlockModelClasses
 		title: 'Block Type?
 (Erases previous method content)')

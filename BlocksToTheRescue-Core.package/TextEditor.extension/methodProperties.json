@@ -2,9 +2,9 @@
 	"class" : {
 		"initializeCmdKeyShortcuts" : "ms 3/27/2019 09:31" },
 	"instance" : {
-		"availableBlockModelClasses" : "WoC 3/26/2019 10:06",
+		"availableBlockModelClasses" : "LM 4/2/2019 10:40",
 		"insertAndSelectText:at:" : "WoC 3/25/2019 14:14",
 		"insertBlock" : "WoC 3/26/2019 11:31",
 		"insertBlock:" : "WoC 3/25/2019 14:29",
-		"selectBlockModelClass" : "WoC 3/25/2019 11:57",
+		"selectBlockModelClass" : "LM 4/2/2019 10:41",
 		"selectionAsStream" : "BD 3/8/2019 10:29" } }
