@@ -1,4 +1,4 @@
-as yet unclassified
+code generation
 emitCodeForEffect: stack encoder: encoder
 
 	self emitCodeForValue: stack encoder: encoder.

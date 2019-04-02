@@ -2,6 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"btrProperties" : "WoC 4/1/2019 15:41",
+		"btrProperties:" : "WoC 4/1/2019 15:41",
 		"greeting" : "WoC 3/14/2019 11:52",
 		"greeting:" : "LM 3/22/2019 14:19",
-		"value" : "WoC 3/14/2019 11:51" } }
+		"initialize" : "WoC 4/1/2019 16:05",
+		"inlineView" : "WoC 4/1/2019 15:41",
+		"value" : "WoC 4/1/2019 15:59" } }
