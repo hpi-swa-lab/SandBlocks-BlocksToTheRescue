@@ -1,10 +1,7 @@
 block methods
 askForBlockModel
 
-	^ (UIManager default
-		chooseFrom: (self availableBlockModelClasses collect: [:class | class displayName])
-		values: self availableBlockModelClasses
-		title: 'Block Type?
+	^ (BTRAbstractBlockModel userSelectBlockModelClass: 'Block Type?
 (Erases previous method content)')
 			ifNotNil: [:blockModelClass | 
 				blockModelClass 

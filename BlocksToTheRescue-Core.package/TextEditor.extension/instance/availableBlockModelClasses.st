@@ -1,4 +1,0 @@
-*BlocksToTheRescue-Core
-availableBlockModelClasses
-
-	^ BTRAbstractBlockModel allBlockClasses
