@@ -1,4 +1,4 @@
 accessing
 image
 
-	^ image
+	^ self blockModel ifNotNil: [self blockModel image]

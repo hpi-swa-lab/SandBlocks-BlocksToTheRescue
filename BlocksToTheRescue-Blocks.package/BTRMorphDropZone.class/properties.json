@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morph",
 		"image" ],
 	"name" : "BTRMorphDropZone",
 	"pools" : [
