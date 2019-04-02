@@ -2,5 +2,5 @@ as yet unclassified
 example6
 
 	Transcript showln: 'Halt after printing this.'.
-	#V2;BTRBreakpointModel;7F;1;(BTRBreakpointModel basicNew instVarAt: 1 put: ((Dictionary new)); instVarAt: 2 put: true; instVarAt: 3 put: false; yourself);.
+	#V2;BTRBreakpointModel;5;BP1;1;.
 	Transcript showln: 'I was halted before printing this.'.
