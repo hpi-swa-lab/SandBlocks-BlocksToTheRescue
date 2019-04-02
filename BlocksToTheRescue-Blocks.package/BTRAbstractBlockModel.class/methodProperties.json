@@ -1,6 +1,9 @@
 {
 	"class" : {
-		 },
+		"allBlockClasses" : "LM 4/1/2019 17:08",
+		"displayName" : "LM 4/1/2019 17:14",
+		"isAbstract" : "LM 4/1/2019 17:04" },
 	"instance" : {
 		"btrProperties" : "BD 3/27/2019 15:21",
-		"btrProperties:" : "BD 3/27/2019 15:21" } }
+		"btrProperties:" : "BD 3/27/2019 15:21",
+		"signature:" : "LB 4/1/2019 16:34" } }

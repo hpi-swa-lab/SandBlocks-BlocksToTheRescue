@@ -8,8 +8,7 @@
 	"instvars" : [
 		"graph",
 		"nodeViews",
-		"edgeViews",
-		"signatureBar" ],
+		"edgeViews" ],
 	"name" : "BTRGraphEditorMorph",
 	"pools" : [
 		 ],

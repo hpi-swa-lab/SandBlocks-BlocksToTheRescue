@@ -5,7 +5,6 @@ layout: aBTRGraphEditorMorph in: newBounds
 	
 	self 
 		layoutNodes;
-		layoutEdges;
-		layoutSignatureBar.
+		layoutEdges.
 	
 	self current: nil.
