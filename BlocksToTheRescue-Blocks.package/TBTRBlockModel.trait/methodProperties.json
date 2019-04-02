@@ -8,7 +8,7 @@
 	"instance" : {
 		"=" : "BD 4/1/2019 10:19",
 		"addParamsTo:" : "BD 3/28/2019 14:04",
-		"btrProperties" : "BD 3/27/2019 15:17",
+		"btrProperties" : "ms 4/2/2019 14:44",
 		"btrProperties:" : "BD 3/27/2019 15:15",
 		"checkOKToAdd:at:" : "BD 3/28/2019 10:15",
 		"defaultParameterNames" : "BD 4/1/2019 11:02",
@@ -25,7 +25,6 @@
 		"hasBreakpoint" : "BD 3/25/2019 12:16",
 		"hasLiteralThorough:" : "BD 3/25/2019 12:16",
 		"hash" : "BD 4/1/2019 10:20",
-		"initialize" : "BD 3/27/2019 15:23",
 		"inlineView" : "BD 3/25/2019 11:46",
 		"install" : "BD 3/29/2019 15:25",
 		"isBTRBlockModel" : "LM 3/26/2019 10:12",
