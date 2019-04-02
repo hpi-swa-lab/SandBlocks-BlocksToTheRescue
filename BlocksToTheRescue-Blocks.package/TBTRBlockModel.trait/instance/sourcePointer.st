@@ -1,4 +1,4 @@
 compliance
 sourcePointer
 
-	^ self btrProperties at: #sourcePointer ifAbsent: [nil]
+	^ self btrProperties at: #sourcePointer ifAbsent: [0]

@@ -1,7 +1,7 @@
-as yet unclassified
+detail information
 createDescriptionWith: anECContext
 
 	^ ECEntryDescription
 		label: self label
 		title: contents name
-		description: self completion
+		description: (BTRBlockAttribute asTextFrom: contents previewInstance)

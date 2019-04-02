@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"previewIcon" : "LM 4/1/2019 17:27" },
 	"instance" : {
 		"enabled" : "ms 4/1/2019 10:02",
 		"enabled:" : "ms 4/2/2019 11:32",
@@ -8,6 +8,6 @@
 		"inlineView" : "ms 4/2/2019 11:00",
 		"once" : "ms 4/1/2019 10:02",
 		"once:" : "ms 4/2/2019 11:32",
-		"toggleEnabled" : "ms 4/1/2019 10:03",
+		"toggleEnabled" : "ms 4/2/2019 11:39",
 		"toggleOnce" : "ms 4/1/2019 10:03",
 		"value" : "ms 4/1/2019 12:00" } }

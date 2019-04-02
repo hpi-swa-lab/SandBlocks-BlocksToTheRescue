@@ -1,4 +1,4 @@
-layout
+toolbuilder
 signatureBarHeight
 
-	^ 25
+	^ 20
