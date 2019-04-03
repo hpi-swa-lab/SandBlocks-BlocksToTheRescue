@@ -4,4 +4,4 @@ exampleExecution
 	| foo bar |
 	foo := 42.
 	bar := 'Cheese'.
-	^ self example1 value 
+	^ BTRGraphModel example1 value 

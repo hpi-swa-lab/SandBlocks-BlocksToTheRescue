@@ -1,8 +1,6 @@
 {
 	"class" : {
-		"example1" : "LB 4/1/2019 13:42",
-		"exampleExecution" : "LB 3/26/2019 14:30",
-		"exampleExecution2" : "LB 4/2/2019 13:57" },
+		"example1" : "LB 4/1/2019 13:42" },
 	"instance" : {
 		"=" : "BD 4/1/2019 10:22",
 		"addEdge:" : "LB 3/26/2019 15:13",
