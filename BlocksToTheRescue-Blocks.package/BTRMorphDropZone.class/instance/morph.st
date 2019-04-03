@@ -1,4 +1,4 @@
 accessing
 morph
 
-	^ morph
+	^ self blockModel ifNotNil: [self blockModel value]

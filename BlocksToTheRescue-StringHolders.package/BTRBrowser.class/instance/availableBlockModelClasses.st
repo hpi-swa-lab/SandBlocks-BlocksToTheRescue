@@ -1,4 +1,0 @@
-block methods
-availableBlockModelClasses
-
-	^ BTRAbstractBlockModel allBlockClasses
