@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"serialize:" : "LB 4/2/2019 13:41" },
+	"instance" : {
+		"constructionFor:" : "LB 4/2/2019 17:29",
+		"constructions" : "LB 4/2/2019 13:06",
+		"constructions:" : "LB 4/2/2019 13:06",
+		"deserialize:" : "LB 4/2/2019 13:41",
+		"fullSerialize:" : "LB 4/2/2019 13:28",
+		"initialize" : "LB 4/2/2019 13:22",
+		"isSpecialClass:" : "LB 4/2/2019 15:41",
+		"nextId" : "LB 4/2/2019 13:04",
+		"referenceAt:" : "LB 4/2/2019 13:31",
+		"referenceDictionary" : "LB 4/2/2019 13:03",
+		"referenceDictionary:" : "LB 4/2/2019 13:03",
+		"resolve" : "LB 4/2/2019 13:23",
+		"serialize:" : "LB 4/2/2019 17:29",
+		"specialConstructionFor:" : "LB 4/2/2019 15:43",
+		"stringReferenceTo:" : "LB 4/2/2019 17:27",
+		"toResolve" : "LB 4/2/2019 13:22",
+		"toResolve:" : "LB 4/2/2019 13:22" } }
