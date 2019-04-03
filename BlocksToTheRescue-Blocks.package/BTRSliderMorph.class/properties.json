@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"slider" ],
+	"name" : "BTRSliderMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockMorph",
+	"type" : "normal" }

@@ -1,4 +1,0 @@
-initialization
-cellColor
-	
-	^ Color paleRed
