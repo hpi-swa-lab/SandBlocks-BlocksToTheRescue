@@ -3,7 +3,7 @@ scaleContain: aRectangle origin: aSymbol
 
 	^ ((self extent isZero or: [aRectangle extent isZero])
 		ifTrue: [0 asPoint]
-		ifFalse: [aRectangle isWide
+		ifFalse: [(aRectangle isWide and: [self isWide not])
 			ifFalse: [aRectangle width @ (self height * aRectangle width / self width)]
 			ifTrue: [(self width * aRectangle height / self height) @ aRectangle height]])
 			asRectangle translatedToOrigin: aSymbol of: aRectangle

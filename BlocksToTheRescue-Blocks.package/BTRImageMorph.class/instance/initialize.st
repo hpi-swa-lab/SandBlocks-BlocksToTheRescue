@@ -7,6 +7,8 @@ initialize
 	self borderColor: Color black.
 
 	self imageMorph: BTRRescalingImageMorph new.
-	self imageMorph bounds: self innerBounds.
+	self imageMorph
+		bounds: self innerBounds;
+		scaleMode: #contain.
 	self addMorph: self imageMorph.
 	self refreshImageMorph.
