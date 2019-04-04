@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BMPlatform",
+		"state",
+		"relativePosition",
+		"velocity" ],
+	"name" : "BMGameObject",
 	"pools" : [
 		 ],
-	"super" : "BMGameObject",
+	"super" : "ImageMorph",
 	"type" : "normal" }

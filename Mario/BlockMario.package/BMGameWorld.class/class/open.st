@@ -5,5 +5,4 @@ open
 	window := SystemWindow new.
 	world := self new.
 	window addMorph: world frame: 1 asPoint asRectangle.
-	window extent: world extent.
-	window openInHand
+	window openInWorldExtent: world extent.

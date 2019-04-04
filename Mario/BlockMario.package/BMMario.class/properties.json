@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"state" ],
+		 ],
 	"name" : "BMMario",
 	"pools" : [
 		 ],
-	"super" : "ImageMorph",
+	"super" : "BMGameObject",
 	"type" : "normal" }
