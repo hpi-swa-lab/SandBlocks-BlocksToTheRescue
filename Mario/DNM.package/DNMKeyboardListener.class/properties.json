@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/22/2018 16:47",
+	"instvars" : [
+		"keycodeConverter",
+		"pressedKeyValues" ],
+	"name" : "DNMKeyboardListener",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

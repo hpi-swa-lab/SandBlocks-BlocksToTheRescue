@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-GameElements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:53",
+	"instvars" : [
+		"score",
+		"health" ],
+	"name" : "DNMMario",
+	"pools" : [
+		 ],
+	"super" : "DNMMovingGameElement",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
 toolbuilder
 signatureBarHeight
 
-	^ 20
+	^ PluggableTextMorphPlus new minHeight

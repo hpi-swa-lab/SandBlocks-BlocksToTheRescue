@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-GameElements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:21",
+	"instvars" : [
+		"effect",
+		"soundSymbol" ],
+	"name" : "DNMCollectible",
+	"pools" : [
+		 ],
+	"super" : "DNMCollidingGameElement",
+	"type" : "normal" }

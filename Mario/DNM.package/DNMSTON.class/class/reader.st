@@ -1,0 +1,3 @@
+accessing
+reader
+	^DNMSTONReader new

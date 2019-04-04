@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"healthModel:" : "Lars 1/15/2018 15:37",
+		"initialize" : "Lars 1/15/2018 15:37",
+		"initializeHealth" : "BD 1/22/2018 14:53",
+		"initializeScore" : "BD 4/4/2019 10:18",
+		"newUIText:" : "Lars 1/4/2018 18:48",
+		"newUIText:withDescription:" : "BD 1/22/2018 14:53",
+		"score:" : "BD 11/25/2017 16:38",
+		"scoreModel:" : "BD 12/30/2017 15:44",
+		"showGameOver" : "BD 4/4/2019 10:18",
+		"showVictory" : "BD 1/22/2018 14:53",
+		"step" : "BD 12/30/2017 15:52",
+		"stepTime" : "BD 12/30/2017 15:52",
+		"updateScore" : "Lars 1/15/2018 15:44" } }

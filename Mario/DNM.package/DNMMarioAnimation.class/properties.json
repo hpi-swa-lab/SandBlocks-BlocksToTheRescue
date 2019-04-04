@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-GameElements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BD 1/29/2018 14:34",
+	"instvars" : [
+		"currentGIF",
+		"animationsBySymbol" ],
+	"name" : "DNMMarioAnimation",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"newFor:" : "Lars 1/10/2018 19:16" },
+	"instance" : {
+		"abilities" : "BD 1/15/2018 16:29",
+		"add:to:for:" : "Lars 1/11/2018 17:00",
+		"addAbility:for:" : "Lars 1/11/2018 16:24",
+		"addAlarm:withArguments:after:" : "Lars 1/10/2018 21:39",
+		"addAttributeModifier:for:" : "Lars 1/11/2018 16:24",
+		"affectedObject" : "BD 1/15/2018 16:30",
+		"affectedObject:" : "BD 1/15/2018 16:30",
+		"attributeModifiersFactorFor:" : "Lars 1/17/2018 14:25",
+		"attributeModifiersFor:" : "Lars 1/11/2018 16:24",
+		"changeAttribute:by:" : "BD 1/15/2018 16:30",
+		"initialize" : "Lars 1/10/2018 19:18",
+		"modifiers" : "BD 1/15/2018 16:30",
+		"remove:from:" : "Lars 1/10/2018 21:45",
+		"remove:from:after:" : "BD 1/15/2018 16:31",
+		"removeUnusableAbilities" : "Lars 1/11/2018 17:05",
+		"tryToUseAbility:" : "Lars 1/11/2018 17:05",
+		"tryToUseAllAbilities" : "BD 1/15/2018 16:32" } }

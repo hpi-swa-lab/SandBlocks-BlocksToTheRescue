@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allPressedKeySymbols" : "Lars 1/11/2018 16:11",
+		"allPressedKeyValues" : "Lars 1/11/2018 16:11",
+		"initialize" : "BD 1/22/2018 14:46",
+		"keyDown:" : "Lars 1/11/2018 16:12",
+		"keyUp:" : "Lars 1/11/2018 16:12",
+		"keycodeConverter" : "Lars 1/15/2018 16:55",
+		"keycodeConverter:" : "Lars 1/15/2018 16:55" } }

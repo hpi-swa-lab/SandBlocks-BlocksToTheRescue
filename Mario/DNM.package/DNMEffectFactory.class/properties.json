@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		"UniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:56",
+	"instvars" : [
+		 ],
+	"name" : "DNMEffectFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

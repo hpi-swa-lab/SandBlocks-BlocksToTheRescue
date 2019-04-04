@@ -1,0 +1,3 @@
+accessing
+controlAbilities
+	self representedObject tryToUseAllAbilities.
