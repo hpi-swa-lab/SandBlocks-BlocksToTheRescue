@@ -2,7 +2,4 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideWith:" : "BD 4/4/2019 15:21",
-		"collideWithMario:" : "BD 4/4/2019 15:34",
-		"defaultForm" : "BD 4/4/2019 14:28",
-		"wantsGravity" : "BD 4/4/2019 14:36" } }
+		"defaultForm" : "BD 4/4/2019 16:13" } }

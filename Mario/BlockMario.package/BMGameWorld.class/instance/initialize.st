@@ -9,6 +9,7 @@ initialize
 		initializeStyle;
 		initializeBackground;
 		initializeGround;
+		initializePlatforms;
 		initializeMario;
 		startStepping.
 	

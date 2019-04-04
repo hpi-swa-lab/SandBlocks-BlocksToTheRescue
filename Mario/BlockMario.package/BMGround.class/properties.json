@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BMPlatform",
+	"name" : "BMGround",
 	"pools" : [
 		 ],
 	"super" : "BMStaticGameElement",

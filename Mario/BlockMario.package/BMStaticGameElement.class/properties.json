@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BMPlatform",
+	"name" : "BMStaticGameElement",
 	"pools" : [
 		 ],
-	"super" : "BMStaticGameElement",
+	"super" : "BMGameObject",
 	"type" : "normal" }
