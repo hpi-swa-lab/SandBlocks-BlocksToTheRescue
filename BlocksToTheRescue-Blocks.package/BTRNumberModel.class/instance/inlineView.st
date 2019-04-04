@@ -3,5 +3,5 @@ inlineView
 
 	^ BTRSliderMorph new
 		blockModel: self;
-		initializeSubmorphs;
+		setup;
 		yourself

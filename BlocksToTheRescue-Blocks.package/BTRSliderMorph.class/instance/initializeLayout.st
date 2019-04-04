@@ -1,6 +1,12 @@
 initialization
 initializeLayout
 
-	self color: Color transparent.
-	self extent: self slider extent.
-	self addMorph: self slider.
+	self 
+		color: Color transparent;
+		changeTableLayout;
+		hResizing: #spaceFill;
+		vResizing: #shrinkWrap;
+		extent: self defaultExtent;
+		addMorphBack: self sliderRow;
+		layoutInset: 4;
+		cellInset: self inset.
