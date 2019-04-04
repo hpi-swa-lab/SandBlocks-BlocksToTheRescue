@@ -1,6 +1,6 @@
 accessing
-blockModel: aTBTRBlockModel
+blockModel: aBTRBreakpointModel
 
-	blockModel := aTBTRBlockModel.
+	blockModel := aBTRBreakpointModel.
 	self updateEnabledIcon.
 	self updateOnceIcon.

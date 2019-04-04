@@ -1,0 +1,4 @@
+constants
+trueColor
+
+	^ Color green

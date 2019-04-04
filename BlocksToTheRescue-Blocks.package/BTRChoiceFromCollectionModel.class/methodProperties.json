@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"example1" : "ms 4/4/2019 12:00",
+		"previewIcon" : "ms 4/4/2019 11:43" },
+	"instance" : {
+		"collectionAccess" : "ms 4/4/2019 11:46",
+		"collectionAccess:" : "ms 4/4/2019 11:46",
+		"defaultValue" : "ms 4/4/2019 11:48",
+		"initialize" : "ms 4/4/2019 11:50",
+		"readOnlyCollection" : "ms 4/4/2019 11:57",
+		"value:" : "ms 4/4/2019 11:58",
+		"wantsCopiedValue" : "ms 4/4/2019 12:06" } }

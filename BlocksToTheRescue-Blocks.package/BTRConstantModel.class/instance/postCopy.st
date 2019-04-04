@@ -1,5 +1,7 @@
 copying
 postCopy
 
-	^ self value: self value copy;
-		yourself
+	super postCopy.
+	self wantsCopiedValue ifTrue: [
+		self value: self value copy].
+	^ self
