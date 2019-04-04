@@ -5,5 +5,5 @@ serialize: anObject
 	id := self referenceDictionary 
 		at: anObject 
 		ifAbsentPut: self nextId.
-	anObject isLiteral ifFalse: 
+	(self shouldBeSerializedAsLiteral: anObject) ifFalse: 
 		[self constructions at: id ifAbsentPut: ['self referenceDictionary at: ', id, ' put: ', (self constructionFor: anObject)].].
