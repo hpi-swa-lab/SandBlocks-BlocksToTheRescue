@@ -2,8 +2,8 @@ as yet unclassified
 exampleX
 
 	Transcript showln: 'hallo'.
-	#V2;Breakpoint;EC6;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
-3*dYFDBLbY6#^jYC`kJe0f^@bF<ES)2)73H2BZFF-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
+	#V2;Breakpoint;EC6;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfria+A-'[F^]<9+>PW*3?VOB@<?(%F<G^FA79Rk3ZoY%3&39E
+>p+''+>b3,E,oZ/+>PW*3?VaP+>GQ21,h6K2'?=E-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
 @;KY(AK_Kl%1OJ%ASbs$F)>?+FAc[^;fm%k@;R.j!!!!%#QOi)";)/SCghC++EMXFF^oN9Eb,OW
 !!!**$:JT<FD5Z2@<-Vr!!!!A#QOi).gZ1U!!<E56$%*c@qf@nBl@kn$:8cE@;Bh#Bl8"u!!!!+
 "98E%!"fEEDfor.EtJRoGA^u4&IEN$@Vp%(E+j;)$>+EsCdN&_DIdf#"_2IeDfQErAU&<.DKBN1
