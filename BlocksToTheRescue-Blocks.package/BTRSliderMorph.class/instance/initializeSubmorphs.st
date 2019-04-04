@@ -1,7 +1,12 @@
 initialization
 initializeSubmorphs
 
-	self initializeSlider.
-	self initializeExpandButton.
-	self initializeCollapseButton.
-	self initializeLayout.
+	self 
+		initializeSlider;
+		initializeExpandButton;
+		initializeCollapseButton;
+		initializeSliderRow;
+		initializeMinTextField;
+		initializeMaxTextField;
+		initializeQuantumTextField;
+		initializeExpandRow.
