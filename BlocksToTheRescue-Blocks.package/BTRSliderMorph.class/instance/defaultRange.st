@@ -1,0 +1,4 @@
+slider
+defaultRange
+
+	^ 100

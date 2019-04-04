@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"slider" ],
+		"slider",
+		"expandButton",
+		"collapseButton" ],
 	"name" : "BTRSliderMorph",
 	"pools" : [
 		 ],
