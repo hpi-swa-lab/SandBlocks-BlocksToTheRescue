@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"btrProperties" : "BD 4/3/2019 11:14",
+		"btrProperties:" : "BD 4/3/2019 11:14",
+		"disabledIcon" : "BD 4/3/2019 11:12",
+		"enabledIcon" : "BD 4/3/2019 11:12",
+		"haltEnabled" : "BD 4/3/2019 11:11",
+		"haltEnabled:" : "BD 4/3/2019 11:13",
+		"handleMouseDown:" : "BD 4/3/2019 11:14",
+		"handlesMouseDown:" : "BD 4/3/2019 11:14",
+		"initialize" : "BD 4/3/2019 11:16",
+		"inlineView" : "BD 4/3/2019 11:14",
+		"toggleEnable" : "BD 4/3/2019 11:11",
+		"value" : "BD 4/3/2019 11:13" } }

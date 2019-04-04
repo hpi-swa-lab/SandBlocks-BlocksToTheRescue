@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canBePickedUp" : "Lars 1/10/2018 22:03",
+		"effect" : "BD 1/31/2018 15:57",
+		"effect:" : "BD 1/15/2018 16:28",
+		"isTraversable" : "Lars 1/10/2018 22:04",
+		"pickUpBy:" : "Lars 1/30/2018 17:21",
+		"soundSymbol" : "BD 1/15/2018 16:01",
+		"soundSymbol:" : "BD 1/15/2018 16:27" } }

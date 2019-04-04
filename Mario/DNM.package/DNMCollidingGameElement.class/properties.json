@@ -1,0 +1,20 @@
+{
+	"category" : "DNM-GameElements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:14",
+	"instvars" : [
+		"owningGameWorld",
+		"physics",
+		"image",
+		"faction",
+		"attackStrength",
+		"defenseStrength",
+		"attackDirections" ],
+	"name" : "DNMCollidingGameElement",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

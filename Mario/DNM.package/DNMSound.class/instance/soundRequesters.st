@@ -1,0 +1,3 @@
+private
+soundRequesters
+	^soundsByRequester keys

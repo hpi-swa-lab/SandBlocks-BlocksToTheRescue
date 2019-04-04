@@ -1,0 +1,23 @@
+{
+	"category" : "DNM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:52",
+	"instvars" : [
+		"background",
+		"level",
+		"levelSpecification",
+		"soundSystem",
+		"physics",
+		"ui",
+		"keyDictionary",
+		"keyboardListener",
+		"gameStatus",
+		"mario" ],
+	"name" : "DNMGameWorld",
+	"pools" : [
+		 ],
+	"super" : "TransformMorph",
+	"type" : "normal" }

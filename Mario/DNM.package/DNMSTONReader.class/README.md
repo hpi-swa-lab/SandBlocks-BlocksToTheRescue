@@ -1,0 +1,1 @@
+A DNMSTONReader is a modification of STONReader, that uses Latin1TextConverter instead of UTF8TextConverter in order to fix the bug with special characters like 'ö' in the original reader/writer.

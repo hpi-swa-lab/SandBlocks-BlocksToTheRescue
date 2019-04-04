@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/22/2018 16:39",
+	"instvars" : [
+		"keyValueBySymbol" ],
+	"name" : "DNMKeycodeConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+traversableBlock
+	^traversableBlock

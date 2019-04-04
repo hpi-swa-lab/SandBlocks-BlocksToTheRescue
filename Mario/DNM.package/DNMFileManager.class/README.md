@@ -1,0 +1,1 @@
+A SW15FilePathManager is responsible for all kind of file access and providing a uniform access point to the data folder.

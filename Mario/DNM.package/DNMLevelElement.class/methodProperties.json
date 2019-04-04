@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"newOfType:" : "Lars 1/25/2018 20:04",
+		"newOfType:above:" : "Lars 1/25/2018 20:06",
+		"newOfType:at:" : "Lars 1/25/2018 20:04",
+		"newOfType:leftOf:" : "Lars 1/25/2018 20:06" },
+	"instance" : {
+		"asMorph" : "Lars 1/23/2018 21:02",
+		"asPoint" : "Lars 1/25/2018 20:00",
+		"bottom" : "Lars 1/23/2018 21:08",
+		"bottomLeft" : "Lars 1/23/2018 21:15",
+		"bottomRight" : "Lars 1/23/2018 21:16",
+		"bounds" : "Lars 1/25/2018 19:47",
+		"height" : "Lars 1/23/2018 21:10",
+		"left" : "Lars 1/25/2018 20:01",
+		"position" : "Lars 1/23/2018 21:54",
+		"position:" : "Lars 1/15/2018 16:46",
+		"right" : "Lars 1/23/2018 21:10",
+		"top" : "Lars 1/25/2018 20:01",
+		"topLeft" : "Lars 1/25/2018 20:00",
+		"topRight" : "Lars 1/23/2018 21:16",
+		"type" : "BD 12/23/2017 17:21",
+		"type:" : "Lars 1/15/2018 16:46",
+		"width" : "Lars 1/23/2018 21:10" } }

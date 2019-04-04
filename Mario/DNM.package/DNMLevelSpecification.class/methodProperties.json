@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"default" : "BD 1/15/2018 18:37",
+		"lavaLand" : "Lars 1/31/2018 14:52",
+		"turtleLand" : "BD 2/5/2018 14:12" },
+	"instance" : {
+		"enemies" : "Lars 1/15/2018 16:41",
+		"enemies:" : "Lars 1/15/2018 16:42",
+		"grounds" : "Lars 12/29/2017 15:46",
+		"grounds:" : "Lars 1/15/2018 16:42",
+		"initialize" : "BD 2/8/2018 14:57",
+		"items" : "Lars 1/15/2018 16:42",
+		"items:" : "Lars 1/15/2018 16:42",
+		"maxPlatformLength" : "Lars 1/15/2018 16:42",
+		"maxPlatformLength:" : "Lars 1/15/2018 16:43",
+		"platformDistance" : "Lars 1/15/2018 16:43",
+		"platformDistance:" : "Lars 1/15/2018 16:43",
+		"platforms" : "Lars 1/15/2018 16:43",
+		"platforms:" : "Lars 1/15/2018 16:43",
+		"spawnOnFloorPercentage" : "Lars 1/15/2018 16:43",
+		"spawnOnFloorPercentage:" : "Lars 1/15/2018 16:44",
+		"spawnOnPlatformPercentage" : "Lars 1/15/2018 16:44",
+		"spawnOnPlatformPercentage:" : "Lars 1/15/2018 16:44",
+		"spawnedOnPlatform" : "Lars 1/15/2018 16:45",
+		"width" : "Lars 1/15/2018 16:45",
+		"width:" : "Lars 1/15/2018 16:45" } }

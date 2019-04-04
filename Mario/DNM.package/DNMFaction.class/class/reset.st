@@ -1,0 +1,3 @@
+accesing
+reset
+	FactionsByName := nil.

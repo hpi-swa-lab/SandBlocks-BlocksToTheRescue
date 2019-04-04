@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-Examples",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"btrProperties",
+		"haltEnabled" ],
+	"name" : "Breakpoint",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMovingObject:" : "Lars 1/14/2018 10:00",
+		"addObject:" : "Lars 1/15/2018 16:00",
+		"applyFriction:" : "Lars 1/14/2018 11:07",
+		"applyGravity:" : "Lars 1/14/2018 10:01",
+		"dispatchCollisionOf:and:" : "Lars 1/15/2018 15:53",
+		"extraToleranceForCollisionObjects" : "BD 1/22/2018 13:55",
+		"friction" : "Lars 12/8/2017 20:50",
+		"gameWorld:" : "Lars 11/27/2017 14:58",
+		"gravity" : "Lars 1/14/2018 11:09",
+		"initialize" : "Lars 1/14/2018 00:51",
+		"isIntersectingWithAnyObject:" : "Lars 1/15/2018 16:00",
+		"isRelevantCollisionObjectForVisibleSection:" : "BD 2/2/2018 11:41",
+		"isRelevantMovingObjectForVisibleSection:" : "BD 2/2/2018 11:41",
+		"isStandingOnSomething:" : "BD 2/2/2018 11:42",
+		"moveObject:withObjects:" : "Lars 1/23/2018 18:16",
+		"removeEverything" : "Lars 1/25/2018 20:25",
+		"removeImpossibleVelocityPortionsOf:considering:" : "Lars 1/15/2018 15:56",
+		"removeObject:" : "Lars 11/26/2017 21:36",
+		"removeVelocityPortionsOf:inDirection:ifChanged:" : "Lars 1/23/2018 17:14",
+		"testIf:afterBeingTranslatedBy:intersectWith:" : "Lars 1/14/2018 10:23",
+		"updateMovingObjects" : "BD 2/2/2018 11:43",
+		"updateObject:withObjects:" : "Lars 1/23/2018 17:25",
+		"visibilityTolerance" : "Lars 1/14/2018 10:26" } }

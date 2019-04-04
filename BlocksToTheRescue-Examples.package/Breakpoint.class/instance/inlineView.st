@@ -1,0 +1,4 @@
+interface-views
+inlineView
+
+	^ self

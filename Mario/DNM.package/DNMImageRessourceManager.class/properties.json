@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-Utility",
+	"classinstvars" : [
+		"UniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/22/2018 16:54",
+	"instvars" : [
+		"filenamesBySymbol",
+		"ressourcesBySymbol" ],
+	"name" : "DNMImageRessourceManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

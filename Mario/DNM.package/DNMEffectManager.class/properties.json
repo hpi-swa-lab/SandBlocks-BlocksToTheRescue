@@ -1,0 +1,16 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JB 1/31/2018 16:14",
+	"instvars" : [
+		"abilities",
+		"modifiers",
+		"affectedObject" ],
+	"name" : "DNMEffectManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

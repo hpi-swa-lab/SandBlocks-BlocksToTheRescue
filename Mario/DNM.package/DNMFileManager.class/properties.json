@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BD 1/29/2018 14:43",
+	"instvars" : [
+		 ],
+	"name" : "DNMFileManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
