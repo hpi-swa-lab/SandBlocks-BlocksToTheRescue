@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collectionAccess" ],
+	"name" : "BTRChoiceFromCollectionModel",
+	"pools" : [
+		 ],
+	"super" : "BTRConstantModel",
+	"type" : "normal" }
