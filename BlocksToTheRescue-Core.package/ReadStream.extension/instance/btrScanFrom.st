@@ -1,9 +1,10 @@
 *BlocksToTheRescue-Core
 btrScanFrom
 
-	| length serializedObject objectStream class |
-	class := Smalltalk classNamed: (self upTo: $;).
-	class ifNil: [^ self btrScanError: 'Unknown class "', class, '"!'].
+	| length serializedObject objectStream class className |
+	className := self upTo: $; .
+	class := Smalltalk classNamed: className.
+	class ifNil: [^ self btrScanError: 'Unknown class "', className, '"!'].
 
 	length := Integer readFrom: (self upTo: $;) base: 16.
 	serializedObject := self next: length.
