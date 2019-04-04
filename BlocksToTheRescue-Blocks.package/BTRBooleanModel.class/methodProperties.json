@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultViewClass" : "ms 4/4/2019 11:15",
+		"previewIcon" : "ms 4/4/2019 11:07",
+		"worksForObject:" : "ms 4/4/2019 10:27" },
+	"instance" : {
+		"defaultValue" : "ms 4/4/2019 10:16",
+		"inlineView" : "ms 4/4/2019 11:15",
+		"isSet" : "ms 4/4/2019 10:16",
+		"methodIcon" : "ms 4/4/2019 11:17",
+		"set" : "ms 4/4/2019 10:16",
+		"setTo:" : "ms 4/4/2019 10:17",
+		"toggle" : "ms 4/4/2019 10:16",
+		"unset" : "ms 4/4/2019 10:16",
+		"value:" : "ms 4/4/2019 11:24" } }
