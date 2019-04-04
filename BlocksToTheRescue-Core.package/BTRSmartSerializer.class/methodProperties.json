@@ -2,7 +2,7 @@
 	"class" : {
 		"serialize:" : "LB 4/2/2019 13:41" },
 	"instance" : {
-		"constructionFor:" : "LB 4/2/2019 17:29",
+		"constructionFor:" : "LB 4/4/2019 10:40",
 		"constructions" : "LB 4/2/2019 13:06",
 		"constructions:" : "LB 4/2/2019 13:06",
 		"deserialize:" : "LB 4/2/2019 13:41",
@@ -14,8 +14,9 @@
 		"referenceDictionary" : "LB 4/2/2019 13:03",
 		"referenceDictionary:" : "LB 4/2/2019 13:03",
 		"resolve" : "LB 4/2/2019 13:23",
-		"serialize:" : "LB 4/2/2019 17:29",
+		"serialize:" : "LB 4/4/2019 10:48",
+		"shouldBeSerializedAsLiteral:" : "LB 4/4/2019 10:51",
 		"specialConstructionFor:" : "LB 4/2/2019 15:43",
-		"stringReferenceTo:" : "LB 4/2/2019 17:27",
+		"stringReferenceTo:" : "LB 4/4/2019 10:50",
 		"toResolve" : "LB 4/2/2019 13:22",
 		"toResolve:" : "LB 4/2/2019 13:22" } }
