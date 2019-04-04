@@ -2,9 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
+		"contents" : "ee 4/4/2019 10:07",
 		"initializeLayout" : "ee 4/3/2019 10:03",
-		"initializeSlider" : "ee 4/3/2019 09:58",
+		"initializeSlider" : "ee 4/4/2019 10:03",
 		"initializeSubmorphs" : "ee 4/3/2019 10:04",
+		"maximumValue" : "ee 4/4/2019 10:31",
+		"minimumValue" : "ee 4/4/2019 10:57",
+		"mouseDown:" : "ee 4/4/2019 11:14",
+		"quantum" : "ee 4/4/2019 10:28",
 		"slider" : "ee 4/3/2019 10:07",
 		"slider:" : "ee 4/3/2019 10:07",
 		"sliderColor" : "ee 4/2/2019 16:15" } }

@@ -1,12 +1,12 @@
 {
 	"class" : {
-		 },
+		"on:getValue:setValue:min:max:quantum:" : "ee 4/4/2019 10:45" },
 	"instance" : {
 		"defaultBounds" : "ee 4/3/2019 09:50",
-		"initialize" : "ee 4/3/2019 10:42",
-		"initializeInscriptionMorph" : "ee 4/3/2019 10:40",
-		"inititializeStyle" : "ee 4/3/2019 10:02",
+		"initialize" : "ee 4/4/2019 10:31",
+		"initializeInscriptionMorph" : "ee 4/4/2019 11:12",
 		"inscriptionMorph" : "ee 4/3/2019 10:40",
 		"inscriptionMorph:" : "ee 4/3/2019 10:42",
-		"updateInscription" : "ee 4/3/2019 10:42",
-		"value:" : "ee 4/3/2019 10:27" } }
+		"on:getValue:setValue:min:max:quantum:" : "ee 4/4/2019 10:50",
+		"updateInscription" : "ee 4/4/2019 10:36",
+		"value:" : "ee 4/4/2019 10:37" } }
