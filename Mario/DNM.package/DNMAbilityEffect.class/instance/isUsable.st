@@ -1,3 +1,3 @@
 testing
 isUsable
-	^self usesLeft > 0
+	^self usesLeft positive

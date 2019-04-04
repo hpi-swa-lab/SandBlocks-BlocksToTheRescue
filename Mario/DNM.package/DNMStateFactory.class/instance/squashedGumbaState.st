@@ -8,8 +8,8 @@ squashedGumbaState
 		faction: #harmlessFaction;
 		attackStrength: #weak;
 		defenseStrength: #godly;
-		maxSpeed: (0 @ 60); 
-		acceleration: (0 @ 0);
+		maxSpeed: (#V2;BTRNumberModel;1D;Constant1;SmallInteger;3;1;0;; @ 60); 
+		acceleration: (#V2;BTRNumberModel;1D;Constant1;SmallInteger;3;1;0;; @ #V2;BTRNumberModel;1D;Constant1;SmallInteger;3;1;0;;);
 		yourself
 	
 		
