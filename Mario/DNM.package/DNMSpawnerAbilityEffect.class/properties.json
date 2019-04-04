@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JB 1/31/2018 16:03",
+	"instvars" : [
+		"spawneeSymbol" ],
+	"name" : "DNMSpawnerAbilityEffect",
+	"pools" : [
+		 ],
+	"super" : "DNMAbilityEffect",
+	"type" : "normal" }

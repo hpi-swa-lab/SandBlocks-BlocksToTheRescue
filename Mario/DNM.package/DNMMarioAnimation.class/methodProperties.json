@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeTo:" : "BD 2/2/2018 11:45",
+		"changeToJumpLeft" : "BD 11/25/2017 19:03",
+		"changeToJumpRight" : "BD 11/25/2017 19:04",
+		"changeToRunLeft" : "BD 11/25/2017 19:04",
+		"changeToRunRight" : "BD 11/25/2017 19:04",
+		"changeToStandLeft" : "BD 11/25/2017 19:04",
+		"changeToStandRight" : "BD 11/25/2017 19:04",
+		"initialize" : "BD 2/2/2018 11:50",
+		"initializeGIFs" : "BD 2/2/2018 11:50",
+		"makeStatesInvisible" : "BD 2/2/2018 11:55",
+		"step" : "Lars 2/2/2018 12:02",
+		"stepTime" : "BD 12/23/2017 16:59" } }

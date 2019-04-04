@@ -1,0 +1,17 @@
+{
+	"category" : "DNM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BD 1/22/2018 16:54",
+	"instvars" : [
+		"lowerBoundary",
+		"levelElements",
+		"player",
+		"specification" ],
+	"name" : "DNMLevel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

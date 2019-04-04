@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"aggressiveFaction" : "Lars 2/2/2018 11:08",
+		"enemyFaction" : "Lars 2/2/2018 11:10",
+		"factionNamed:" : "Lars 2/2/2018 11:07",
+		"factionsByName" : "Lars 2/2/2018 11:14",
+		"harmlessFaction" : "Lars 2/2/2018 11:10",
+		"initializeFactions" : "Lars 2/2/2018 11:14",
+		"playerFaction" : "Lars 2/2/2018 11:10",
+		"reset" : "Lars 2/2/2018 11:14" },
+	"instance" : {
+		"addHostilityTowards:" : "Lars 1/13/2018 17:20",
+		"hostileFactions" : "Lars 1/13/2018 17:06",
+		"isHostileTowards:" : "Lars 1/13/2018 17:31",
+		"name" : "Lars 1/13/2018 17:19",
+		"name:" : "Lars 1/13/2018 17:19",
+		"setHostileTowardsSelf" : "Lars 1/13/2018 17:19" } }

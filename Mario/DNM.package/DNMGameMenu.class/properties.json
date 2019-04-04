@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:48",
+	"instvars" : [
+		"gameWorld",
+		"specification" ],
+	"name" : "DNMGameMenu",
+	"pools" : [
+		 ],
+	"super" : "MenuMorph",
+	"type" : "normal" }

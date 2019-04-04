@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-GameElements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:44",
+	"instvars" : [
+		 ],
+	"name" : "DNMTarget",
+	"pools" : [
+		 ],
+	"super" : "DNMCollidingGameElement",
+	"type" : "normal" }

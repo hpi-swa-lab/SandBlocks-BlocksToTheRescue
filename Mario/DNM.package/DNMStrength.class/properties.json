@@ -1,0 +1,15 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		"StrengthsByName" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 2/2/2018 11:01",
+	"instvars" : [
+		"attackActionByDefenseStrength",
+		"name" ],
+	"name" : "DNMStrength",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

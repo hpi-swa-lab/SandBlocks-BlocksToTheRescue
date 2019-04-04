@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"resetSingleton" : "BD 1/31/2018 15:55",
+		"singleton" : "BD 1/31/2018 15:55" },
+	"instance" : {
+		"catAbility" : "Lars 2/2/2018 12:26",
+		"fireballAbility" : "BD 1/31/2018 15:52",
+		"healthBoostBy:" : "BD 1/31/2018 15:52",
+		"maxSpeedModifierOf:" : "BD 1/31/2018 15:53",
+		"maxSpeedModifierOf:for:" : "BD 1/31/2018 15:53",
+		"none" : "BD 1/31/2018 15:53",
+		"scoreBoostBy:" : "BD 1/31/2018 15:53" } }

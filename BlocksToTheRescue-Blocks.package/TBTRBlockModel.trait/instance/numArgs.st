@@ -1,4 +1,6 @@
 accessing
 numArgs
 
-	^ 0
+	^ self selector isUnary
+		ifTrue: [0]
+		ifFalse: [self selector keywords size]

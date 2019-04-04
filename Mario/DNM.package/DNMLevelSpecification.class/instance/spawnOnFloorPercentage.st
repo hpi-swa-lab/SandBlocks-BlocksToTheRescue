@@ -1,0 +1,3 @@
+accessing
+spawnOnFloorPercentage
+	^spawnOnFloorPercentage
