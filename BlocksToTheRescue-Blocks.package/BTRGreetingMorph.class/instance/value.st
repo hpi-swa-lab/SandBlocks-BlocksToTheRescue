@@ -1,5 +1,5 @@
 as yet unclassified
 value 
 
-	Transcript showln: self greeting.
+	UIManager default inform: self greeting.
 	^ self color

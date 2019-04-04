@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:55",
+	"instvars" : [
+		"actionByKeySymbol" ],
+	"name" : "DNMAbilityStrategyKeyboardControlled",
+	"pools" : [
+		 ],
+	"super" : "DNMAbilityStrategy",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "DNM-Behaviour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JB 1/31/2018 15:46",
+	"instvars" : [
+		"direction" ],
+	"name" : "DNMMovementStrategyOneDirection",
+	"pools" : [
+		 ],
+	"super" : "DNMMovementStrategy",
+	"type" : "normal" }

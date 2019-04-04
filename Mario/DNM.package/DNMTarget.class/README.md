@@ -1,0 +1,1 @@
+A DNMTarget is aGameElement that will inform its owningGameWorld if another object collides with it.

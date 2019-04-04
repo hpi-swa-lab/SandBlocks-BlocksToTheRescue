@@ -1,0 +1,24 @@
+{
+	"category" : "DNM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/30/2018 17:54",
+	"instvars" : [
+		"width",
+		"grounds",
+		"platforms",
+		"enemies",
+		"items",
+		"chasmProbabilityPercentage",
+		"chasmWidth",
+		"maxPlatformLength",
+		"platformDistance",
+		"spawnOnFloorPercentage",
+		"spawnOnPlatformPercentage" ],
+	"name" : "DNMLevelSpecification",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

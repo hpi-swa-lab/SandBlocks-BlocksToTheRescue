@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"resetSingleton" : "BD 1/29/2018 15:05",
+		"singleton" : "BD 1/29/2018 14:50" },
+	"instance" : {
+		"catState" : "Lars 2/2/2018 12:23",
+		"create:for:" : "BD 2/2/2018 11:43",
+		"fireballProjectileState" : "Lars 1/31/2018 16:48",
+		"gumbaState" : "BD 1/29/2018 14:51",
+		"initialize" : "Lars 2/2/2018 12:25",
+		"marioGodState" : "BD 1/29/2018 14:51",
+		"marioState" : "Lars 1/31/2018 13:32",
+		"squashedGumbaState" : "BD 1/29/2018 14:51",
+		"turtleInsideState" : "BD 1/29/2018 14:51",
+		"turtleOutsideState" : "BD 2/2/2018 11:38",
+		"turtleProjectileState" : "Lars 1/31/2018 16:35" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "DNM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Lars 1/29/2018 13:30",
+	"instvars" : [
+		"scoreText",
+		"gameResultText",
+		"healthBar",
+		"scoreModel" ],
+	"name" : "DNMUI",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collisionWith:" : "BD 1/15/2018 16:13",
+		"decreaseHealthByOneUnit" : "Lars 1/31/2018 14:19",
+		"health" : "BD 12/30/2017 15:19",
+		"health:" : "BD 12/30/2017 15:20",
+		"healthModel" : "BD 12/30/2017 15:22",
+		"initialize" : "Lars 2/2/2018 13:11",
+		"isAlive" : "BD 12/30/2017 15:20",
+		"removeFromWorld" : "Lars 1/14/2018 20:57",
+		"score" : "BD 12/30/2017 15:19",
+		"score:" : "BD 12/30/2017 15:20",
+		"scoreModel" : "BD 12/30/2017 15:22" } }
