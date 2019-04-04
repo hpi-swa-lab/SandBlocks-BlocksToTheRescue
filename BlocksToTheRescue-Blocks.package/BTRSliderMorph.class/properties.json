@@ -6,9 +6,14 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"sliderRow",
 		"slider",
 		"expandButton",
-		"collapseButton" ],
+		"collapseButton",
+		"expandRow",
+		"minTextField",
+		"maxTextField",
+		"quantumTextField" ],
 	"name" : "BTRSliderMorph",
 	"pools" : [
 		 ],
