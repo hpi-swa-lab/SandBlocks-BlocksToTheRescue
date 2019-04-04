@@ -2,7 +2,7 @@ instance-creation
 turtleInsideState
 	 ^DNMMovingGameElementState new
 		movementStrategy: DNMMovementStrategyNone new;
-		onEnterBlock: [:me | me addAlarm: #onTimer after: 5000.];
+		onEnterBlock: [:me | me addAlarm: #onTimer after: 5000];
 		onTimerBlock: [:me | me representedObject changeToState: #turtleOutsideState];
 		onCollisionBlock: [:anObject :me | 
 			(anObject isNeitherAboveOrBelow: (me representedObject))
