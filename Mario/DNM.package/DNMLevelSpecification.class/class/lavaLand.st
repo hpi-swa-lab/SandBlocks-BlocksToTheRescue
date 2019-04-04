@@ -1,5 +1,6 @@
 accessing
 lavaLand
+
 	^self new
 		maxPlatformLength: 3;
 		platformDistance: 150;
@@ -8,4 +9,5 @@ lavaLand
 		grounds: {#rockyBlock . #lavaBlock . #lavaBlock};
 		platforms: {#rockyPlatform};
 		enemies: {#gumba . #turtle};
-		items: {#coin . #coin . #diamond . #fireFlower .}
+		items: {#coin . #coin . #diamond . #fireFlower};
+		yourself

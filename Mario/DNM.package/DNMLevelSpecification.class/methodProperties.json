@@ -1,14 +1,13 @@
 {
 	"class" : {
-		"default" : "BD 1/15/2018 18:37",
-		"lavaLand" : "Lars 1/31/2018 14:52",
-		"turtleLand" : "BD 2/5/2018 14:12" },
+		"default" : "BD 4/4/2019 11:19",
+		"lavaLand" : "BD 4/4/2019 11:19",
+		"turtleLand" : "BD 4/4/2019 11:19" },
 	"instance" : {
 		"enemies" : "Lars 1/15/2018 16:41",
 		"enemies:" : "Lars 1/15/2018 16:42",
 		"grounds" : "Lars 12/29/2017 15:46",
 		"grounds:" : "Lars 1/15/2018 16:42",
-		"initialize" : "BD 2/8/2018 14:57",
 		"items" : "Lars 1/15/2018 16:42",
 		"items:" : "Lars 1/15/2018 16:42",
 		"maxPlatformLength" : "Lars 1/15/2018 16:42",
