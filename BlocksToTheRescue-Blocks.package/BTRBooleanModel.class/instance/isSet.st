@@ -1,0 +1,4 @@
+testing
+isSet
+
+	^ self value

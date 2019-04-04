@@ -1,0 +1,16 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gameObjects",
+		"mario",
+		"background" ],
+	"name" : "BMGameWorld",
+	"pools" : [
+		 ],
+	"super" : "TransformMorph",
+	"type" : "normal" }

@@ -1,6 +1,7 @@
-initialization
+initialize-release
 initialize
-	self
+
+	self 
 		width: 20000;
 		maxPlatformLength: 5;
 		platformDistance: 100;
@@ -9,4 +10,4 @@ initialize
 		grounds: {#groundBlock};
 		platforms: {#leafyPlatform};
 		enemies: {#gumba . #gumba . #turtle . #cat};
-		items: {#coin . #coin . #coin . #diamond . #fireFlower . #fireFlower . #fireBlock . #mushroom . #heart}.
+		items: {#coin . #coin . #coin . #diamond . #fireFlower . #fireFlower . #fireBlock . #mushroom . #heart}

@@ -1,5 +1,6 @@
 accessing
 newOfType: aType
-	^(self new)
+
+	^ self new
 		type: aType;
 		yourself

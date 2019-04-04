@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"open" : "BD 4/4/2019 12:33" },
+	"instance" : {
+		"applyGravity" : "BD 4/4/2019 12:42",
+		"background" : "BD 4/4/2019 12:08",
+		"background:" : "BD 4/4/2019 12:08",
+		"gameObjects" : "BD 4/4/2019 12:08",
+		"gameObjects:" : "BD 4/4/2019 12:08",
+		"gravity" : "BD 4/4/2019 12:42",
+		"initialize" : "BD 4/4/2019 12:38",
+		"initializeBackground" : "BD 4/4/2019 12:12",
+		"initializeGround" : "BD 4/4/2019 12:26",
+		"initializeMario" : "BD 4/4/2019 12:39",
+		"mario" : "BD 4/4/2019 12:08",
+		"mario:" : "BD 4/4/2019 12:08",
+		"step" : "BD 4/4/2019 12:36",
+		"stepTime" : "BD 4/4/2019 12:36" } }

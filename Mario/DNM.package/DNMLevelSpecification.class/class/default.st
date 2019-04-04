@@ -1,3 +1,4 @@
 accessing
 default
-	^self new
+
+	^ self new

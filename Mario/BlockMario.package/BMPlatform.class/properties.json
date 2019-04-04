@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position" ],
+	"name" : "BMPlatform",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }
