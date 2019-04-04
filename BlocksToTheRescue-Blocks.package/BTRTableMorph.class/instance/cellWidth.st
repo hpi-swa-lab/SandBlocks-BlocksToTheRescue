@@ -1,4 +1,0 @@
-initialization
-cellWidth
-
-	^ 50

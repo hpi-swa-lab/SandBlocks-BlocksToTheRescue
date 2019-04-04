@@ -1,4 +1,0 @@
-initialization
-cellHeight
-
-	^ 50
