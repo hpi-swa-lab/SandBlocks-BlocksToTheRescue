@@ -1,4 +1,4 @@
 slider
 maximumValue
 
-	^ self minimumValue + 100
+	^ self minimumValue + self defaultRange

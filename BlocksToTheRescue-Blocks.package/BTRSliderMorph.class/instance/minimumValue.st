@@ -2,7 +2,7 @@ slider
 minimumValue
 	
 	| min |
-	min := self contents truncateTo: 100.
+	min := self contents truncateTo: self defaultRange.
 	min <= self contents
 		ifTrue: [^ min]
-		ifFalse: [^ min - 100]
+		ifFalse: [^ min - self defaultRange]
