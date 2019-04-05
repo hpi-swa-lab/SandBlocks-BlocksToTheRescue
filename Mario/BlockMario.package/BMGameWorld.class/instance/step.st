@@ -1,4 +1,6 @@
-as yet unclassified
+stepping and presenter
 step
-
-	self applyGravity.
+	
+	self 
+		handleCollisions;
+		drawGameObjects

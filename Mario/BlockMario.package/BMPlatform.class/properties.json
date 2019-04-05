@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"position" ],
+		 ],
 	"name" : "BMPlatform",
 	"pools" : [
 		 ],
-	"super" : "ImageMorph",
+	"super" : "BMStaticGameElement",
 	"type" : "normal" }

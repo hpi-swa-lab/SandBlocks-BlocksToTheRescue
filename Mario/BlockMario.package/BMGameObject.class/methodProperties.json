@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"boundingBox" : "BD 4/4/2019 15:15",
+		"collideWith:" : "BD 4/4/2019 15:18",
+		"collideWithMario:" : "BD 4/4/2019 15:20",
+		"collideWithPlatform:" : "BD 4/4/2019 15:20",
+		"collidesWith:" : "BD 4/4/2019 15:16",
+		"defaultForm" : "BD 4/4/2019 14:24",
+		"initialize" : "BD 4/4/2019 15:22",
+		"initializeStyle" : "BD 4/4/2019 14:23",
+		"moveWithGravity:" : "BD 4/4/2019 15:36",
+		"relativePosition" : "BD 4/4/2019 15:04",
+		"relativePosition:" : "BD 4/4/2019 15:04",
+		"state" : "BD 4/4/2019 14:20",
+		"state:" : "BD 4/4/2019 14:20",
+		"velocity" : "BD 4/4/2019 15:22",
+		"velocity:" : "BD 4/4/2019 15:22",
+		"wantsGravity" : "BD 4/4/2019 14:36" } }
