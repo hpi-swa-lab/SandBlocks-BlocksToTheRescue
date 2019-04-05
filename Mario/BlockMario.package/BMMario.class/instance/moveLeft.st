@@ -1,4 +1,4 @@
 movement
 moveLeft
 	
-	^ self velocity: self velocity + self defaultHorizontalMovement.
+	self velocity: self velocity + self defaultHorizontalMovement.

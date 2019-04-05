@@ -2,5 +2,5 @@ actions
 accept
 
 	self dependents do: [:each | each hasUnacceptedEdits ifTrue: [each accept]].
-	self hasUnacceptedEdits 
-		ifTrue: [self basicAccept].
+	"If the unaccepted edits have not been resolved by any dependents"
+	self hasUnacceptedEdits ifTrue: [self basicAccept].

@@ -1,4 +1,4 @@
 movement
 down
 
-	^ self velocity: self velocity + self defaultVerticalMovement
+	self velocity: self velocity + self defaultVerticalMovement

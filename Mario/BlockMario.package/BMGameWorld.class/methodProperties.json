@@ -2,7 +2,7 @@
 	"class" : {
 		"open" : "BD 4/4/2019 14:58" },
 	"instance" : {
-		"addGameObject:" : "WoC 4/5/2019 11:03",
+		"addGameObject:" : "BD 4/5/2019 12:02",
 		"allGameObjects" : "BD 4/4/2019 15:02",
 		"background" : "BD 4/4/2019 12:08",
 		"background:" : "BD 4/4/2019 12:08",
@@ -14,9 +14,10 @@
 		"gravity" : "BD 4/4/2019 16:02",
 		"handleCollisions" : "WoC 4/5/2019 10:09",
 		"handlesKeyboard:" : "BD 4/4/2019 15:42",
-		"initialize" : "WoC 4/5/2019 10:53",
+		"initialize" : "BD 4/5/2019 11:54",
 		"initializeBackground" : "BD 4/4/2019 12:12",
 		"initializeGround" : "WoC 4/5/2019 11:01",
+		"initializeGumbas" : "BD 4/5/2019 11:55",
 		"initializeMario" : "WoC 4/5/2019 10:57",
 		"initializePlatforms" : "BD 4/4/2019 16:21",
 		"initializeStyle" : "BD 4/4/2019 14:26",

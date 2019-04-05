@@ -12,5 +12,6 @@ initialize
 		initializeGround;
 		initializePlatforms;
 		initializeMario;
+		initializeGumbas;
 		startStepping.
 	
