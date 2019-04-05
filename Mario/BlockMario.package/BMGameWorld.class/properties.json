@@ -8,7 +8,8 @@
 	"instvars" : [
 		"gameObjects",
 		"mario",
-		"background" ],
+		"background",
+		"converter" ],
 	"name" : "BMGameWorld",
 	"pools" : [
 		 ],

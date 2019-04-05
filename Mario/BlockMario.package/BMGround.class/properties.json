@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMGround",
+	"pools" : [
+		 ],
+	"super" : "BMStaticGameElement",
+	"type" : "normal" }

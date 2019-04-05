@@ -1,0 +1,16 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state",
+		"relativePosition",
+		"velocity" ],
+	"name" : "BMGameObject",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

@@ -1,6 +1,5 @@
 insertion
 previewIcon
 
-	^ (Smalltalk 
-		at: #BTRIcons 
-		ifPresent: [:icons | icons defaultMorphIcon]) ifNil: [ToolIcons morph]
+	^ (Smalltalk at: #BTRIcons ifPresent: #defaultMorphIcon) 
+		ifNil: [ToolIcons morph]

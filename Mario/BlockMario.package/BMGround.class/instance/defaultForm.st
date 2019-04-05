@@ -1,9 +1,7 @@
 as yet unclassified
-initialize
+defaultForm
 
-	super initialize.
-	self
-		newForm: #V2;BTRImageModel;24E1;Constant1;Form;24CC;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!!S!!!"0#R18/!6")2>6"XCbXk2g<-Va2>5(s#=a&@\YVhlsA;-.8
+	^ #V2;BTRImageModel;24E1;Constant1;Form;24CC;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!!S!!!"0#R18/!6")2>6"XCbXk2g<-Va2>5(s#=a&@\YVhlsA;-.8
 UHG<AZVUWIPU2"(Ln$7ql@oMSJL34QJVJ'JaB9WN&e`?;_X,LJf<-^/mIIj2>IMSaqh*(u5CG`Y
 ^4&e/)NE?_9oZ/j2<rf^^&-WL^(V:P^W`:?/$f"p)Cljhr%<J.n'e5LV10:EYj=<'YP5[b]\`V!
 U*i#Mo](`+\U<u#bK/P:IhgeSm%<o'G!%^rhXcMca^'sMU\k&,o\0*oU3`/S*Rhdi?h9n,IT$"7
@@ -126,5 +124,4 @@ db[Zm>dRg.'6KH3Ch.Q]H[6i/d*3etg]]W&B6RT]E;g#!5poY_k868o["UD(B,:h0hM!jR-TG1o
 *VR+l-Ko7RiJVMbIM^]@SR!@:@SgH@:!hR[LlM:;-kg]$o1/M.2*pt;MR&<jkiN>1$Z1L`m6DH6
 "Pru@(>&cG]Kd7d"Pqg`/>*;1]0I.k"PpFj+:E.?DTZ9i@3JCm:"p[;?[rf3[W@G7g'S4)Jo5nk
 *o]MYTTb.GIej_"5Q(o"TATiXRa4R<)CVp"im0eS2g:4uFu87pp"lVCb,F6k_rIm4C:D_c*@j2o
-IWRX7:RRlFSGW*d^g(YSrneQoq<8E]rI8&O!VfGMpWY&CdJs7I!(fUS7'8jaJc~>;;;
-		position: #V2;BTRNumberModel;1F;Constant1;SmallFloat64;5;1;0.0;; @ #V2;BTRNumberModel;1D;Constant1;SmallInteger;3;1;0;;.
+IWRX7:RRlFSGW*d^g(YSrneQoq<8E]rI8&O!VfGMpWY&CdJs7I!(fUS7'8jaJc~>;;

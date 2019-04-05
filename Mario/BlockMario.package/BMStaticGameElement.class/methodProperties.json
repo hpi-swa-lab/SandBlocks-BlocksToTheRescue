@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collideWith:" : "BD 4/4/2019 16:15",
+		"collideWithMario:" : "BD 4/4/2019 16:15",
+		"collideWithPlatform" : "BD 4/4/2019 16:22",
+		"collideWithPlatform:" : "BD 4/4/2019 16:23",
+		"wantsGravity" : "BD 4/4/2019 16:15" } }
