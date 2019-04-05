@@ -1,4 +1,4 @@
-as yet unclassified
+event handling
 handlesKeyboard: evt
 
-	^ evt isKeyDown
+	^ evt isKeyDown or: [evt isKeyUp]

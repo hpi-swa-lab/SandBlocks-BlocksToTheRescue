@@ -10,7 +10,8 @@
 		"mario",
 		"background",
 		"converter",
-		"physics" ],
+		"physics",
+		"keyboardListener" ],
 	"name" : "BMGameWorld",
 	"pools" : [
 		 ],
