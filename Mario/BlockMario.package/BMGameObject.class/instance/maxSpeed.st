@@ -1,4 +1,4 @@
 as yet unclassified
 maxSpeed
 
-	^ 50 @ 50
+	^ 9 @ 60
