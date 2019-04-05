@@ -2,6 +2,6 @@ as yet unclassified
 addGameObject: aBMGameObject
 
 	self gameObjects add: aBMGameObject.
-	aBMGameObject wantsGravity
+	aBMGameObject isPlayable
 		ifTrue: [self physics addMovingObject: aBMGameObject]
 		ifFalse: [self physics addObject: aBMGameObject]
