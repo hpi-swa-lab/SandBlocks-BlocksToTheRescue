@@ -1,9 +1,9 @@
 as yet unclassified
-handleInput: aSymbol
+handleInput: aSymbol inWorld: aBMGameWorld
 
 	aSymbol caseOf: {
 		[#left] -> [self moveRight].
 		[#right] -> [self moveLeft].
-		[#up] -> [self jump].
+		[#up] -> [(aBMGameWorld physics isStandingOnSomething: self) ifTrue: [self jump]].
 		[#down] -> [self down]
 	} otherwise: [].
