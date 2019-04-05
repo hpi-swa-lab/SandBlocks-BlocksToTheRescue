@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"targetStateSelector",
+		"guards" ],
+	"name" : "BTRStateTransition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

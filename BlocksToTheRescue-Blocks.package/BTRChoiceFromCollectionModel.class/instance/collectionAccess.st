@@ -1,3 +1,3 @@
 accessing
 collectionAccess
-	^ collectionAccess
+	^ collectionAccess ifNil: [self collectionAccess: {}]

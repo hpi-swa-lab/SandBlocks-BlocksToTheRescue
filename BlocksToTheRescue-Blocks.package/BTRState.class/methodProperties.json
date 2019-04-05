@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"named:" : "ms 4/5/2019 10:55" },
+	"instance" : {
+		"=" : "ms 4/5/2019 11:56",
+		"addTransition:to:" : "ms 4/5/2019 12:13",
+		"enter" : "ms 4/5/2019 11:10",
+		"hasTransitionNamed:" : "ms 4/5/2019 12:16",
+		"hash" : "ms 4/5/2019 11:57",
+		"initialize" : "ms 4/5/2019 11:47",
+		"leave" : "ms 4/5/2019 11:10",
+		"name" : "ms 4/5/2019 10:47",
+		"name:" : "ms 4/5/2019 10:55",
+		"onEnterDo" : "ms 4/5/2019 11:08",
+		"onEnterDo:" : "ms 4/5/2019 11:08",
+		"onLeaveDo" : "ms 4/5/2019 11:08",
+		"onLeaveDo:" : "ms 4/5/2019 11:08",
+		"printOn:" : "ms 4/5/2019 12:00",
+		"transitions" : "ms 4/5/2019 11:28",
+		"transitions:" : "ms 4/5/2019 11:28" } }
