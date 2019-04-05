@@ -7,4 +7,4 @@ editorView
 		selected: #index
 		changeSelected: #index:
 		menu: nil
-		keystroke: #keyStroke:
+		keystroke: #keyStroke:fromEditor:
