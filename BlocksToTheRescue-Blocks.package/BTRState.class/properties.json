@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"onEnterDo",
+		"onLeaveDo",
+		"transitions" ],
+	"name" : "BTRState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
