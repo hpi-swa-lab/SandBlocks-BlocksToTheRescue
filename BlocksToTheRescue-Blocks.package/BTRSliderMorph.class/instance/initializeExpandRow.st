@@ -13,5 +13,5 @@ initializeExpandRow
 		addMorphBack: self minTextField;
 		addMorphBack: (StringMorph contents: 'max:' translated);
 		addMorphBack: self maxTextField;
-		addMorphBack: (StringMorph contents: 'quantum:' translated);
+		addMorphBack: (StringMorph contents: 'step:' translated);
 		addMorphBack: self quantumTextField.

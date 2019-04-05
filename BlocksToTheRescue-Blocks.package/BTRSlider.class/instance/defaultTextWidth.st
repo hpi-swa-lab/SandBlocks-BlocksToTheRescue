@@ -1,0 +1,4 @@
+initialization
+defaultTextWidth
+
+	^ 30
