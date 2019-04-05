@@ -4,10 +4,10 @@
 	"instance" : {
 		"defaultBounds" : "ee 4/3/2019 09:50",
 		"defaultTextWidth" : "ee 4/5/2019 10:39",
-		"initialize" : "ee 4/5/2019 10:20",
-		"initializeValueTextField" : "ee 4/5/2019 10:40",
+		"initialize" : "ee 4/5/2019 11:29",
+		"initializeValueTextField" : "ee 4/5/2019 11:31",
 		"on:getValue:setValue:min:max:quantum:" : "ee 4/4/2019 10:50",
-		"updateValueTextField" : "ee 4/5/2019 10:19",
+		"updateValueTextField" : "ee 4/5/2019 11:31",
 		"value:" : "ee 4/5/2019 10:20",
 		"valueExpression" : "ee 4/5/2019 09:50",
 		"valueExpression:" : "ee 4/5/2019 09:50",

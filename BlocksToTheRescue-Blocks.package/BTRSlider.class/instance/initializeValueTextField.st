@@ -11,9 +11,8 @@ initializeValueTextField
 		hResizing: #spaceFill;
 		vResizing: #spaceFill;
 		height: self height;
-		width: self defaultTextWidth;
+		"width: self defaultTextWidth;"
 		color: Color transparent;
 		borderColor: Color transparent.
-	"self textMorph text addAttribute: TextAlignment centered."
 	self addMorphBack: self valueTextField.
 	self valueTextField center: self center.
