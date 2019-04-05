@@ -5,7 +5,6 @@ initialize
 	self
 		stopStepping;
 		gameObjects: OrderedCollection new;
-		converter: DNMKeycodeConverter new;
 		keyboardListener: DNMKeyboardListener new;
 		physics: (DNMPhysics new gameWorld: self);
 		initializeStyle;

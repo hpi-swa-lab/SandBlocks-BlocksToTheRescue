@@ -9,7 +9,6 @@
 		"gameObjects",
 		"mario",
 		"background",
-		"converter",
 		"physics",
 		"keyboardListener" ],
 	"name" : "BMGameWorld",

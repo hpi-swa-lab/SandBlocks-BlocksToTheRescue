@@ -1,4 +1,4 @@
 testing
-wantsGravity
+isNPC
 
 	^ true

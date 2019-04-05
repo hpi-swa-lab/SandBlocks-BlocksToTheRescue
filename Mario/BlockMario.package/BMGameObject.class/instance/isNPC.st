@@ -1,4 +1,4 @@
 testing
-isPlayable
+isNPC
 
 	^ false
