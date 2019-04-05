@@ -3,8 +3,8 @@
 		 },
 	"instance" : {
 		"collideWith:" : "BD 4/4/2019 16:15",
-		"collideWithMario:" : "BD 4/4/2019 16:15",
-		"collideWithPlatform" : "BD 4/4/2019 16:22",
+		"collideWithGumba:" : "BD 4/5/2019 11:56",
+		"collideWithMario:" : "BD 4/5/2019 11:57",
 		"collideWithPlatform:" : "BD 4/4/2019 16:23",
 		"collisionWith:" : "WoC 4/5/2019 11:11",
 		"wantsGravity" : "BD 4/4/2019 16:15" } }
