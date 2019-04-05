@@ -1,4 +1,0 @@
-accessing
-inscriptionMorph
-
-	^ inscriptionMorph

@@ -9,7 +9,8 @@
 		"gameObjects",
 		"mario",
 		"background",
-		"converter" ],
+		"converter",
+		"physics" ],
 	"name" : "BMGameWorld",
 	"pools" : [
 		 ],

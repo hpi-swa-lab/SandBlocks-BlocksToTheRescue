@@ -1,6 +1,6 @@
 stepping and presenter
 step
 	
-	self 
-		handleCollisions;
-		drawGameObjects
+	self physics updateMovingObjects.
+	self updateOffset.
+	self drawGameObjects

@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 jump
 
-	self velocity: self velocity + self defaultVerticalMovement.
+	self velocity: self velocity - self defaultVerticalMovement.
