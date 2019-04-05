@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state",
+		"transition" ],
+	"name" : "BTRInvalidStateMachineException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }
