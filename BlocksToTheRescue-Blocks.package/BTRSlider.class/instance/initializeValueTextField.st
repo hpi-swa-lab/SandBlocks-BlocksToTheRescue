@@ -1,0 +1,19 @@
+initialization
+initializeValueTextField
+
+	| builder |
+	builder := ToolBuilder default.
+	valueTextField := (builder build: (builder pluggableInputFieldSpec new
+		model: self;
+		getText: #valueExpression;
+		setText: #valueExpression:)).
+	self valueTextField
+		hResizing: #spaceFill;
+		vResizing: #spaceFill;
+		height: self height;
+		width: self defaultTextWidth;
+		color: Color transparent;
+		borderColor: Color transparent.
+	"self textMorph text addAttribute: TextAlignment centered."
+	self addMorphBack: self valueTextField.
+	self valueTextField center: self center.

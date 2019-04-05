@@ -8,6 +8,3 @@ initializeSlider
 		min: self minimumValue
 		max: self maximumValue
 		quantum: self quantum).
-	"self slider
-		hResizing: #spaceFill;
-		vResizing: #spaceFill."
