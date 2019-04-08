@@ -6,7 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"blockModel",
+		"methodClass",
+		"sourcePointer",
+		"selector",
+		"parameterNames",
+		"properties" ],
 	"name" : "BTRBlockMethod",
 	"pools" : [
 		 ],

@@ -1,4 +1,0 @@
-insertion
-displayName
-
-	^ self name

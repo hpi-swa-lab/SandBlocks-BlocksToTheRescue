@@ -1,4 +1,4 @@
 accessing
 blockModelClass
 
-	^ BTRAbstractBlockModel
+	^ BTRMockModel

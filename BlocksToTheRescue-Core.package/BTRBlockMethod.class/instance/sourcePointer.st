@@ -1,4 +1,4 @@
 accessing
 sourcePointer
 
-	^ self btrProperties at: #sourcePointer ifAbsent: [0]
+	^ sourcePointer ifNil: [0]

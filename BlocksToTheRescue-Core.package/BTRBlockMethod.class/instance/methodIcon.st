@@ -1,4 +1,4 @@
 views
 methodIcon
 
-	^ self class previewIcon
+	^ self blockModel class previewIcon

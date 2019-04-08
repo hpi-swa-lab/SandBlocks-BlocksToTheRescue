@@ -1,5 +1,5 @@
-interface-accessing
+as yet unclassified
 postCopy
 
-	self btrProperties: self btrProperties copy.
+	self blockModel: self blockModel copy.
 	^ super postCopy

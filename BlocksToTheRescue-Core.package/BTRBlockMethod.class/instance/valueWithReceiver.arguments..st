@@ -6,4 +6,4 @@ valueWithReceiver: anObject arguments: anArrayOfObjects
 			sender: thisContext sender;
 			arguments: anArrayOfObjects;
 			tempNames: self parameterNames.
-	^ self valueInContext: parameterContext
+	^ self blockModel valueInContext: parameterContext

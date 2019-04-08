@@ -1,4 +1,9 @@
 evaluating
 run: aSelector with: anArrayOfObjects in: aReceiver
 
-	^ self valueWithReceiver: aReceiver arguments: anArrayOfObjects
+	| context |
+	context := BTRParameterContext new
+		sender: thisContext sender;
+		arguments: anArrayOfObjects;
+		tempNames: self parameterNames.
+	^ self blockModel valueInContext: context

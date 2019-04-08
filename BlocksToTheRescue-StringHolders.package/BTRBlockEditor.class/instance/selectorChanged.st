@@ -1,4 +1,4 @@
 as yet unclassified
 selectorChanged
 
-	self model setSelector: self content selector.
+	self model setSelector: self blockMethod selector.

@@ -1,0 +1,4 @@
+compliance
+writesField: instVarIndex
+
+	^ false

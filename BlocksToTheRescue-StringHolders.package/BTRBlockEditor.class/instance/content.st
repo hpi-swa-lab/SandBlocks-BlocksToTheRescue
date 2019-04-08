@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 content
 
-	^ content
+	^ self blockMethod ifNotNil: [self blockMethod blockModel]

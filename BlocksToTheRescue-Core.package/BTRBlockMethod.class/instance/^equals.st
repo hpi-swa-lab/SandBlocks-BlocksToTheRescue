@@ -1,7 +1,7 @@
-interface-accessing
-= other
+as yet unclassified
+= anotherObject
 	
-	"Please override and call super in users"
-	^ other class = self class 
-		and: [self selector = other selector]
-		and: [self methodClass = other methodClass]
+	"Please override and call super in subclasses"
+	^ anotherObject class = self class 
+		and: [self selector = anotherObject selector]
+		and: [self methodClass = anotherObject methodClass]

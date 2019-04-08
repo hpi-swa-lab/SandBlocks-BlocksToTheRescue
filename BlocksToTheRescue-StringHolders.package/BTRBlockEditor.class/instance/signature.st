@@ -1,6 +1,6 @@
 as yet unclassified
 signature
 
-	^ self content 
-		ifNotNil: [:content | content signature]
+	^ self blockMethod 
+		ifNotNil: [self blockMethod signature]
 		ifNil: [':No method selected']

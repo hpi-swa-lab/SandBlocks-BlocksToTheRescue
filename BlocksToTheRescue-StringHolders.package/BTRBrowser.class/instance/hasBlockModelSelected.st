@@ -1,4 +1,4 @@
 block methods
 hasBlockModelSelected
 
-	^ self hasMessageSelected 	and: [self method isBTRBlockModel]
+	^ self hasMessageSelected 	and: [self method isBTRBlockMethod]

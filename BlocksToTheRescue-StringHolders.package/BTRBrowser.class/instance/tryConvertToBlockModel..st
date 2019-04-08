@@ -1,6 +1,6 @@
 block methods
-tryConvertToBlockModel: aCompiledMethod
-
-	aCompiledMethod isBTRBlockModel ifTrue: [^ aCompiledMethod].
-
-	^ self askForBlockModel
+tryConvertToBlockModel: aMethod
+	
+	^ aMethod isBTRBlockMethod
+		ifTrue: [aMethod blockModel]
+		ifFalse: [self askForBlockModel]

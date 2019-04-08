@@ -1,4 +1,0 @@
-insertion
-previewInstance
-
-	^ self new

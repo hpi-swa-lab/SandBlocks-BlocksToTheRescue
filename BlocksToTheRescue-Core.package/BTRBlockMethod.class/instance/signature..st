@@ -1,8 +1,11 @@
 accessing
 signature: aString
-		
-	| pattern |
-	pattern := (RBParser new initializeParserWith: aString asString) parseMessagePattern.
-	self graph 
-		selector: pattern selector asSymbol; flag: #TODO "what happens when selector changes?";
-		parameterNames: (pattern arguments collect: [:each | each name])
+
+	| ranges |
+	self selector: (Parser new parseSelector: aString).
+	ranges := SHParserST80 new
+		parseAMethod: true;
+		rangesIn: aString classOrMetaClass: self methodClass workspace: nil environment: nil.
+	self parameterNames: (ranges
+		select: [:each | each type = #patternArg]
+		thenCollect: [:range | aString copyFrom: range start to: range end]).
