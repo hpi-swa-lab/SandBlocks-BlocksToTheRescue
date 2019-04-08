@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"askForBlockModel" : "ms 4/2/2019 16:29",
+		"askForBlockModel" : "BD 4/8/2019 16:35",
 		"blockEditorSymbol" : "BD 3/25/2019 14:12",
 		"blockModel" : "BD 4/8/2019 11:24",
 		"buildCodePaneWith:" : "LB 3/6/2019 15:38",
@@ -13,18 +13,18 @@
 		"codeTextSpec" : "ms 3/22/2019 10:54",
 		"contentsChanged" : "BD 3/28/2019 14:40",
 		"contentsSymbolQuints" : "LM 3/26/2019 11:48",
-		"couldBecomeBlockModel" : "LM 3/26/2019 11:36",
-		"ensureBlockMethodIfCanceled:" : "LM 3/26/2019 16:42",
+		"couldBecomeBlockMethod" : "BD 4/8/2019 15:58",
+		"ensureBlockMethodIfCanceled:" : "BD 4/8/2019 16:05",
 		"hasBlockModelSelected" : "BD 4/8/2019 11:30",
 		"install:" : "LB 3/11/2019 10:34",
 		"installBlockEditor" : "LM 3/27/2019 16:05",
 		"installTextualCodingPane" : "LB 3/6/2019 15:46",
 		"isShowingBlockEditor" : "BD 3/25/2019 14:13",
 		"method" : "LB 3/7/2019 16:06",
-		"optionalContentsSymbolQuints" : "LM 3/26/2019 13:24",
+		"optionalContentsSymbolQuints" : "BD 4/8/2019 15:58",
 		"restoreTextualCodingPane" : "LB 3/6/2019 15:23",
 		"setDefaultContents" : "LB 3/6/2019 16:10",
 		"showingBlockEditorString" : "BD 3/25/2019 14:14",
 		"showingConvertToBlockString" : "LM 3/26/2019 11:53",
 		"toggleBlockEditor" : "LM 3/26/2019 12:03",
-		"tryConvertToBlockModel:" : "BD 4/8/2019 11:31" } }
+		"tryConvertToBlockMethod:" : "BD 4/8/2019 16:04" } }

@@ -1,6 +1,6 @@
 block methods
-tryConvertToBlockModel: aMethod
+tryConvertToBlockMethod: aMethod
 	
 	^ aMethod isBTRBlockMethod
-		ifTrue: [aMethod blockModel]
+		ifTrue: [aMethod]
 		ifFalse: [self askForBlockModel]

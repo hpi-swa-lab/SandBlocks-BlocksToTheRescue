@@ -1,4 +1,4 @@
 block methods
-couldBecomeBlockModel
+couldBecomeBlockMethod
 
 	^ self hasMessageSelected and: [self hasBlockModelSelected not]
