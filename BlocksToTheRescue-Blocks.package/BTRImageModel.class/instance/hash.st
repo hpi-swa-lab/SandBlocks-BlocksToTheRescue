@@ -1,5 +1,5 @@
 comparing
 hash
 
-	^ self extent hash
+	^ self image extent hash
 		bitXor: self tallyPixelValues hash
