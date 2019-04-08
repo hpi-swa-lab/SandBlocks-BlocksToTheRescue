@@ -22,6 +22,6 @@
 		"removeObject:" : "Lars 11/26/2017 21:36",
 		"removeVelocityPortionsOf:inDirection:ifChanged:" : "Lars 1/23/2018 17:14",
 		"testIf:afterBeingTranslatedBy:intersectWith:" : "Lars 1/14/2018 10:23",
-		"updateMovingObjects" : "BD 2/2/2018 11:43",
+		"updateMovingObjects" : "WoC 4/5/2019 16:07",
 		"updateObject:withObjects:" : "Lars 1/23/2018 17:25",
 		"visibilityTolerance" : "Lars 1/14/2018 10:26" } }

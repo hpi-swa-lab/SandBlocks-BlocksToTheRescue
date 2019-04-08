@@ -1,5 +1,6 @@
 *BlocksToTheRescue-Core
-string: aString
+string: aStringOrText
 
-	string := aString asBTRText.
+	"Diffing is now done on Text, therefore we need to convert everything to text"
+	string := aStringOrText asText.
 	hash := string hash
