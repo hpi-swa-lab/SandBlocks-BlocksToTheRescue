@@ -1,4 +1,4 @@
 accessing
 startState
 
-	^ self stateNamed: self startStateSelector
+	^ self stateNamed: self startStateName

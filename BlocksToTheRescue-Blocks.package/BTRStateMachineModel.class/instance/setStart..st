@@ -1,4 +1,4 @@
 accessing
 setStart: aSymbol
 
-	self startStateSelector: aSymbol.
+	self startStateName: aSymbol.

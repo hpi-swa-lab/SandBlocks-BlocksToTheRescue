@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"states",
-		"startStateSelector" ],
+		"startStateName" ],
 	"name" : "BTRStateMachineModel",
 	"pools" : [
 		 ],
