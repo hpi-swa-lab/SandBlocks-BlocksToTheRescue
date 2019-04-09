@@ -2,4 +2,4 @@ event handling
 cmdActionMap
 
 	^ {$s -> #accept.
-	$l -> #cancel} asDictionary
+		$l -> #cancel} asDictionary

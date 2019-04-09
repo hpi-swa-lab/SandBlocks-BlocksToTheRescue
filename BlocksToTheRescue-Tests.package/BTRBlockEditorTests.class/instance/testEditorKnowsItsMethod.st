@@ -3,4 +3,4 @@ testEditorKnowsItsMethod
 
 	self 
 		assert: self method
-		equals: self editor content
+		equals: self editor blockMethod

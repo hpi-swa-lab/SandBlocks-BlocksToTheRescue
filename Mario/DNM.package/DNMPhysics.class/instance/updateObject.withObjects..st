@@ -1,5 +1,6 @@
 collision
 updateObject: aMovingObject withObjects: relevantObjects
+
 	self 
 		applyGravity: aMovingObject;
 		applyFriction: aMovingObject;

@@ -10,5 +10,5 @@
 	"name" : "BTRBlockEditorTests",
 	"pools" : [
 		 ],
-	"super" : "BTRConstantModelTests",
+	"super" : "BTRBlockMethodTests",
 	"type" : "normal" }

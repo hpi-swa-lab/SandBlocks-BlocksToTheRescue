@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMGumba",
+	"pools" : [
+		 ],
+	"super" : "BMGameObject",
+	"type" : "normal" }

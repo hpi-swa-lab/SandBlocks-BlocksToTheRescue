@@ -1,4 +1,4 @@
-as yet unclassified
+collision
 collideWith: aBMGameObject
 
-	self subclassResponsibility
+	aBMGameObject collideWithMario: self

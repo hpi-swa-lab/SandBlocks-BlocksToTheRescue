@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"states",
+		"startStateName" ],
+	"name" : "BTRStateMachineModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

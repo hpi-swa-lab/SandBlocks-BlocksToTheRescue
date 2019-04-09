@@ -7522,7 +7522,7 @@ ee?HaLK*p,lmIn>5l^?'FRVH?7o91`f$-Ph]l(oh;thO#=8G.rgPYKm3WB-Z;(2e?VpqmRf,nc-
 ,P8n2M&?^]QMIrMr#^I\ce8nuG26f5s7-BJT*bHXUBpf!r'qY"Igb0V]D6@la$95(RSG%\TPFGC
 Gi500*ZW?/43?_'C&N=TIP\*5V"Pl<bs5og0sWFsUCRE2=I-7#rkdj>SFQWY37ImoTkWEVRKWP6
 "$d9N#^=%N_LIa5MLtd,r#Gt=EimBMU&k&N8EH?%luW.)D)HITID5\FCT_ktm'U/Bz8OZBBY!QNJ~>;;);
-			delta: (#V2;BTRNumberModel;1F;Constant1;SmallFloat64;5;1;0.0;; @ #V2;BTRNumberModel;1D;Constant1;SmallInteger;3;1;0;;);
+			delta: (#V2;BTRNumberModel;53;N1;SmallFloat64;5;1;0.0;SmallInteger;3;1;0;SmallInteger;5;1;100;SmallInteger;3;1;1;; @ #V2;BTRNumberModel;51;N1;SmallInteger;3;1;0;SmallInteger;3;1;0;SmallInteger;5;1;100;SmallInteger;3;1;1;;);
 			width: self width;
 			height: self height);
 			yourself.

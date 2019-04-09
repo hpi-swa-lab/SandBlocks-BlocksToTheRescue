@@ -1,4 +1,4 @@
-as yet unclassified
+event handling
 keyDown: evt
 
-	self mario handleInput: (self converter keySymbolFor: evt keyValue).
+	self keyboardListener keyDown: evt keyValue

@@ -5,11 +5,14 @@ initialize
 	self
 		stopStepping;
 		gameObjects: OrderedCollection new;
-		converter: DNMKeycodeConverter new;
+		keyboardListener: DNMKeyboardListener new;
+		physics: BMPhysics new;
 		initializeStyle;
 		initializeBackground;
 		initializeGround;
 		initializePlatforms;
 		initializeMario;
+		initializeGumbas;
+		drawGameObjects;
 		startStepping.
 	

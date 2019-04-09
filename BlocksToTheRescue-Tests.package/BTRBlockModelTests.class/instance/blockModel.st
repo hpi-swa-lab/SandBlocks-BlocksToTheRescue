@@ -1,4 +1,0 @@
-accessing
-blockModel
-
-	^ self method

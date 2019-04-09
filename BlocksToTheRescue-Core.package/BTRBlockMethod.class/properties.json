@@ -1,0 +1,19 @@
+{
+	"category" : "BlocksToTheRescue-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blockModel",
+		"methodClass",
+		"sourcePointer",
+		"selector",
+		"parameterNames",
+		"properties" ],
+	"name" : "BTRBlockMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

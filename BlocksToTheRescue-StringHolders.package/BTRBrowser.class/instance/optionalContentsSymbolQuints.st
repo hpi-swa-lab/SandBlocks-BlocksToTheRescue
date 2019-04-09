@@ -7,7 +7,7 @@ optionalContentsSymbolQuints
 			. #showingBlockEditorString 
 			. 'block editor'
 			. 'this is a block and can be edited as such' translated}.
-	#couldBecomeBlockModel -> 
+	#couldBecomeBlockMethod -> 
 		{(self blockEditorSymbol,'optional') asSymbol
 			. #toggleBlockEditor
 			. #showingConvertToBlockString

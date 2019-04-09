@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 moveRight
 	
-	^ self velocity: self velocity + self defaultHorizontalMovement.
+	self velocity: self velocity - self defaultHorizontalMovement.

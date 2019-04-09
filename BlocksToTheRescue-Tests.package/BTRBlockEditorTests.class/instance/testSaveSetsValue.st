@@ -6,4 +6,4 @@ testSaveSetsValue
 	self editor accept.
 	self 
 		assert: self newValue
-		equals: self method value.
+		equals: self blockModel value.

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"exampleModel" : "ms 4/8/2019 16:38",
+		"setUp" : "ms 4/8/2019 15:51",
+		"testStartCallsEnter" : "ms 4/8/2019 16:23",
+		"testStartState" : "ms 4/8/2019 15:42",
+		"testTransitionCallsEnter" : "ms 4/8/2019 16:36",
+		"testTransitionCallsLeave" : "ms 4/8/2019 16:43",
+		"testTransitionChangesState" : "ms 4/8/2019 16:38",
+		"theMachine" : "ms 4/5/2019 10:06",
+		"theMachine:" : "ms 4/5/2019 10:06",
+		"wrapInNotifier:" : "ms 4/5/2019 10:34" } }

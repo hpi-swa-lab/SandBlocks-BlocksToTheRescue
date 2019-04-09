@@ -1,16 +1,25 @@
 collision handling
 handleCollisions
 	
-	| collidees collisionPairs |
+	| collidees collisionPairs gravity toBeMovedIndices allGameObjects |
 	collisionPairs := Set new.
-	collidees := self allGameObjects copy.
-	collidees do: [ :each | each wantsGravity ifTrue: [each moveWithGravity: self gravity]].
-	collidees do: [ :collider |
-		collidees do: [ :collidee |
-			(collider collidesWith: collidee)
-				ifTrue: [ collisionPairs add: (Set withAll: {collider . collidee})]]].
-			
+	allGameObjects := self allGameObjects.
+	collidees := allGameObjects veryDeepCopy.
+	gravity := self gravity.
+	toBeMovedIndices := OrderedCollection new.
+	
+	collidees doWithIndex: [ :collider :outerIndex | | hasCollided |
+		hasCollided := false.
+		collidees doWithIndex: [ :collidee :innerIndex |
+			(collider collidesWith: collidee underGravity: gravity)
+				ifTrue: [ hasCollided := true. 
+						 collisionPairs add: (Set withAll: {innerIndex . outerIndex})]].
+		hasCollided 
+			ifFalse: [toBeMovedIndices add: outerIndex]].
+	
+	toBeMovedIndices do: [:each | (allGameObjects at: each) moveWithGravity: gravity].
+	
 	collisionPairs do: [ :each |
 		| collisionPair |
-		collisionPair := each asArray.
+		collisionPair := allGameObjects atAll: each asArray.
 		collisionPair first collideWith: collisionPair second].

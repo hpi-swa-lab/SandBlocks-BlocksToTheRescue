@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeStyle
 
 	self newForm: self defaultForm

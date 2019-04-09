@@ -1,4 +1,4 @@
-as yet unclassified
+collision
 collideWith: aBMGameObject
 
-	aBMGameObject collideWithMario: self.
+	aBMGameObject collideWithMario: self
