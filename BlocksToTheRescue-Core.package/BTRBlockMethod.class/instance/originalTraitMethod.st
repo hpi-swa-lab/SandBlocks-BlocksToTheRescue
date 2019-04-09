@@ -1,4 +1,4 @@
 compliance
 originalTraitMethod
 
-	^ originalTraitMethod
+	^ self properties originalTraitMethod
