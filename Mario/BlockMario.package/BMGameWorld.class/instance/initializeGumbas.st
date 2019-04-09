@@ -3,7 +3,7 @@ initializeGumbas
 
 	| gumba |
 	gumba := BMGumba new 
-					relativePosition: 100 @ (self height - 150);
+					relativePosition: 50 @ 0;
 					yourself.
 	self addGameObject: gumba.
 	self addMorph: gumba.

@@ -1,5 +1,9 @@
 movement
 initJump
 
-	self acceleration: self minAcceleration.
-	self jump.
+	self isJumping
+		ifFalse: [
+			self isJumping: true.
+			self acceleration: self minAcceleration.
+			self jump]
+	

@@ -1,4 +1,2 @@
-stepping and presenter
+as yet unclassified
 moveNPCs
-	
-	self gameObjects do: [:each | each isNPC ifTrue: [each move]]

@@ -8,7 +8,9 @@
 	"instvars" : [
 		"state",
 		"relativePosition",
-		"velocity" ],
+		"velocity",
+		"isJumping",
+		"foo" ],
 	"name" : "BMGameObject",
 	"pools" : [
 		 ],

@@ -8,18 +8,18 @@ handleCollisions
 	gravity := self gravity.
 	toBeMovedIndices := OrderedCollection new.
 	
-	collidees doWithIndex: [ :collider :index | | hasCollided |
+	collidees doWithIndex: [ :collider :outerIndex | | hasCollided |
 		hasCollided := false.
-		collidees do: [ :collidee |
+		collidees doWithIndex: [ :collidee :innerIndex |
 			(collider collidesWith: collidee underGravity: gravity)
 				ifTrue: [ hasCollided := true. 
-						 collisionPairs add: (Set withAll: {collider . collidee})]].
+						 collisionPairs add: (Set withAll: {innerIndex . outerIndex})]].
 		hasCollided 
-			ifFalse: [toBeMovedIndices add: index]].
+			ifFalse: [toBeMovedIndices add: outerIndex]].
 	
 	toBeMovedIndices do: [:each | (allGameObjects at: each) moveWithGravity: gravity].
 	
 	collisionPairs do: [ :each |
 		| collisionPair |
-		collisionPair := each asArray.
+		collisionPair := allGameObjects atAll: each asArray.
 		collisionPair first collideWith: collisionPair second].
