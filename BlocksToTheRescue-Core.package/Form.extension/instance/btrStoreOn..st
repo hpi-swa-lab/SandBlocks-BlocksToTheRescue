@@ -3,6 +3,6 @@ btrStoreOn: aWriteStream
 
 	| imageStream |
 	imageStream := WriteStream on: ByteArray new.
-	PNGReadWriter putForm: self onStream: imageStream.
+	(PNGReadWriter on: imageStream) nextPutImage: self; close.
 	
 	aWriteStream nextPutAll: imageStream contents ascii85Encoded.

@@ -2,5 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"blockModelClass" : "LM 3/27/2019 16:14",
-		"testMethodReturnsCorrectValue" : "LM 3/27/2019 16:15" } }
+		"testCreationForBoolean" : "BD 4/8/2019 15:03",
+		"testCreationForColor" : "BD 4/8/2019 15:02",
+		"testCreationForImage" : "BD 4/8/2019 15:02",
+		"testCreationForMorph" : "BD 4/8/2019 15:02",
+		"testCreationForNumber" : "BD 4/8/2019 15:02",
+		"testValueReturnsValue" : "BD 4/8/2019 14:59" } }

@@ -2,5 +2,5 @@ tests
 testStartState
 
 	self
-		assert: self theMachine state
-		equals: self theMachine model startState.
+		assert: self theMachine model startState
+		equals: self theMachine state.

@@ -1,4 +1,4 @@
 accessing
-editor: anObject
+editor: aBTRBlockEditor
 
-	editor := anObject.
+	editor := aBTRBlockEditor.

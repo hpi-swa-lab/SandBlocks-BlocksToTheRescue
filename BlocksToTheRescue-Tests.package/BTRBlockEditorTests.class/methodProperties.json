@@ -2,14 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"blockModelClass" : "BD 4/8/2019 14:45",
 		"codeMorph" : "LB 3/12/2019 10:45",
 		"editor" : "LB 3/12/2019 10:39",
-		"editor:" : "LB 3/12/2019 10:39",
+		"editor:" : "BD 4/8/2019 14:54",
 		"makeChange" : "LM 3/27/2019 16:44",
 		"newValue" : "LM 3/27/2019 16:30",
-		"setUp" : "LM 3/27/2019 16:34",
+		"setUp" : "BD 4/8/2019 14:44",
 		"testChangesAreDetected" : "LM 3/27/2019 16:33",
-		"testEditorKnowsItsMethod" : "LB 3/12/2019 10:46",
+		"testEditorKnowsItsMethod" : "BD 4/8/2019 14:54",
 		"testPromptsOnUnsavedCancel" : "LB 3/12/2019 15:21",
 		"testSaveHasNoEdits" : "LB 3/12/2019 15:19",
-		"testSaveSetsValue" : "LM 3/27/2019 16:29" } }
+		"testSaveSetsValue" : "BD 4/8/2019 14:54" } }

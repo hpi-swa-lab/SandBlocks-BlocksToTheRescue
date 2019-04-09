@@ -1,7 +1,7 @@
 validation
 validateStateGraph
 
-	(self hasStateNamed: self startStateSelector)
+	(self hasStateNamed: self startStateName)
 		ifFalse: [^ BTRInvalidStateMachineException
-			signal: 'Unknown start state ', self startStateSelector].
+			signal: 'Unknown start state ', self startStateName].
 	self validateTransitions.

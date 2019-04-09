@@ -4,5 +4,5 @@ testTransitionChangesState
 	self theMachine currentState: (self theMachine model stateNamed: #start).
 	self theMachine transition: #foo.
 	self
-		assert: self theMachine currentState
-		equals: (self theMachine model stateNamed: #b).
+		assert: (self theMachine model stateNamed: #someTargetNode)
+		equals: self theMachine currentState.
