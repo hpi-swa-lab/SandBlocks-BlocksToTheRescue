@@ -1,5 +1,4 @@
-dnmphysics compatability
+as yet unclassified
 move
-	"Moves the object by its velocity vector."
-	"self halt."
+
 	self relativePosition: self relativePosition + self velocity.

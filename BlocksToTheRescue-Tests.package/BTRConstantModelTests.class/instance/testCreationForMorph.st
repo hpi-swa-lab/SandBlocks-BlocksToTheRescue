@@ -2,8 +2,8 @@ as yet unclassified
 testCreationForMorph
 
 	| model |
-	model := BTRConstantModel for: #V2;BTRMorphModel;ADD;Constant1;Morph;AC8;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
-3*dYFDBLq^6#^jYC`kJe0f^@bF<E:l3]/TP2)l^eD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
+	model := BTRConstantModel for: #V2;BTRMorphModel;AD9;Constant1;Morph;AC4;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
+3*dYFDBLq^6#^jYC`kJe0f^@bF<E:m3\W6K0Jah[D'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
 BjkglH=\6/%1NaiF(K0"+EMC.Ecb2jAlEelARTF!"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"
 !!!!$"q!b4@ruF'DIIR2"98E%)@-<C!%S'V!!!!$"q*_<F)PQ&@<?4%D?^>;DKKH&ATA%V!!!$&
 z#ljr*!t##.!'CGt6#q!SH"CMRDes6$@ruF'D?p4B!!*3&!!!!*!!!!$$31&+49c9iDfTf17<ioc
@@ -36,7 +36,7 @@ $31&+4:2&g!r`N,!!7EH!=8`+!!<Q.!!#+g!!!*H$31&->las4!!!!$$31&+4:2&g!'CSg!!<-+
 $31&/2$!^a!!!!$$31&+4:2&g"E+VI!!6F,!<EK,!!!*.!!!!]$31&/P6q9i!$D:K!!!!$$31&+
 4:2&g"NCcK!!$U;!!!!($31&.,S(A]1(eJ/!=/Z*!!!$+!!!!%$31&-*WuHC"9/K(!!",LJ-H#Z
 rr<'!#ljr*$jlt7!0%'^!s&E'!s&E'#ljr*!t##."Hrrg!!!*,!!!!&!<EK,!!!*.!!!!]"q+mY
-Eb&a%;fm;$AI/>:!!*E,!!EuB!!!!$$31&+49cC=BkM<lCdW,YDIm="Bl@m1#ljr*!t##.!$DCE
-!!!!)!!!!$!<E3-!!!!$$31&+49c.$DJ<rrFD5Z2EsVgH!!EW/!!1aY!!!!+!<E3%!<E3%!<E<'
-!!!$&z+Unk~>;;.
+Eb&a%;fm;$AI/>:!!*E,!!EuB!!!!$$31&+49c.$DJ<rrFD5Z2EsVgH!!EW/!!1aY!!!!+!<E3%
+!<E3%!<E<'!!!$&z#ljr*!t##.!'CGtF(o9)@;J;LDJj#qFD5Z2EsVgH!!<Q.!!",Ez#QOi)!s&E'
++Unk~>;;.
 	self assert: (model isKindOf: BTRMorphModel).

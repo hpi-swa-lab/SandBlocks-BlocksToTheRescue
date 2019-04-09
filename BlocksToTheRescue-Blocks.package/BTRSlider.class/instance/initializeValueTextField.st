@@ -11,7 +11,6 @@ initializeValueTextField
 		hResizing: #spaceFill;
 		vResizing: #spaceFill;
 		height: self height;
-		"width: self defaultTextWidth;"
 		color: Color transparent;
 		borderColor: Color transparent.
 	self addMorphBack: self valueTextField.

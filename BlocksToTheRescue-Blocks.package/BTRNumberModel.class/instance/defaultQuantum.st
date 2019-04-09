@@ -1,0 +1,4 @@
+accessing
+defaultQuantum
+
+	^ 1

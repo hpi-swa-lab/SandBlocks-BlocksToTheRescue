@@ -1,4 +1,4 @@
 running
 leave
 
-	^ self onLeaveDo valueWithPossibleArgs: {self. #enter}
+	^ self onLeaveDo ifNotNil: [self onLeaveDo valueWithPossibleArgs: {self. #leave}]

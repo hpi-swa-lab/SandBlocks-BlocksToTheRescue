@@ -1,4 +1,4 @@
 running
 enter
 
-	^ self onEnterDo valueWithPossibleArgs: {self. #enter}
+	^ self onEnterDo ifNotNil: [self onEnterDo valueWithPossibleArgs: {self. #enter}]

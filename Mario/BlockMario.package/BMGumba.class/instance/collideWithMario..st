@@ -1,4 +1,4 @@
-as yet unclassified
+collision
 collideWithMario: aBMMario
 
-	self halt
+	aBMMario die

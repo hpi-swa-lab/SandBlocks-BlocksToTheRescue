@@ -11,5 +11,5 @@
 	"name" : "BTRInvalidStateMachineException",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "Error",
 	"type" : "normal" }

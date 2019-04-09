@@ -1,5 +1,5 @@
-dnmphysics compatability
+as yet unclassified
 addVelocity: aPoint
 
-	velocity := (velocity + aPoint).
+	self velocity: self velocity + aPoint.
 	self checkVelocityLimits.

@@ -1,0 +1,16 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"staticGameObjects",
+		"movingGameObjects",
+		"foo" ],
+	"name" : "BMPhysics",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

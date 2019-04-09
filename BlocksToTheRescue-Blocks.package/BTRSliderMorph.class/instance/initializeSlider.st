@@ -3,8 +3,8 @@ initializeSlider
 
 	self slider: (BTRSlider 
 		on: self blockModel
-		getValue: #contents
-		setValue: #contents:
-		min: self minimumValue
-		max: self maximumValue
-		quantum: self quantum).
+		getValue: #value
+		setValue: #value:
+		min: self blockModel minimumValue
+		max: self blockModel maximumValue
+		quantum: self blockModel quantum).

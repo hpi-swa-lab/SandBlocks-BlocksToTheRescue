@@ -1,0 +1,2 @@
+collision
+collideWithGumba: aBMGumba

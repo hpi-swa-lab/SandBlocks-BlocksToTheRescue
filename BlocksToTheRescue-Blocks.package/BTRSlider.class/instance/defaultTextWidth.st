@@ -1,4 +1,0 @@
-initialization
-defaultTextWidth
-
-	^ 30

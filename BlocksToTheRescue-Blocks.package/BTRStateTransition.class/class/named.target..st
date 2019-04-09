@@ -3,6 +3,6 @@ named: messageSymbol target: targetStateSymbol
 
 	^ self basicNew
 		name: messageSymbol;
-		targetStateSelector: targetStateSymbol;
+		targetStateName: targetStateSymbol;
 		initialize;
 		yourself

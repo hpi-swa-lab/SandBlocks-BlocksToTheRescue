@@ -1,4 +1,4 @@
-as yet unclassified
+collision
 collideWithPlatform: aBMPlatform
 
 	self subclassResponsibility.

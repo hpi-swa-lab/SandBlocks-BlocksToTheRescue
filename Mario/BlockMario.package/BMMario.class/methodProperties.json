@@ -2,14 +2,20 @@
 	"class" : {
 		 },
 	"instance" : {
+		"acceleration" : "WoC 4/5/2019 15:05",
+		"acceleration:" : "WoC 4/5/2019 15:05",
+		"collideWith:" : "WoC 4/8/2019 14:08",
+		"collideWithGumba:" : "WoC 4/5/2019 13:50",
 		"collideWithPlatform:" : "BD 4/4/2019 15:21",
-		"collisionWith:" : "WoC 4/5/2019 11:11",
 		"defaultForm" : "BD 4/4/2019 14:24",
 		"defaultHorizontalMovement" : "BD 4/4/2019 16:03",
 		"defaultVerticalMovement" : "BD 4/4/2019 15:58",
-		"down" : "BD 4/5/2019 11:52",
-		"handleInput:" : "BD 4/4/2019 16:00",
+		"die" : "WoC 4/5/2019 13:49",
+		"down" : "WoC 4/8/2019 14:11",
+		"handleInput:inWorld:" : "WoC 4/8/2019 10:39",
+		"initJump" : "WoC 4/8/2019 16:35",
 		"isPlayable" : "BD 4/5/2019 12:02",
-		"jump" : "WoC 4/5/2019 11:19",
-		"moveLeft" : "BD 4/5/2019 11:52",
-		"moveRight" : "BD 4/5/2019 11:52" } }
+		"jump" : "WoC 4/8/2019 14:11",
+		"minAcceleration" : "WoC 4/5/2019 15:13",
+		"moveLeft" : "WoC 4/8/2019 14:11",
+		"moveRight" : "WoC 4/8/2019 14:11" } }
