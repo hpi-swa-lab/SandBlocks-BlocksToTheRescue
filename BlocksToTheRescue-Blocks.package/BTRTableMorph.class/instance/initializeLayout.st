@@ -2,14 +2,8 @@ initialization
 initializeLayout
 
 	self
-		color: Color veryLightGray;
-		changeTableLayout;
-		hResizing: #spaceFill;
-		vResizing: #shrinkWrap;
+		color: Color transparent;
 		extent: self defaultExtent;
-		layoutInset: self defaultLayoutInset;
-		cellInset: self defaultCellInset.
-		"layoutPolicy: TableLayout new;
-		listDirection: #leftToRight;
-		wrapCentering: #topLeft;
-		wrapDirection: #topToBottom."
+		changeProportionalLayout;
+		addMorph: self table fullFrame: self tableFrame;
+		addMorph: self expandButton fullFrame: self expandButtonFrame.

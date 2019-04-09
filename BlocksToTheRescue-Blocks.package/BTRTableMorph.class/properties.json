@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rows" ],
+		"expandButton",
+		"rows",
+		"table" ],
 	"name" : "BTRTableMorph",
 	"pools" : [
 		 ],
