@@ -1,5 +1,8 @@
 mouse events
 actOnClickFor: model
 
-	ToolSet browseClass: self anchoredClass.
-	^ true
+	^ (Sensor anyModifierKeyPressed or: [Sensor shiftPressed])
+			and: [
+				Project current addDeferredUIMessage: [
+					ToolSet browseClass: self anchoredClass].
+				true]
