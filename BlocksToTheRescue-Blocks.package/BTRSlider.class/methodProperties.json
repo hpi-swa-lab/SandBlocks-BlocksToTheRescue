@@ -4,7 +4,7 @@
 	"instance" : {
 		"defaultBounds" : "ee 4/3/2019 09:50",
 		"initialize" : "ee 4/8/2019 15:57",
-		"initializeValueTextField" : "ee 4/8/2019 10:34",
+		"initializeValueTextField" : "ee 4/9/2019 12:06",
 		"maximumValue:" : "ee 4/8/2019 10:24",
 		"minimumValue:" : "ee 4/8/2019 10:27",
 		"on:getValue:setValue:min:max:quantum:" : "ee 4/8/2019 16:04",

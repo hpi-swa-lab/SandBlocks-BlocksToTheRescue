@@ -1,0 +1,4 @@
+accessing
+matrix
+
+	^ self value
