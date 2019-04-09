@@ -1,0 +1,4 @@
+accessing
+defaultRange
+
+	^ 100

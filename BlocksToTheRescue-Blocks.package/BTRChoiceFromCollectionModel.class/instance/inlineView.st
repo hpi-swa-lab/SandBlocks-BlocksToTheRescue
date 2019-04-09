@@ -1,4 +1,10 @@
 as yet unclassified
 inlineView
 
-	^ Morph new
+	^ (PluggableDropDownListMorph new
+		model: self;
+		listSelector: #readOnlyCollection;
+		selectionSelector: #index;
+		selectionSetter: #index:)
+			installDropDownList;
+			yourself

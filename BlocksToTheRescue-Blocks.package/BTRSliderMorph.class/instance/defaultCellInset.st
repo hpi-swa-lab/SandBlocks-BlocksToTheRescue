@@ -1,4 +1,4 @@
 initialization
-inset
+defaultCellInset
 
 	^ 1

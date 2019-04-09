@@ -1,4 +1,4 @@
 accessing
-slider: anObject
+slider: aBTRSlider
 
-	slider := anObject.
+	slider := aBTRSlider.

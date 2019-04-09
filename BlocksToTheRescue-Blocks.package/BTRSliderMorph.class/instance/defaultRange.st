@@ -1,4 +1,0 @@
-slider
-defaultRange
-
-	^ 100

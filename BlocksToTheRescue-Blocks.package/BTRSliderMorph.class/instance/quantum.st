@@ -1,5 +1,0 @@
-slider
-quantum
-
-	^ 1
-	
