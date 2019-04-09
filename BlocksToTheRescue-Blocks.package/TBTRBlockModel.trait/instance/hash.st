@@ -1,5 +1,5 @@
-interface-accessing
+as yet unclassified
 hash
-
-	"Please override and call super in users"
-	^ self selector hash bitXor: self methodClass hash
+	
+	"Should be implemented by users if they need a different equals check."
+	^ super hash

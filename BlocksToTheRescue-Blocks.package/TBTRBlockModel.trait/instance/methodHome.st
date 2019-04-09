@@ -1,4 +1,0 @@
-compliance
-methodHome
-
-	^ self methodClass

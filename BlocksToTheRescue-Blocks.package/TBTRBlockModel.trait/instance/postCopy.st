@@ -1,5 +1,5 @@
-interface-accessing
+as yet unclassified
 postCopy
-
-	self btrProperties: self btrProperties copy.
+	
+	"Should be implemented by users if they have to copy specific values."
 	^ super postCopy

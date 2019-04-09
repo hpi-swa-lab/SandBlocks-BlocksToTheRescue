@@ -1,7 +1,6 @@
-interface-accessing
-= other
+as yet unclassified
+= anotherObject
 	
-	"Please override and call super in users"
-	^ other class = self class 
-		and: [self selector = other selector]
-		and: [self methodClass = other methodClass]
+	"Should be implemented by users if they need a different equals check.
+	Do not forget to implement hash as well."
+	^ super = anotherObject
