@@ -1,0 +1,4 @@
+accessing
+defaultNcolumns
+
+	^ 4
