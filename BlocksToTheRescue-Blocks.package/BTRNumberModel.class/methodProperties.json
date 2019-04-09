@@ -1,10 +1,22 @@
 {
 	"class" : {
+		"btrScanFromN1:" : "ee 4/8/2019 16:52",
 		"previewIcon" : "ms 4/4/2019 11:43",
 		"worksForObject:" : "ee 4/2/2019 15:25" },
 	"instance" : {
-		"contents" : "ee 4/2/2019 16:29",
-		"contents:" : "ee 4/2/2019 16:55",
+		"btrSerializationVersion" : "ee 4/8/2019 09:40",
+		"btrStoreOn:" : "ee 4/8/2019 16:52",
+		"defaultMaximumValue" : "ee 4/8/2019 09:50",
+		"defaultMinimumValue" : "ee 4/8/2019 09:53",
+		"defaultQuantum" : "ee 4/8/2019 09:48",
+		"defaultRange" : "ee 4/5/2019 12:58",
 		"defaultValue" : "ee 4/2/2019 16:36",
 		"inlineView" : "ee 4/4/2019 15:03",
+		"maximumValue" : "ee 4/8/2019 10:51",
+		"maximumValue:" : "ee 4/8/2019 12:16",
+		"minimumValue" : "ee 4/8/2019 10:50",
+		"minimumValue:" : "ee 4/8/2019 12:17",
+		"quantum" : "ee 4/8/2019 10:51",
+		"quantum:" : "ee 4/8/2019 13:04",
+		"value:" : "ee 4/8/2019 12:07",
 		"wantsCopiedValue" : "ms 4/4/2019 12:06" } }
