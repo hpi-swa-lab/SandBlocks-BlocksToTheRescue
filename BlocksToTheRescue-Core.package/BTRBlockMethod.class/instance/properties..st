@@ -1,4 +1,6 @@
 compliance
-properties: anObject
+properties: aMethodProperties
 
-	properties := anObject.
+	properties := aMethodProperties.
+	aMethodProperties setMethod: self.
+	
