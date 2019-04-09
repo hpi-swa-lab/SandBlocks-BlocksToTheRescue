@@ -1,14 +1,10 @@
 initialization
-on: anObject getValue: getSel setValue: setSel min: min max: max quantum: quantum
+on: aNumberModel getValue: getSel setValue: setSel min: min max: max quantum: q
 
-	self quantum: quantum.
-	min isSymbol
-		ifTrue: [self getMinimumValueSelector: min]
-		ifFalse: [minimumValue := min].
-	max isSymbol
-		ifTrue: [self getMaximumValueSelector: max]
-		ifFalse: [maximumValue := max].
+	quantum := q.
+	minimumValue := min.
+	maximumValue := max.
 	self 
-		on: anObject
+		on: aNumberModel
 		getValue: getSel
 		setValue: setSel.

@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"minimumValue",
+		"maximumValue",
+		"quantum" ],
 	"name" : "BTRNumberModel",
 	"pools" : [
 		 ],
