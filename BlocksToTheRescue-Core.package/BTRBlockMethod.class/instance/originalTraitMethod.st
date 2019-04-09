@@ -1,4 +1,4 @@
 compliance
 originalTraitMethod
 
-	^ nil
+	^ originalTraitMethod
