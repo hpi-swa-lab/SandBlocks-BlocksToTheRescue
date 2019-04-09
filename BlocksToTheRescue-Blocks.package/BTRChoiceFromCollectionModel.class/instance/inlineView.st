@@ -5,8 +5,8 @@ inlineView
 		on: self 
 		getState: nil 
 		action: nil
-		label:  #value) 
-			action: [self index: (UIManager default chooseFrom: self readOnlyCollection title: nil)];
+		label:  #value)
+			in: [:button | button action: [self index: (UIManager default chooseFrom: self readOnlyCollection title: nil). button adjustLayoutBounds]];
 			hResizing: #shrinkWrap;
 			vResizing: #shrinkWrap;
 			yourself
