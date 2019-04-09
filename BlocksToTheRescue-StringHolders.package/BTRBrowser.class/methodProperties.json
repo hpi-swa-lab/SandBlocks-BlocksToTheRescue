@@ -1,12 +1,13 @@
 {
 	"class" : {
-		 },
+		"useThemeBrowserColor" : "LB 4/9/2019 16:21",
+		"useThemeBrowserColor:" : "LB 4/9/2019 16:19" },
 	"instance" : {
 		"askForBlockModel" : "BD 4/9/2019 14:51",
 		"blockEditorSymbol" : "BD 3/25/2019 14:12",
 		"blockModel" : "BD 4/8/2019 11:24",
 		"buildCodePaneWith:" : "LB 3/6/2019 15:38",
-		"buildDefaultBrowserWith:" : "ms 4/9/2019 14:21",
+		"buildDefaultBrowserWith:" : "LB 4/9/2019 16:24",
 		"buildMorphicCodePaneWith:" : "LB 3/6/2019 15:35",
 		"codeMorph" : "LB 3/6/2019 15:24",
 		"codeMorph:" : "BD 3/27/2019 09:36",
