@@ -7,5 +7,7 @@ contentsChanged
 	
 	super contentsChanged.
 	
-	(self isShowingBlockEditor not and: [self hasBlockModelSelected] and: [self hasUnacceptedEdits not])
+	((self isShowingBlockEditor or: [self isShowingSerializedViewer]) not 
+	and: [self hasBlockModelSelected] 
+	and: [self hasUnacceptedEdits not])
 		ifTrue: [self toggleBlockEditor].
