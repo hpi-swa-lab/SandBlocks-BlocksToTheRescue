@@ -1,5 +1,5 @@
 simulation
-simulateStep
+simulateStepAt: aPointOffset
 
 	| relevantObjects |
 	self applyGravity.
