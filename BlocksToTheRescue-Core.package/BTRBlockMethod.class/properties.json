@@ -12,6 +12,7 @@
 		"sourcePointer",
 		"selector",
 		"parameterNames",
+		"originalTraitMethod",
 		"properties" ],
 	"name" : "BTRBlockMethod",
 	"pools" : [
