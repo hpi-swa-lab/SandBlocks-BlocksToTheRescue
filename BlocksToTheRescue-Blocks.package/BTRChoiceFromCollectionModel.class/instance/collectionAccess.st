@@ -1,4 +1,4 @@
 accessing
 collectionAccess
 
-	^ collectionAccess ifNil: [self collectionAccess: {}]
+	^ collectionAccess ifNil: [collectionAccess := {}]
