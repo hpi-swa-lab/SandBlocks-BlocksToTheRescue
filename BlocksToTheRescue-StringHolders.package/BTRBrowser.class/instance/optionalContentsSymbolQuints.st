@@ -1,7 +1,8 @@
 controls
 optionalContentsSymbolQuints
 	"The quints are put in here as tuples in the form condition -> quint"
-	^ {#hasBlockModelSelected -> 
+	^ {
+	#hasBlockModelSelected -> 
 		{self blockEditorSymbol
 			. #toggleBlockEditor 
 			. #showingBlockEditorString 

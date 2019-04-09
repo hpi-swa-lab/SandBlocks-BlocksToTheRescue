@@ -11,4 +11,4 @@ install: aPane
 	aPane owner clipSubmorphs: false.
 	self codeMorph: aPane.
 
-	self contentsChanged
+	self contentsChanged.

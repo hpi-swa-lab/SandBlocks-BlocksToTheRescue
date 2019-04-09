@@ -1,0 +1,4 @@
+block methods
+serializedViewerSymbol
+
+	^ #serializedViewer
