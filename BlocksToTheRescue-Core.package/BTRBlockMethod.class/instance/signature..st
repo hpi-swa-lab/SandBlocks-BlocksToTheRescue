@@ -8,4 +8,4 @@ signature: aString
 		rangesIn: aString classOrMetaClass: self methodClass workspace: nil environment: nil.
 	self parameterNames: (ranges
 		select: [:each | each type = #patternArg]
-		thenCollect: [:range | aString copyFrom: range start to: range end]).
+thenCollect: [:range | aString copyFrom: range start to: range end]).

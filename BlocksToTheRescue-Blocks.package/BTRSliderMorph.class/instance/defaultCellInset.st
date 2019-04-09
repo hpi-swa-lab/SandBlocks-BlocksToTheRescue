@@ -1,0 +1,4 @@
+initialization
+defaultCellInset
+
+	^ 1

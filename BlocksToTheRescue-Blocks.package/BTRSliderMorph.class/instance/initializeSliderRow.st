@@ -7,6 +7,6 @@ initializeSliderRow
 		listDirection: #leftToRight;
 		hResizing: #spaceFill; 
 		vResizing: #shrinkWrap;
-		cellInset: self inset;
+		cellInset: self defaultCellInset;
 		addMorphBack: self slider;
 		addMorphBack: self expandButton.

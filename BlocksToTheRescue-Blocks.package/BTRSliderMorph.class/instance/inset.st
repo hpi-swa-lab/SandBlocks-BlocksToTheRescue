@@ -1,4 +1,0 @@
-initialization
-inset
-
-	^ 1
