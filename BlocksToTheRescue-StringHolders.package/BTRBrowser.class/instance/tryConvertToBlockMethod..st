@@ -1,6 +1,6 @@
 block methods
 tryConvertToBlockMethod: aMethod
 	
-	^ aMethod isBTRBlockMethod
-		ifTrue: [aMethod]
-		ifFalse: [self askForBlockModel]
+	aMethod isBTRBlockMethod
+		ifFalse: [
+			self askForBlockModel ifNotNil: [:model | self installBlockMethodFrom: model]]

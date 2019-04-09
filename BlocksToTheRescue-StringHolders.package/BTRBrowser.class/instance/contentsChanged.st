@@ -6,6 +6,7 @@ contentsChanged
 		ifTrue: [self setDefaultContents].
 	
 	super contentsChanged.
+	self changed: #contentsSerialized.
 	
 	self shouldSwapToBlockEditor
 		ifTrue: [self toggleBlockEditor].

@@ -4,7 +4,7 @@ codeTextSpec
 	^ PluggableCodePaneSpec new
 		model: self;
 		getText: #contents; 
-		setText: #contents:notifying:; 
+		setText: #contents:notifying: ; 
 		stylerClass: BTRBlockyST80TextStyler;
 		selection: #contentsSelection; 
-		menu: #codePaneMenu:shifted:.
+		menu: #codePaneMenu:shifted:
