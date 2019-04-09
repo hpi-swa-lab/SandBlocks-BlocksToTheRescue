@@ -1,4 +1,4 @@
-as yet unclassified
+interface-evaluating
 variableNamed: aString
 
 	^ (self executionContext 
