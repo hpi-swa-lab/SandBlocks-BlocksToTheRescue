@@ -1,10 +1,13 @@
 {
 	"class" : {
+		"btrScanFromSmart:" : "LB 4/10/2019 16:15",
 		"example1" : "LB 4/9/2019 13:40" },
 	"instance" : {
 		"=" : "BD 4/1/2019 10:22",
 		"addEdge:" : "LB 3/26/2019 15:13",
 		"addNode:" : "LB 3/28/2019 11:36",
+		"btrSerializationVersion" : "LB 4/10/2019 16:15",
+		"btrStoreOn:" : "LB 4/10/2019 16:15",
 		"chooseNodeFrom:" : "LB 3/28/2019 13:59",
 		"copy" : "LB 3/28/2019 13:16",
 		"edges" : "LB 3/15/2019 15:27",
