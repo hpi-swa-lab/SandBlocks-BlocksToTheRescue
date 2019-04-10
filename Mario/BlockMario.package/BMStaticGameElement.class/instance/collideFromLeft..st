@@ -1,5 +1,9 @@
-as yet unclassified
+directed collision
 collideFromLeft: aBMGameObject
 
-	self collideWith: aBMGameObject.
-	aBMGameObject velocity: (aBMGameObject deltaTo: self) x @ (aBMGameObject velocity y * 0.5)
+	| y |
+	super collideFromLeft: aBMGameObject.
+	aBMGameObject velocity y > 0
+		ifTrue: [y:= aBMGameObject velocity y * 0.5]
+		ifFalse: [y := aBMGameObject velocity y].
+	aBMGameObject velocity: (aBMGameObject deltaTo: self) x @ y

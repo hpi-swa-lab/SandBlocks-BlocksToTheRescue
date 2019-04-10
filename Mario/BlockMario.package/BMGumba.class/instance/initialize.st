@@ -2,4 +2,4 @@ initialization
 initialize
 
 	super initialize.
-	self velocity: 1@0
+	self direction: 1

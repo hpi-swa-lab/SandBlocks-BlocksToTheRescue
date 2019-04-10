@@ -1,0 +1,4 @@
+ai
+decideWhereToGo
+
+	self subclassResponsibility

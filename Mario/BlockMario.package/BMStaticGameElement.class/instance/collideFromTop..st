@@ -1,5 +1,6 @@
-as yet unclassified
+directed collision
 collideFromTop: aBMGameObject
 
-	self collideWith: aBMGameObject.
-	aBMGameObject velocity: (aBMGameObject velocity x * 0.8) @ (aBMGameObject deltaTo: self) y
+	super collideFromTop: aBMGameObject.
+	aBMGameObject isJumping: false.
+	aBMGameObject velocity: (aBMGameObject velocity x * 0.6) @ (aBMGameObject deltaTo: self) y

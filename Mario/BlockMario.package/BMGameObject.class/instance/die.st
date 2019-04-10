@@ -1,0 +1,4 @@
+nil
+die
+
+	self delete

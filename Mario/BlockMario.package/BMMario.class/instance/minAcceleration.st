@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 minAcceleration
 
 	^ 0.45

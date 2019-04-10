@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMTurtle",
+	"pools" : [
+		 ],
+	"super" : "BMEnemy",
+	"type" : "normal" }

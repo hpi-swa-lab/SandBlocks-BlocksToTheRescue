@@ -1,0 +1,4 @@
+damage
+getDamage
+
+	

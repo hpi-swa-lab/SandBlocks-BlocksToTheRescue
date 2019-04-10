@@ -10,5 +10,5 @@
 	"name" : "BMGumba",
 	"pools" : [
 		 ],
-	"super" : "BMGameObject",
+	"super" : "BMEnemy",
 	"type" : "normal" }

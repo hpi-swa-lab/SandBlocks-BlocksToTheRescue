@@ -1,0 +1,15 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"direction",
+		"collidee" ],
+	"name" : "BMCollisionEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
