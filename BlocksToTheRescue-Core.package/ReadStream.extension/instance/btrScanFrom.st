@@ -1,7 +1,7 @@
 *BlocksToTheRescue-Core
 btrScanFrom
 
-	| length serializedObject objectStream class className |
+	| length serializedObject objectStream class className scannedObject |
 	className := self upTo: $; .
 	class := Smalltalk classNamed: className.
 	class ifNil: [^ self btrScanError: 'Unknown class "', className, '"!'].
@@ -12,4 +12,7 @@ btrScanFrom
 		ifTrue: [^ self btrScanError: 'Read object length does not match expected object length'].
 	
 	objectStream := (ReadStream on: serializedObject).
-	^ class btrScanFrom: objectStream
+	scannedObject := class btrScanFrom: objectStream.
+	scannedObject isBTRBlockModel
+		ifTrue: [scannedObject cachedStoreString: objectStream contents].
+	^ scannedObject

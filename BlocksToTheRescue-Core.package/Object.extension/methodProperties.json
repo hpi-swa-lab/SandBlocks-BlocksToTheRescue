@@ -4,9 +4,10 @@
 		"btrScanFrom:" : "LM 3/18/2019 09:58",
 		"btrScanFrom:version:" : "LM 3/18/2019 10:01" },
 	"instance" : {
+		"asBTRText" : "LM 4/10/2019 10:36",
 		"btrSerializationVersion" : "LM 3/18/2019 10:19",
 		"btrStoreOn:" : "LM 3/18/2019 10:20",
-		"btrWriteScanOn:" : "LM 3/22/2019 15:30",
+		"btrWriteScanOn:" : "LM 4/9/2019 17:02",
 		"inlineMorphSpec" : "LM 3/21/2019 15:52",
 		"isBTRBlockMethod" : "BD 4/8/2019 11:29",
 		"isBTRBlockModel" : "LM 3/26/2019 10:12" } }
