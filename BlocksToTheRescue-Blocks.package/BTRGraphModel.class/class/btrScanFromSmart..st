@@ -1,4 +1,4 @@
 as yet unclassified
 btrScanFromSmart: aReadStream
 
-	^ BTRSmartSerializer deserialize: aReadStream contents
+	^ BTRSmartSerializer deserialize: aReadStream upToEnd
