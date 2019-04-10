@@ -1,3 +1,3 @@
 accessing
 onEnterDo: aBlockClosure
-	onEnterDo := aBlockClosure
+	self postEnterDo: aBlockClosure.

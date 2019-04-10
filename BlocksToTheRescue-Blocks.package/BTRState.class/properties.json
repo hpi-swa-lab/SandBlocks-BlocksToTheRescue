@@ -7,11 +7,14 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"name",
-		"onEnterDo",
-		"onLeaveDo",
-		"transitions" ],
+		"transitions",
+		"preStateEnterHandler",
+		"postStateEnterHandler",
+		"preStateLeaveHandler",
+		"postStateLeaveHandler",
+		"unknownTransitionHandler" ],
 	"name" : "BTRState",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractLockable",
 	"type" : "normal" }
