@@ -3,7 +3,7 @@ testCreationForMorph
 
 	| model |
 	model := BTRConstantModel for: #V2;BTRMorphModel;ADD;Constant1;Morph;AC8;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
-3*dYFDBLYf+@0seBl"nI0JPR1@<<VJ3\W9L1b^%kD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
+3*dYFDBLYf+@0seBl"nI0JPR1@<<VJ3]&fW0JstlD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
 BjkglH=\6/%1NaiF(K0"+EMC.Ecb2jAlEelARTF!"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"
 !!!!$"q!b4@ruF'DIIR2"98E%)@-<C!%S'V!!!!$"q*_<F)PQ&@<?4%D?^>;DKKH&ATA%V!!!$&
 z#ljr*!t##.!'CGt6#q!SH"CMRDes6$@ruF'D?p4B!!*3&!!!!*!!!!$$31&+49c9iDfTf17<ioc
@@ -35,8 +35,8 @@ $31&+4:2&g!r`N,!!7EH!=8`+!!<Q.!!#+g!!!*H$31&->las4!!!!$$31&+4:2&g!'CSg!!<-+
 "Ao1#!=8`+!!<Q.!!#+g!!!-9$31&->mUK2!!<Q.!!#+g!!!-Z$31&+AdJG;!!<Q.!!#+g!!!.!
 $31&/2$!^a!!!!$$31&+4:2&g"E+VI!!6F,!<EK,!!!*.!!!!]$31&/P6q9i!$D:K!!!!$$31&+
 4:2&g"NCcK!!$U;!!!!($31&.,S(A]1(eJ/!=/Z*!!!$+!!!!%$31&-*WuHC"9/K(!!",LJ-H#Z
-rr<'!#ljr*$jlt7!0%'^!s&E'!s&E'#ljr*!t##."Hrrg!!!*,!!!!&#ljr*!t##.!'CGtF(o9)
-@;J;LDJj#qFD5Z2EsVgH!!<Q.!!",Ez#QOi)!s&E'!=8`+!!<Q.!!#+c$Y"$pA7]d[FEq\6#ljr*
-!=Af,";D.B!!!*.!!!!]"q"dVBl.:#Bl@m1#ljr*":>,/!SI_Y!!!?,!<E3%!<E3%!<`B&!!*3&
-!!!!"+Unk~>;;.
+rr<'!#ljr*$jlt7!0%'^!s&E'!s&E'#ljr*!t##."Hrrg!!!*,!!!!&!<EK,!!!*.!!!!]"qboj
+B5V-o6Z6j[ARfgrDf0V&!!!!$$31&++9VZE!!!9)!!!*%!<EK,!!!*.!!!!]"q+mYEb&a%;fm;$
+AI/>:!!*E,!!EuB!!!!$$31&+49c.$DJ<rrFD5Z2EsVgH!!EW/!!1aY!!!!+!<E3%!<E3%!<E<'
+!!!$&z+Unk~>;;.
 	self assert: (model isKindOf: BTRMorphModel).
