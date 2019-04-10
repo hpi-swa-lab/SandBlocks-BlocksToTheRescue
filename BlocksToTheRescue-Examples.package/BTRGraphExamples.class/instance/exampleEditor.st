@@ -1,8 +1,0 @@
-as yet unclassified
-exampleEditor
-	<BTRBlockModel>
-	^ #V2;BTRGraphModel;611;1;(BTRGraphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
- instVarNamed: #nodes put: ((OrderedCollection new) add: (BTRGraphNode basicNew instVarAt: 1 put: '{(self argumentAt: 1) * 2}'; yourself); add: (BTRGraphNode basicNew instVarAt: 1 put: '{''Old '', self arguments first}'; yourself); add: (BTRGraphNode basicNew instVarAt: 1 put: '{self arguments first asString, '' piles of '', self arguments second}'; yourself); add: (BTRGraphNode basicNew instVarAt: 1 put: (Text string: '{foo. bar}' runs: (RunArray runs: #(10) values: #(#()))); yourself); yourself);
- instVarNamed: #edges put: ((OrderedCollection new) add: ((BTRGraphNode basicNew instVarAt: 1 put: (Text string: '{foo. bar}' runs: (RunArray runs: #(10) values: #(#()))); yourself)->(BTRGraphNode basicNew instVarAt: 1 put: '{(self argumentAt: 1) * 2}'; yourself)); add: ((BTRGraphNode basicNew instVarAt: 1 put: '{(self argumentAt: 1) * 2}'; yourself)->(BTRGraphNode basicNew instVarAt: 1 put: '{self arguments first asString, '' piles of '', self arguments second}'; yourself)); add: ((BTRGraphNode basicNew instVarAt: 1 put: (Text string: '{foo. bar}' runs: (RunArray runs: #(10) values: #(#()))); yourself)->(BTRGraphNode basicNew instVarAt: 1 put: '{''Old '', self arguments first}'; yourself)); add: ((BTRGraphNode basicNew instVarAt: 1 put: '{''Old '', self arguments first}'; yourself)->(BTRGraphNode basicNew instVarAt: 1 put: '{self arguments first asString, '' piles of '', self arguments second}'; yourself)); yourself);
- yourself);
