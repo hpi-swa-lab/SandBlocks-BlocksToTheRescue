@@ -1,17 +1,23 @@
 {
 	"class" : {
-		"example1" : "ms 4/4/2019 12:00",
+		"example1" : "ms 4/10/2019 11:38",
+		"example2" : "ms 4/10/2019 10:36",
+		"example3" : "ms 4/10/2019 11:12",
 		"previewIcon" : "ms 4/4/2019 11:43" },
 	"instance" : {
 		"collectionAccess" : "LB 4/9/2019 15:03",
 		"collectionAccess:" : "ms 4/4/2019 11:46",
-		"currentRemoteVatId" : "LB 4/5/2019 14:35",
+		"collectionLabels" : "ms 4/10/2019 11:28",
+		"currentLabel" : "ms 4/10/2019 11:24",
 		"defaultValue" : "ms 4/4/2019 11:48",
-		"editorView" : "LB 4/5/2019 12:43",
+		"editorView" : "ms 4/10/2019 11:12",
 		"index" : "LB 4/5/2019 12:27",
 		"index:" : "LB 4/5/2019 12:38",
 		"initialize" : "ms 4/4/2019 11:50",
-		"inlineView" : "LB 4/9/2019 15:34",
+		"inlineView" : "ms 4/10/2019 11:31",
 		"keyStroke:fromEditor:" : "LB 4/5/2019 14:13",
+		"labelRetriever" : "ms 4/10/2019 11:23",
+		"labelRetriever:" : "ms 4/10/2019 11:08",
 		"readOnlyCollection" : "ms 4/4/2019 11:57",
+		"value:" : "ms 4/10/2019 11:41",
 		"wantsCopiedValue" : "ms 4/4/2019 12:06" } }

@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"asTextFrom:" : "WoC 3/25/2019 14:35",
+		"asTextFrom:" : "LM 4/10/2019 11:14",
 		"blockCharacter" : "BD 3/8/2019 09:53",
+		"forObject:" : "LM 4/10/2019 11:13",
 		"isBlockCharacter:" : "LM 3/15/2019 13:14",
 		"originalScanFrom:" : "LM 3/22/2019 13:48",
 		"scanCharacter" : "LM 3/15/2019 14:11",
@@ -13,17 +14,18 @@
 		"versionedScanFrom:" : "LM 3/15/2019 14:21" },
 	"instance" : {
 		"=" : "BD 3/29/2019 13:44",
-		"anchoredMorph" : "LM 3/22/2019 15:38",
+		"anchoredMorph" : "LM 4/10/2019 10:54",
 		"blockModel" : "LM 3/22/2019 13:48",
 		"blockModel:" : "LB 4/10/2019 10:42",
-		"copy" : "LM 3/22/2019 13:48",
 		"couldDeriveFromPrettyPrinting" : "Elina Emsbach 3/6/2019 15:42",
 		"embeddedObjectPadding" : "Elina Emsbach 3/7/2019 12:06",
 		"hash" : "BD 3/29/2019 13:45",
 		"mayActOnClick" : "ms 4/1/2019 11:56",
 		"mayBeExtended" : "Elina Emsbach 3/6/2019 15:42",
+		"postCopy" : "LM 4/10/2019 12:05",
 		"serializationVersion" : "LM 3/18/2019 10:26",
 		"shoutShouldPreserve" : "Elina Emsbach 3/6/2019 15:45",
 		"storeOn:" : "LB 4/5/2019 13:49",
+		"viewForModel:" : "LM 4/10/2019 13:44",
 		"wantsCopyOnInsert" : "Elina Emsbach 3/6/2019 15:47",
 		"writeScanOn:" : "LM 3/22/2019 15:30" } }

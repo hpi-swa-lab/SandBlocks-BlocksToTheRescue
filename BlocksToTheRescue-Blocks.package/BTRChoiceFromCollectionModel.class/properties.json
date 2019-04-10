@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"collectionAccess" ],
+		"collectionAccess",
+		"labelRetriever" ],
 	"name" : "BTRChoiceFromCollectionModel",
 	"pools" : [
 		 ],
