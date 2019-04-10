@@ -1,5 +1,9 @@
 initialize-release
 initialize
 
-	self currentState: self model startState.
-	self currentState enter.
+	| startState |
+	self unlock.
+	startState := self model startState.
+	startState preEnter.
+	self currentState: startState.
+	startState postEnter.

@@ -1,0 +1,4 @@
+testing
+isLocked
+
+	^ self locked

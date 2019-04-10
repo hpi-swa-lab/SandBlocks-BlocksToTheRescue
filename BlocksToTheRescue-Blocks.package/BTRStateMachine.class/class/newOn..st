@@ -1,4 +1,4 @@
-instance creation
+as yet unclassified
 newOn: aBTRStateMachineModel
 
 	^ self basicNew
