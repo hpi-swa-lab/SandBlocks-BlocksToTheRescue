@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"adjustEmbeddedMorphs" : "LM 3/22/2019 16:25",
+		"adjustEmbeddedBlockModels" : "LM 4/10/2019 11:50",
+		"adjustEmbeddedMorphs" : "LM 4/10/2019 11:52",
 		"handleInteraction:fromEvent:" : "LM 3/5/2019 13:29",
 		"invalidRect:from:" : "LM 3/5/2019 16:34",
 		"keyDown:" : "ms 3/29/2019 11:17",
 		"startDragging:onMorph:" : "BD 3/14/2019 15:57",
+		"update:" : "LM 4/10/2019 11:51",
 		"updateFromParagraph" : "LM 3/19/2019 15:20" } }
