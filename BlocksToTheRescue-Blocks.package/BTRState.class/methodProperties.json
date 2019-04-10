@@ -4,9 +4,10 @@
 	"instance" : {
 		"=" : "ms 4/5/2019 11:56",
 		"addTransition:to:" : "ms 4/5/2019 12:13",
+		"handleUnknownTransition:" : "ms 4/10/2019 16:24",
 		"hasTransitionNamed:" : "ms 4/5/2019 12:16",
 		"hash" : "ms 4/5/2019 11:57",
-		"initialize" : "ms 4/10/2019 15:48",
+		"initialize" : "ms 4/10/2019 16:32",
 		"name" : "ms 4/5/2019 10:47",
 		"name:" : "ms 4/5/2019 10:55",
 		"onEnterDo:" : "ms 4/10/2019 15:17",
@@ -32,5 +33,5 @@
 		"transitionNamed:" : "ms 4/10/2019 15:57",
 		"transitions" : "ms 4/5/2019 11:28",
 		"transitions:" : "ms 4/5/2019 11:28",
-		"unknownTransitionHandler" : "ms 4/10/2019 15:02",
+		"unknownTransitionHandler" : "ms 4/10/2019 16:23",
 		"unknownTransitionHandler:" : "ms 4/10/2019 15:02" } }
