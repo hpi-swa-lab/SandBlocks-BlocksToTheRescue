@@ -8,7 +8,6 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"properties",
-		"viewData",
 		"cachedStoreString" ],
 	"name" : "BTRAbstractBlockModel",
 	"pools" : [

@@ -2,4 +2,4 @@ accessing
 anchoredMorph
 
 	self blockModel ifNil: [^ nil].
-	^ anchoredMorph ifNil: [anchoredMorph := self blockModel inlineView]
+	^ anchoredMorph ifNil: [anchoredMorph := self viewForModel: self blockModel]

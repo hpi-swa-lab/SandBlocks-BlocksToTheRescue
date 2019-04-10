@@ -1,12 +1,8 @@
 *BlocksToTheRescue-Core
 acceptDroppingMorph: dropee event: evt inMorph: targetMorph 
-	"Return the dropee to its old position, and add a reference to it at the
-	cursor point."
+	"Create a BlockModel for the dropped morph and insert it into the text."
 	| textWithMorph selectionPosition |
-	textWithMorph :=  Text
-		string: BTRBlockAttribute blockCharacter asString
-		attribute: (BTRBlockAttribute new
-			blockModel: (BTRConstantModel for: dropee)).
+	textWithMorph := BTRBlockAttribute asTextFrom: dropee.
 	selectionPosition := (targetMorph textMorph paragraph
 		characterBlockAtPoint: evt position + targetMorph scroller transform offset) stringIndex.
 	targetMorph setSelection: (selectionPosition to: selectionPosition - 1).
