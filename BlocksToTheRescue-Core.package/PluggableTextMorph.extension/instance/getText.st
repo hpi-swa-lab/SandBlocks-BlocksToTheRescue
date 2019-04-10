@@ -7,5 +7,5 @@ getText
 	newText := (model perform: getTextSelector) asText.
 	newText ifNil: [^Text new].
 	^newText copy
-		runs: newText runsForReplacement;
+		runs: newText runsForReplacement; "Copy the blockmodels when loading the text from the model"
 		yourself
