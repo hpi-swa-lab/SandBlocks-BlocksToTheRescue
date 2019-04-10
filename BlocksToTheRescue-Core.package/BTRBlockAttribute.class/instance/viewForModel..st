@@ -1,6 +1,8 @@
 accessing
 viewForModel: aBTRBlockModel
 
-	^ aBTRBlockModel inlineView
-		setProperty: #BTRBlockModel toValue: aBTRBlockModel;
-		yourself
+	| theView |
+	theView := aBTRBlockModel inlineView.
+	theView isMorph "May be nil"
+		ifTrue: [theView setProperty: #BTRBlockModel toValue: aBTRBlockModel].
+	^ theView
