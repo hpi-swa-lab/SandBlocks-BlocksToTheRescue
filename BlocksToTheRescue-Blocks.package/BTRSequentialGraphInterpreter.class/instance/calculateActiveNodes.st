@@ -1,4 +1,4 @@
-as yet unclassified
+execution
 calculateActiveNodes
 
 	self activeNodes: (self remainingNodes select: 

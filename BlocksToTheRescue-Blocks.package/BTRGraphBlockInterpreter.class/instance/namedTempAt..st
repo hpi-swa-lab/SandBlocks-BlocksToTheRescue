@@ -1,4 +1,4 @@
-as yet unclassified
+context
 namedTempAt: anIndex
 
 	^ self outerContext tempAt: anIndex

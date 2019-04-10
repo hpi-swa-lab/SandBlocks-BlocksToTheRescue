@@ -6,12 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"outerContext",
-		"results",
-		"activeEdges" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"semaphores" ],
+	"name" : "BTRConcurrentGraphInterpreter",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRGraphBlockInterpreter",
 	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activateEdge:with:" : "LB 4/10/2019 14:11",
+		"activateNode:with:" : "LB 4/10/2019 14:10",
+		"execute" : "LB 4/10/2019 14:11",
+		"initializeExecution" : "LB 4/10/2019 14:04",
+		"semaphores" : "LB 4/10/2019 14:03",
+		"semaphores:" : "LB 4/10/2019 14:03",
+		"waitForAll:" : "LB 4/10/2019 14:05",
+		"waitForTermination" : "LB 4/10/2019 14:05" } }

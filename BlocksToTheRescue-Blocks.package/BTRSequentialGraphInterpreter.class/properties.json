@@ -6,12 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"outerContext",
-		"results",
-		"activeEdges" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"activeNodes",
+		"remainingNodes" ],
+	"name" : "BTRSequentialGraphInterpreter",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRGraphBlockInterpreter",
 	"type" : "normal" }
