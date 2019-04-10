@@ -1,8 +1,9 @@
 instance creation
 forObject: anObject
 
-	anObject ifNil: [^ self new].
 	^ anObject isBTRBlockModel 
 		ifTrue: [anObject]
 		ifFalse: 
-			[BTRConstantModel for: anObject].
+			[(Smalltalk at: #BTRConstantModel 
+				ifPresent: [:model | model for: anObject])
+				ifNil: [self error: 'Cannot convert "', anObject, '" into a BTRBlockModel']].
