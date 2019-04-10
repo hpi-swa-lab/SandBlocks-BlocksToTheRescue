@@ -1,4 +1,4 @@
-as yet unclassified
+context
 tempNames
 
-	^ self executionContext tempNames
+	^ self outerContext tempNames

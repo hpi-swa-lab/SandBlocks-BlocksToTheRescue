@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"outerContext",
-		"results",
-		"activeEdges" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"node",
+		"outerContext" ],
+	"name" : "BTRGraphNodeInterpreter",
 	"pools" : [
 		 ],
 	"super" : "Object",

@@ -1,4 +1,4 @@
 accessing
 interpreterClass
 
-	^ BTRGraphBlockInterpreter
+	^ BTRConcurrentGraphInterpreter
