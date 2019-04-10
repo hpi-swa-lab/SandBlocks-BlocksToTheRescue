@@ -1,6 +1,11 @@
 accessing
 value: anObject
 
+	| oldValue |
+	oldValue := value.
 	value := anObject.
-	self changed: #value. "For toolBuilder compliance"
-	self changed.
+	oldValue ~= value
+		ifTrue: [
+			self changed: #value. "For toolBuilder compliance"
+			self changed]
+	
