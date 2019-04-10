@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 index: anInteger
 
 	self value: (anInteger isZero 
