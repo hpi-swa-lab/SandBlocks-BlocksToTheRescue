@@ -4,6 +4,9 @@
 	"instance" : {
 		"abandon" : "LB 3/28/2019 12:07",
 		"addEdge" : "LB 3/28/2019 13:54",
+		"btrScanFromSmart:" : "LB 4/10/2019 15:56",
+		"btrSerializationVersion" : "LB 4/10/2019 15:54",
+		"btrStoreOn:" : "LB 4/10/2019 15:55",
 		"delete" : "LB 3/28/2019 13:50",
 		"getMenu:" : "LB 3/28/2019 13:53",
 		"hasUnacceptedEdits:" : "LB 3/28/2019 13:14",
