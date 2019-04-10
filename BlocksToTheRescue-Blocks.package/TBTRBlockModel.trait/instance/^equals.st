@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = anotherObject
 	
 	"Should be implemented by users if they need a different equals check.
