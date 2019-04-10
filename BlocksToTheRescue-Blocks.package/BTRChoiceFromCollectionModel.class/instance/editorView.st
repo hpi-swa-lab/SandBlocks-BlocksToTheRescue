@@ -1,9 +1,9 @@
-as yet unclassified
+views
 editorView
 
 	^ PluggableListMorph
 		on: self
-		list: #readOnlyCollection
+		list: #collectionLabels
 		selected: #index
 		changeSelected: #index:
 		menu: nil
