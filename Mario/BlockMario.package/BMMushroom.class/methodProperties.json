@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideWithPlatform:info:" : "WoC 4/10/2019 15:30",
+		"collideWithPlatform:info:" : "WoC 4/11/2019 11:39",
 		"decideWhereToGo" : "WoC 4/10/2019 14:13",
 		"defaultForm" : "WoC 4/10/2019 14:30",
 		"direction" : "WoC 4/10/2019 14:31",
 		"direction:" : "WoC 4/10/2019 14:31",
+		"initialize" : "WoC 4/11/2019 11:39",
 		"invertDirection" : "WoC 4/10/2019 14:32",
 		"isNPC" : "WoC 4/10/2019 14:12" } }

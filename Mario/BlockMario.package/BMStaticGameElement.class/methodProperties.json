@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideFromBottom:" : "WoC 4/9/2019 15:01",
-		"collideFromLeft:" : "WoC 4/10/2019 10:54",
-		"collideFromRight:" : "WoC 4/9/2019 16:59",
-		"collideFromTop:" : "WoC 4/9/2019 15:18",
+		"collideFromBottomWith:" : "WoC 4/11/2019 14:51",
+		"collideFromLeftWith:" : "WoC 4/11/2019 14:54",
+		"collideFromRightWith:" : "WoC 4/11/2019 14:53",
+		"collideFromTopWith:" : "WoC 4/11/2019 14:51",
 		"collideWith:info:" : "WoC 4/10/2019 10:34",
 		"wantsGravity" : "BD 4/4/2019 16:15" } }
