@@ -1,4 +1,7 @@
 views
 editorView
 
-	^ BTRMorphEditorMorph new value: self value
+	^ BTRMorphEditorMorph new 
+		value: self value;
+		in: [:editor | editor addDependent: self];
+		yourself
