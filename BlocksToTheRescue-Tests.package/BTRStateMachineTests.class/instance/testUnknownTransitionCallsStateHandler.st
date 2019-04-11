@@ -3,6 +3,7 @@ testUnknownTransitionCallsStateHandler
 
 	| model machine notification |
 	model := self stateChangeModel.
+	(model stateNamed: #start) onUnknownTransitionDo: (self wrapInNotifier: []).
 	machine := model start.
 	[machine transition: #unknownTransition]
 		on: Notification

@@ -4,8 +4,10 @@
 	"instance" : {
 		"currentState" : "ms 4/10/2019 15:25",
 		"currentState:" : "ms 4/10/2019 15:25",
-		"initialize" : "ms 4/10/2019 15:39",
+		"handleUnknownTransition:" : "ms 4/10/2019 16:29",
+		"initialize" : "ms 4/10/2019 16:32",
+		"isTransitionUnlocked:" : "ms 4/10/2019 16:32",
 		"model" : "ms 4/10/2019 15:25",
 		"model:" : "ms 4/10/2019 15:25",
 		"state" : "ms 4/10/2019 15:25",
-		"transition:" : "ms 4/10/2019 16:01" } }
+		"transition:" : "ms 4/10/2019 16:31" } }
