@@ -1,5 +1,5 @@
 accessing
-addTransition: messageSymbol to: targetStateSymbol
+addTransitionNamed: messageSymbol target: targetStateSymbol
 
 	^ self transitions
 		at: messageSymbol

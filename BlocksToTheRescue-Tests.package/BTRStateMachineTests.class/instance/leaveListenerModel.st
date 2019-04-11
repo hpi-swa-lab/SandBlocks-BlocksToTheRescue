@@ -6,7 +6,7 @@ leaveListenerModel
 	model setStart: #start.
 	(model addState: #start)
 		onLeaveDo: (self wrapInNotifier: []);
-		addTransition: #transition to: #target.
+		addTransitionNamed: #transition target: #target.
 	model addState: #target.
 
 	^ model validateStateGraph

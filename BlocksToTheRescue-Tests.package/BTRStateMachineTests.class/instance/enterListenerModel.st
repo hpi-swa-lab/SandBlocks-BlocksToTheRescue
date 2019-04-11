@@ -5,7 +5,7 @@ enterListenerModel
 	model := BTRStateMachineModel new.
 	model setStart: #start.
 	(model addState: #start)
-		addTransition: #transition to: #target.
+		addTransitionNamed: #transition target: #target.
 	(model addState: #target)
 		onEnterDo: (self wrapInNotifier: []).
 
