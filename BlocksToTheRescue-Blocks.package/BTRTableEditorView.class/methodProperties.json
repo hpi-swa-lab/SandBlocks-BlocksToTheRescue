@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"new" : "ee 4/10/2019 13:52",
+		"on:" : "ee 4/11/2019 11:28" },
+	"instance" : {
+		"initialize" : "ee 4/11/2019 14:20",
+		"initializeLayout" : "ee 4/11/2019 14:21",
+		"initializeTableMorph" : "ee 4/11/2019 11:32",
+		"tableModel" : "ee 4/11/2019 11:28",
+		"tableModel:" : "ee 4/11/2019 11:28",
+		"tableMorph" : "ee 4/11/2019 11:33",
+		"tableMorph:" : "ee 4/11/2019 11:33",
+		"tableMorphFrame" : "ee 4/11/2019 14:23" } }

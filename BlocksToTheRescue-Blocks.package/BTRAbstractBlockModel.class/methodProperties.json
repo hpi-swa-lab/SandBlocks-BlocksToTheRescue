@@ -1,7 +1,6 @@
 {
 	"class" : {
 		"allBlockClasses" : "LM 4/4/2019 16:20",
-		"btrReadModelDataFrom:" : "ms 4/8/2019 11:50",
 		"displayName" : "ms 4/8/2019 09:51",
 		"forObject:" : "LM 4/10/2019 11:09",
 		"isAbstract" : "LM 4/1/2019 17:04",
@@ -9,5 +8,15 @@
 	"instance" : {
 		"cachedStoreString" : "LM 4/9/2019 16:45",
 		"cachedStoreString:" : "LM 4/9/2019 16:45",
+		"editorViewData" : "BD 4/11/2019 14:33",
+		"editorViewData:" : "BD 4/11/2019 14:33",
+		"editorViewDataAt:" : "BD 4/11/2019 14:45",
+		"editorViewDataAt:put:" : "BD 4/11/2019 14:36",
 		"inlineView" : "LM 4/4/2019 15:19",
+		"inlineViewData" : "BD 4/11/2019 14:32",
+		"inlineViewData:" : "BD 4/11/2019 14:31",
+		"inlineViewDataAt:" : "BD 4/11/2019 14:45",
+		"inlineViewDataAt:put:" : "BD 4/11/2019 14:34",
+		"properties" : "BD 4/11/2019 14:23",
+		"properties:" : "BD 4/11/2019 14:23",
 		"storeOn:" : "LM 4/10/2019 11:23" } }

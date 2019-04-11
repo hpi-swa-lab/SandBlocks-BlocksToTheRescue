@@ -3,5 +3,5 @@ printOn: aStream
 
 	aStream
 		nextPutAll: 'State[';
-		nextPutAll: self name;
+		nextPutAll: self decoratedName;
 		nextPutAll: ']'.

@@ -1,7 +1,6 @@
 views
 inlineView
 
-	^ BTRTableMorph new
+	^ BTRTableInlineView new
 		blockModel: self;
-		setup;
 		yourself

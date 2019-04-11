@@ -2,8 +2,10 @@ initialization
 initializeLayout
 
 	self
-		color: Color transparent;
-		extent: self defaultExtent;
-		changeProportionalLayout;
-		addMorph: self table fullFrame: self tableFrame;
-		addMorph: self expandButton fullFrame: self expandButtonFrame.
+		color: Color veryLightGray;
+		changeTableLayout;
+		hResizing: #shrinkWrap "#spaceFill";
+		vResizing: #shrinkWrap;
+		extent: self defaultTableExtent;
+		layoutInset: self class defaultLayoutInset;
+		cellInset: self class defaultCellInset.

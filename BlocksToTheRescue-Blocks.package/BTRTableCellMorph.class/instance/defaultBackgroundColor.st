@@ -1,0 +1,4 @@
+layout
+defaultBackgroundColor
+		
+	^ Color white

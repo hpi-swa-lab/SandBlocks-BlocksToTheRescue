@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Table",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"rowIndex",
+		"columnIndex" ],
+	"name" : "BTRTableCell",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing - model
+cellModel
+
+	^ cellModel

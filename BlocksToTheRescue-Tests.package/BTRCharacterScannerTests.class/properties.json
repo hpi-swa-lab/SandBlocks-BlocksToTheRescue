@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"scanner",
+		"text",
+		"textAttribute" ],
+	"name" : "BTRCharacterScannerTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

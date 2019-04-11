@@ -6,7 +6,7 @@ unknownTransitionListenerModel
 	model setStart: #start.
 	(model addState: #start)
 		onUnknownTransitionDo: (self wrapInNotifier: []);
-		addTransition: #transition to: #target.
+		addTransitionNamed: #transition target: #target.
 	model addState: #target.
 
 	^ model validateStateGraph

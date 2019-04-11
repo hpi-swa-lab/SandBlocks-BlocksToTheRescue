@@ -10,5 +10,5 @@
 	"name" : "BTRScannerUsingCompositionTests",
 	"pools" : [
 		 ],
-	"super" : "BTRScannerTests",
+	"super" : "BTRCharacterScannerTests",
 	"type" : "normal" }

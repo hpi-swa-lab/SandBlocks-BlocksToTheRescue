@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Table",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cellModel" ],
+	"name" : "BTRTableCellMorph",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }
