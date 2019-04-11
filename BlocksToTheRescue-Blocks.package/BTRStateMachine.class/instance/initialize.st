@@ -2,7 +2,7 @@ initialize-release
 initialize
 
 	| startState |
-	self unlock.
+	super initialize.
 	startState := self model startState.
 	startState preEnter.
 	self currentState: startState.
