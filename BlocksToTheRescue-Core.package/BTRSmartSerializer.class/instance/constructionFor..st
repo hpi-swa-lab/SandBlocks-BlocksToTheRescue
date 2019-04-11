@@ -1,13 +1,11 @@
 as yet unclassified
 constructionFor: anObject
 	| stream |
-	(Smalltalk globals includes: anObject) ifTrue: [Smalltalk globals keysAndValuesDo: [:key :value | value == anObject ifTrue: [^ '(', key asString , ').']]]. "not keyAtValue: because it uses identity"
-	Smalltalk globals == anObject ifTrue: [^ '(', (anObject asString), ').'].
-	(self isSpecialClass: anObject) ifTrue: [^ '(', (self specialConstructionFor: anObject), ').'].
+	(Smalltalk globals includes: anObject) ifTrue: [Smalltalk globals keysAndValuesDo: [:key :value | value == anObject ifTrue: [^ '(', key asString , ')']]]. "not keyAtValue: because it uses identity"
+	Smalltalk globals == anObject ifTrue: [^ '(', (anObject asString), ')'].
+	(self isSpecialClass: anObject) ifTrue: [^ '(', (self specialConstructionFor: anObject), ')'].
 	stream := BTRSmartStream on: self.
 	anObject storeOn: stream.
-	stream nextPutAll: '. 
-	'.
 	^ stream contents
 	"^ String streamContents: [:aStream |
 			aStream nextPut: $(.

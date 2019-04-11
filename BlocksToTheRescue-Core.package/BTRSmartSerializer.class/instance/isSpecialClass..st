@@ -1,4 +1,4 @@
 as yet unclassified
 isSpecialClass: anObject
 	
-	^ anObject inheritsFromAnyIn: {CompiledMethod}
+	^ anObject inheritsFromAnyIn: {Association. CompiledMethod}
