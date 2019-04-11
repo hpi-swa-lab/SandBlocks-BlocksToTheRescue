@@ -2,7 +2,7 @@ instance creation
 on: aBTRTableCell
 
 	^ self basicNew
-		cellModel: aBTRTableCell;
+		model: aBTRTableCell;
 		in: [:instance | aBTRTableCell addDependent: instance];
 		initialize;
 		yourself
