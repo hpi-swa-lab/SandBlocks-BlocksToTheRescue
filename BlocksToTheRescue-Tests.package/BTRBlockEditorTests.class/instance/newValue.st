@@ -1,4 +1,4 @@
 accessing
 newValue
 
-	^ #V2;BTRColorModel;32;Constant1;Color;1E;1;(Color r: 0.0 g: 0.829 b: 1);;
+	^ #V2;BTRColorModel;32;Constant1;Color;1E;1;(Color r: 0.0 g: 0.829 b: 1);;.
