@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"acceleration",
-		"state" ],
-	"name" : "BMMario",
+		 ],
+	"name" : "BMFireFlower",
 	"pools" : [
 		 ],
-	"super" : "BMGameObject",
+	"super" : "BMCollectable",
 	"type" : "normal" }

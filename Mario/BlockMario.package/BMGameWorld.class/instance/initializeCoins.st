@@ -1,7 +1,7 @@
 initialization
 initializeCoins
 
-	| coin mushroom |
+	| coin mushroom fireflower|
 	"coin := BMCoin new 
 					relativePosition: 150 @ (self height - 150);
 					yourself.
@@ -13,3 +13,9 @@ initializeCoins
 							yourself.
 	self addGameObject: mushroom.
 	self addMorph: mushroom.
+	
+	fireflower := BMFireFlower new
+								relativePosition: 50 @ (100);
+								yourself.
+	self addGameObject: fireflower.
+	self addMorph: fireflower.

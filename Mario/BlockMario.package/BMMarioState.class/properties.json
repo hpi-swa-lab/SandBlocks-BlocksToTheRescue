@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"acceleration",
-		"state" ],
-	"name" : "BMMario",
+		 ],
+	"name" : "BMMarioState",
 	"pools" : [
 		 ],
-	"super" : "BMGameObject",
+	"super" : "Object",
 	"type" : "normal" }

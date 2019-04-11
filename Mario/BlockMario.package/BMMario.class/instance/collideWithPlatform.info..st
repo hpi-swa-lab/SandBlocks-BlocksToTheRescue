@@ -1,7 +1,6 @@
 collision
 collideWithPlatform: aBMPlatform info: aBMCollisionEvent
 
-	Transcript showln: aBMCollisionEvent direction.
 	aBMCollisionEvent direction caseOf: {
 		[#left] -> [ | y | 
 						self velocity y > 0

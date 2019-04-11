@@ -1,0 +1,4 @@
+collecting
+collectMushroomFor: aBMMario
+
+	
