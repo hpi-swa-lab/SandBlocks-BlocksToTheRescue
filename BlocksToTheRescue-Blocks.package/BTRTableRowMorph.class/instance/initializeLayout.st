@@ -6,5 +6,5 @@ initializeLayout
 		changeTableLayout;
 		listDirection: #leftToRight;
 		hResizing: #spaceFill; 
-		vResizing: #spaceFill;
+		vResizing: #shrinkWrap;
 		cellInset: BTRTableMorph defaultCellInset.
