@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"btrScanFromConstant1:" : "LM 3/22/2019 15:19",
+		"btrScanFromConstant1:" : "BD 4/11/2019 15:20",
 		"convertMethod:" : "LB 4/9/2019 17:15",
 		"for:" : "LM 3/22/2019 14:46",
 		"previewIcon" : "LM 4/4/2019 14:09",
@@ -8,7 +8,7 @@
 	"instance" : {
 		"=" : "BD 4/1/2019 10:21",
 		"btrSerializationVersion" : "LM 3/22/2019 15:10",
-		"btrStoreOn:" : "LM 3/22/2019 15:28",
+		"btrStoreOn:" : "BD 4/11/2019 15:20",
 		"buildWindowFreeInspector" : "LM 3/26/2019 10:56",
 		"defaultValue" : "LM 3/22/2019 14:24",
 		"hash" : "BD 4/1/2019 10:20",
