@@ -1,4 +1,4 @@
-as yet unclassified
+layout
 doLayoutIn: newBounds
 
 	self viewPort extent: (self value extent + self border  max: newBounds extent). 

@@ -2,18 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptDroppingMorph:event:" : "LB 3/7/2019 15:05",
+		"acceptDroppingMorph:event:" : "LB 4/11/2019 16:12",
 		"border" : "LB 4/11/2019 13:50",
 		"doLayoutIn:" : "LB 4/11/2019 14:19",
-		"editor" : "LB 3/7/2019 14:00",
-		"editor:" : "LB 3/7/2019 14:00",
 		"hasUnacceptedEdits" : "LB 4/11/2019 15:39",
-		"initialize" : "LB 4/11/2019 14:38",
+		"initialize" : "LB 4/11/2019 16:18",
 		"morphClass" : "LB 4/11/2019 13:37",
 		"setMorph:" : "LB 4/11/2019 13:33",
-		"update" : "LB 3/8/2019 10:56",
 		"update:" : "LB 4/11/2019 15:40",
-		"value" : "LB 4/11/2019 13:33",
+		"value" : "LB 4/11/2019 16:09",
 		"value:" : "LB 3/8/2019 11:14",
 		"valueChanged" : "LB 3/8/2019 11:09",
 		"viewPort" : "LB 4/11/2019 13:37" } }

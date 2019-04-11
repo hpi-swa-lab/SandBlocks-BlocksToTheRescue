@@ -1,4 +1,5 @@
-morph
+as yet unclassified
 acceptDroppingMorph: aMorph event: anEvent
 
-	^ self submorphs isEmpty
+	aMorph position: (self scroller transform globalPointToLocal: aMorph position).
+	self value acceptDroppingMorph: aMorph event: anEvent.
