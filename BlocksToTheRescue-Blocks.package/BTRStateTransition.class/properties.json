@@ -12,5 +12,5 @@
 	"name" : "BTRStateTransition",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractLockable",
 	"type" : "normal" }

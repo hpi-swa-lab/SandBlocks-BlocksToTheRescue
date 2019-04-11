@@ -11,5 +11,5 @@
 	"name" : "BTRStateMachine",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractLockable",
 	"type" : "normal" }

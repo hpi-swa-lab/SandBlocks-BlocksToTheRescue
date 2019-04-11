@@ -1,4 +1,4 @@
 evaluating
 start
 
-	^ BTRStateMachine newOn: self
+	^ self defaultStateMachineClass newOn: self

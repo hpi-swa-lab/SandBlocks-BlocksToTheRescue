@@ -1,7 +1,11 @@
 tests
 testTransitionCallsLeave
 
-	self theMachine currentState: (self theMachine model stateNamed: #leaveListenerState).
-	self assert: [[self theMachine transition: #transition. false]
+	| model machine notification |
+	model := self leaveListenerModel.
+	machine := model start.
+	[machine transition: #transition]
 		on: Notification
-		do: [ :enterNot | (enterNot messageText at: #transition) = #leave]].
+		do: [ :not | notification := not].
+	self assert: notification isNil not.
+	self assert: #postLeave equals: (notification messageText at: #transition).

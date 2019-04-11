@@ -1,11 +1,16 @@
-evaluating
+running
 transition: aSymbol
 
-	| transition newState |
-	transition := self currentState transitions
-		at: aSymbol
-		ifAbsent: [ ^ BTRInvalidStateMachineException signal: 'Unknown transition "', aSymbol, '"' ].
-	newState := self model stateNamed: transition targetStateName.
-	self currentState leave.
-	self currentState: newState.
-	self currentState enter.
+	(self currentState hasTransitionNamed: aSymbol)
+		ifTrue: [(self currentState transitionNamed: aSymbol)
+			in: [:transition | | newState oldState |
+				newState := (self model stateNamed: transition targetStateName).
+				oldState := self currentState.
+				(self isTransitionUnlocked: transition) ifTrue:  [
+					oldState preLeave.
+					newState preEnter.
+					self currentState: newState.
+					oldState postLeave.
+					newState postEnter]]
+				]
+		ifFalse: [self handleUnknownTransition: aSymbol].

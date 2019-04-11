@@ -1,8 +1,13 @@
 tests
 testTransitionChangesState
 
-	self theMachine currentState: (self theMachine model stateNamed: #start).
-	self theMachine transition: #foo.
+	| model machine |
+	model := self stateChangeModel.
+	machine := model start.
 	self
-		assert: (self theMachine model stateNamed: #someTargetNode)
-		equals: self theMachine currentState.
+		assert: #start
+		equals: machine currentState name.
+	machine transition: #transition.
+	self
+		assert: #target
+		equals: machine currentState name.

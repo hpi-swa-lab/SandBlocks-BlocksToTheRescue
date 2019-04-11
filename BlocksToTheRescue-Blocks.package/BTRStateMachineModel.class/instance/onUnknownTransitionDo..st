@@ -1,0 +1,3 @@
+accessing
+onUnknownTransitionDo: aBlockClosure
+	self unknownTransitionHandler: aBlockClosure.

@@ -1,3 +1,3 @@
 accessing
 onLeaveDo: aBlockClosure
-	onLeaveDo := aBlockClosure
+	self postLeaveDo: aBlockClosure.

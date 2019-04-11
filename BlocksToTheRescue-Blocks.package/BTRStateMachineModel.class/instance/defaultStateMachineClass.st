@@ -1,0 +1,4 @@
+accessing
+defaultStateMachineClass
+
+	^ BTRStateMachine

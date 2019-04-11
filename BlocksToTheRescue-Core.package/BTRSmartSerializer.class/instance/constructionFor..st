@@ -6,7 +6,8 @@ constructionFor: anObject
 	(self isSpecialClass: anObject) ifTrue: [^ '(', (self specialConstructionFor: anObject), ').'].
 	stream := BTRSmartStream on: self.
 	anObject storeOn: stream.
-	stream nextPut: $..
+	stream nextPutAll: '. 
+	'.
 	^ stream contents
 	"^ String streamContents: [:aStream |
 			aStream nextPut: $(.

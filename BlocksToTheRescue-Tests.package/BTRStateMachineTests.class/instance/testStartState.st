@@ -1,6 +1,9 @@
 tests
 testStartState
 
+	| model machine |
+	model := self startOnlyModel.
+	machine := model start.
 	self
-		assert: self theMachine model startState
-		equals: self theMachine state.
+		assert: model startState
+		equals: machine state.
