@@ -9,5 +9,5 @@ readBlock
 		ifFalse: [startOfToken := startOfToken - initalPosition + 1].
 	 ^ ((source contents asText attributesAt: startOfToken) 
 		detect: [:each | each blockModel notNil]
-		ifNone: [self expected: 'BlockModel'. nil])
+		ifNone: [^ self expected: 'BlockModel'])
 			blockModel
