@@ -2,13 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideFromBottom:" : "WoC 4/8/2019 16:29",
-		"collideFromLeft:" : "WoC 4/8/2019 16:29",
-		"collideFromRight:" : "WoC 4/8/2019 16:29",
-		"collideFromTop:" : "WoC 4/8/2019 16:28",
-		"collideWith:" : "WoC 4/8/2019 16:28",
-		"collideWithGumba:" : "WoC 4/8/2019 14:16",
-		"collideWithMario:" : "WoC 4/8/2019 14:15",
-		"collideWithPlatform:" : "BD 4/4/2019 16:23",
-		"foo:" : "WoC 4/8/2019 22:22",
+		"collideFromBottom:" : "WoC 4/9/2019 15:01",
+		"collideFromLeft:" : "WoC 4/10/2019 10:54",
+		"collideFromRight:" : "WoC 4/9/2019 16:59",
+		"collideFromTop:" : "WoC 4/9/2019 15:18",
+		"collideWith:info:" : "WoC 4/10/2019 10:34",
 		"wantsGravity" : "BD 4/4/2019 16:15" } }

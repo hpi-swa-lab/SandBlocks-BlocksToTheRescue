@@ -7,12 +7,14 @@ initialize
 		gameObjects: OrderedCollection new;
 		keyboardListener: DNMKeyboardListener new;
 		physics: BMPhysics new;
+		npcs: OrderedCollection new;
 		initializeStyle;
 		initializeBackground;
 		initializeGround;
 		initializePlatforms;
 		initializeMario;
-		initializeGumbas;
+		initializeCoins;
+		"initializeGumbas;"
 		drawGameObjects;
 		startStepping.
 	

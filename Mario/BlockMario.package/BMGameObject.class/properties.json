@@ -9,8 +9,7 @@
 		"state",
 		"relativePosition",
 		"velocity",
-		"isJumping",
-		"foo" ],
+		"isJumping" ],
 	"name" : "BMGameObject",
 	"pools" : [
 		 ],

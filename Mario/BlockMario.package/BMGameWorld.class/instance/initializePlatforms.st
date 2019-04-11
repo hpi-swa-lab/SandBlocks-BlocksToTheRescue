@@ -6,5 +6,5 @@ initializePlatforms
 			| platform |
 			platform := BMPlatform new.
 			self addMorph:
-				(platform relativePosition: (platform width * each + 300) @ (self height atRandom)).
+				(platform relativePosition: (platform width * each + 300) @ (self height -150)).
 			self addGameObject: platform.]

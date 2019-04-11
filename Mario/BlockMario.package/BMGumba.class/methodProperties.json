@@ -2,11 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideWith:" : "WoC 4/8/2019 14:09",
-		"collideWithMario:" : "WoC 4/5/2019 13:49",
-		"collideWithPlatform:" : "BD 4/5/2019 11:49",
+		"collideWithMario:info:" : "WoC 4/10/2019 11:22",
+		"decideWhereToGo" : "WoC 4/9/2019 14:45",
 		"defaultForm" : "BD 4/5/2019 11:50",
 		"defaultHorizontalMovement" : "BD 4/5/2019 11:51",
 		"defaultVerticalMovement" : "BD 4/5/2019 11:51",
-		"initialize" : "WoC 4/5/2019 16:43",
-		"isNPC" : "WoC 4/5/2019 14:27" } }
+		"initialize" : "WoC 4/9/2019 14:45" } }

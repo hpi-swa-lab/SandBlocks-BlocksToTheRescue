@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMCoin",
+	"pools" : [
+		 ],
+	"super" : "BMCollectable",
+	"type" : "normal" }

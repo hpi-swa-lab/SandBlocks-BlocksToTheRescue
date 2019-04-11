@@ -1,0 +1,2 @@
+collision
+collideWithPlatform: aBMPlatform info: aBMCollisionEvent

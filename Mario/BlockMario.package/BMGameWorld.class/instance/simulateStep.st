@@ -1,4 +1,4 @@
 stepping and presenter
 simulateStep
 
-	self physics simulateStep.
+	self physics simulateStepNear: self offset.

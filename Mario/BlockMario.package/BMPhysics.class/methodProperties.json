@@ -4,14 +4,20 @@
 	"instance" : {
 		"addMovingObject:" : "WoC 4/8/2019 11:40",
 		"addStaticObject:" : "WoC 4/8/2019 11:40",
+		"applyCollisionsNear:" : "WoC 4/9/2019 14:57",
 		"applyGravity" : "WoC 4/8/2019 12:03",
+		"gameObjectsFrom:near:" : "WoC 4/9/2019 12:07",
 		"gravity" : "WoC 4/8/2019 11:36",
 		"initialize" : "WoC 4/8/2019 14:24",
+		"let:collideWith:" : "WoC 4/9/2019 13:59",
 		"maxCollisionNumberAtSameTime" : "WoC 4/9/2019 09:53",
+		"moveGameObjects" : "WoC 4/9/2019 12:10",
 		"movingGameObjects" : "WoC 4/8/2019 11:38",
 		"movingGameObjects:" : "WoC 4/8/2019 11:38",
 		"nearestObjectFrom:to:" : "WoC 4/9/2019 09:57",
-		"simulateStep" : "WoC 4/9/2019 10:37",
-		"simulateStepAt:" : "WoC 4/9/2019 10:37",
+		"possibleCollisionsOf:with:" : "WoC 4/9/2019 13:41",
+		"simulateStepNear:" : "WoC 4/10/2019 15:17",
 		"staticGameObjects" : "WoC 4/8/2019 11:38",
-		"staticGameObjects:" : "WoC 4/8/2019 11:38" } }
+		"staticGameObjects:" : "WoC 4/8/2019 11:38",
+		"threshold" : "LB 4/11/2019 10:41",
+		"tryToApplyCollisionOf:and:" : "WoC 4/10/2019 15:28" } }

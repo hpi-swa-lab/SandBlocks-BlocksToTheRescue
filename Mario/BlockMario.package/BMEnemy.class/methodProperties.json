@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collideWith:info:" : "WoC 4/10/2019 10:58",
+		"collideWithMario:info:" : "WoC 4/10/2019 11:22",
+		"collideWithPlatform:info:" : "WoC 4/10/2019 11:20",
+		"decideWhereToGo" : "WoC 4/9/2019 15:08",
+		"direction" : "WoC 4/10/2019 10:42",
+		"direction:" : "WoC 4/10/2019 10:42",
+		"invertDirection" : "WoC 4/10/2019 14:32",
+		"isNPC" : "WoC 4/9/2019 14:37" } }
