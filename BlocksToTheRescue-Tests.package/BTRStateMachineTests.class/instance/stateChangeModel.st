@@ -5,7 +5,8 @@ stateChangeModel
 	model := BTRStateMachineModel new.
 	model setStart: #start.
 	(model addState: #start)
-		addTransition: #transition to: #target.
+		addTransitionNamed: #transition target: #target;
+		addTransitionNamed: #reset target: #start.
 	model addState: #target.
 
 	^ model validateStateGraph

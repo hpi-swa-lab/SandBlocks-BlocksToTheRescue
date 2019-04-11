@@ -1,4 +1,6 @@
 accessing
-setStart: aSymbol
+setStart: aBTRStateOrSymbol
 
-	self startStateName: aSymbol.
+	self startStateName: (aBTRStateOrSymbol isSymbol
+		ifTrue: [aBTRStateOrSymbol]
+		ifFalse: [aBTRStateOrSymbol name]).

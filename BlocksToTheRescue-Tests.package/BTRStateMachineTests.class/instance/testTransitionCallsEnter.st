@@ -6,6 +6,6 @@ testTransitionCallsEnter
 	machine := model start.
 	[machine transition: #transition]
 		on: Notification
-		do: [ :not | notification := not].
+		do: [:not | notification := not].
 	self assert: notification isNil not.
 	self assert: #postEnter equals: (notification messageText at: #transition).

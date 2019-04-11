@@ -2,4 +2,4 @@ running
 postLeave
 
 	^ self postStateLeaveHandler ifNotNil: [:do |
-		do valueWithPossibleArgs: {self. #postLeave}]
+		do valueWithPossibleArgs: {#postLeave. self}]
