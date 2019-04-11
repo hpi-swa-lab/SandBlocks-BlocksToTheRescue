@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"collideWithPlatform:info:" : "WoC 4/11/2019 11:39",
-		"decideWhereToGo" : "WoC 4/10/2019 14:13",
+		"collideWith:info:" : "WoC 4/11/2019 15:38",
+		"collideWithMario:info:" : "WoC 4/11/2019 15:39",
+		"collideWithPlatform:info:" : "WoC 4/11/2019 15:35",
+		"decideWhereToGo" : "WoC 4/11/2019 15:33",
 		"defaultForm" : "WoC 4/10/2019 14:30",
 		"direction" : "WoC 4/10/2019 14:31",
 		"direction:" : "WoC 4/10/2019 14:31",
