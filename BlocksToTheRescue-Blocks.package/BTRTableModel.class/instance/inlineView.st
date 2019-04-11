@@ -1,6 +1,4 @@
 views
 inlineView
 
-	^ BTRTableInlineView new
-		blockModel: self;
-		yourself
+	^ BTRTableInlineView on: self
