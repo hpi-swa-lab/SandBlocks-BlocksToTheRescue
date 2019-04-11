@@ -1,7 +1,11 @@
 {
 	"class" : {
 		"new" : "ee 4/10/2019 13:52",
-		"on:" : "ee 4/10/2019 13:53" },
+		"on:" : "ee 4/11/2019 11:28" },
 	"instance" : {
-		"table" : "ee 4/10/2019 13:54",
-		"table:" : "ee 4/10/2019 13:54" } }
+		"initialize" : "ee 4/11/2019 11:31",
+		"initializeTableMorph" : "ee 4/11/2019 11:32",
+		"tableModel" : "ee 4/11/2019 11:28",
+		"tableModel:" : "ee 4/11/2019 11:28",
+		"tableMorph" : "ee 4/11/2019 11:33",
+		"tableMorph:" : "ee 4/11/2019 11:33" } }

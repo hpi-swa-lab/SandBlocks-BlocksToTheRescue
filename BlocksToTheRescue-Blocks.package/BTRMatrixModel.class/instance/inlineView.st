@@ -1,7 +1,7 @@
 views
 inlineView
 
-	^ BTRTableMorph new
+	^ BTRMatrixMorph new
 		blockModel: self;
 		setup;
 		yourself

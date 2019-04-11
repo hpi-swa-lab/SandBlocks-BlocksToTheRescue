@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"tableModel",
-		"rowMorphs" ],
-	"name" : "BTRTableMorph",
+		"cellModel" ],
+	"name" : "BTRTableCellMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "TextMorph",
 	"type" : "normal" }
