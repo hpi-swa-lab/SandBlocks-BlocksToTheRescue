@@ -1,7 +1,7 @@
-morph
+initialization
 setMorph: aMorph
 
-	^ self submorphs isEmpty ifTrue: 
-		[self 
+	^ self viewPort submorphs isEmpty ifTrue: 
+		[self viewPort 
 			addMorph: aMorph.
 		aMorph addDependent: self].
