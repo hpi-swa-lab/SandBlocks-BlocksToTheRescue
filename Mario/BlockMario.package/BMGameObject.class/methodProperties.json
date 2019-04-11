@@ -18,6 +18,7 @@
 		"collideWithMario:info:" : "WoC 4/11/2019 15:24",
 		"collideWithMushroom:info:" : "WoC 4/11/2019 15:36",
 		"collideWithPlatform:info:" : "WoC 4/11/2019 15:35",
+		"collisionRadius" : "LB 4/11/2019 10:36",
 		"defaultForm" : "BD 4/4/2019 14:24",
 		"deltaTo:" : "WoC 4/8/2019 15:33",
 		"die" : "WoC 4/10/2019 10:56",

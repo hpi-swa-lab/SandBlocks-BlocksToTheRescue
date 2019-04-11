@@ -2,5 +2,8 @@
 	"class" : {
 		"worksForObject:" : "LM 3/22/2019 14:30" },
 	"instance" : {
-		"defaultValue" : "LM 3/22/2019 16:10",
-		"inlineView" : "LM 3/22/2019 15:32" } }
+		"defaultValue" : "LB 4/11/2019 11:52",
+		"editorView" : "LB 4/11/2019 15:36",
+		"inlineView" : "LM 3/22/2019 15:32",
+		"morphClass" : "LB 4/11/2019 11:52",
+		"update:" : "LB 4/11/2019 15:36" } }

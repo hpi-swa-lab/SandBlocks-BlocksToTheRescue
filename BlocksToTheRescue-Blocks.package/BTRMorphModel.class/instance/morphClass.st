@@ -1,4 +1,4 @@
 as yet unclassified
-update
+morphClass
 
-	self halt.
+	^ Morph

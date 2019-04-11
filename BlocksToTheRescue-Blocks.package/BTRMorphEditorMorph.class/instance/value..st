@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 value: aMorph
 
 	self setMorph: aMorph.

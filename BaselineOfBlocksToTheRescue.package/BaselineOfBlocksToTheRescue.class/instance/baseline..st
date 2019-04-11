@@ -9,7 +9,7 @@ baseline: spec
 			spec 
 				package: 'BlocksToTheRescue-Core' with: [spec postLoadDoIt: #initializeScanner];
 				package: 'BlocksToTheRescue-Blocks' with: [spec requires: #('BlocksToTheRescue-Core')];
-				package: 'BlocksToTheRescue-StringHolders' with: [spec requires: #('BlocksToTheRescue-Core')];
+				package: 'BlocksToTheRescue-StringHolders' with: [spec requires: #('BlocksToTheRescue-Blocks')];
 				package: 'BlocksToTheRescue-Examples' with: [spec requires: #('BlocksToTheRescue-Blocks')];
 				package: 'BlocksToTheRescue-Autocompletion' with: [spec requires: #('BlocksToTheRescue-Blocks' 'Autocompletion')];
 				package: 'BlocksToTheRescue-Tests' with: [spec requires: #('BlocksToTheRescue-Core' 'BlocksToTheRescue-StringHolders' 'BlocksToTheRescue-Blocks')].

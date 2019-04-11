@@ -4,7 +4,7 @@ initializeLayout
 	self
 		color: Color veryLightGray;
 		changeTableLayout;
-		hResizing: #shrinkWrap "#spaceFill";
+		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
 		extent: self defaultTableExtent;
 		layoutInset: self class defaultLayoutInset;

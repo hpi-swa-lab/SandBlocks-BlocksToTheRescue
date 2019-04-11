@@ -1,4 +1,4 @@
 as yet unclassified
 defaultValue
 
-	^ Morph new
+	^ self morphClass new
