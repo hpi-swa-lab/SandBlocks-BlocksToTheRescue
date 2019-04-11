@@ -2,4 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self initializeTableMorph.
+	self 
+		initializeTableMorph
+		initializeLayout.
