@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"editor" ],
+		"editor",
+		"viewPort" ],
 	"name" : "BTRMorphEditorMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRTiledBackgroundMorph",
+	"super" : "PluggableScrollPane",
 	"type" : "normal" }

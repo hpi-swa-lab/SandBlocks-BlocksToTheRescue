@@ -1,7 +1,7 @@
 as yet unclassified
 value
 
-	^ (self submorphs 
+	^ (self viewPort submorphs 
 		at: 1
 		ifAbsent: [self setMorph: Morph new])
 			copy

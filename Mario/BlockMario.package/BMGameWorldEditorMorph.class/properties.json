@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMGameWorldEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRMorphEditorMorph",
+	"type" : "normal" }
