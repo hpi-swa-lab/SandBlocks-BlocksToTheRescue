@@ -1,7 +1,7 @@
 directed collision
-collideFromBottom: aBMGameObject
+collideFromTopWith: aBMGameObject
 
-	aBMGameObject collideWith: self info: (BMCollisionEvent new 
+	self collideWith: aBMGameObject info: (BMCollisionEvent new 
 															direction: #bottom; 
 															collidee: self; 
 															yourself)
