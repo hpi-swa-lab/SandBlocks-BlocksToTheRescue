@@ -1,0 +1,4 @@
+defaults
+defaultCellWidth
+
+	^ 60

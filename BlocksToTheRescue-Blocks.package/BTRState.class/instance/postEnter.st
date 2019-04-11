@@ -2,4 +2,4 @@ running
 postEnter
 
 	^ self postStateEnterHandler ifNotNil: [:do |
-		do valueWithPossibleArgs: {self. #postEnter}]
+		do valueWithPossibleArgs: {#postEnter. self}]

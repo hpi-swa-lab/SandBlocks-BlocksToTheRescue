@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultCellHeight" : "ee 4/11/2019 13:49",
+		"defaultCellWidth" : "ee 4/11/2019 13:48",
+		"new" : "ee 4/11/2019 13:36",
+		"on:" : "ee 4/11/2019 13:37" },
+	"instance" : {
+		"cellModel" : "ee 4/11/2019 13:37",
+		"cellModel:" : "ee 4/11/2019 13:38",
+		"columnIndex" : "ee 4/11/2019 13:43",
+		"defaultBackgroundColor" : "ee 4/11/2019 13:55",
+		"initialize" : "ee 4/11/2019 14:03",
+		"initializeLayout" : "ee 4/11/2019 14:02",
+		"initializeText" : "ee 4/11/2019 14:04",
+		"rowIndex" : "ee 4/11/2019 13:43" } }

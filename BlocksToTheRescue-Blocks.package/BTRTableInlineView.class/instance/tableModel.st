@@ -1,0 +1,4 @@
+accessing
+tableModel
+
+	^ self blockModel

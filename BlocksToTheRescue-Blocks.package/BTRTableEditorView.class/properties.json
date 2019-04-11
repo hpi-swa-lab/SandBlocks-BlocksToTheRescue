@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Table",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tableModel",
+		"tableMorph" ],
+	"name" : "BTRTableEditorView",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

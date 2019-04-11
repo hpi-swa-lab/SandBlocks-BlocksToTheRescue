@@ -1,16 +1,15 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Blocks-Table",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"expandButton",
-		"rows",
-		"table" ],
+		"tableModel",
+		"rowMorphs" ],
 	"name" : "BTRTableMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "Morph",
 	"type" : "normal" }

@@ -4,10 +4,15 @@
 	"instance" : {
 		"currentState" : "ms 4/10/2019 15:25",
 		"currentState:" : "ms 4/10/2019 15:25",
-		"handleUnknownTransition:" : "ms 4/10/2019 16:29",
-		"initialize" : "ms 4/10/2019 16:32",
+		"handleUnknownTransition:" : "ms 4/11/2019 14:05",
+		"initialize" : "ms 4/11/2019 11:12",
+		"isInStateNamed:" : "ms 4/11/2019 13:33",
 		"isTransitionUnlocked:" : "ms 4/10/2019 16:32",
 		"model" : "ms 4/10/2019 15:25",
 		"model:" : "ms 4/10/2019 15:25",
+		"reset" : "ms 4/11/2019 11:12",
 		"state" : "ms 4/10/2019 15:25",
-		"transition:" : "ms 4/10/2019 16:31" } }
+		"transition:" : "ms 4/11/2019 13:54",
+		"transitionTo:" : "ms 4/11/2019 13:53",
+		"transitionToState:" : "ms 4/11/2019 13:53",
+		"transitionToSymbol:" : "ms 4/11/2019 13:53" } }

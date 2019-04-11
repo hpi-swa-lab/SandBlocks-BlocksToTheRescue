@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parser" : "BD 4/11/2019 13:25",
+		"parser:" : "BD 4/11/2019 13:25",
+		"setUp" : "BD 4/11/2019 13:26",
+		"testParseSelectorWithBlockModel" : "BD 4/11/2019 13:34",
+		"testParseSelectorWithMissingBlockModel" : "BD 4/11/2019 13:30" } }

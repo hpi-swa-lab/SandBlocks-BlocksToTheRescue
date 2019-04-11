@@ -2,4 +2,4 @@ running
 preLeave
 
 	^ self preStateLeaveHandler ifNotNil: [:do |
-		do valueWithPossibleArgs: {self. #preLeave}]
+		do valueWithPossibleArgs: {#preLeave. self}]
