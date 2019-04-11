@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
@@ -7,3 +7,4 @@ initialize
 	self viewPort addDependent: self.
 	self scroller addMorph: self viewPort.
 	self showScrollBarsOnlyWhenNeeded.
+	self dropEnabled: true.

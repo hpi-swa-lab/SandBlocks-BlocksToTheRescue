@@ -1,4 +1,4 @@
-morph
+initialization
 setMorph: aMorph
 
 	^ self viewPort submorphs isEmpty ifTrue: 
