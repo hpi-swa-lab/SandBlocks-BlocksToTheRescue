@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rows",
-		"columns" ],
-	"name" : "BTRTableModel",
+		"table" ],
+	"name" : "BTRTableEditorView",
 	"pools" : [
 		 ],
-	"super" : "BTRConstantModel",
+	"super" : "Morph",
 	"type" : "normal" }

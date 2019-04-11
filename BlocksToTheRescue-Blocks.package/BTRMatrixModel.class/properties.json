@@ -1,14 +1,13 @@
 {
-	"category" : "BlocksToTheRescue-Blocks-Table",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rows",
-		"columns" ],
-	"name" : "BTRTableModel",
+		"matrix" ],
+	"name" : "BTRMatrixModel",
 	"pools" : [
 		 ],
 	"super" : "BTRConstantModel",

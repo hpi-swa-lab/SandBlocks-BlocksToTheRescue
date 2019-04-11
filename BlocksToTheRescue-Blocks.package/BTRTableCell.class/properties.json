@@ -6,10 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rows",
-		"columns" ],
-	"name" : "BTRTableModel",
+		"value",
+		"rowIndex",
+		"columnIndex" ],
+	"name" : "BTRTableCell",
 	"pools" : [
 		 ],
-	"super" : "BTRConstantModel",
+	"super" : "Model",
 	"type" : "normal" }
