@@ -3,7 +3,7 @@ testCreationForMorph
 
 	| model |
 	model := BTRConstantModel for: #V2;BTRMorphModel;ADD;Constant1;Morph;AC8;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
-3*dYFDBLYg+@0seBl"nI0JPR1@<<VP3\rNP1G^.^D'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
+3*dYFDBLYg+@0seBl"nI0JPR1@<<VP3]/TP1H$@aD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
 BjkglH=\6/%1NaiF(K0"+EMC.Ecb2jAlEelARTF!"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"
 !!!!$"q!b4@ruF'DIIR2"98E%)@-<C!%S'V!!!!$"q*_<F)PQ&@<?4%D?^>;DKKH&ATA%V!!!$&
 z#ljr*!t##.!'CGt6#q!SH"CMRDes6$@ruF'D?p4B!!*3&!!!!*!!!!$$31&+49c9iDfTf17<ioc
