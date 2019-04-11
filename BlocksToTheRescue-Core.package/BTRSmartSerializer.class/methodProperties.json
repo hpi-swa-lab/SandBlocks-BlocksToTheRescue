@@ -3,11 +3,11 @@
 		"deserialize:" : "LB 4/10/2019 15:55",
 		"serialize:" : "LB 4/2/2019 13:41" },
 	"instance" : {
-		"constructionFor:" : "LB 4/11/2019 09:30",
+		"constructionFor:" : "LB 4/11/2019 10:02",
 		"constructions" : "LB 4/2/2019 13:06",
 		"constructions:" : "LB 4/2/2019 13:06",
 		"deserialize:" : "LB 4/2/2019 13:41",
-		"fullSerialize:" : "LB 4/11/2019 09:47",
+		"fullSerialize:" : "LB 4/11/2019 09:58",
 		"initialize" : "LB 4/2/2019 13:22",
 		"isSpecialClass:" : "LB 4/11/2019 09:42",
 		"nextId" : "LB 4/2/2019 13:04",
@@ -19,6 +19,6 @@
 		"shouldBeSerializedAsLiteral:" : "LB 4/11/2019 09:47",
 		"specialConstructionFor:" : "LB 4/11/2019 09:47",
 		"storeAssociation:" : "LB 4/11/2019 09:48",
-		"stringReferenceTo:" : "LB 4/4/2019 10:50",
+		"stringReferenceTo:" : "LB 4/11/2019 09:57",
 		"toResolve" : "LB 4/2/2019 13:22",
 		"toResolve:" : "LB 4/2/2019 13:22" } }
