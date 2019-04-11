@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"line" ],
-	"name" : "BTRScannerUsingCompositionTests",
+		 ],
+	"name" : "BTRCompilerTests",
 	"pools" : [
 		 ],
-	"super" : "BTRCharacterScannerTests",
+	"super" : "TestCase",
 	"type" : "normal" }

@@ -7,14 +7,14 @@ testCompileIt
 	| resultingMorph selector newExtent |
 	selector := self temporaryMethodSelector.
 	newExtent := self newMorphExtent.
-
+	
 	self class
 		compile: 
 			(Text withAll: selector asString, String crlfcrlf, '	^ '),
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new blockModel: (BTRConstantModel for: Morph new))),
+			(BTRBlockAttribute asTextFrom: (BTRConstantModel for: Morph new)),
 			(Text withAll: ' extent: ', newExtent)
-		classified: #'test-run'
-		notifying: nil.
+		classified: #'test-run'.
+		
 	self assert: (self respondsTo: selector).
 
 	resultingMorph := self perform: selector.

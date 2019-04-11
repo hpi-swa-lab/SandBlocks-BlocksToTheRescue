@@ -9,12 +9,7 @@ testDoIt
 
 	Compiler new
 		evaluate: 
-			(Text string: (String value: 1) attribute: (BTRBlockAttribute new blockModel: (BTRConstantModel for: morph))),
-			(Text withAll: ' extent: ', newExtent)
-		in: nil
-		to: nil
-		notifying: nil
-		ifFail: []
-		logged: true.	
+			(BTRBlockAttribute asTextFrom: (BTRConstantModel for: morph)),
+			(Text withAll: ' extent: ', newExtent).
 
 	self assert: newExtent equals: morph extent.
