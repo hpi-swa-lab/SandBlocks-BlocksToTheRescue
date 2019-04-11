@@ -1,6 +1,7 @@
 as yet unclassified
-btrScanFromConstant1: aReadStream
+btrScanFromConstant2: aReadStream
 
 	^ self new
+		btrReadViewDataFrom: aReadStream;
 		value: aReadStream btrScanFrom;
 		yourself
