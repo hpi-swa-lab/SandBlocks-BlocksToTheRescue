@@ -1,4 +1,4 @@
 serialization
 btrSerializationVersion
 
-	^ 'Constant1'
+	^ 'Constant2'
