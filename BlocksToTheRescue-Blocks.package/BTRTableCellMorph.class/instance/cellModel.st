@@ -1,4 +1,4 @@
 accessing - model
 cellModel
 
-	^ cellModel
+	^ self model

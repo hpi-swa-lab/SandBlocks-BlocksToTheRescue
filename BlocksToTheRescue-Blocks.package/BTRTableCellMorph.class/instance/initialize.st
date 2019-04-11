@@ -3,5 +3,9 @@ initialize
 
 	super initialize.
 	self 
-		initializeLayout;
-		initializeText.
+		buildPluggableText: self buildSpec;
+		minimumHeight: 0;
+		acceptOnCR: true;
+		hideScrollBarsIndefinitely;
+		height: BTRTableCellMorph defaultCellHeight;
+		width: BTRTableCellMorph defaultCellWidth.

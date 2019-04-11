@@ -3,5 +3,5 @@ initializeLayout
 
 	self
 		color: Color transparent;
-		changeProportionalLayout;
-		addMorph: self tableMorph fullFrame: self tableMorphFrame.
+		"changeProportionalLayout;"
+		addMorph: self tableMorph "fullFrame: self tableMorphFrame".
