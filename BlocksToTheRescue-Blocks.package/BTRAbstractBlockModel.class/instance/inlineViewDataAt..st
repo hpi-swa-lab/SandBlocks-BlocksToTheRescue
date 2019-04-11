@@ -1,4 +1,4 @@
 accessing
 inlineViewDataAt: aSymbol
 
-	self inlineViewData at: aSymbol.
+	^ self inlineViewData at: aSymbol
