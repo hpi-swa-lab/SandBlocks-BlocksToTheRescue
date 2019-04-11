@@ -6,11 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morph",
-		"scanner",
-		"text",
-		"textAttribute" ],
-	"name" : "BTRScannerTests",
+		"parser" ],
+	"name" : "BTRParserTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
