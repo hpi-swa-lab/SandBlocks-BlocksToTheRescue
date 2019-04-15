@@ -1,8 +1,6 @@
 *ToolIconsPlus
-messageIconFor: aSelector in: aClass
+messageIconFor: aSelector in: aBehavior
 
 	self showMessageIcons ifFalse: [^ nil].
 
-	^ ToolIcons iconForMethod: (self
-			methodReferenceFor: aSelector
-			in: aClass)
+	^ ToolIcons iconForClass: aBehavior selector: aSelector

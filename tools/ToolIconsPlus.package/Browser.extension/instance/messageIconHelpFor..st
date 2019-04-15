@@ -5,4 +5,6 @@ messageIconHelpFor: aSelector
 
 	^ ToolIconHelp iconHelpNamed: (
 			ToolIcons safeIconSymbolForMethod: (
-				self class methodReferenceFor: aSelector in: self selectedClassOrMetaClass))
+				MethodReference
+					class: self selectedClassOrMetaClass
+					selector: aSelector withBlanksTrimmed asSymbol))

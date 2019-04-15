@@ -1,6 +1,6 @@
 *ToolIconsPlus
 iconSymbolForMethod: aMethodReference
-	"Answer an icon symbol to be shown for the given method reference."
+	"Answer an icon symbol (or form if no symbol is used) to be shown for the given method reference."
 	
 	aMethodReference methodSymbol isDoIt ifTrue: [^ #play].
 	aMethodReference isValid ifFalse: [^ #brokenMorph].
