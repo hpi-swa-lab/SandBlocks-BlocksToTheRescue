@@ -1,5 +1,5 @@
 interface-views
-editorView
+inlineView
 
 	^ (BTRStateMachineEditor newFor: self)
-		editorView
+		inlineView
