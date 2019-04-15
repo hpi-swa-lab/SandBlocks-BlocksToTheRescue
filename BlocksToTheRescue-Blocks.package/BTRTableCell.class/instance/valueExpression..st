@@ -1,4 +1,4 @@
 accessing
 valueExpression: aString
 
-	self value: (Compiler evaluate: aString).
+	self setValue: (Compiler evaluate: aString).
