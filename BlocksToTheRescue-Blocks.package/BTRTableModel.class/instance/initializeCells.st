@@ -1,4 +1,4 @@
-initialize-release
+initialization
 initializeCells
 	
 	1 to: self rowCount do: [:rowIdx |

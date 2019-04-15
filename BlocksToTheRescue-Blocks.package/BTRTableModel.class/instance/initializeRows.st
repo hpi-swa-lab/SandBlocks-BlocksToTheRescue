@@ -1,4 +1,4 @@
-initialize-release
+initialization
 initializeRows
 	
 	rows := OrderedCollection new.

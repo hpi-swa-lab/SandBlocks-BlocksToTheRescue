@@ -1,4 +1,4 @@
-initialize-release
+initialization
 initializeValue
 
 	self setValue: self initialDefaultValue.
