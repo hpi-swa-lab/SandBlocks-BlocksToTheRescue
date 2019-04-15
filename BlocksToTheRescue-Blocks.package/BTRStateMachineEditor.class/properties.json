@@ -6,11 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"states",
-		"startStateName",
-		"unknownTransitionHandler" ],
-	"name" : "BTRStateMachineModel",
+		"stateMachineModel",
+		"selected" ],
+	"name" : "BTRStateMachineEditor",
 	"pools" : [
 		 ],
-	"super" : "BTRAbstractBlockModel",
+	"super" : "Model",
 	"type" : "normal" }
