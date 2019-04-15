@@ -1,4 +1,6 @@
 accessing
 valueExpression
 
-	^ self value printString
+	^ self value
+		ifNil: ['']
+		ifNotNil: [self value printString]
