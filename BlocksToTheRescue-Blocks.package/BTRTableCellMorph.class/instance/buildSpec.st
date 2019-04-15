@@ -3,7 +3,7 @@ buildSpec
 
 	^ PluggableInputFieldSpec new
 		model: self cellModel;
-		getText: #value;
-		setText: #value:;
+		getText: #valueExpression;
+		setText: #valueExpression:;
 		yourself
 		

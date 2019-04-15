@@ -2,6 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self 
+	"self 
 		initializeTableMorph
-		initializeLayout.
+		initializeLayout."
