@@ -18,11 +18,13 @@
 		"getDamage" : "WoC 4/11/2019 16:13",
 		"handleInput:inWorld:" : "WoC 4/8/2019 10:39",
 		"initJump" : "WoC 4/8/2019 16:35",
-		"initialize" : "WoC 4/11/2019 16:06",
+		"initialize" : "WoC 4/15/2019 10:20",
+		"initializeState" : "WoC 4/15/2019 10:17",
 		"isPlayable" : "BD 4/5/2019 12:02",
 		"jump" : "WoC 4/8/2019 14:11",
 		"minAcceleration" : "WoC 4/5/2019 15:13",
 		"moveLeft" : "WoC 4/8/2019 14:11",
 		"moveRight" : "WoC 4/8/2019 14:11",
-		"state" : "WoC 4/11/2019 16:02",
-		"state:" : "WoC 4/11/2019 16:02" } }
+		"state" : "WoC 4/15/2019 10:18",
+		"statemachine" : "WoC 4/15/2019 10:18",
+		"statemachine:" : "WoC 4/15/2019 10:18" } }

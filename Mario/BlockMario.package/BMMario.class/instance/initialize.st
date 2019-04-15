@@ -1,5 +1,5 @@
 initialization
 initialize
 
-	self state: BMSmallState new.
+	self initializeState.
 	super initialize.

@@ -1,4 +1,4 @@
 accessing
 state
 
-	^ state
+	^ self statemachine currentState
