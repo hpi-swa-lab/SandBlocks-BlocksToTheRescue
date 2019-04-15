@@ -1,4 +1,4 @@
 running
 transition: aSymbol
 
-	self transitionToSymbol: aSymbol.
+	^ self transitionToSymbol: aSymbol

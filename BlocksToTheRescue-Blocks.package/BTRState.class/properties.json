@@ -9,6 +9,7 @@
 		"name",
 		"transitions",
 		"model",
+		"customObject",
 		"preStateEnterHandler",
 		"postStateEnterHandler",
 		"preStateLeaveHandler",
