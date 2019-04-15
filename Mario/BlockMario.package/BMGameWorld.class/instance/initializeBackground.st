@@ -3,7 +3,7 @@ initializeBackground
 
 	self background:
 		(BackgroundMorph new
-			addMorph: (ImageMorph new newForm: #V2;BTRImageModel;8B854;Constant1;Form;8B83E;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!-!!!!'+#R18/!7TK[5QD#J%nT/T<-Va!rF^I^a0i%#l6kG0/1XWB
+			addMorph: (ImageMorph new newForm: #V2;BTRImageModel;8B884;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Form;8B83E;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!-!!!!'+#R18/!7TK[5QD#J%nT/T<-Va!rF^I^a0i%#l6kG0/1XWB
 3D3=^;O4GT,qD'(DsqOIU-p11P"87hJBj.u,g#4>i3')JB@Z9b9%rI`qdDUp3WNih?L+^Jk+)0.
 HD/%BBVEHZ[5O&9:\C+,39\a"MU,-AUHdYr6,hH&6KuUbMkHuB(9JqSHJ7VOTZNk'NT3VYVQ<O9
 dPU1+[/HBP>/fZP7d9//q`<dq0(lCBH*$#gT*eaS^2@7)Ju1sa;5Zr@b8[?l<hc0S4a0Ki4R.XD

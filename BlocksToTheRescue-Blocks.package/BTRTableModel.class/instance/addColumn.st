@@ -12,3 +12,4 @@ addColumn
 			rowIndex: rowIdx;
 			columnIndex: columnIdx.
 		self at: rowIdx at: columnIdx ifAbsentPutCell: cell].
+	self valueAddColumn.

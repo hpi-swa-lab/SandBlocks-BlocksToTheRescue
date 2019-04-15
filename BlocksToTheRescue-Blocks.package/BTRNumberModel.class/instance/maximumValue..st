@@ -1,5 +1,10 @@
 accessing
 maximumValue: aNumber
 
+	| oldMaximumValue |
+	oldMaximumValue := maximumValue.
 	maximumValue := aNumber.
-	self changed: #maximumValue.
+	oldMaximumValue ~= maximumValue
+		ifTrue: [
+			self changed: #maximumValue.
+			self changed].

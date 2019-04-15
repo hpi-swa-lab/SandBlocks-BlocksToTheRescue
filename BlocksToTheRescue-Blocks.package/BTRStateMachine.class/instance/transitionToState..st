@@ -8,3 +8,4 @@ transitionToState: aBTRState
 	self currentState: aBTRState.
 	oldState ifNotNil: [oldState postLeave].
 	aBTRState postEnter.
+	^ aBTRState

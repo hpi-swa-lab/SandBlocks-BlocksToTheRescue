@@ -2,7 +2,7 @@ as yet unclassified
 testCreationForImage
 
 	| model |
-	model := BTRConstantModel for: #V2;BTRImageModel;97C;Constant1;Form;968;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!"G!!!"@#R18/!2YfPWW3#(/4i5q<-Va2SNF"o723eUT8&Y-?se7t
+	model := BTRConstantModel for: #V2;BTRImageModel;9AC;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Form;968;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!"G!!!"@#R18/!2YfPWW3#(/4i5q<-Va2SNF"o723eUT8&Y-?se7t
 hh6NA8<JW:#s*a$O@Y!,6:.E';FHWt4pHEb)JWFog(\7!Uf_fQGB,(O1NUj0h=](;^Gtdof=Ue&
 DpNK2X4-=_S\X;u\%e$L[dDX)]+;h$UYe_`G9;/b,Nes54Ts*;ZJ-JSF6p=$[>iOKY>4ks0;+'6
 \&VrCA&g,'HX$X+I3@=#7.O14_nLcj!hg1fJ5,K@7&.$\)B&uK5NBYqHgcQZNB.9PCK@F&pVHP(
