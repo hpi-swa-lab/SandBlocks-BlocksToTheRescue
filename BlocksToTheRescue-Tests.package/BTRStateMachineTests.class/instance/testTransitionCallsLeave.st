@@ -8,4 +8,4 @@ testTransitionCallsLeave
 		on: Notification
 		do: [:not | notification := not].
 	self assert: notification isNil not.
-	self assert: #postLeave equals: (notification messageText at: #transition).
+	self assert: #postLeave equals: (notification messageText at: #change).

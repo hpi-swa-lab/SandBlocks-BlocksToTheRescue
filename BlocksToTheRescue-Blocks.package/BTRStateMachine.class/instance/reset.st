@@ -1,4 +1,4 @@
 running
 reset
 
-	self transitionTo: self model startState.
+	self transitionToState: self model startState via: #_internal_reset_.

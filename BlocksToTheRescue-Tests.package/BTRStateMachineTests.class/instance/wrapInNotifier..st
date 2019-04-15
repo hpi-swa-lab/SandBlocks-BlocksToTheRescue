@@ -1,9 +1,10 @@
 utils
 wrapInNotifier: aBlockClosure
 
-	^ [ :transition :state :machine |
-		aBlockClosure valueWithPossibleArgs: {transition. state. machine}.
+	^ [ :state :transition :machine :change |
+		aBlockClosure valueWithPossibleArgs: {state. transition. machine. change}.
 		Notification signal: (Dictionary newFrom: {
-			#transition -> transition.
 			#state -> state.
-			#machine -> machine})]
+			#transition -> transition.
+			#machine -> machine.
+			#change -> change})]
