@@ -1,4 +1,4 @@
 as yet unclassified
 valueChanged
 
-	self changed: #valueChanged
+	self changed: #valueChanged.
