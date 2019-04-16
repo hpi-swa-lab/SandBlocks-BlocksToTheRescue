@@ -1,4 +1,4 @@
-nil
+instance creation
 newFor: aBTRStateMachineModel
 
 	^ self new

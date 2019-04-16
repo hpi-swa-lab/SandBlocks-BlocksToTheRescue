@@ -7,7 +7,8 @@ printOn: aWriteStream
 				nextPut: $# ;
 				nextPutAll: state name;
 				nextPutAll: ' -> {'.
-			state transitions
+			(state transitions
+				sorted: BTRStateTransition compareBlock)
 				do: [:transition |
 					aWriteStream
 						nextPut: Character cr;

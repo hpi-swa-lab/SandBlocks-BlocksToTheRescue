@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addState:" : "ms 4/11/2019 11:23",
+		"addState:" : "ms 4/16/2019 11:33",
 		"addTransitionOn:from:to:" : "ms 4/11/2019 13:49",
 		"addTransitionsNamed:from:to:" : "ms 4/15/2019 09:58",
 		"defaultStateMachineClass" : "ms 4/10/2019 15:27",
@@ -13,8 +13,9 @@
 		"inlineView" : "ms 4/15/2019 16:16",
 		"isValidStateGraph" : "ms 4/5/2019 12:15",
 		"onUnknownTransitionDo:" : "ms 4/10/2019 15:14",
-		"printOn:" : "ms 4/11/2019 15:01",
+		"printOn:" : "ms 4/16/2019 10:52",
 		"printString" : "ms 4/11/2019 10:47",
+		"pvtCreateState:" : "ms 4/16/2019 11:33",
 		"setStart:" : "ms 4/11/2019 13:55",
 		"start" : "ms 4/10/2019 15:27",
 		"startState" : "ms 4/8/2019 15:48",
@@ -26,6 +27,7 @@
 		"states:" : "ms 4/5/2019 10:46",
 		"unknownTransitionHandler" : "ms 4/10/2019 16:25",
 		"unknownTransitionHandler:" : "ms 4/10/2019 15:14",
+		"updateFrom:" : "ms 4/16/2019 11:48",
 		"validateStateGraph" : "ms 4/8/2019 15:49",
 		"validateTransitions" : "ms 4/8/2019 15:48",
 		"value" : "ms 4/5/2019 10:13" } }
