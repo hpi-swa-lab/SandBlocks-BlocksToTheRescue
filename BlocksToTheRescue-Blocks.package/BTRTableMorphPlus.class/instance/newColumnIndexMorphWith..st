@@ -9,6 +9,5 @@ newColumnIndexMorphWith: columnIndex
 		hResizing: #spaceFill;
 		vResizing: #spaceFill;
 		height: BTRTableCellMorph defaultCellHeight;
-		width:BTRTableCellMorph defaultCellWidth;
-		color: Color lightGray.
+		width:BTRTableCellMorph defaultCellWidth.
 	^ rowIndexMorph

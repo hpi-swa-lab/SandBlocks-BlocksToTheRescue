@@ -20,6 +20,7 @@
 		"columnCount:" : "ee 4/16/2019 12:09",
 		"columns" : "ee 4/10/2019 13:59",
 		"columns:" : "ee 4/11/2019 09:42",
+		"copyColumns" : "ee 4/16/2019 14:19",
 		"defaultColumnCount" : "ee 4/10/2019 14:26",
 		"defaultRowCount" : "ee 4/10/2019 14:25",
 		"editorView" : "ee 4/15/2019 13:00",
@@ -30,6 +31,8 @@
 		"initializeTable" : "ee 4/12/2019 11:02",
 		"initializeValue" : "ee 4/12/2019 11:04",
 		"inlineView" : "ee 4/11/2019 14:41",
+		"notifyCells" : "ee 4/16/2019 14:14",
+		"postCopy" : "ee 4/16/2019 14:21",
 		"removeColumn" : "ee 4/11/2019 21:06",
 		"removeColumnToAdjustToValue" : "ee 4/12/2019 11:25",
 		"removeColumnsToAdjustTo:" : "ee 4/16/2019 12:13",
@@ -52,7 +55,7 @@
 		"valueAddColumn" : "ee 4/15/2019 13:30",
 		"valueAddRow" : "ee 4/15/2019 16:28",
 		"valueAt:at:" : "ee 4/10/2019 14:48",
-		"valueAt:at:put:" : "ee 4/15/2019 17:55",
+		"valueAt:at:put:" : "ee 4/16/2019 14:02",
 		"valueRemoveColumn" : "ee 4/11/2019 21:09",
 		"valueRemoveRow" : "ee 4/15/2019 13:31",
-		"wantsCopiedValue" : "ee 4/10/2019 14:00" } }
+		"wantsCopiedValue" : "ee 4/16/2019 14:05" } }
