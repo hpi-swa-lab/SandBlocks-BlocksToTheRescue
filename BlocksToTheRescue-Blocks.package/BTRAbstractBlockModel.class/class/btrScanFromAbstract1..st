@@ -1,5 +1,5 @@
 insertion
-scanFormAbstract1: aReadStream
+btrScanFromAbstract1: aReadStream
 
 	^ self new
 		btrReadViewDataFrom: aReadStream;
