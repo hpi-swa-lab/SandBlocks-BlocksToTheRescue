@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = other
 
 	^ self class = other class 
