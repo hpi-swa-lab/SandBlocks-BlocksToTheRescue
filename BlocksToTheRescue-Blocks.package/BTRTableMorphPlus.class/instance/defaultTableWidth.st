@@ -1,4 +1,4 @@
 layout
 defaultTableWidth
 
-	^ super defaultTableWidth + BTRTableRowMorphPlus rowIndexCellWidth
+	^ super defaultTableWidth + BTRTableMorphPlus rowIndexCellWidth

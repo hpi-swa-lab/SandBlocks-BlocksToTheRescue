@@ -1,0 +1,4 @@
+defaults
+defaultRowIndexCellWidth
+
+	^ 20
