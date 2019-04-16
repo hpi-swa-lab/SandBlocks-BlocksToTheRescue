@@ -1,0 +1,14 @@
+{
+	"category" : "BlockMario",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BMFireState",
+	"pools" : [
+		 ],
+	"super" : "BMMarioState",
+	"type" : "normal" }

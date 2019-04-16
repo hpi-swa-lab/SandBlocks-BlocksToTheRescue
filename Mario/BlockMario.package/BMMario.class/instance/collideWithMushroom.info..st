@@ -1,4 +1,4 @@
 collision
 collideWithMushroom: aBMMushroom info: aBMCollisionEvent
 
-	self newForm: self form darker
+	self state collectMushroomFor: self

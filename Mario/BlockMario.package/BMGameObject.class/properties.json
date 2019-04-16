@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"state",
 		"relativePosition",
 		"velocity",
 		"isJumping" ],

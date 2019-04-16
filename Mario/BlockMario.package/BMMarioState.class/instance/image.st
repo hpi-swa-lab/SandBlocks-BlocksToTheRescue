@@ -1,0 +1,4 @@
+image
+image
+
+	self subclassResponsibility
