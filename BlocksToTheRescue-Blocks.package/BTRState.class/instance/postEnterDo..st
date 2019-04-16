@@ -1,3 +1,3 @@
 accessing
 postEnterDo: aBlockClosure
-	self postStateEnterHandler: aBlockClosure.
+	self postEnterHandler: aBlockClosure.

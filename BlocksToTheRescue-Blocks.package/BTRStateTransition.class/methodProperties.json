@@ -1,9 +1,12 @@
 {
 	"class" : {
-		"named:target:" : "ms 4/8/2019 15:47" },
+		"compareBlock" : "ms 4/16/2019 10:51",
+		"named:" : "ms 4/16/2019 11:43",
+		"named:target:" : "ms 4/16/2019 11:46" },
 	"instance" : {
 		"name" : "ms 4/5/2019 11:34",
 		"name:" : "ms 4/5/2019 11:34",
 		"printOn:" : "ms 4/15/2019 11:40",
 		"targetStateName" : "ms 4/8/2019 15:48",
-		"targetStateName:" : "ms 4/8/2019 15:48" } }
+		"targetStateName:" : "ms 4/8/2019 15:48",
+		"updateFrom:" : "ms 4/16/2019 11:41" } }

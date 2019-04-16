@@ -1,4 +1,4 @@
 running
 postEnter: aBTRStateMachine via: transitionName
 
-	^ self handleAfter: #enter on: aBTRStateMachine via: transitionName
+	^ self handle: #postEnter on: aBTRStateMachine via: transitionName

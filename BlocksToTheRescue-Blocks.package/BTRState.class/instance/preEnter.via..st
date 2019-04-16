@@ -1,4 +1,4 @@
 running
 preEnter: aBTRStateMachine via: transitionName
 
-	^ self handleBefore: #enter on: aBTRStateMachine via: transitionName
+	^ self handle: #preEnter on: aBTRStateMachine via: transitionName

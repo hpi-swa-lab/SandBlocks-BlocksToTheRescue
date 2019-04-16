@@ -1,3 +1,3 @@
 accessing
 postLeaveDo: aBlockClosure
-	self postStateLeaveHandler: aBlockClosure.
+	self postLeaveHandler: aBlockClosure.

@@ -1,8 +1,6 @@
-as yet unclassified
+instance creation
 named: messageSymbol target: targetStateSymbol
 
-	^ self basicNew
-		name: messageSymbol;
+	^ (self named: messageSymbol)
 		targetStateName: targetStateSymbol;
-		initialize;
 		yourself
