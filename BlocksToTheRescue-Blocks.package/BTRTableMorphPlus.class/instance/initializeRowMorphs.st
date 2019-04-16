@@ -1,0 +1,5 @@
+initialization
+initializeRowMorphs
+
+	self initializeColumnIndexCellsRow.
+	super initializeRowMorphs.

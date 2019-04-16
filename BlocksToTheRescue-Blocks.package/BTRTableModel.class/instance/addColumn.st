@@ -9,6 +9,8 @@ addColumn
 	1 to: self rowCount do: [:rowIdx | | cell |
 		cell := BTRTableCell new.
 		cell
+			tableModel: self;
 			rowIndex: rowIdx;
 			columnIndex: columnIdx.
 		self at: rowIdx at: columnIdx ifAbsentPutCell: cell].
+	self valueAddColumn.

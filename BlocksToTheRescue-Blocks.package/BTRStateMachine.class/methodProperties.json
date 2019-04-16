@@ -10,9 +10,9 @@
 		"isTransitionUnlocked:" : "ms 4/10/2019 16:32",
 		"model" : "ms 4/10/2019 15:25",
 		"model:" : "ms 4/10/2019 15:25",
-		"reset" : "ms 4/11/2019 11:12",
+		"reset" : "ms 4/15/2019 11:27",
 		"state" : "ms 4/10/2019 15:25",
 		"transition:" : "ms 4/15/2019 09:49",
-		"transitionTo:" : "ms 4/15/2019 09:49",
-		"transitionToState:" : "ms 4/15/2019 09:45",
-		"transitionToSymbol:" : "ms 4/15/2019 09:48" } }
+		"transitionTo:" : "ms 4/15/2019 11:23",
+		"transitionToState:via:" : "ms 4/15/2019 11:11",
+		"transitionToSymbol:" : "ms 4/15/2019 11:11" } }

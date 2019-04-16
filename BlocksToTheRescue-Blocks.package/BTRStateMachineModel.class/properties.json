@@ -12,5 +12,5 @@
 	"name" : "BTRStateMachineModel",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractBlockModel",
 	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+stateMachineModel: aBTRStateMachineModel
+	stateMachineModel := aBTRStateMachineModel

@@ -6,6 +6,6 @@ transitionToSymbol: aSymbol
 			in: [:transition | | newState |
 				newState := (self model stateNamed: transition targetStateName).
 				(self isTransitionUnlocked: transition)
-					ifTrue: [^ self transitionToState: newState]]]
+					ifTrue: [^ self transitionToState: newState via: aSymbol]]]
 		ifFalse: [self handleUnknownTransition: aSymbol].
 	^ self currentState

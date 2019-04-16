@@ -1,5 +1,10 @@
 accessing
 quantum: aNumber
 
+	| oldQuantum |
+	oldQuantum := quantum.
 	quantum := aNumber.
-	self changed: #quantum.
+	oldQuantum ~= quantum
+		ifTrue: [
+			self changed: #quantum.
+			self changed].

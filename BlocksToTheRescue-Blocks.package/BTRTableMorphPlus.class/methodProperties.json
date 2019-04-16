@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"rowIndexCellWidth" : "ee 4/15/2019 18:12" },
+	"instance" : {
+		"blankColumnIndexCellMorph" : "ee 4/15/2019 18:38",
+		"defaultTableHeight" : "ee 4/15/2019 18:04",
+		"defaultTableWidth" : "ee 4/15/2019 18:12",
+		"initializeColumnIndexCellsRow" : "ee 4/15/2019 18:37",
+		"initializeRowMorphs" : "ee 4/15/2019 18:29",
+		"newCollumnIndexCellWith:" : "ee 4/15/2019 18:36",
+		"rowMorphClass" : "ee 4/15/2019 18:11" } }
