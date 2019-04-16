@@ -1,7 +1,8 @@
-printing
-printOn: aWriteStream
+fileIn/out
+serializeOn: aWriteStream
 
-	self states
+	(self states
+		sorted: self startStateFirstSortBlock)
 		do: [:state |
 			aWriteStream
 				nextPut: $# ;

@@ -1,4 +1,4 @@
 accessing
 text
 
-	^ self stateMachineModel printString
+	^ self stateMachineModel serialized

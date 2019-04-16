@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ self textFieldEditor
+	^ self treeMorphViewer

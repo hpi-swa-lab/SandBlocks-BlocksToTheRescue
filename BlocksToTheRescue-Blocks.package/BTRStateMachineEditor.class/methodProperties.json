@@ -1,17 +1,18 @@
 {
 	"class" : {
-		"newFor:" : "ms 4/15/2019 16:16" },
+		"newFor:" : "ms 4/16/2019 13:47" },
 	"instance" : {
 		"editorView" : "ms 4/16/2019 10:50",
 		"graphicalRepresentation" : "ms 4/16/2019 10:30",
-		"inlineView" : "ms 4/16/2019 11:54",
-		"preprocessText:" : "ms 4/16/2019 11:53",
-		"selected" : "ms 4/15/2019 16:31",
-		"selected:" : "ms 4/15/2019 16:29",
+		"inlineView" : "ms 4/16/2019 13:51",
+		"openEditorAsWindow" : "ms 4/16/2019 14:19",
+		"selected" : "ms 4/16/2019 15:40",
+		"selected:" : "ms 4/16/2019 15:49",
 		"stateList" : "ms 4/15/2019 16:23",
 		"stateMachineModel" : "ms 4/15/2019 16:17",
 		"stateMachineModel:" : "ms 4/15/2019 15:39",
-		"text" : "ms 4/16/2019 10:49",
-		"text:" : "ms 4/16/2019 11:48",
+		"text" : "ms 4/16/2019 12:10",
+		"text:" : "ms 4/16/2019 13:48",
 		"textFieldEditor" : "ms 4/16/2019 10:50",
-		"treeMorphViewer" : "ms 4/16/2019 10:15" } }
+		"treeMorphViewer" : "ms 4/16/2019 16:09",
+		"update:" : "ms 4/16/2019 16:10" } }
