@@ -9,10 +9,10 @@ handleCollisions
 	toBeMovedIndices := OrderedCollection new.
 	
 	collidees doWithIndex: [ :collider :outerIndex | | hasCollided |
-		hasCollided := false.
+		hasCollided := #V2;BTRBooleanModel;4A;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;False;7;1;false;;.
 		collidees doWithIndex: [ :collidee :innerIndex |
 			(collider collidesWith: collidee underGravity: gravity)
-				ifTrue: [ hasCollided := true. 
+				ifTrue: [ hasCollided := #V2;BTRBooleanModel;48;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;True;6;1;true;;. 
 						 collisionPairs add: (Set withAll: {innerIndex . outerIndex})]].
 		hasCollided 
 			ifFalse: [toBeMovedIndices add: outerIndex]].

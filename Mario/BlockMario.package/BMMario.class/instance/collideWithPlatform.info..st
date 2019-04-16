@@ -12,6 +12,6 @@ collideWithPlatform: aBMPlatform info: aBMCollisionEvent
 							ifTrue: [y:= self velocity y * 0.5]
 							ifFalse: [y := self velocity y].
 						self velocity: self velocity x @ y].
-		[#bottom] -> [self isJumping: false].
+		[#bottom] -> [self isJumping: #V2;BTRBooleanModel;4A;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;False;7;1;false;;].
 		[#top] -> [].
 	}
