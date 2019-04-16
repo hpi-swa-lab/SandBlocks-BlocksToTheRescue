@@ -1,3 +1,3 @@
 accessing
 preLeaveDo: aBlockClosure
-	self preStateLeaveHandler: aBlockClosure.
+	self preLeaveHandler: aBlockClosure.

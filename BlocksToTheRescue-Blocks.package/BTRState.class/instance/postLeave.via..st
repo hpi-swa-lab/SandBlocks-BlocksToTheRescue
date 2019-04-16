@@ -1,4 +1,4 @@
 running
 postLeave: aBTRStateMachine via: transitionName
 
-	^ self handleAfter: #leave on: aBTRStateMachine via: transitionName
+	^ self handle: #postLeave on: aBTRStateMachine via: transitionName

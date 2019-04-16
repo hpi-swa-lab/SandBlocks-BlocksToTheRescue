@@ -1,3 +1,3 @@
 accessing
 preEnterDo: aBlockClosure
-	self preStateEnterHandler: aBlockClosure.
+	self preEnterHandler: aBlockClosure.
