@@ -11,9 +11,9 @@ alphaNumericStringMatcher
 		addTransitionNamed: #invalidate target: #invalid;
 		onUnknownTransitionDo: [:symbol :state :machine |
 			machine transition: #invalidate];
-		addTransitionNamed: (
-			($0 to: $9), ($A to: $Z), ($a to: $z)
-				collect: [:i | i asSymbol])
+		addTransitionsNamed: (
+			(($0 to: $9), ($A to: $Z), ($a to: $z)) asArray
+				collect: [:char | char asSymbol])
 			target: #valid.
 
 	^ model

@@ -6,6 +6,5 @@ value: anObject
 	value := anObject.
 	oldValue ~= value
 		ifTrue: [
-			"self changed: #value.
-			self changed."
-			"self tableModel valueAt: self rowIndex at: self columnIndex put: self value"].
+			self changed: #value.
+			self changed].

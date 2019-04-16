@@ -1,4 +1,4 @@
-accessing
+accessing - model
 tableModel
 
 	^ self blockModel
