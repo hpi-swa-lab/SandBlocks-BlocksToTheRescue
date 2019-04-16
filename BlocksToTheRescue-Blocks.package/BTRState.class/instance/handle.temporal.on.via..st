@@ -1,7 +1,7 @@
 running
 handle: changeSymbol temporal: temporalSymbol on: aBTRStateMachine via: transitionName
 
-	^ ((temporalSymbol asString, 'State', changeSymbol asString withFirstCharacterUppercase, 'Handler') asSymbol
+	^ ((temporalSymbol asString, ' state ', changeSymbol asString, ' handler') asCamelCase asLegalSelector asSymbol
 		value: self) ifNotNil: [:handler |
 			handler valueWithPossibleArgs: {
 				self.
