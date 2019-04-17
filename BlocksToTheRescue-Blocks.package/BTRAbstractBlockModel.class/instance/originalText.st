@@ -1,0 +1,4 @@
+caching
+originalText
+	
+	^ originalText
