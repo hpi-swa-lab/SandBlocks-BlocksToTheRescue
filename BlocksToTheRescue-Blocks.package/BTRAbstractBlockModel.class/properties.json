@@ -9,6 +9,7 @@
 	"instvars" : [
 		"properties",
 		"cachedStoreString",
+		"originalText",
 		"inlineViewData",
 		"editorViewData" ],
 	"name" : "BTRAbstractBlockModel",
