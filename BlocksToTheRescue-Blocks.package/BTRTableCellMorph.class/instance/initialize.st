@@ -10,4 +10,5 @@ initialize
 		height: BTRTableCellMorph defaultCellHeight;
 		width: BTRTableCellMorph defaultCellWidth;
 		acceptAction: [:newContents | self cellModel accept];
+		editTextSelector: #valueExpression:;
 		wantsFrameAdornments: false.
