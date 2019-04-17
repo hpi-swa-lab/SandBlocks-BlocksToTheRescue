@@ -3,5 +3,5 @@ initialize
 
 	super initialize.
 	self 
-		initializeTableMorph
+		initializeSubmorphs;
 		initializeLayout.

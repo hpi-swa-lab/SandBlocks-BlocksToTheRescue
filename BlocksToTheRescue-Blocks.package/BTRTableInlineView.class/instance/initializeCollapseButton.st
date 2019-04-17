@@ -12,4 +12,4 @@ initializeCollapseButton
 		actionSelector: #collapseView;
 		extent: form extent;
 		yourself.
-	collapseButton setBalloonText: 'click here to collapse the row for adjusting the range and quantum' translated.
+	collapseButton setBalloonText: 'click here to collapse the index row and column as well as the possibility to adjust the rows and columns' translated.
