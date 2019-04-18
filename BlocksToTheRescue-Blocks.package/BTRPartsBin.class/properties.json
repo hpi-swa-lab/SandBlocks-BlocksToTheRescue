@@ -1,13 +1,13 @@
 {
-	"category" : "BlockMario",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"raster" ],
-	"name" : "BMGameWorldMock",
+		"prototypes" ],
+	"name" : "BTRPartsBin",
 	"pools" : [
 		 ],
 	"super" : "Morph",

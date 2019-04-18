@@ -11,7 +11,8 @@
 		"mario",
 		"background",
 		"physics",
-		"keyboardListener" ],
+		"keyboardListener",
+		"isPaused" ],
 	"name" : "BMGameWorld",
 	"pools" : [
 		 ],

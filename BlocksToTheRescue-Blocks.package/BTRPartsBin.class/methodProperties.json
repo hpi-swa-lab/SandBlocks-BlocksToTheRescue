@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "LB 4/18/2019 10:49",
+		"handlesMouseDown:" : "LB 4/18/2019 10:37",
+		"initialize" : "LB 4/18/2019 10:59",
+		"mouseDown:" : "LB 4/18/2019 10:44",
+		"prototypes" : "LB 4/18/2019 10:35",
+		"prototypes:" : "LB 4/18/2019 10:35",
+		"updatePrototypes" : "LB 4/18/2019 10:37",
+		"wantsDroppedMorph:event:" : "LB 4/18/2019 10:51" } }

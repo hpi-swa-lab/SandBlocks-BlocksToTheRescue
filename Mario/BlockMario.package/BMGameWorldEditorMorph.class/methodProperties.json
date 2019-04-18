@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "LB 4/18/2019 10:05",
+		"initialize" : "LB 4/18/2019 10:57",
+		"initializeParts" : "LB 4/18/2019 10:55",
 		"morphEditor" : "LB 4/18/2019 09:46",
 		"morphEditor:" : "LB 4/18/2019 09:46",
 		"partsBin" : "LB 4/18/2019 09:46",
 		"partsBin:" : "LB 4/18/2019 09:46",
 		"partsBinWidth" : "LB 4/18/2019 10:05",
-		"value:" : "LB 4/18/2019 09:54" } }
+		"value:" : "LB 4/18/2019 10:26" } }
