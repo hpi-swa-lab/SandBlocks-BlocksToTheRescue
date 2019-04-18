@@ -8,7 +8,9 @@ buildSignatureBar
 			accept: #signature:
 			readSelection: nil
 			menu: nil.
-	signatureBar acceptAction: [:newSignature | self accept].
+	signatureBar 
+		acceptAction: [:newSignature | self accept];
+		name: 'Signature Bar'.
 	signatureBar styler: SHTextStylerST80 new.
 	signatureBar styler 
 		view: signatureBar;
