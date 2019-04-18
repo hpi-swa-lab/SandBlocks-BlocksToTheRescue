@@ -1,11 +1,9 @@
 initialization
 initializeLayout
-
+	
 	self
 		color: Color transparent;
-		changeTableLayout;
-		hResizing: #shrinkWrap;
-		vResizing: #shrinkWrap;
-		layoutInset: self defaultLayoutInset;
-		cellInset: BTRTableMorph defaultCellInset;
-		addMorphBack: self tableMorph.
+		extent: self collapsedExtent;
+		changeProportionalLayout;
+		addMorph: self tableMorph fullFrame: self tableMorphFrame;
+		addMorph: self expandButton fullFrame: self expandButtonFrame.

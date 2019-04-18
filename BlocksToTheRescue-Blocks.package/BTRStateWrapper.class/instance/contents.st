@@ -2,5 +2,5 @@ as yet unclassified
 contents
 
 	^ (self state transitions
-			sorted: [:a :b | a name <= b name])
+			sorted: BTRStateTransition compareBlock)
 			collect: [:transition | BTRTransitionWrapper with: transition]

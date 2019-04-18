@@ -6,7 +6,13 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"tableMorph" ],
+		"tableMorph",
+		"expandButton",
+		"tableMorphPlus",
+		"collapseButton",
+		"adjustmentRow",
+		"rowTextField",
+		"columnTextField" ],
 	"name" : "BTRTableInlineView",
 	"pools" : [
 		 ],

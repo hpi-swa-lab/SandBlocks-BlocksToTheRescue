@@ -1,10 +1,10 @@
 {
 	"class" : {
 		"allBlockClasses" : "LM 4/4/2019 16:20",
+		"btrScanFromAbstract1:" : "ms 4/16/2019 12:16",
 		"displayName" : "LB 4/11/2019 11:39",
 		"forObject:" : "LM 4/10/2019 11:09",
 		"isAbstract" : "LM 4/1/2019 17:04",
-		"scanFormAbstract1:" : "BD 4/11/2019 15:19",
 		"userSelectBlockModelClass:" : "ms 4/2/2019 16:24" },
 	"instance" : {
 		"btrReadEditorViewDataFrom:" : "LM 4/11/2019 16:35",
@@ -25,6 +25,8 @@
 		"inlineViewData:" : "BD 4/11/2019 14:31",
 		"inlineViewDataAt:" : "BD 4/11/2019 14:45",
 		"inlineViewDataAt:put:" : "BD 4/11/2019 14:34",
+		"originalText" : "BD 4/17/2019 13:51",
+		"originalText:" : "BD 4/17/2019 13:52",
 		"properties" : "BD 4/11/2019 14:23",
 		"properties:" : "BD 4/11/2019 14:23",
 		"storeOn:" : "LM 4/10/2019 11:23" } }

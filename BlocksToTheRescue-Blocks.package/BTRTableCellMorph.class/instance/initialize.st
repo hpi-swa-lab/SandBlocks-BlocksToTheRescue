@@ -8,4 +8,7 @@ initialize
 		acceptOnCR: true;
 		hideScrollBarsIndefinitely;
 		height: BTRTableCellMorph defaultCellHeight;
-		width: BTRTableCellMorph defaultCellWidth.
+		width: BTRTableCellMorph defaultCellWidth;
+		acceptAction: [:newContents | self cellModel accept];
+		editTextSelector: #valueExpression:;
+		wantsFrameAdornments: false.
