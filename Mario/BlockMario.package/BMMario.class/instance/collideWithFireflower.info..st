@@ -1,4 +1,5 @@
 collision
 collideWithFireflower: aBMFireflower info: aBMCollisionEvent
 
-	self state collectFireflowerFor: self
+	self statemachine transition: #eatFireflower.
+	self changedState.
