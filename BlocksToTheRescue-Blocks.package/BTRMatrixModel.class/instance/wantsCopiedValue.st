@@ -1,4 +1,0 @@
-testing
-wantsCopiedValue
-
-	^ false

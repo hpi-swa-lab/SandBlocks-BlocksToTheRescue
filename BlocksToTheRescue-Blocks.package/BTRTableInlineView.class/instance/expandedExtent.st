@@ -1,4 +1,4 @@
 layout
 expandedExtent
 
-	^ self tableMorphPlus extent * 1.1
+	^ self expandedWidth @ self expandedHeight
