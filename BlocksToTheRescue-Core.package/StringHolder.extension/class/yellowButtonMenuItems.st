@@ -27,7 +27,8 @@ yellowButtonMenuItems
 		{'print it (p)' translated.		#printIt}.		     
 		{'inspect it (i)' translated.		#inspectIt}.		     
 		{'explore it (I)' translated.		#exploreIt}.	
-		{'insert block (h)' translated . 	#insertBlock}.	     
+		{'insert block (h)' translated . 	#insertBlock}.	
+		{'unblock (H)' translated . 	#unblock}.	
 		{'button for it' translated.			#buttonForIt}.		     
 		{'tally it' translated.			#tallyIt}.
 		{'spy on it' translated.		#spyOnIt}.

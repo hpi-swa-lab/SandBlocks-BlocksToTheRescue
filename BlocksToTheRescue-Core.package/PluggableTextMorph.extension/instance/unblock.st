@@ -1,4 +1,4 @@
 *BlocksToTheRescue-Core
 unblock
 
-	self handleEdit: [textMorph editor unblock]
+	self handleEdit: [textMorph editor unblock].
