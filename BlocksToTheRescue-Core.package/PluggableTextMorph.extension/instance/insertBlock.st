@@ -1,4 +1,4 @@
 *BlocksToTheRescue-Core
 insertBlock
 
-	self handleEdit: [textMorph editor insertBlock]
+	self handleEdit: [textMorph editor insertBlock].

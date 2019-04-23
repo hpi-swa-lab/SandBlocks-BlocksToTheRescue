@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph",
+		"layers" ],
+	"name" : "BTRGraphInlineMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

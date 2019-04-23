@@ -1,4 +1,0 @@
-layout
-defaultCellWidth
-
-	^ 60
