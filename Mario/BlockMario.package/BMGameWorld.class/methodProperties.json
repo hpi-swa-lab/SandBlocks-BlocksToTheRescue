@@ -2,6 +2,7 @@
 	"class" : {
 		"open" : "LB 4/11/2019 10:52" },
 	"instance" : {
+		"acceptDroppingMorph:event:" : "LB 4/18/2019 11:39",
 		"addGameObject:" : "WoC 4/9/2019 11:59",
 		"allGameObjects" : "WoC 4/8/2019 09:51",
 		"applyUserInput" : "WoC 4/5/2019 13:59",
@@ -21,6 +22,8 @@
 		"initializeMario" : "WoC 4/8/2019 09:43",
 		"initializePlatforms" : "WoC 4/10/2019 10:12",
 		"initializeStyle" : "WoC 4/16/2019 10:30",
+		"isPaused" : "LB 4/18/2019 10:26",
+		"isPaused:" : "LB 4/18/2019 10:24",
 		"isWithin:toVisibleSection:" : "WoC 4/5/2019 10:54",
 		"keyDown:" : "WoC 4/5/2019 13:44",
 		"keyUp:" : "WoC 4/5/2019 13:45",
@@ -35,7 +38,8 @@
 		"physics" : "WoC 4/5/2019 10:49",
 		"physics:" : "WoC 4/5/2019 10:49",
 		"simulateStep" : "WoC 4/9/2019 12:12",
-		"step" : "WoC 4/8/2019 12:00",
+		"step" : "LB 4/18/2019 10:25",
 		"stepTime" : "BD 4/4/2019 12:36",
 		"translatedBounds" : "WoC 4/5/2019 10:55",
-		"updateOffset" : "WoC 4/5/2019 11:20" } }
+		"updateOffset" : "WoC 4/5/2019 11:20",
+		"wantsDroppedMorph:event:" : "LB 4/18/2019 10:53" } }

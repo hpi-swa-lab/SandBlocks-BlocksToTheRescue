@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptDroppingMorph:event:" : "LB 4/11/2019 16:12",
+		"acceptDroppingMorph:event:" : "LB 4/18/2019 11:14",
 		"border" : "LB 4/11/2019 13:50",
 		"doLayoutIn:" : "LB 4/15/2019 09:50",
-		"hasUnacceptedEdits" : "LB 4/11/2019 15:39",
 		"initialize" : "LB 4/15/2019 09:56",
-		"morphClass" : "LB 4/11/2019 13:37",
+		"morphClass" : "LB 4/17/2019 15:02",
 		"setMorph:" : "LB 4/11/2019 13:33",
 		"update:" : "LB 4/11/2019 15:40",
 		"value" : "LB 4/11/2019 16:09",
 		"value:" : "LB 3/8/2019 11:14",
 		"valueChanged" : "LB 4/15/2019 09:48",
-		"viewPort" : "LB 4/11/2019 13:37" } }
+		"viewPort" : "LB 4/11/2019 13:37",
+		"wantsDroppedMorph:event:" : "LB 4/18/2019 11:12" } }

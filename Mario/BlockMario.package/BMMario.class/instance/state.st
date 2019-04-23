@@ -1,4 +1,4 @@
 accessing
 state
 
-	^ self statemachine currentState
+	^ self statemachine currentState customObject

@@ -1,4 +1,5 @@
 collision
 collideWithMushroom: aBMMushroom info: aBMCollisionEvent
 
-	self state collectMushroomFor: self
+	self statemachine transition: #eatMushroom.
+	self changedState.

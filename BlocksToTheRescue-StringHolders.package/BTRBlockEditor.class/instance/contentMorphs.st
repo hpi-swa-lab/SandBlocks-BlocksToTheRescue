@@ -8,8 +8,9 @@ contentMorphs
 			yourself.
 		self buildSignatureBar.
 		(self content 
-			ifNotNil: [self content editorView
-					in: [:view | self addDependent: view];
+			ifNotNil: [:content | content editorView
+					in: [:view | self addDependent: view];"I depend on the editor view, so it can tell me when it has unaccepted edits and stuff."
+					addDependent: content;
 					yourself] 
 			ifNil: [Morph new color: Color transparent; yourself])
 				layoutFrame: (LayoutFrame fractions: (0 @ 0 extent: 1 @ 1)offsets: (0 @ self signatureBarHeight corner: 0 @ 0));

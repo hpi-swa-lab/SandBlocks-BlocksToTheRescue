@@ -1,14 +1,13 @@
 {
-	"category" : "BlockMario",
+	"category" : "BlocksToTheRescue-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morphEditor",
-		"partsBin" ],
-	"name" : "BMGameWorldEditorMorph",
+		"prototypes" ],
+	"name" : "BTRPartsBin",
 	"pools" : [
 		 ],
 	"super" : "Morph",
