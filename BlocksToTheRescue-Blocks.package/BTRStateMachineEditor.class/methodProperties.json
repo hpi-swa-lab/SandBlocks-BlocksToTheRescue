@@ -2,17 +2,23 @@
 	"class" : {
 		"newFor:" : "ms 4/16/2019 13:47" },
 	"instance" : {
+		"buildTextEditorSpecWith:" : "LM 4/23/2019 10:57",
+		"closeEditorWindow" : "LM 4/23/2019 11:33",
+		"editButton" : "LM 4/23/2019 11:08",
 		"editorView" : "ms 4/16/2019 10:50",
 		"graphicalRepresentation" : "ms 4/16/2019 10:30",
 		"inlineView" : "ms 4/16/2019 13:51",
-		"openEditorAsWindow" : "ms 4/16/2019 14:19",
+		"okToClose" : "LM 4/23/2019 11:05",
+		"openEditorAsWindow" : "LM 4/23/2019 11:32",
+		"promptForCancel" : "LM 4/23/2019 11:35",
 		"selected" : "ms 4/16/2019 15:40",
 		"selected:" : "ms 4/16/2019 15:49",
 		"stateList" : "ms 4/15/2019 16:23",
 		"stateMachineModel" : "ms 4/15/2019 16:17",
 		"stateMachineModel:" : "ms 4/15/2019 15:39",
 		"text" : "ms 4/16/2019 12:10",
-		"text:" : "ms 4/16/2019 13:48",
+		"text:" : "LM 4/23/2019 11:38",
 		"textFieldEditor" : "ms 4/16/2019 10:50",
-		"treeMorphViewer" : "ms 4/16/2019 16:09",
-		"update:" : "ms 4/16/2019 16:10" } }
+		"treeMorphViewer" : "LM 4/23/2019 11:08",
+		"update:" : "ms 4/16/2019 16:10",
+		"windowContents" : "LM 4/23/2019 11:02" } }
