@@ -2,6 +2,7 @@
 	"class" : {
 		"btrScanFromStateMachine1:" : "ms 4/16/2019 12:23" },
 	"instance" : {
+		"=" : "LM 4/23/2019 11:31",
 		"addState:" : "ms 4/16/2019 11:33",
 		"addTransitionOn:from:to:" : "ms 4/11/2019 13:49",
 		"addTransitionsNamed:from:to:" : "ms 4/15/2019 09:58",
@@ -11,10 +12,12 @@
 		"editorView" : "ms 4/15/2019 16:16",
 		"handleUnknownTransition:inState:for:" : "ms 4/15/2019 11:27",
 		"hasStateNamed:" : "ms 4/5/2019 12:10",
+		"hash" : "LM 4/23/2019 11:36",
 		"initialize" : "ms 4/5/2019 11:06",
 		"inlineView" : "ms 4/15/2019 16:16",
 		"isValidStateGraph" : "ms 4/5/2019 12:15",
 		"onUnknownTransitionDo:" : "ms 4/10/2019 15:14",
+		"postCopy" : "LM 4/23/2019 11:30",
 		"preprocessText:" : "ms 4/16/2019 12:21",
 		"pvtCreateState:" : "ms 4/16/2019 11:33",
 		"serializeOn:" : "ms 4/16/2019 14:17",
