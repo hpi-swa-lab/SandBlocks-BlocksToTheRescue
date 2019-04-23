@@ -1,4 +1,4 @@
 as yet unclassified
 hash
 
-	^ self code hash hashMultiply
+	^ self block hash

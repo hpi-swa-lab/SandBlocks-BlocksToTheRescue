@@ -1,10 +1,13 @@
 {
 	"class" : {
-		 },
+		"btrScanFromCode1:" : "BD 4/23/2019 15:40" },
 	"instance" : {
 		"=" : "BD 4/23/2019 10:53",
+		"btrSerializationVersion" : "BD 4/23/2019 15:39",
+		"btrStoreOn:" : "BD 4/23/2019 15:39",
 		"code" : "BD 4/23/2019 10:54",
 		"code:" : "BD 4/23/2019 10:54",
 		"hash" : "BD 4/23/2019 12:06",
 		"inlineView" : "BD 4/23/2019 12:06",
+		"storeOn:" : "BD 4/23/2019 15:47",
 		"valueInContext:" : "BD 4/23/2019 11:37" } }

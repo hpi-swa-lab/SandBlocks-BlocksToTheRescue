@@ -1,4 +1,4 @@
 as yet unclassified
 = anObject	
 	
-	^ anObject class = self class and: [anObject code = self code]
+	^ anObject class = self class and: [anObject block = self block]

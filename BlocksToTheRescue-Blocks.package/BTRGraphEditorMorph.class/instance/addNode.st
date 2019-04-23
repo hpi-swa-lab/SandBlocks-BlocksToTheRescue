@@ -1,4 +1,4 @@
 menu actions
 addNode
 
-	self graph addNode: BTRGraphNode new.
+	self graph addNode: BTRGraphNode default.

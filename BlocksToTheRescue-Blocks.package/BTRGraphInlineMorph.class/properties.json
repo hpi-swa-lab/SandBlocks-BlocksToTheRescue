@@ -8,7 +8,7 @@
 	"instvars" : [
 		"graph",
 		"layers" ],
-	"name" : "BTRGraphBlockMorph",
+	"name" : "BTRGraphInlineMorph",
 	"pools" : [
 		 ],
 	"super" : "Morph",

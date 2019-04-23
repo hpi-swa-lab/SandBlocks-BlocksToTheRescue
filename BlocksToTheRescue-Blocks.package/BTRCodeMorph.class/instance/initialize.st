@@ -7,4 +7,4 @@ initialize
 	setTextSelector := #code:.
 	self useDefaultStyler.
 	self initializeText.
-	self acceptAction: [:newContents | self changed: #accept].
+	self acceptAction: [:newContents | self model changed: #accept].
