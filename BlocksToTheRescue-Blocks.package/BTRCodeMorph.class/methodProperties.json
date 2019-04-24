@@ -2,6 +2,7 @@
 	"class" : {
 		"for:" : "BD 4/23/2019 12:06" },
 	"instance" : {
+		"hasUnacceptedEdits:" : "BD 4/24/2019 10:44",
 		"initialize" : "BD 4/23/2019 14:57",
 		"initializeText" : "BD 4/23/2019 11:58",
 		"okToStyle" : "BD 4/23/2019 11:58" } }
