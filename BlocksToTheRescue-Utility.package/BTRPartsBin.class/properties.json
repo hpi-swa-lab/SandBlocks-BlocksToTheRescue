@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-StringHolders",
+	"category" : "BlocksToTheRescue-Utility",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"useFullBounds" ],
-	"name" : "CenteredLayout",
+		"prototypes" ],
+	"name" : "BTRPartsBin",
 	"pools" : [
 		 ],
-	"super" : "LayoutPolicy",
+	"super" : "Morph",
 	"type" : "normal" }

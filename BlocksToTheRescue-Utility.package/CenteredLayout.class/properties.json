@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Utility",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"image" ],
-	"name" : "BTRMorphDropZone",
+		"useFullBounds" ],
+	"name" : "CenteredLayout",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "LayoutPolicy",
 	"type" : "normal" }
