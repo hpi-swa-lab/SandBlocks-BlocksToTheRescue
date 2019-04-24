@@ -1,6 +1,4 @@
 accessing
 addTransitionNamed: messageSymbol target: targetStateSymbol
 
-	^ self transitions
-		at: messageSymbol
-		put: (BTRStateTransition named: messageSymbol target: targetStateSymbol)
+	^ self addTransitionNamed: messageSymbol target: targetStateSymbol action: nil

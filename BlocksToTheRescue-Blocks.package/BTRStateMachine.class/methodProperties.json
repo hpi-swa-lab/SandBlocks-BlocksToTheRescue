@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"newOn:" : "ms 4/10/2019 15:29" },
+		"newOn:" : "ms 4/10/2019 15:29",
+		"newOn:managing:" : "LM 4/24/2019 10:15" },
 	"instance" : {
 		"currentState" : "ms 4/10/2019 15:25",
 		"currentState:" : "ms 4/10/2019 15:25",
@@ -9,6 +10,8 @@
 		"isFinished" : "ms 4/16/2019 10:09",
 		"isInStateNamed:" : "ms 4/11/2019 13:33",
 		"isTransitionUnlocked:" : "ms 4/10/2019 16:32",
+		"managedObject" : "LM 4/24/2019 10:13",
+		"managedObject:" : "LM 4/24/2019 10:13",
 		"model" : "ms 4/10/2019 15:25",
 		"model:" : "ms 4/10/2019 15:25",
 		"reset" : "ms 4/15/2019 11:27",
@@ -17,5 +20,5 @@
 		"tick:" : "ms 4/16/2019 10:06",
 		"transition:" : "ms 4/15/2019 09:49",
 		"transitionTo:" : "ms 4/15/2019 11:23",
-		"transitionToState:via:" : "ms 4/15/2019 11:11",
+		"transitionToState:via:" : "LM 4/24/2019 10:33",
 		"transitionToSymbol:" : "ms 4/15/2019 11:11" } }

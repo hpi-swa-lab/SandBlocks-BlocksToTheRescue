@@ -8,7 +8,8 @@
 	"instvars" : [
 		"name",
 		"targetStateName",
-		"guards" ],
+		"guards",
+		"action" ],
 	"name" : "BTRStateTransition",
 	"pools" : [
 		 ],

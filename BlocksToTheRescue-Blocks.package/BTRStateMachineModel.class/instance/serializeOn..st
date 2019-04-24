@@ -13,12 +13,8 @@ serializeOn: aWriteStream
 				do: [:transition |
 					aWriteStream
 						nextPut: Character cr;
-						nextPut: Character tab;
-						nextPut: $# ;
-						nextPutAll: transition name;
-						nextPutAll: ' -> ';
-						nextPut: $# ;
-						nextPutAll: transition targetStateName]
+						nextPut: Character tab.
+					transition serializeOn: aWriteStream]
 				separatedBy: [aWriteStream nextPut: $. ].
 			aWriteStream nextPutAll: '}.' ]
 		separatedBy: [aWriteStream nextPut: Character cr].
