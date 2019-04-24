@@ -1,6 +1,10 @@
 execution
-pushResults: anArray of: aNode
-
+pushResults: anObject of: aNode
+	
+	| resultingArray |
+	anObject isCollection
+		ifFalse: [ resultingArray := {anObject} ].
+		
 	(self results includesKey: aNode)
-		ifFalse: [(self graph outgoing: aNode) with: anArray do: [:edge :value | self activateEdge: edge with: value]]
-		ifTrue: [self activateNode: aNode with: anArray].
+		ifFalse: [self activateEdges: (self graph outgoing: aNode) with: resultingArray]
+		ifTrue: [self activateNode: aNode with: resultingArray].
