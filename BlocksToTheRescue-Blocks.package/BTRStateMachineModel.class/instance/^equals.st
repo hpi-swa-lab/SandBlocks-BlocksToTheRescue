@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = anotherObject
 
 	^ anotherObject class = self class
