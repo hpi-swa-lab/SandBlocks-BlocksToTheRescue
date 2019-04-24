@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Utility",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"image" ],
-	"name" : "BTRMorphDropZone",
+		"prototypes" ],
+	"name" : "BTRPartsBin",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "Morph",
 	"type" : "normal" }

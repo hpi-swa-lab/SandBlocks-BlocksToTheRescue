@@ -11,5 +11,6 @@ OrderedDictionary {
 	'BlocksToTheRescue-Autocompletion.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Assets.package' : #SquotCypressCodeSerializer,
 	'Mario\/DNM.package' : #SquotCypressCodeSerializer,
-	'Mario\/BlockMario.package' : #SquotCypressCodeSerializer
+	'Mario\/BlockMario.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Utility.package' : #SquotCypressCodeSerializer
 }

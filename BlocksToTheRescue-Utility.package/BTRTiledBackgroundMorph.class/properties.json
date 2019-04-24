@@ -1,13 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Utility",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"prototypes" ],
-	"name" : "BTRPartsBin",
+		"tileSize",
+		"tileColor" ],
+	"name" : "BTRTiledBackgroundMorph",
 	"pools" : [
 		 ],
 	"super" : "Morph",

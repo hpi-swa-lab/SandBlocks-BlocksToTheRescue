@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"tileSize",
-		"tileColor" ],
-	"name" : "BTRTiledBackgroundMorph",
+		"image" ],
+	"name" : "BTRMorphDropZoneMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }
