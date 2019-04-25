@@ -1,0 +1,4 @@
+compliance
+refersToLiteral: aLiteral
+
+	^ false
