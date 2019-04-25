@@ -8,5 +8,4 @@ openEditorAsWindow
 		getChildrenSelector: #windowContents;
 		layoutPolicy: ProportionalLayout new;
 		openInWorld.
-	self changed: #windowContents
-	"self textFieldEditor openInWindowLabeled: 'State Machine Editor'."
+	self changed: #windowContents.

@@ -1,7 +1,6 @@
 as yet unclassified
 exampleStateMachine
-
-	^ #V2;BTRStateMachineModel;4C;StateMachine1;#start -> {
-	#bye -> #start.
-	#hello -> #world}.
+	<BTRBlockModel>
+	^ #V2;BTRStateMachineModel;4A;StateMachine1;#start -> {
+	#hello -> (#world -> #exampleB)}.
 #world -> {}.;
