@@ -14,7 +14,7 @@ self referenceDictionary at: 3 put: (RunArray runs: #(13 1 8) values: ((Array ne
 self referenceDictionary at: 4 put: ((Array new: 2) at: 1 put: (self referenceAt: 5); at: 2 put: (self referenceAt: 7); yourself). 
 self referenceDictionary at: 5 put: (TextColor basicNew instVarAt: 1 put: (self referenceAt: 6); yourself). 
 self referenceDictionary at: 6 put: (Color r: 0.0 g: 0.0 b: 0.0). 
-self referenceDictionary at: 7 put: (BTRSimpleClassLink basicNew instVarAt: 1 put: (self referenceAt: 8); yourself). 
+self referenceDictionary at: 7 put: (TextColor color: Color red). 
 self referenceDictionary at: 8 put: BTRGraphModel. 
 self referenceDictionary at: 9 put: ((Array new: 1) at: 1 put: (self referenceAt: 10); yourself). 
 self referenceDictionary at: 10 put: (TextColor basicNew instVarAt: 1 put: (self referenceAt: 6); yourself). 
