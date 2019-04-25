@@ -1,4 +1,5 @@
 as yet unclassified
 btrScanFromSmart: aReadStream
 
-	^ BTRSmartSerializer deserialize: aReadStream upToEnd
+	^ self example1
+	"^ BTRSmartSerializer deserialize: aReadStream upToEnd"
