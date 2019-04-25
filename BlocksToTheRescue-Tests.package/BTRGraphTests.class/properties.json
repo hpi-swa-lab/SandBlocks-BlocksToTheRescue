@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Examples",
+	"category" : "BlocksToTheRescue-Tests-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"__" ],
-	"name" : "BTR___",
+		 ],
+	"name" : "BTRGraphTests",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }

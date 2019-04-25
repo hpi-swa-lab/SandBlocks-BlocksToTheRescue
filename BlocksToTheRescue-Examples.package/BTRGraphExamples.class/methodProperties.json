@@ -1,8 +1,9 @@
 {
 	"class" : {
+		"example1" : "BD 4/25/2019 15:21",
+		"example:with:" : "BD 4/25/2019 15:27",
 		"exampleBlockAsNode" : "LB 4/24/2019 16:51",
-		"exampleEditor" : "LB 4/25/2019 11:06",
-		"exampleExecution" : "BD 4/10/2019 15:50",
-		"exampleExecution2" : "LB 4/25/2019 10:43" },
+		"exampleExecution" : "BD 4/25/2019 15:21",
+		"exampleExecution2" : "BD 4/25/2019 15:22" },
 	"instance" : {
 		 } }
