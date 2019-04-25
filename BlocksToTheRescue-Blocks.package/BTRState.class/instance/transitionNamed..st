@@ -1,6 +1,6 @@
 accessing
 transitionNamed: aSymbol
 
-	^ self transitions
-		at: aSymbol
-		ifAbsent: [^ BTRInvalidStateMachineException signal: 'Unknown transition "', aSymbol, '"' onState: self]
+	^ self 
+		transitionNamed: aSymbol
+		ifAbsent: [BTRInvalidStateMachineException signal: 'Unknown transition "', aSymbol, '"' onState: self]
