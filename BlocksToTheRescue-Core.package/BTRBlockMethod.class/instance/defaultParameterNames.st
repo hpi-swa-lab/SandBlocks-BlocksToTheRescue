@@ -1,4 +1,7 @@
 accessing
 defaultParameterNames
 
-	^ self selector keywords collectWithIndex: [:each :index | (Character alphabet at: index) asString]
+	^ Character alphabet asOrderedCollection 
+		collect: #asString 
+		from: 1 
+		to: self numArgs
