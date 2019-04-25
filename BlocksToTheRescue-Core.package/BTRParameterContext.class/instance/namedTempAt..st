@@ -1,4 +1,4 @@
 accessing
 namedTempAt: anIndex
 
-	^ self tempAt: anIndex - 1
+	^ self tempAt: anIndex
