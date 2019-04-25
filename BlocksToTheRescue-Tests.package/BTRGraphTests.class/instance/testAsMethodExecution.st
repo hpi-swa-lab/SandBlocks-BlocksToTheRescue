@@ -9,7 +9,7 @@ testAsMethodExecution
 		on: self class
 		selector: selector
 		parameterNames: { 'foo' . 'bar' }
-		model: (self fixture)) install.
+		model: (self class fixture)) install.
 	
 	self 
 		assert: '84 piles of Old Cheese'
