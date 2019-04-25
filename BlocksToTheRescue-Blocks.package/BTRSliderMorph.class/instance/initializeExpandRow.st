@@ -1,7 +1,7 @@
 initialization
 initializeExpandRow
 
-	expandRow := Morph new
+	self expandRow: (Morph new
 		color: Color transparent;
 		changeTableLayout;
 		listDirection: #leftToRight;
@@ -14,4 +14,5 @@ initializeExpandRow
 		addMorphBack: (StringMorph contents: 'max:' translated);
 		addMorphBack: self maxTextField;
 		addMorphBack: (StringMorph contents: 'step:' translated);
-		addMorphBack: self quantumTextField.
+		addMorphBack: self quantumTextField;
+		yourself)

@@ -1,0 +1,17 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"code",
+		"babylonianMorph" ],
+	"name" : "BTRProbe",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

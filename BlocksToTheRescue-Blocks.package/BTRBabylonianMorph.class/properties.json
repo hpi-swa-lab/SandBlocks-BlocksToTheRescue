@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"probes" ],
+	"name" : "BTRBabylonianMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRCodeMorph",
+	"type" : "normal" }

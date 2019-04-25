@@ -1,6 +1,7 @@
 initialization
-setup
+initialize
 
+	super initialize.
 	self 
 		initializeSubmorphs;
 		initializeLayout.

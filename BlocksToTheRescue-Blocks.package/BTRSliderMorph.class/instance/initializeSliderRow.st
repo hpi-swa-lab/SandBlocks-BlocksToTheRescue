@@ -1,7 +1,7 @@
 initialization
 initializeSliderRow
 
-	sliderRow := Morph new
+	self sliderRow: (Morph new
 		color: Color transparent;
 		changeTableLayout;
 		listDirection: #leftToRight;
@@ -9,4 +9,5 @@ initializeSliderRow
 		vResizing: #shrinkWrap;
 		cellInset: self defaultCellInset;
 		addMorphBack: self slider;
-		addMorphBack: self expandButton.
+		addMorphBack: self expandButton;
+		yourself).

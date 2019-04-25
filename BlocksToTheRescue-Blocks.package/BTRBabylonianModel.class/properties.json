@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRBabylonianModel",
+	"pools" : [
+		 ],
+	"super" : "BTRCodeModel",
+	"type" : "normal" }
