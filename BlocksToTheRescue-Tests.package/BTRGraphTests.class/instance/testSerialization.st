@@ -2,7 +2,7 @@ as yet unclassified
 testSerialization
 	
 	| originalModel recreatedModel |
-	originalModel := self class fixture.
+	originalModel := self class exampleGraph.
 	
 	recreatedModel := (ReadStream on: (String streamContents: [ :stream |
 			 originalModel btrWriteScanOn: stream ])) btrScanFrom.

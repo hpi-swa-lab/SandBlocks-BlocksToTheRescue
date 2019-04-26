@@ -9,5 +9,5 @@ example1
 	graph := BTRGraphModel new.
 	graph nodes: {node2. node3. node4. node1}.
 	graph edges: {node1 -> node2. node2 -> node4. node1 -> node3.  node3 -> node4}.
-	"graph parameterNames: {'foo'. 'bar'}."
+
 	^ graph
