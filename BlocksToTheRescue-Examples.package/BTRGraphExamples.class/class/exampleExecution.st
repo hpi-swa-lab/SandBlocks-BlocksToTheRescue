@@ -4,4 +4,4 @@ exampleExecution
 	| foo bar |
 	foo := 42.
 	bar := 'Cheese'.
-	^ BTRGraphModel example1 value 
+	^ self class example1 valueInContext: thisContext.

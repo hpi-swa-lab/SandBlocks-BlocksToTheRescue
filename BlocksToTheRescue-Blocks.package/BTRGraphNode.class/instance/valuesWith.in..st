@@ -6,6 +6,6 @@ valuesWith: arguments in: aContext
 	alloyContext := BTRParameterContext new
 		sender: thisContext sender;
 		receiver: aContext receiver;
-		arguments: aContext arguments, arguments;
+		arguments: ((1 to: aContext numTemps) collect: [ :each | aContext tempAt: each ]), arguments;
 		tempNames: aContext tempNames, ((1 to: arguments size) collect: #threeDigitName). 
 	^ self block valueInContext: alloyContext

@@ -2,8 +2,9 @@ execution
 pushResults: anObject of: aNode
 	
 	| resultingArray |
-	anObject isCollection
-		ifFalse: [ resultingArray := {anObject} ].
+	resultingArray := anObject isArray
+		ifFalse: [ {anObject} ]
+		ifTrue: [ anObject ].
 		
 	(self results includesKey: aNode)
 		ifFalse: [self activateEdges: (self graph outgoing: aNode) with: resultingArray]
