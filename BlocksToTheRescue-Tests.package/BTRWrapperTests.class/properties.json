@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Tests-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRWrapperTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
