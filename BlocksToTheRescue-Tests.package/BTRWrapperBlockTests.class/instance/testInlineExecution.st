@@ -1,9 +1,9 @@
 as yet unclassified
-testEdgeAdditionRequestedByNode
+testInlineExecution
 	
-	| node1 node2 |	
-	node1 := BTRGraphNode default.
-	node2 := BTRGraphNode for: #V2;BTRWrapperBlock;14AA;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
+	self 
+		assert: (BTRColorModel for: Color seaFoam)
+		equals: #V2;BTRWrapperBlock;14AA;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
 3*dYFDBL\p+@0seBl"nI0JPR1@<<VI3]&]T1GU(lD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
 BjkglH=\6/%1NaiF(K0"+EMC.Ecb2jAlEelARTF!"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"
 !!!!$"q!b4@ruF'DIIR2"98E%-jTeQ!)En$!!!**$UJiTDe!KiFD5Z2"qjL<ASuU(FEp8g@ruF'
@@ -59,8 +59,8 @@ $31&++9VZE!%8*Q!!#e$!!!!$$31&+3skrf!([Fs!!",B#ljr*!t##.!':Mf!!'20!!!0%#ljr*
 !!0&"#ljr*!t##.!':Mf!!fS4!!!#&#ljr*!t##.!':Mf!!i]7!!!,]#ljr*!t##.!':Mf!!jt[
 !!!<^#ljr*!t##.!':Mf!!l.'!!!0%!<EK,!!!*.!!!!\$31&3XpP./!g<oj!!!*.!!!!\$31&3
 c3aOO!ZM.@!<EK,!!!*.!!!!\$31&4((($A!V?Bn#ljr*!t##.!':Mf!!tIh!!!3Z!=8`+!!<Q.
-!!#(f!!!=&$31&41][m_!!!93!!!))%h0(:&l;a4#QOi)!=8`+!!ru4!!fS9%:D[=!*'@+!"@9]
-!!!!"#ljr*$OQk6#Y>O9n4+(0<=/^+%-\#t!!!!"#ljr*":>,/"A].#!!!!%!!!!A$\/E^#QFc(
+!!#(f!!!=&$31&41][m_!!!93!!!))%gG9c$\2C]#QOi)!=8`+!!ru4!!fS9#*;=_0NAG[!"@9]
+!!!!"#ljr*$OQk6#Y>O3+@cd3<=/^+%-\#t!!!!"#ljr*":>,/"A].#!!!!%!!!!A$\/E^#QFc(
 !=8`+!"927!!PCc!WrH(!<W?'!=8`+!!<Q.!!#Om!!!!##QOi)!snr-!!<Q.!!#(b$Y"$pA7]d[
 FEq\6#ljr*!=Af,#Uf][!!!!$$31&+3sH:<BkM<lCdW,YDIm="Bl@m1#ljr*!t##.!$DCE!!!!)
 !!!!$!<E3%"98E%!"fG\0JGsc3%tF8#ljr*":>,/"A].#&,lV5!!!!A$\/E^#QFf(J-c2U!"927
@@ -72,12 +72,4 @@ EsVgH!"fP<!!]e7$?Km$Bl7]fEa`no!!!Mp!sAT(!!!3-@qBP"AT@tXDJsE("98E%!!W[MDfAB]
 Aon4bFDl+tDaJAaFDl"'!!!N:!s8l1!"TeO!!!N:"98E%!!GOds8N*+!!!!$$31&+3skrf%?Uqs
 !!!*.!!!!A"98E%!!iQ)!!<6&!<EK,!!!*.!!!!\"q<mu;F52<@r"eWA7]Qa!!!GU#ljr*!t##.
 !':Mf!"EiQ!!!!%$31&/!X\o-%YkAk!"Obe!!!!&#ljr*!t##.!':AnCghU-F`^GuCh[C)#ljr*
-!t##.#$2-3!"Rrg$31&9D'9>t~>;.
-	self graph addNode: node1.
-	self graph addNode: node2.
-	[node1 addEdge] 
-		on: ProvideAnswerNotification
-		do: [:e | e resume: 1].
-	
-	self assert: (self graph edges includes: node1 -> node2).
-	
+!t##.#$2-3!"Rrg$31&9D'9>t~>;. 

@@ -2,7 +2,7 @@ as yet unclassified
 testSerialization
 	
 	| originalModel recreatedModel |
-	originalModel := BTRCodeModel for: 'x * x'.
+	originalModel := self createPlainInstance.
 	
 	recreatedModel := (ReadStream on: (String streamContents: [ :stream |
 			 originalModel btrWriteScanOn: stream ])) btrScanFrom.

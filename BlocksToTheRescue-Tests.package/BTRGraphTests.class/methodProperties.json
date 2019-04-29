@@ -2,6 +2,9 @@
 	"class" : {
 		"exampleGraph" : "BD 4/26/2019 11:17" },
 	"instance" : {
+		"createPlainInstance" : "BD 4/29/2019 14:36",
+		"executionContext" : "BD 4/29/2019 14:36",
+		"expectedResult" : "BD 4/29/2019 14:37",
 		"graph" : "BD 4/29/2019 11:44",
 		"graph:" : "BD 4/29/2019 11:44",
 		"setUp" : "BD 4/29/2019 12:08",
@@ -12,5 +15,4 @@
 		"testInlineExecution" : "BD 4/25/2019 16:29",
 		"testInlineViewCreation" : "BD 4/26/2019 11:17",
 		"testNodeRemovalRequestedByNode" : "BD 4/29/2019 11:49",
-		"testPlainExecution" : "BD 4/26/2019 11:17",
-		"testSerialization" : "BD 4/26/2019 11:17" } }
+		"testPlainExecution" : "BD 4/26/2019 11:17" } }

@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"theMachine" ],
-	"name" : "BTRStateMachineModelTests",
+		 ],
+	"name" : "BTRBlockTestCase",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockTestCase",
+	"super" : "TestCase",
 	"type" : "normal" }

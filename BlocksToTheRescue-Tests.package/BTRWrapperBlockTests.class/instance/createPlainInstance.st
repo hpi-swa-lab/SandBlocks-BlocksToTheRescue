@@ -1,9 +1,7 @@
 as yet unclassified
-testEdgeAdditionRequestedByNode
-	
-	| node1 node2 |	
-	node1 := BTRGraphNode default.
-	node2 := BTRGraphNode for: #V2;BTRWrapperBlock;14AA;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
+createPlainInstance
+
+	^ #V2;BTRWrapperBlock;15F6;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfrfa+@KdNASkmfEZd+k0fU:[CghEsF*&OIE+EC!ANCqY0fUpD
 3*dYFDBL\p+@0seBl"nI0JPR1@<<VI3]&]T1GU(lD'pJ9%3\MVC1Ums;e'6RDImi2DIn#7Bl7X,
 BjkglH=\6/%1NaiF(K0"+EMC.Ecb2jAlEelARTF!"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"
 !!!!$"q!b4@ruF'DIIR2"98E%-jTeQ!)En$!!!**$UJiTDe!KiFD5Z2"qjL<ASuU(FEp8g@ruF'
@@ -59,25 +57,21 @@ $31&++9VZE!%8*Q!!#e$!!!!$$31&+3skrf!([Fs!!",B#ljr*!t##.!':Mf!!'20!!!0%#ljr*
 !!0&"#ljr*!t##.!':Mf!!fS4!!!#&#ljr*!t##.!':Mf!!i]7!!!,]#ljr*!t##.!':Mf!!jt[
 !!!<^#ljr*!t##.!':Mf!!l.'!!!0%!<EK,!!!*.!!!!\$31&3XpP./!g<oj!!!*.!!!!\$31&3
 c3aOO!ZM.@!<EK,!!!*.!!!!\$31&4((($A!V?Bn#ljr*!t##.!':Mf!!tIh!!!3Z!=8`+!!<Q.
-!!#(f!!!=&$31&41][m_!!!93!!!))%h0(:&l;a4#QOi)!=8`+!!ru4!!fS9%:D[=!*'@+!"@9]
-!!!!"#ljr*$OQk6#Y>O9n4+(0<=/^+%-\#t!!!!"#ljr*":>,/"A].#!!!!%!!!!A$\/E^#QFc(
-!=8`+!"927!!PCc!WrH(!<W?'!=8`+!!<Q.!!#Om!!!!##QOi)!snr-!!<Q.!!#(b$Y"$pA7]d[
-FEq\6#ljr*!=Af,#Uf][!!!!$$31&+3sH:<BkM<lCdW,YDIm="Bl@m1#ljr*!t##.!$DCE!!!!)
-!!!!$!<E3%"98E%!"fG\0JGsc3%tF8#ljr*":>,/"A].#&,lV5!!!!A$\/E^#QFf(J-c2U!"927
-!!PCc!WrH(!<W?'!=8`+!!<Q.!!#Om!!!!$#QOi)"T\W1!!!!$$31&+3skrf%?Uqs!!!*.!!!!A
-"98E%!!iQ)!!<6&!=8`+!!<Q.!!#(b$Y+*qDImieFEq\6"p]0eF`(`$A-i59!!<Q.!!#(f!!!IH
-$31&8HjKcQ!!`i2!!@QK!<E3%$31&8bR+=M%0Q\<!!!!&$31&,=9JU(!!!$#"98E%!!rW*!"927
-!!PCc!WrH(!<W?'!=8`+!!<Q.!!#Om!!!!&#QOi)#71A1!!<Q.!!#(b&8Yd#Dfp.uEc5o.Ecc#,
-EsVgH!"fP<!!]e7$?Km$Bl7]fEa`no!!!Mp!sAT(!!!3-@qBP"AT@tXDJsE("98E%!!W[MDfAB]
-Aon4bFDl+tDaJAaFDl"'!!!N:!s8l1!"TeO!!!N:"98E%!!GOds8N*+!!!!$$31&+3skrf%?Uqs
-!!!*.!!!!A"98E%!!iQ)!!<6&!<EK,!!!*.!!!!\"q<mu;F52<@r"eWA7]Qa!!!GU#ljr*!t##.
-!':Mf!"EiQ!!!!%$31&/!X\o-%YkAk!"Obe!!!!&#ljr*!t##.!':AnCghU-F`^GuCh[C)#ljr*
-!t##.#$2-3!"Rrg$31&9D'9>t~>;.
-	self graph addNode: node1.
-	self graph addNode: node2.
-	[node1 addEdge] 
-		on: ProvideAnswerNotification
-		do: [:e | e resume: 1].
-	
-	self assert: (self graph edges includes: node1 -> node2).
-	
+!!#(f!!!=&$31&41][m_!!!93!!!))%g&sZ#nTc2#QOi)!=8`+!!io3!!9A8"!B#uTLB1f!"@9]
+!!!!"#ljr*#mpY4#HSF<O>$qo4ph8i%-\#t!!!$+!!!!,$31&38IkqH0F+77$31&8":+u-!!!$+
+!!!!%$31&/:BUXt!!!-%!!",LJ-H#Zrr<$"#ljr*$jlt7"Zc_e!s&E'!s&E'#ljr*!t##.!([4m
+!!!'+!!!!$#ljr*!t##.!':Am@W-9tATC^kH#.$u!!!!"$31&3-ijVS!!!*.!!!!\"qbojB5V-o
+6Z6j[ARfgrDf0V&!!!!$$31&++9VZE!!!9)!!!*%!<E3(z&I0O70LeMk0EV=^!!!!%$31&/:BUY.
+rW33&!!",LJ-H#ZrrE(L#ljr*$jlt7"Zc_e!s&E'!s&E'#ljr*!t##.!([4m!!!*,!!!!&!<EK,
+!!!*.!!!!\$31&8X9ek,!!<Q.!!",Ez#QOi)!s&E'#ljr*!t##.!':Am@rHC*ATC^kH#.$r#BFa*
+DId<h#ljr*!t##.!':Mf!"Fem!!!Ip#ljr*#7:G2"+(%L!<E3.!!!Jk$31&8*ruZJ!!!00!!!%%
+"98E%!!**'z#ljr*$jlt7"Zc_e!s&E'!s&E'#ljr*!t##.!([4m!!!--!!!!&#ljr*!t##.!':Ar
+CghU-F`^H#DfB9.FD5<-#ljr*&IJL<#.+RAF(fT.DJN<o@;lPR!"T89"98E%!!WX;ASuU$EWuYa
+Df0+h!!!!#"p]6gE(jhTF9W+pDfAZo6>psfDf#g]!"U@X!t##.%kn=j!"U@Yz"@)qdrrEE+!!!*.
+!!!!\$31&8X9ek,!!<Q.!!",Ez#QOi)!s&E'#ljr*!t##.!':AnCghU-F`^GuCh[C)#ljr*!t##.
+#$2-3!"So-#ljr*!t##.!':Mf!"Fel!!!!%$31&/!X\o-%\a:1!"P_+!!!!&$31&9L]Ih_!"P_0
+!!!!-$31&03WfEc!<E3'!<E3-!!!!$$31&+8-Anm!!NW.!!!61!!!!$$31&+3skrf%dF?#!!!T<
+!!!51$31&:"pt>1%gE+=z$31&:*=;cH%j_>Y!!!'-!!!N`$31&:3=5`d%j_;[$31&:0F@d[%j_>Y
+!!!!%5QCc`!=8`+!!<Q.!!#(f!!!J0#ljr*!t##.!$DCE!!!!)!!!!$!<E3%#ljr*!t##.!':Mf
+!"Fel!!!!%$31&/!X\o-%\a:1!"P_+!!!!&#ljr*!t##.!':Mf!"Y5!!!!!$$31&1<sep-&/kQU
+!!!!$$31&+3sH-\<)Q&!De!QWDe*Eq$31&7dL#sS%-\oE%0~>; copy
