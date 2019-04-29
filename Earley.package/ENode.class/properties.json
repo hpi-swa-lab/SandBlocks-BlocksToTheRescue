@@ -1,0 +1,20 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"start",
+		"end",
+		"ruleNumber",
+		"children",
+		"type",
+		"grammar" ],
+	"name" : "ENode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

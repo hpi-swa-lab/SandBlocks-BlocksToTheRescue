@@ -1,0 +1,16 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"grammar",
+		"source",
+		"nodesList" ],
+	"name" : "EParseTreeBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

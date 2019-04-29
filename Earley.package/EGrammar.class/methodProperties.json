@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"from:" : "WoC 4/28/2019 15:49" },
+	"instance" : {
+		"addRule:" : "WoC 4/24/2019 16:34",
+		"initialize" : "WoC 4/24/2019 16:30",
+		"isStartNode:" : "WoC 4/27/2019 12:30",
+		"isStartRule:" : "WoC 4/3/2019 16:58",
+		"nameTo:" : "WoC 4/24/2019 20:12",
+		"ruleCollection" : "WoC 4/24/2019 16:30",
+		"ruleCollection:" : "WoC 4/24/2019 16:30",
+		"ruleNumbered:" : "WoC 4/24/2019 16:34",
+		"rules" : "WoC 4/3/2019 10:42",
+		"rules:" : "WoC 4/3/2019 10:17",
+		"rulesDo:" : "WoC 4/3/2019 14:12",
+		"rulesDoWithIndex:" : "WoC 4/24/2019 19:32",
+		"startRuleName" : "WoC 4/2/2019 14:42",
+		"startRuleName:" : "WoC 4/2/2019 14:42",
+		"startRulesWithIndexDo:" : "WoC 4/3/2019 17:08" } }

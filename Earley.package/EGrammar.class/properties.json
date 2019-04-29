@@ -1,0 +1,16 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startRuleName",
+		"rules",
+		"ruleCollection" ],
+	"name" : "EGrammar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

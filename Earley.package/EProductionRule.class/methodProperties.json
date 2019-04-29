@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"from:" : "WoC 4/25/2019 00:38" },
+	"instance" : {
+		"at:" : "WoC 4/24/2019 16:17",
+		"at:ifAbsent:" : "WoC 4/24/2019 20:49",
+		"do:" : "WoC 4/3/2019 14:12",
+		"name" : "WoC 4/3/2019 17:07",
+		"name:" : "WoC 4/3/2019 17:07",
+		"printOn:" : "WoC 4/27/2019 15:49",
+		"semanticAction" : "WoC 4/28/2019 15:45",
+		"semanticAction:" : "WoC 4/28/2019 15:45",
+		"size" : "WoC 4/24/2019 23:07",
+		"symbols" : "WoC 4/3/2019 10:20",
+		"symbols:" : "WoC 4/3/2019 10:20" } }

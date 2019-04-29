@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"ruleNumber:start:next:" : "WoC 4/3/2019 17:09" },
+	"instance" : {
+		"=" : "WoC 4/25/2019 00:22",
+		"next" : "WoC 4/2/2019 13:57",
+		"next:" : "WoC 4/2/2019 13:57",
+		"printOn:" : "WoC 4/24/2019 16:08",
+		"printOn:for:" : "WoC 4/25/2019 00:33",
+		"ruleNumber" : "WoC 4/2/2019 13:57",
+		"ruleNumber:" : "WoC 4/2/2019 13:57",
+		"start" : "WoC 4/2/2019 13:57",
+		"start:" : "WoC 4/2/2019 13:57" } }

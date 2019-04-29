@@ -1,0 +1,16 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"symbols",
+		"name",
+		"semanticAction" ],
+	"name" : "EProductionRule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

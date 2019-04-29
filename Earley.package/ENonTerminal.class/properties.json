@@ -1,0 +1,14 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"symbol" ],
+	"name" : "ENonTerminal",
+	"pools" : [
+		 ],
+	"super" : "ESymbol",
+	"type" : "normal" }

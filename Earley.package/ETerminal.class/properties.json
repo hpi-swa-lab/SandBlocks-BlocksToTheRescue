@@ -1,0 +1,14 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition" ],
+	"name" : "ETerminal",
+	"pools" : [
+		 ],
+	"super" : "ESymbol",
+	"type" : "normal" }
