@@ -13,5 +13,6 @@ OrderedDictionary {
 	'Mario\/DNM.package' : #SquotCypressCodeSerializer,
 	'Mario\/BlockMario.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Utility.package' : #SquotCypressCodeSerializer,
-	'Earley.package' : #SquotCypressCodeSerializer
+	'Earley.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-Museum.package' : #SquotCypressCodeSerializer
 }
