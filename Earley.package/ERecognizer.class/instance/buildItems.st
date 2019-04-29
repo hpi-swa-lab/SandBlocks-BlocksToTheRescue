@@ -1,6 +1,8 @@
 earley core
 buildItems
 
-	self initializeStatesSet.
-	self populateStatesSet.
+	self 
+		intializeNullableSet;
+		initializeStatesSet;
+		populateStatesSet.
 	^ self states

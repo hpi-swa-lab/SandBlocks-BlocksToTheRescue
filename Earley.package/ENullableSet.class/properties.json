@@ -6,11 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"grammar",
-		"source",
-		"states",
-		"nullableSet" ],
-	"name" : "ERecognizer",
+		"nullableRules" ],
+	"name" : "ENullableSet",
 	"pools" : [
 		 ],
 	"super" : "Object",
