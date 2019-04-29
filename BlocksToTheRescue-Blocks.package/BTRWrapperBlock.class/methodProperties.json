@@ -3,8 +3,10 @@
 		"default" : "LB 4/23/2019 16:38",
 		"for:" : "LB 4/23/2019 16:37" },
 	"instance" : {
+		"handlesMouseDown:" : "BD 4/29/2019 11:01",
 		"initialize" : "LB 4/23/2019 16:36",
 		"inlineView" : "LB 4/23/2019 16:07",
+		"mouseDown:" : "BD 4/29/2019 11:20",
 		"updateView" : "LB 4/23/2019 16:14",
 		"value" : "LB 4/23/2019 16:10",
 		"wrappedBlock" : "LB 4/23/2019 16:07",
