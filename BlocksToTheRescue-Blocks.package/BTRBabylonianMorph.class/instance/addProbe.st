@@ -5,7 +5,7 @@ addProbe
 		ifTrue: [ | probe |
 			probe := BTRProbe for: self textMorph selection.
 			self probes add: probe.
-			probe babylonianMorph: self.
+			probe addDependent: self.
 			self textMorph editor 
 								replaceSelectionWith: (BTRBlockAttribute asTextFrom: probe)]
 	

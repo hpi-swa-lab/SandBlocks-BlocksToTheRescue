@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "BD 4/29/2019 14:02",
+		"testSelectors" : "BD 4/29/2019 13:46" },
+	"instance" : {
+		"createPlainInstance" : "BD 4/29/2019 14:02",
+		"executionContext" : "BD 4/29/2019 14:34",
+		"expectedResult" : "BD 4/29/2019 14:35",
+		"testSerialization" : "BD 4/29/2019 14:41" } }

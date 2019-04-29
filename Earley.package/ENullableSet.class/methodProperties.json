@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"forGrammar:" : "WoC 4/29/2019 11:22" },
+	"instance" : {
+		"add:" : "WoC 4/29/2019 11:32",
+		"buildFor:" : "WoC 4/29/2019 11:49",
+		"includes:" : "WoC 4/29/2019 11:53",
+		"initialize" : "WoC 4/29/2019 11:03",
+		"isNullable:" : "WoC 4/29/2019 15:08",
+		"nullableRules" : "WoC 4/29/2019 11:00",
+		"nullableRules:" : "WoC 4/29/2019 11:00",
+		"size" : "WoC 4/29/2019 11:01",
+		"update:" : "WoC 4/29/2019 15:08" } }

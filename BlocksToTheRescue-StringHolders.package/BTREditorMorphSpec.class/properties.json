@@ -12,5 +12,5 @@
 	"name" : "BTREditorMorphSpec",
 	"pools" : [
 		 ],
-	"super" : "BTRInlineMorphSpec",
+	"super" : "AnObsoleteBTRInlineMorphSpec",
 	"type" : "normal" }

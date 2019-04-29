@@ -1,0 +1,15 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"states",
+		"grammar" ],
+	"name" : "EStatesSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,7 +1,7 @@
 as yet unclassified
 testInlineViewCreation
 
-	[ self class fixture inlineView
+	[ self class exampleGraph inlineView
 		openInWorld;
 		abandon ]
 		on: Exception do: [ :e | self fail: e ].

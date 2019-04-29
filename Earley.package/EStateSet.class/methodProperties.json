@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "WoC 4/2/2019 15:16",
+		"anySatisfy:" : "WoC 4/25/2019 15:25",
+		"at:" : "WoC 4/24/2019 16:14",
+		"collect:" : "WoC 4/25/2019 13:49",
+		"collection" : "WoC 4/2/2019 15:13",
+		"collection:" : "WoC 4/2/2019 15:13",
+		"do:" : "WoC 4/24/2019 20:50",
+		"doWithIndex:" : "WoC 4/24/2019 20:27",
+		"hasState:" : "WoC 4/2/2019 15:15",
+		"initialize" : "WoC 4/2/2019 15:13",
+		"printOn:" : "WoC 4/24/2019 20:47",
+		"printOn:usingGrammar:" : "WoC 4/24/2019 23:25",
+		"size" : "WoC 4/25/2019 15:28" } }

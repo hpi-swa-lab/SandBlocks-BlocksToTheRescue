@@ -1,4 +1,0 @@
-view
-editorMorphSpec
-
-	^ self shouldBeImplemented

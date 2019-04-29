@@ -1,0 +1,17 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"grammar",
+		"source",
+		"states",
+		"nullableSet" ],
+	"name" : "ERecognizer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

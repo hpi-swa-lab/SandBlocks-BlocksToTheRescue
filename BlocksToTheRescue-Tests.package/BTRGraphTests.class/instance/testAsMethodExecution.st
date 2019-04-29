@@ -9,7 +9,7 @@ testAsMethodExecution
 		on: self class
 		selector: selector
 		parameterNames: { 'foo' . 'bar' }
-		model: (self class fixture)) install.
+		model: (self class exampleGraph)) install.
 	
 	self 
 		assert: '84 piles of Old Cheese'

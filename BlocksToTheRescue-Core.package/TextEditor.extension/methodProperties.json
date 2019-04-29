@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"initializeCmdKeyShortcuts" : "ms 3/27/2019 09:31" },
+		"initializeCmdKeyShortcuts" : "ms 3/27/2019 09:31",
+		"initializeShiftCmdKeyShortcuts" : "WoC 4/26/2019 10:13" },
 	"instance" : {
 		"insertAndSelectText:at:" : "WoC 3/25/2019 14:14",
 		"insertBlock" : "LB 4/25/2019 10:42",

@@ -1,0 +1,14 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nullableRules" ],
+	"name" : "ENullableSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

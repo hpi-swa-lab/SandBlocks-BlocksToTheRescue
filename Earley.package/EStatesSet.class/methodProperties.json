@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"for:" : "WoC 4/24/2019 23:05" },
+	"instance" : {
+		"collect:" : "WoC 4/25/2019 13:49",
+		"collectWithIndex:" : "WoC 4/25/2019 13:49",
+		"completedSet" : "WoC 4/24/2019 23:08",
+		"do:" : "WoC 4/2/2019 14:46",
+		"doWithIndex:" : "WoC 4/24/2019 20:30",
+		"grammar" : "WoC 4/24/2019 22:57",
+		"grammar:" : "WoC 4/24/2019 22:57",
+		"initialize" : "WoC 4/2/2019 14:11",
+		"invertedSet" : "WoC 4/25/2019 00:25",
+		"last" : "WoC 4/25/2019 15:23",
+		"onIndexesDo:" : "WoC 4/24/2019 20:36",
+		"printOn:" : "WoC 4/24/2019 23:26",
+		"set:" : "WoC 4/2/2019 15:26",
+		"set:add:" : "WoC 4/2/2019 15:28",
+		"set:index:" : "WoC 4/2/2019 15:26",
+		"size" : "WoC 4/25/2019 15:29",
+		"states" : "WoC 4/2/2019 13:58",
+		"states:" : "WoC 4/2/2019 13:58" } }
