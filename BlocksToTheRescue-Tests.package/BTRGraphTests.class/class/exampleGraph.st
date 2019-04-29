@@ -1,5 +1,5 @@
 as yet unclassified
-fixture
+exampleGraph
 
 	| graph node1 node2 node3 node4 |
 	node1 := BTRGraphNode new code: '{foo. bar}'.

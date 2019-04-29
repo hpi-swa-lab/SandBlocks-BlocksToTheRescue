@@ -6,5 +6,5 @@ testPlainExecution
 	bar := 'Cheese'.	
 	self 
 		assert: '84 piles of Old Cheese'
-		equals: (self class fixture valueInContext: thisContext) first.
+		equals: (self class exampleGraph valueInContext: thisContext) first.
 	
