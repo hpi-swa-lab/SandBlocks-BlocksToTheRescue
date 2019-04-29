@@ -1,5 +1,6 @@
 initialization
 transparencyBackground
 
-	self color: Color gray.
-	self tileColor: Color lightGray.
+	self
+		color: Color gray;
+		tileColor: Color lightGray.

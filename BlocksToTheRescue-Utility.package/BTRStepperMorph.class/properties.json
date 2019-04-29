@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mouseDownStepCount",
+		"upButton",
+		"downButton" ],
+	"name" : "BTRStepperMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
