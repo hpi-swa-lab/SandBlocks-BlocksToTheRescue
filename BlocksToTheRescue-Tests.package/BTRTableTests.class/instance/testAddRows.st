@@ -1,5 +1,5 @@
 tests - adding
-testAddRowsToAdjustAnInteger
+testAddRows
 
 	| oldRowCount newRowCount |
 	

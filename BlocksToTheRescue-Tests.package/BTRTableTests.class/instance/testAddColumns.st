@@ -1,5 +1,5 @@
 tests - adding
-testAddColumnsToAdjustAnInteger
+testAddColumns
 
 	| oldColumnCount newColumnCount |
 	
