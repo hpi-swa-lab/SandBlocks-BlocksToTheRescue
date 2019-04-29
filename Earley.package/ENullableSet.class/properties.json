@@ -1,13 +1,13 @@
 {
-	"category" : "BlocksToTheRescue-Core",
+	"category" : "Earley",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"constructor" ],
-	"name" : "BTRInlineMorphSpec",
+		"nullableRules" ],
+	"name" : "ENullableSet",
 	"pools" : [
 		 ],
 	"super" : "Object",

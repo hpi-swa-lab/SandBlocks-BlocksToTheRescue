@@ -8,7 +8,8 @@
 	"instvars" : [
 		"grammar",
 		"source",
-		"states" ],
+		"states",
+		"nullableSet" ],
 	"name" : "ERecognizer",
 	"pools" : [
 		 ],

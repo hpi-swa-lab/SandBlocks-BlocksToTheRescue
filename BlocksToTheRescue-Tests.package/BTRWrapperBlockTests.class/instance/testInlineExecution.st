@@ -3,8 +3,8 @@ testInlineExecution
 	
 	self 
 		assert: (BTRColorModel for: Color seaFoam)
-		equals: #V2;BTRWrapperBlock;14A1;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfria+A-'[F^]<9+>PW*3?VOB@<?(%F<G^FA79Rk3ZoY%3&39E
->p+''+>Pr"6#^jYC`kJe0f^@bF<EA#1,_0I1a$aS-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
+		equals: #V2;BTRWrapperBlock;14A9;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfria+A-'[F^]<9+>PW*3?VOB@<?(%F<G^FA79Rk3ZoY%3&39E
+>p+''+>Pr"6#^jYC`kJe0f^@bF<EA#1,q<K2BZsU-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
 @;KY(AK_Kl%1OJ%ASbs$F)>?+FAc[^;fm%k@;R.j!!!!%#QOi)";)/SCghC++EMXFF^oN9Eb,OW
 !!!**$:JT<FD5Z2@<-Vr!!!!I#QOi):C."$!!<E56$%*c@qf@nBl@kn&kQVFDKKT7Gsl@VFD5Z2
 @<-W!!!!!$"98E%!"fBV@;Kb*&HuT`Eaa4o#ljr*!t##.!':Ar87?RQARn/HCi!ZmFD5Z2#QOi)
@@ -67,9 +67,9 @@ A7]d[FEq\6#ljr*!=Af,#Uf]Vz&I0O70LeMk0EV=^!!!!%$31&/:BUY.rW33&!!",LJ-H#ZrrE(L
 #ljr*$jlt7"Zc_e!s&E'!s&E'#ljr*!t##.!([4m!!!*,!!!!&!<EK,!!!*.!!!!\$31&8U^@)%
 %C$3>!!!*.!!!!\$31&8E!ZLE!!<Q.!!",Ez#QOi)!s&E'#ljr*!t##.!':Am@rHC*ATC^kH#.$r
 #BFa*DId<h#ljr*#7:G2"+(%L!<E3.!!!JP$31&8"9Af/!!!00!!!%%"98E%!!**'z#ljr*$jlt7
-"Zc_e!s&E'!s&E'#ljr*!t##.!([4m!!!0.!!!!(#ljr*!t##.!':ArCghU-F`^H#DfB9.FD5<-
-#ljr*&IJL<#.+RAF(fT.DJN<o@;lPR!"S;s"98E%!!WX;ASuU$EWuYaDf0+hz"p]6gE(jhTF9W+p
-DfAZo6>psfDf#g]!"TD=!t##.%i#EO!"TD>z"@)qdrrEE+!!!*.!!!!\"q<mu;F52<@r"eWA7]Qa
-!!!GU!=8`+!!<Q.!!#(b$uB?tDfp.uDes,tGmOHN!!<Q.!!ZL3!!!Mf!=8`+!!<Q.!!#(f!!!J(
-#ljr*":>,/"9Jo1!"Obk!!!La"98E%"UP//!!<Q.!!#(f!!!II#ljr*!t##.!$DCE!!!!)!!!!$
-!<E3.!!!LG+Unk~>;. 
+"Zc_e!s&E'!s&E'#ljr*!t##.!([4m!!!0.!!!!(#ljr*!t##.!':AnCghU-F`^GuCh[C)#ljr*
+!t##.#$2*2!!!T<!!!51"q#EbEbTE,=)q_g$31&9nH/mo!!!!'#%M4^FCfIs"E&-qAHVu5!!!3.
+FDl+lAS-#g$Zp<+<,Y*AFEDG<$31&:&-E"A!!!NK$31&:&-Mt5!!!-ds8W*"!=8`+!!<Q.!!#(b
+%74#l6>URMCJA_XAS_\R!"@9V#ljr*!t##.!':Mf!"G_1!!!!%$31&/!X\o-%YkAk!"Obe!!!!&
+#ljr*!t##.!':Mf!"ElR!!!!$$31&++9VZE!!!9)!!!*%!<EK,!!!*.!!!!\"qYTZH#IhI:i^Jn
+ATDm,ATJ1Y!"S0!!!!LG+Unk~>;. 
