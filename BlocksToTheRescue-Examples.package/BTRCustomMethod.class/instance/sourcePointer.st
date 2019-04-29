@@ -1,4 +1,0 @@
-compliance
-sourcePointer
-
-	^ 0

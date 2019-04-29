@@ -1,4 +1,0 @@
-compliance
-filePosition
-
-	^ nil
