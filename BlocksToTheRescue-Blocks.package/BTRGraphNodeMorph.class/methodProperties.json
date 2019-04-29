@@ -3,8 +3,8 @@
 		"on:" : "LB 3/28/2019 09:44" },
 	"instance" : {
 		"abandon" : "LB 3/28/2019 12:07",
-		"addEdge" : "LB 3/28/2019 13:54",
-		"delete" : "LB 3/28/2019 13:50",
+		"addEdge" : "BD 4/29/2019 11:48",
+		"delete" : "BD 4/29/2019 11:48",
 		"getMenu:" : "LB 3/28/2019 13:53",
 		"hasUnacceptedEdits:" : "BD 4/24/2019 11:15",
 		"initialize" : "LB 4/24/2019 15:44",

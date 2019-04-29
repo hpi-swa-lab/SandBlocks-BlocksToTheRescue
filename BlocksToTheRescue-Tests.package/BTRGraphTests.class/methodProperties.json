@@ -2,8 +2,15 @@
 	"class" : {
 		"exampleGraph" : "BD 4/26/2019 11:17" },
 	"instance" : {
+		"graph" : "BD 4/29/2019 11:44",
+		"graph:" : "BD 4/29/2019 11:44",
+		"setUp" : "BD 4/29/2019 11:44",
+		"testAddAndRemoveEdge" : "BD 4/29/2019 11:44",
+		"testAddAndRemoveNode" : "BD 4/29/2019 11:45",
 		"testAsMethodExecution" : "BD 4/26/2019 11:17",
+		"testEdgeAdditionRequestedByNode" : "BD 4/29/2019 11:59",
 		"testInlineExecution" : "BD 4/25/2019 16:29",
 		"testInlineViewCreation" : "BD 4/26/2019 11:17",
+		"testNodeRemovalRequestedByNode" : "BD 4/29/2019 11:49",
 		"testPlainExecution" : "BD 4/26/2019 11:17",
 		"testSerialization" : "BD 4/26/2019 11:17" } }
