@@ -10,5 +10,5 @@
 	"name" : "BTRCodeBlockTests",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "BTRBlockTestCase",
 	"type" : "normal" }
