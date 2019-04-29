@@ -7,7 +7,15 @@
 		"setUp" : "ee 4/29/2019 15:03",
 		"table" : "ee 4/29/2019 14:51",
 		"table:" : "ee 4/29/2019 14:52",
+		"testAddColumn" : "ee 4/29/2019 15:40",
+		"testAddColumnsToAdjustAnInteger" : "ee 4/29/2019 15:51",
+		"testAddRow" : "ee 4/29/2019 15:42",
+		"testAddRowsToAdjustAnInteger" : "ee 4/29/2019 15:53",
 		"testAsMethodExecution" : "ee 4/29/2019 15:25",
 		"testInlineExecution" : "ee 4/29/2019 15:09",
 		"testInlineViewCreation" : "ee 4/29/2019 15:03",
-		"testPlainExecution" : "ee 4/29/2019 15:15" } }
+		"testPlainExecution" : "ee 4/29/2019 15:15",
+		"testRemoveColumn" : "ee 4/29/2019 15:50",
+		"testRemoveColumnsToAdjustAnInteger" : "ee 4/29/2019 15:56",
+		"testRemoveRow" : "ee 4/29/2019 15:50",
+		"testRemoveRowsToAdjustAnInteger" : "ee 4/29/2019 15:55" } }

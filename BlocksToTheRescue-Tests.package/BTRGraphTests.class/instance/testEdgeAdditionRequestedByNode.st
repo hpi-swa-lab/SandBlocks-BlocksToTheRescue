@@ -4,7 +4,7 @@ testEdgeAdditionRequestedByNode
 	| node1 node2 |	
 	node1 := BTRGraphNode default.
 	node2 := BTRGraphNode for: #V2;BTRWrapperBlock;14A9;1;<~n%6=^7WNEa+B*9&ART@3/i"PfAfria+A-'[F^]<9+>PW*3?VOB@<?(%F<G^FA79Rk3ZoY%3&39E
->p+''+>Pr"6#^jYC`kJe0f^@bF<EA#1,q<K2BZsU-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
+>p+''+>Pr"6#^jYC`kJe0f^@bF<EA#2)[KN1E^XR-Qrp.+\uQ^ARfg\@ps7mATAo2ATo82DJ=3,
 @;KY(AK_Kl%1OJ%ASbs$F)>?+FAc[^;fm%k@;R.j!!!!%#QOi)";)/SCghC++EMXFF^oN9Eb,OW
 !!!**$:JT<FD5Z2@<-Vr!!!!I#QOi):C."$!!<E56$%*c@qf@nBl@kn&kQVFDKKT7Gsl@VFD5Z2
 @<-W!!!!!$"98E%!"fBV@;Kb*&HuT`Eaa4o#ljr*!t##.!':Ar87?RQARn/HCi!ZmFD5Z2#QOi)
