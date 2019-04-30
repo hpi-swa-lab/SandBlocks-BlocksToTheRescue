@@ -3,12 +3,16 @@
 		"btrScanFromCode1:" : "BD 4/23/2019 15:40",
 		"for:" : "LB 4/24/2019 15:39" },
 	"instance" : {
-		"=" : "BD 4/23/2019 10:53",
+		"=" : "BD 4/30/2019 11:17",
 		"btrSerializationVersion" : "BD 4/23/2019 15:39",
 		"btrStoreOn:" : "BD 4/23/2019 15:39",
-		"code" : "BD 4/23/2019 10:54",
+		"code" : "BD 4/30/2019 10:59",
 		"code:" : "BD 4/23/2019 10:54",
 		"hash" : "BD 4/23/2019 12:06",
 		"inlineView" : "BD 4/23/2019 12:06",
+		"postCopy" : "BD 4/30/2019 10:27",
 		"storeOn:" : "BD 4/23/2019 15:47",
-		"valueInContext:" : "BD 4/23/2019 11:37" } }
+		"valueInContext:" : "BD 4/23/2019 11:37",
+		"viewData" : "BD 4/30/2019 10:07",
+		"viewData:" : "BD 4/30/2019 09:58",
+		"viewDataAt:put:" : "BD 4/30/2019 11:12" } }

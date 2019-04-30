@@ -1,2 +1,2 @@
-SystemOrganization addCategory: #'Earley-Parsers'!
 SystemOrganization addCategory: #Earley!
+SystemOrganization addCategory: #'Earley-Parsers'!

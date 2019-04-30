@@ -2,7 +2,11 @@
 	"class" : {
 		"for:" : "BD 4/23/2019 12:06" },
 	"instance" : {
+		"defaultProportions" : "BD 4/30/2019 10:35",
+		"fontSize" : "BD 4/30/2019 10:18",
 		"hasUnacceptedEdits:" : "BD 4/25/2019 15:59",
-		"initialize" : "BD 4/23/2019 14:57",
+		"initialize" : "BD 4/30/2019 10:36",
 		"initializeText" : "BD 4/23/2019 11:58",
-		"okToStyle" : "BD 4/23/2019 11:58" } }
+		"layoutChanged" : "BD 4/30/2019 11:11",
+		"okToStyle" : "BD 4/23/2019 11:58",
+		"proportions" : "BD 4/30/2019 10:06" } }
