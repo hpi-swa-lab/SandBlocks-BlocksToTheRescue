@@ -12,6 +12,8 @@ printOn: aStream for: anEGrammar
 					index = self next 
 						ifTrue: [aStream nextPutAll: '#'].
 					each printOn: aStream].
+	self next = (productionRule size + 1)
+			ifTrue: [aStream nextPutAll: '#'].
 	aStream 
 		space;
 		nextPut: $(;

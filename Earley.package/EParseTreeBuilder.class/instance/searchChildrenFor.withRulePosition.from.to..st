@@ -13,15 +13,16 @@ searchChildrenFor: anENode withRulePosition: aNumber from: startNumber to: endNu
 			
 			symbol isTerminal
 				ifTrue: [(symbol matchesAt: position of: self source)
-						ifTrue: [
-								result
-									add: (ENode
+						ifTrue: [ | terminal |
+								terminal := ENode
 										name: (self source at: position)
 										start: position
 										end: position
 										ruleNumber: -1
 										type: #terminal
-										grammar: self grammar).
+										grammar: self grammar.
+								terminal value: (self source at: position).
+								result add: terminal.
 							position := position + 1]
 						ifFalse: [^ result]]
 				ifFalse: [symbol isNonTerminal

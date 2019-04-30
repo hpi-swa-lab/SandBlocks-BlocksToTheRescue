@@ -1,6 +1,7 @@
 initialization
 initializeText
 
-	self addMorph: (TextMorph new 
+	self textMorph: (TextMorph new 
 									contents: self code; 
 									yourself).
+	self addMorph: self textMorph

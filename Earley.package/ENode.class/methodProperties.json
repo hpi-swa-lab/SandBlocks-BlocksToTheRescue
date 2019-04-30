@@ -1,7 +1,7 @@
 {
 	"class" : {
-		"forState:starting:named:grammar:" : "WoC 4/28/2019 15:59",
-		"name:start:end:ruleNumber:type:grammar:" : "WoC 4/28/2019 15:58" },
+		"forState:starting:named:grammar:" : "WoC 4/30/2019 00:39",
+		"name:start:end:ruleNumber:type:grammar:" : "WoC 4/30/2019 00:40" },
 	"instance" : {
 		"at:" : "WoC 4/28/2019 16:03",
 		"children" : "WoC 4/25/2019 13:53",
@@ -12,13 +12,14 @@
 		"grammar:" : "WoC 4/28/2019 16:10",
 		"isNonTerminal" : "WoC 4/25/2019 14:14",
 		"isTerminal" : "WoC 4/25/2019 14:14",
-		"name" : "WoC 4/28/2019 16:18",
+		"name" : "WoC 4/30/2019 00:43",
 		"name:" : "WoC 4/25/2019 00:46",
 		"rule" : "WoC 4/28/2019 16:11",
 		"ruleNumber" : "WoC 4/25/2019 00:46",
 		"ruleNumber:" : "WoC 4/25/2019 00:46",
 		"start" : "WoC 4/25/2019 00:46",
 		"start:" : "WoC 4/25/2019 00:46",
-		"type" : "WoC 4/25/2019 00:46",
-		"type:" : "WoC 4/25/2019 00:46",
-		"value" : "WoC 4/28/2019 16:24" } }
+		"type" : "WoC 4/30/2019 00:39",
+		"type:" : "WoC 4/30/2019 00:39",
+		"value" : "WoC 4/30/2019 00:44",
+		"value:" : "WoC 4/30/2019 00:36" } }

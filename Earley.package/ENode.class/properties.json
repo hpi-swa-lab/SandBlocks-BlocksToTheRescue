@@ -12,7 +12,8 @@
 		"ruleNumber",
 		"children",
 		"type",
-		"grammar" ],
+		"grammar",
+		"value" ],
 	"name" : "ENode",
 	"pools" : [
 		 ],
