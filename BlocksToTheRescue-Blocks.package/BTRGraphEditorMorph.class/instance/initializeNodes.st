@@ -9,8 +9,7 @@ initializeNodes
 
 	self removeAllMorphsIn: (removed collect: [:each |
 		self removeDependent: (self nodeViews removeKey: each)]).
+	added do: [:each | self nodeViews at: each put: (BTRGraphNodeMorph new)].
 	self addAllMorphs: ((added
-		collect: [:each | (self nodeViews
-			at: each
-			put: (BTRGraphNodeMorph for: each))])
+		collect: [:each | (self nodeViews at: each) initialzeWith: each])
 		collect: [:each | self addDependent: each]).
