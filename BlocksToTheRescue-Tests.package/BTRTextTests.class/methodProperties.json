@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"testAsBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:57",
+		"testBlockIt" : "LB 4/30/2019 16:22",
 		"testConversionMissingMorphs" : "LM 3/15/2019 15:38",
 		"testConversionMorphAsFirstCharacter" : "LM 3/22/2019 15:38",
 		"testConversionMorphAsOnlyCharacter" : "LM 3/22/2019 15:39",
@@ -10,4 +11,5 @@
 		"testConversionMorphInBetween" : "LM 3/22/2019 15:39",
 		"testConversionMultipleMorphsPerCharacter" : "LM 3/22/2019 15:39",
 		"testEmptyConversion" : "LM 3/15/2019 15:39",
-		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55" } }
+		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55",
+		"testUnblockIt" : "LB 4/30/2019 16:24" } }
