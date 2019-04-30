@@ -8,5 +8,5 @@ removedMorph: aMorph
 	aMorph textAnchorType: nil.
 	aMorph relativeTextAnchorPosition: nil.
 	aMorph eventHandler: nil.
-	self removeDependent: (aMorph valueOfProperty: #BTRBlockModel ifAbsent: [nil]).
+	self removeDependent: (aMorph attachedBlockModel).
 	super removedMorph: aMorph.
