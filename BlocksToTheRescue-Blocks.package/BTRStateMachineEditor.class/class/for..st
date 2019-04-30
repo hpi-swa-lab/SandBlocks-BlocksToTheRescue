@@ -1,5 +1,5 @@
 instance creation
-newFor: aBTRStateMachineModel
+for: aBTRStateMachineModel
 
 	^ self new
 		stateMachineModel: aBTRStateMachineModel;

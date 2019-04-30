@@ -1,0 +1,4 @@
+accessing
+startState
+
+	^ self state

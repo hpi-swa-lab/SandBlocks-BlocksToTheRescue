@@ -1,0 +1,4 @@
+constants
+stateGaps
+
+	^ 20

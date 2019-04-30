@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stateMorphsDict",
+		"transitionMorphsDict" ],
+	"name" : "BTRStateMachineMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockMorph",
+	"type" : "normal" }

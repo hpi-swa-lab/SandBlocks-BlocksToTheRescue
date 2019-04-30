@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addState:" : "ms 4/30/2019 15:56",
+		"addTransition:of:" : "ms 4/30/2019 16:37",
+		"defaultSize" : "ms 4/30/2019 11:00",
+		"distanceBetween:and:" : "ms 4/30/2019 16:51",
+		"initialize" : "ms 4/30/2019 11:20",
+		"initializeMorphs" : "ms 4/30/2019 11:20",
+		"initializeMorphsForStates" : "ms 4/30/2019 16:09",
+		"initializeMorphsForTransitions" : "ms 4/30/2019 16:10",
+		"morphForState:" : "ms 4/30/2019 15:56",
+		"morphForTransition:" : "ms 4/30/2019 15:59",
+		"stateGaps" : "ms 4/30/2019 11:55",
+		"stateMachineModel" : "ms 4/30/2019 11:24",
+		"stateMorphsDict" : "ms 4/30/2019 15:45",
+		"stateMorphsDict:" : "ms 4/30/2019 15:45",
+		"transitionMorphsDict" : "ms 4/30/2019 15:45",
+		"transitionMorphsDict:" : "ms 4/30/2019 15:45" } }
