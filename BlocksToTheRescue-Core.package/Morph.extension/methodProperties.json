@@ -2,6 +2,8 @@
 	"class" : {
 		"btrScanFrom1:" : "LM 3/18/2019 10:38" },
 	"instance" : {
+		"attachBlockModel:" : "LM 4/30/2019 10:35",
+		"attachedBlockModel" : "LM 4/30/2019 10:35",
 		"btrSerializationVersion" : "LM 3/18/2019 10:20",
 		"btrStoreOn:" : "LM 3/19/2019 10:20",
 		"storeOn:" : "LM 3/18/2019 13:43" } }
