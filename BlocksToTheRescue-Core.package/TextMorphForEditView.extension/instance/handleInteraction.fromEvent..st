@@ -1,4 +1,4 @@
-editing
+*BlocksToTheRescue-Core
 handleInteraction: interActionBlock fromEvent: evt
 	"Overridden to pass along a model to the editor for, eg, link resolution, doits, etc"
 
