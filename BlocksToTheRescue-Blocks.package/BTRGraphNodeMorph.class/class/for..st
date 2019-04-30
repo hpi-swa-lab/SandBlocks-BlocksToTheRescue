@@ -1,5 +1,5 @@
 instance creation
-on: aBTRGraphNode
+for: aBTRGraphNode
 
 	^ self basicNew
 		node: aBTRGraphNode;

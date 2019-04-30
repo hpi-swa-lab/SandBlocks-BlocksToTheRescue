@@ -1,4 +1,4 @@
 interface-views
 editorView
 
-	^ BTRGraphEditorMorph on: self
+	^ BTRGraphEditorMorph for: self
