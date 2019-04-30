@@ -4,10 +4,11 @@
 	"instance" : {
 		"blockModel:" : "ms 4/4/2019 10:31",
 		"colorFor:" : "ms 4/30/2019 09:48",
+		"defaultSize" : "ms 4/30/2019 10:37",
 		"falseColor" : "ms 4/30/2019 09:48",
 		"handleMouseDown:" : "ms 4/4/2019 11:22",
 		"handlesMouseDown:" : "ms 4/4/2019 11:25",
-		"initialize" : "ms 4/4/2019 10:25",
+		"initialize" : "ms 4/30/2019 10:37",
 		"mayActOnClick" : "ms 4/4/2019 10:29",
 		"mouseDown:" : "ms 4/4/2019 11:23",
 		"trueColor" : "ms 4/30/2019 09:47",
