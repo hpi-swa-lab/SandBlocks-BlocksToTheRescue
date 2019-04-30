@@ -1,5 +1,5 @@
 instance creation
-on: aBTRTableCollection
+for: aBTRTableCollection
 
 	^ self basicNew
 		rowModel: aBTRTableCollection;

@@ -1,7 +1,7 @@
 {
 	"class" : {
-		"new" : "ee 4/10/2019 13:52",
-		"on:" : "ee 4/11/2019 11:28" },
+		"for:" : "ms 4/30/2019 09:54",
+		"new" : "ee 4/10/2019 13:52" },
 	"instance" : {
 		"accept" : "ee 4/16/2019 16:24",
 		"adjustmentRow" : "ee 4/16/2019 11:31",
@@ -17,7 +17,7 @@
 		"initializeLayout" : "ee 4/16/2019 11:46",
 		"initializeRowTextField" : "ee 4/17/2019 16:24",
 		"initializeSubmorphs" : "ee 4/16/2019 11:35",
-		"initializeTableMorph" : "ee 4/15/2019 18:39",
+		"initializeTableMorph" : "ms 4/30/2019 10:02",
 		"rowExpression" : "ee 4/16/2019 11:37",
 		"rowExpression:" : "ee 4/16/2019 11:51",
 		"rowTextField" : "ee 4/16/2019 11:33",

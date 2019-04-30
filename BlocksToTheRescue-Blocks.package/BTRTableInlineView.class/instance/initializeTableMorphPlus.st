@@ -1,4 +1,4 @@
 initialization
 initializeTableMorphPlus
 
-	self tableMorphPlus: (BTRTableMorphPlus on: self tableModel).
+	self tableMorphPlus: (BTRTableMorphPlus for: self tableModel).
