@@ -1,7 +1,7 @@
 as yet unclassified
 exampleBlockAsNode
 	<BTRBlockModel>
-	^ #V2;BTRGraphModel;1160;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
+	^ #V2;BTRGraphModel;1177;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
  instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: nil;
  instVarNamed: #inlineViewData put: nil;
@@ -48,7 +48,7 @@ self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #prop
  yourself). 
 self referenceDictionary at: 20 put: (Color r: 1 g: 0.573 b: 0.0). 
 self referenceDictionary at: 21 put: (BTRGraphNode basicNew instVarAt: 1 put: (self referenceAt: 22); yourself). 
-self referenceDictionary at: 22 put: (BTRCodeModel basicNew instVarAt: 1 put: nil; instVarAt: 2 put: ''; instVarAt: 3 put: nil; instVarAt: 4 put: #source; instVarAt: 5 put: nil; instVarAt: 6 put: (self referenceAt: 23); yourself). 
+self referenceDictionary at: 22 put: (BTRCodeModel basicNew instVarAt: 1 put: nil; instVarAt: 2 put: ''; instVarAt: 3 put: nil; instVarAt: 4 put: #source; instVarAt: 5 put: nil; instVarAt: 6 put: (self referenceAt: 23); instVarAt: 7 put: nil; yourself). 
 self referenceDictionary at: 23 put: (Text string: 'one copy
 	color: two;
 	yourself' runs: (self referenceAt: 24)). 

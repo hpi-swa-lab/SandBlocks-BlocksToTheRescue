@@ -1,5 +1,5 @@
 {
-	"category" : "BlocksToTheRescue-Tests",
+	"category" : "BlocksToTheRescue-Examples",
 	"classinstvars" : [
 		 ],
 	"classtraitcomposition" : "TBTRBlockModel classTrait",
@@ -7,10 +7,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRMockModel",
+		"greeting" ],
+	"name" : "BTRGreetingMorph",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRBlockMorph",
 	"traitcomposition" : "TBTRBlockModel",
 	"type" : "normal" }
