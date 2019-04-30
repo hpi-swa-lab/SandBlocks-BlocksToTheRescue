@@ -1,5 +1,4 @@
 *BlocksToTheRescue-Core
-updateFromParagraph
-
+updateFromParagraph  
 	super updateFromParagraph.
-	self adjustEmbeddedMorphs.
+	editView setScrollDeltas.
