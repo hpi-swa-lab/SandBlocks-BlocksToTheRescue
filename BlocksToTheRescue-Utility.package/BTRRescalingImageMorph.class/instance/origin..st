@@ -7,4 +7,4 @@ origin: aSymbol
 	includes: aSymbol)
 		ifFalse: [self error: 'invalid origin "', aSymbol, '"'].
 	origin := aSymbol.
-	self redrawLater.
+	self changed.
