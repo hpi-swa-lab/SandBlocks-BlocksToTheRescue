@@ -1,5 +1,5 @@
 instance creation
-on: aBTRTableModel
+for: aBTRTableModel
 
 	^ self basicNew
 		tableModel: aBTRTableModel;

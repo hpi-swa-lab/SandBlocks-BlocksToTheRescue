@@ -10,7 +10,7 @@ resolveBlockModelsFor: aText
 	self blockModels doWithIndex: [:model :index | | position |
 		position := (textPositions at: index).
 		newText
-			addAttribute: (BTRBlockAttribute forObject: model copy "Copy to conform to block lifecycle")
+			addAttribute: (model copy as: BTRBlockAttribute "Copy to conform to block lifecycle")
 			from: position
 			to: position].
 	^ newText

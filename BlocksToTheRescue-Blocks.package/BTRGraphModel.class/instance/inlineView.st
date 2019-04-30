@@ -1,4 +1,4 @@
 interface-views
 inlineView
 
-	^ BTRGraphInlineMorph on: self
+	^ BTRGraphInlineMorph for: self

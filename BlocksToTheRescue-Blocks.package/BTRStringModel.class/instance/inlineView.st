@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ BTRRegexMorph on: self
+	^ BTRRegexMorph for: self

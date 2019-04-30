@@ -4,6 +4,8 @@ initialize
 	| stepper |
 	super initialize.
 	self inputMorph: (PluggableTextMorphPlus new
+		readOnly: true;
+		flag: #todo;
 		acceptOnCR: true;
 		yourself).
 	stepper := BTRStepperMorph new

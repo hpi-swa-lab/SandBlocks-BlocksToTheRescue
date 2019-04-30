@@ -2,15 +2,15 @@
 	"class" : {
 		"defaultCellInset" : "ee 4/11/2019 13:24",
 		"defaultLayoutInset" : "ee 4/11/2019 14:59",
-		"new" : "ee 4/11/2019 11:36",
-		"on:" : "ee 4/11/2019 11:36" },
+		"for:" : "ms 4/30/2019 09:59",
+		"new" : "ee 4/11/2019 11:36" },
 	"instance" : {
 		"defaultTableExtent" : "ee 4/11/2019 12:00",
 		"defaultTableHeight" : "ee 4/11/2019 13:49",
 		"defaultTableWidth" : "ee 4/11/2019 13:48",
 		"initialize" : "ee 4/16/2019 10:20",
 		"initializeLayout" : "ee 4/11/2019 16:36",
-		"initializeRowMorphs" : "ee 4/15/2019 18:10",
+		"initializeRowMorphs" : "ms 4/30/2019 10:03",
 		"initializeTable" : "ee 4/16/2019 10:20",
 		"rowMorphClass" : "ee 4/15/2019 18:10",
 		"rowMorphs" : "ee 4/11/2019 12:11",

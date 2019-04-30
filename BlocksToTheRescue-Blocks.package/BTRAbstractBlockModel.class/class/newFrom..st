@@ -4,8 +4,8 @@ newFrom: anObject
 	^ anObject isBTRBlockModel 
 		ifTrue: [anObject]
 		ifFalse: [
-			(anObject isMorph and: [anObject hasProperty: #BTRBlockModel])
+			(anObject isMorph and: [anObject attachedBlockModel notNil])
 				ifTrue: [
 					anObject abandon.
-					anObject valueOfProperty: #BTRBlockModel]
+					anObject attachedBlockModel]
 				ifFalse: [BTRConstantModel for: anObject]]

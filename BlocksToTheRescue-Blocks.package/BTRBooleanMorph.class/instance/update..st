@@ -2,5 +2,5 @@ updating
 update: aSymbol
 
 	aSymbol = #state ifTrue: [
-		self color: (self class colorFor: blockModel isSet)].
+		self color: (self colorFor: blockModel isSet)].
 	super update: aSymbol.

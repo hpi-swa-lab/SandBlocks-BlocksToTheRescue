@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ self treeMorphViewer
+	^ self treeMorphViewerWithEditButton

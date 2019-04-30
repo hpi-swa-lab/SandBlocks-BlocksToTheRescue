@@ -1,8 +1,7 @@
 fileIn/out
 serializeOn: aWriteStream
 
-	(self states
-		sorted: self startStateFirstSortBlock)
+	self statesSorted
 		do: [:state |
 			aWriteStream
 				nextPut: $# ;

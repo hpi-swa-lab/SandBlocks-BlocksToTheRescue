@@ -1,4 +1,4 @@
-constants
+accessing
 colorFor: aBoolean
 
 	^ aBoolean
