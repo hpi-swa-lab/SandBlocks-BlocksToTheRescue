@@ -1,6 +1,5 @@
 as yet unclassified
-initialzeWith: aBTRGraphNode
-
+initializeWith: aBTRGraphNode
 
 	self node: aBTRGraphNode.
 	aBTRGraphNode addDependent: self.
