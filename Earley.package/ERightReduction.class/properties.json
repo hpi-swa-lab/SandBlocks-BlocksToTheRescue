@@ -1,20 +1,13 @@
 {
-	"category" : "Earley",
+	"category" : "Earley-Parsers",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"start",
-		"end",
-		"ruleNumber",
-		"children",
-		"type",
-		"grammar",
-		"value" ],
-	"name" : "ENode",
+		 ],
+	"name" : "ERightReduction",
 	"pools" : [
 		 ],
 	"super" : "Object",

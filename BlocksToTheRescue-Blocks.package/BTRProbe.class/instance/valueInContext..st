@@ -1,4 +1,8 @@
 interface-evaluating
 valueInContext: aContext
 
-	^ Compiler new evaluate: self code in: aContext to: self
+	| result |
+	result := Compiler new evaluate: textMorph contents in: aContext to: self.
+	self updatePreviewWith: result.
+	self oldResult: result.
+	^ result 

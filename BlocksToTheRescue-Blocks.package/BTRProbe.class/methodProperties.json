@@ -2,10 +2,16 @@
 	"class" : {
 		"for:" : "WoC 4/24/2019 15:32" },
 	"instance" : {
-		"code" : "WoC 4/24/2019 15:31",
+		"code" : "WoC 4/30/2019 09:57",
 		"code:" : "WoC 4/24/2019 15:31",
-		"initialize" : "WoC 4/24/2019 15:45",
-		"initializeText" : "WoC 4/24/2019 15:53",
-		"inlineView" : "WoC 4/24/2019 15:15",
-		"updatePreview" : "WoC 4/24/2019 16:01",
-		"valueInContext:" : "WoC 4/25/2019 10:12" } }
+		"initializeResult" : "WoC 4/30/2019 11:01",
+		"initializeText" : "WoC 4/30/2019 10:23",
+		"inlineView" : "WoC 4/30/2019 10:57",
+		"oldResult" : "WoC 4/30/2019 10:59",
+		"oldResult:" : "WoC 4/30/2019 10:59",
+		"resultTextMorph" : "WoC 4/29/2019 16:49",
+		"resultTextMorph:" : "WoC 4/29/2019 16:49",
+		"textMorph" : "WoC 4/30/2019 09:47",
+		"textMorph:" : "WoC 4/30/2019 09:47",
+		"updatePreviewWith:" : "WoC 4/30/2019 11:00",
+		"valueInContext:" : "WoC 4/30/2019 11:02" } }
