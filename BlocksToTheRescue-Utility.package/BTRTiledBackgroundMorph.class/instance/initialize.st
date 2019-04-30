@@ -2,5 +2,8 @@ initialization
 initialize
 
 	super initialize.
-	self transparencyBackground.
-	self tileSize: 8.
+	self
+		transparencyBackground;
+		tileSize: 8;
+		hResizing: #spaceFill;
+		vResizing: #spaceFill.
