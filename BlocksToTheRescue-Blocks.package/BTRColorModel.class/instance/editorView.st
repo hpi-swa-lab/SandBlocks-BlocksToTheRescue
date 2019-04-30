@@ -1,4 +1,4 @@
 views
 editorView
 
-	^ BTRColorPickerMorph on: self
+	^ BTRColorPickerMorph for: self

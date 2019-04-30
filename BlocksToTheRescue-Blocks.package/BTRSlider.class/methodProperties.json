@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"on:getValue:setValue:min:max:quantum:" : "ee 4/8/2019 12:43" },
+		"on:getValue:setValue:min:max:quantum:" : "ms 4/30/2019 09:54" },
 	"instance" : {
 		"defaultBounds" : "ee 4/3/2019 09:50",
 		"initialize" : "ee 4/8/2019 15:57",

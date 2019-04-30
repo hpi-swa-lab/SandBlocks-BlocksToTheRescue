@@ -1,4 +1,4 @@
-as yet unclassified
+fileIn/Out
 btrScanFromImage1: aReadStream
 
 	| imageBinary image |
