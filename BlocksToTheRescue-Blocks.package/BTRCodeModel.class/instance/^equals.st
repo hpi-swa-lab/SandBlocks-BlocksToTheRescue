@@ -1,4 +1,4 @@
 comparing
 = anObject	
 	
-	^ anObject class = self class and: [anObject code = self code]
+	^ anObject class = self class and: [anObject code asText unstyled = self code asText unstyled]

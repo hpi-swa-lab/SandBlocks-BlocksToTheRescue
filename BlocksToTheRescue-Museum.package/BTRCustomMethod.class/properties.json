@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Museum",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodClass",
+		"selector" ],
+	"name" : "BTRCustomMethod",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

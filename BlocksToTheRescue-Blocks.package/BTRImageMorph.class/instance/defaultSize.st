@@ -1,4 +1,6 @@
 accessing
 defaultSize
 
-	^ super defaultSize * 2
+	^ self image
+		ifNotNil: [:image | image extent]
+		ifNil: [super defaultSize * 2]

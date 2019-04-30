@@ -1,4 +1,4 @@
 views
 editorView
 
-	^ BTRTableEditorView on: self
+	^ BTRTableEditorView for: self

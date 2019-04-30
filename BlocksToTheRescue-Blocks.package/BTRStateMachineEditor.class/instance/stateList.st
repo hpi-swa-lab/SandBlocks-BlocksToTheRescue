@@ -1,4 +1,4 @@
 accessing
 stateList
 
-	^ self stateMachineModel states collect: [:state | BTRStateWrapper with: state]
+	^ self stateMachineModel statesSorted collect: [:state | BTRStateWrapper with: state]

@@ -3,7 +3,7 @@ editButton
 
 	^ IconicButton new
 		labelGraphic: ((Smalltalk at: #BTRIcons ifPresent: #penIcon) ifNil: [ToolIcons exception]);
-		color: Color transparent;
+		color: Color veryDarkGray;
 		in: [:btn | 
 			btn layoutFrame: (
 				LayoutFrame 
