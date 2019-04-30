@@ -1,4 +1,4 @@
 instance creation
 for: aBTRGraphNode
 
-	^ self new initialzeWith: aBTRGraphNode
+	^ self new initializeWith: aBTRGraphNode
