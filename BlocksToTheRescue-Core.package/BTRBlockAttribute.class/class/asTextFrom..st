@@ -1,6 +1,6 @@
 as yet unclassified
-asTextFrom: aBTRBlockModel
+asTextFrom: anObject
 
 	^ Text
 		string: self blockCharacter asString
-		attribute: (aBTRBlockModel as: BTRBlockAttribute)
+		attribute: (anObject as: BTRBlockAttribute)

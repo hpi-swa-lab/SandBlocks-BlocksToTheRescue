@@ -3,9 +3,9 @@ insertBlock
 
 	self selection ifNotEmpty: [
 		self evaluateSelectionAndDo: [:result |
-			result ifNotNil: [self morph 	handleEdit: [ | text |
-				text := (BTRBlockAttribute asTextFrom: result).
-				text embeddedBlockModels first originalText: self selection unstyled. 
+			result ifNotNil: [self morph handleEdit: [ | text |
+				text := BTRBlockAttribute asTextFrom: result.
+				text embeddedBlockModels anyOne originalText: self selection unstyled. 
 				self replaceSelectionWith: text.
 				self selectInterval: (self startIndex to: self startIndex + 1)].
 				^ self]]].
