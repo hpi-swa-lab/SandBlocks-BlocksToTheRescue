@@ -1,4 +1,4 @@
 as yet unclassified
 createPlainInstance
 
-	 ^ BTRStateMachineModel new
+	 ^ BTRStateMachineModel example1

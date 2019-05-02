@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"btrScanFromStateMachine1:" : "ms 4/16/2019 12:23" },
+		"btrScanFromStateMachine1:" : "ms 4/16/2019 12:23",
+		"example1" : "ms 5/2/2019 09:35" },
 	"instance" : {
 		"=" : "LM 4/23/2019 11:31",
 		"addState:" : "ms 4/16/2019 11:33",
@@ -12,6 +13,7 @@
 		"editorView" : "ms 4/30/2019 10:57",
 		"handleUnknownTransition:inState:for:" : "ms 4/15/2019 11:27",
 		"hasStateNamed:" : "ms 4/5/2019 12:10",
+		"hasStates" : "ms 5/2/2019 09:33",
 		"hash" : "LM 4/23/2019 11:36",
 		"initialize" : "ms 4/5/2019 11:06",
 		"inlineView" : "ms 4/30/2019 10:58",
