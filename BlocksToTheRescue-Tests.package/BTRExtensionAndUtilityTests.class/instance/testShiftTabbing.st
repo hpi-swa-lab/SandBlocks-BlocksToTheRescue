@@ -2,9 +2,9 @@ tests
 testShiftTabbing
 
 	| textField |
-	textField := PluggableTextMorphPlus new.
+	textField := TextMorph new.
 	textField
-		setText: ('{1}foo{2}{1}bar' format: {String tab. String cr}) asText;
+		newContents: ('{1}foo{2}{1}bar' format: {String tab. String cr}) asText;
 		selectAll.
 	self shiftTabKeyEvents
 		do: [:evt | textField handleFocusEvent: evt].
