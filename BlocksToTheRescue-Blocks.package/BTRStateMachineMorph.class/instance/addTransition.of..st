@@ -8,6 +8,5 @@ addTransition: aBTRStateTransition of: aBTRState
 				on: self))
 		startDock: #bottom;
 		endDock: #bottom;
-		in: [:morph | self addMorph: morph];
 		updateVertices;
 		yourself

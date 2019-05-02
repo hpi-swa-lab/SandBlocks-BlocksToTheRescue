@@ -5,5 +5,4 @@ addState: aBTRState
 			at: aBTRState
 			put: (BTRStateMorph for: aBTRState))
 		position: self position + self stateGaps;
-		in: [:morph | self addMorph: morph];
 		yourself

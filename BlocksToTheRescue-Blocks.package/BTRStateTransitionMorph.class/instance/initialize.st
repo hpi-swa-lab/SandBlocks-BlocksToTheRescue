@@ -2,13 +2,11 @@ initialization
 initialize
 
 	super initialize.
-	self nameMorph: (UpdatingStringMorph on: self transition selector: #name).
+	self nameMorph: self transition name asMorph.
 	self
 		name: 'Transition: ', self transition name;
 		borderColor: Color random;
 		beStraightSegments;
 		makeOpen;
-		"nudgeForLabel: ???"
 		makeForwardArrow;
-		extent: 50 asPoint;
-		addMorph: self nameMorph.
+		extent: 50 asPoint.
