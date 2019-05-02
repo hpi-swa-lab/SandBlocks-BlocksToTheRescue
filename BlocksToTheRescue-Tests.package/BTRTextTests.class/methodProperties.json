@@ -14,4 +14,5 @@
 		"testDiffingNotEqual" : "LB 5/2/2019 10:20",
 		"testEmptyConversion" : "LM 3/15/2019 15:39",
 		"testFromBlockStringWithoutSOH" : "Elina Emsbach 3/13/2019 14:55",
+		"testTwoMorphicBlockModelsBothDeletedRegression" : "LB 5/2/2019 15:10",
 		"testUnblockIt" : "LB 4/30/2019 16:24" } }
