@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 itemName
 
 	^ self state decoratedName

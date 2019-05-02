@@ -7,8 +7,7 @@ serializeOn: aWriteStream
 				nextPut: $# ;
 				nextPutAll: state name;
 				nextPutAll: ' -> {'.
-			(state transitions
-				sorted: BTRStateTransition compareBlock)
+			state transitions sorted
 				do: [:transition |
 					aWriteStream
 						nextPut: Character cr;
