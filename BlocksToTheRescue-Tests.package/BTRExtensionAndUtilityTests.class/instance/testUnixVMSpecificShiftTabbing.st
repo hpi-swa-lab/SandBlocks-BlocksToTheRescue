@@ -2,6 +2,9 @@ tests
 testUnixVMSpecificShiftTabbing
 
 	| textField |
+	(#('unix') includes: Smalltalk platformName)
+		ifFalse: [^ self "this test is for linux only"].
+
 	textField := TextMorph new.
 	textField
 		newContents: ('{1}foo{2}{1}bar' format: {String tab. String cr}) asText;
