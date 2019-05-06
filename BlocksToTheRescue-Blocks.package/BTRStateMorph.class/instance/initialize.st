@@ -10,4 +10,5 @@ initialize
 		cornerStyle: #rounded;
 		extent: self nameMorph extent + (16@8);
 		addMorphCentered: self nameMorph;
+		setProperty: #morphicLayerNumber toValue: 80;
 		initializeDockingPoints.

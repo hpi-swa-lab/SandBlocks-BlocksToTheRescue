@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addAllMorphsInFrontOfLayer:" : "ms 5/6/2019 15:55",
 		"addState:" : "ms 5/2/2019 09:28",
 		"addTransition:of:" : "ms 5/2/2019 09:29",
 		"defaultSize" : "ms 4/30/2019 11:00",
 		"distanceBetween:and:" : "ms 4/30/2019 16:51",
-		"initialize" : "ms 5/2/2019 09:56",
-		"initializeMorphs" : "ms 5/2/2019 13:39",
+		"initialize" : "ms 5/6/2019 16:15",
+		"initializeMorphs" : "ms 5/6/2019 16:15",
 		"initializeMorphsForStates" : "ms 5/2/2019 09:34",
 		"initializeMorphsForTransitions" : "ms 4/30/2019 16:10",
 		"morphForState:" : "ms 4/30/2019 15:56",
@@ -18,9 +19,5 @@
 		"stateMachineModel" : "ms 4/30/2019 11:24",
 		"stateMorphsDict" : "ms 4/30/2019 15:45",
 		"stateMorphsDict:" : "ms 4/30/2019 15:45",
-		"transitionLabelLayer" : "ms 5/2/2019 10:00",
-		"transitionLabelLayer:" : "ms 5/2/2019 10:00",
-		"transitionLayer" : "ms 5/2/2019 09:53",
-		"transitionLayer:" : "ms 5/2/2019 09:52",
 		"transitionMorphsDict" : "ms 4/30/2019 15:45",
 		"transitionMorphsDict:" : "ms 4/30/2019 15:45" } }

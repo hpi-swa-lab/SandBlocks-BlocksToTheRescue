@@ -2,15 +2,17 @@
 	"class" : {
 		"for:on:" : "ms 4/30/2019 16:02" },
 	"instance" : {
-		"changed" : "ms 4/30/2019 16:34",
+		"addHandles" : "ms 5/6/2019 13:37",
 		"depth" : "ms 4/30/2019 16:52",
+		"dropVertex:event:fromHandle:" : "ms 5/6/2019 14:14",
 		"endDock" : "ms 4/30/2019 15:54",
 		"endDock:" : "ms 4/30/2019 15:54",
 		"endPosition" : "ms 4/30/2019 16:33",
 		"endState" : "ms 4/30/2019 16:07",
 		"endStateMorph" : "ms 4/30/2019 16:06",
-		"initialize" : "ms 5/2/2019 13:31",
+		"initialize" : "ms 5/6/2019 16:17",
 		"initializeWith:" : "ms 5/2/2019 15:50",
+		"labelPosition" : "ms 5/6/2019 16:02",
 		"nameMorph" : "ms 4/30/2019 16:30",
 		"nameMorph:" : "ms 4/30/2019 16:30",
 		"startDock" : "ms 4/30/2019 15:54",
@@ -25,4 +27,4 @@
 		"stateTransitionAssoc:" : "ms 4/30/2019 16:04",
 		"transition" : "ms 4/30/2019 16:05",
 		"update:" : "ms 5/2/2019 15:49",
-		"updateVertices" : "ms 4/30/2019 16:48" } }
+		"updateVertices" : "ms 5/6/2019 16:11" } }
