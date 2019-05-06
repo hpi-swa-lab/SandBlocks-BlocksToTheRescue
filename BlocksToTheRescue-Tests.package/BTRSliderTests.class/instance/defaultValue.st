@@ -1,0 +1,4 @@
+initialize
+defaultValue
+
+	^ 2
