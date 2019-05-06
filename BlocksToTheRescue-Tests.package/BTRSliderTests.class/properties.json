@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Tests-Blocks",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"view" ],
-	"name" : "BTRBabylonianModel",
+		"slider" ],
+	"name" : "BTRSliderTests",
 	"pools" : [
 		 ],
-	"super" : "BTRCodeModel",
+	"super" : "BTRBlockTestCase",
 	"type" : "normal" }
