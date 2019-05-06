@@ -1,4 +1,4 @@
-styling
+nil
 acceptTextInModel
 	"Inform the model that the receiver's textMorph's text should be accepted.
 	Answer true if the model accepted ok, false otherwise"

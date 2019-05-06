@@ -1,7 +1,12 @@
 initialization
 initializeText
 
-	self textMorph: (TextMorph new 
-									contents: self code; 
+	self textMorph: (PluggableTextMorphPlus new 
+									height: 20;
+									setText: self code;
+									model: Model new;
+									styler: SHTextStylerST80 new;
+									wantsFrameAdornments: false;
 									yourself).
-	self addMorph: self textMorph
+	self addMorph: self textMorph.
+	self textMorph y: self y

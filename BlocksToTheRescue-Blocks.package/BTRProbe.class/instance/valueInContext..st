@@ -1,8 +1,13 @@
 interface-evaluating
 valueInContext: aContext
 
-	| result |
-	result := Compiler new evaluate: textMorph contents in: aContext to: self.
+	| result hadError |
+	hadError := false.
+	result := [Compiler new evaluate: textMorph textMorph contents in: aContext to: self]
+					on: Error
+					do: [:e | hadError := true.
+							e tag].
 	self updatePreviewWith: result.
-	self oldResult: result.
+	hadError
+		ifFalse: [self oldResult: result].
 	^ result 

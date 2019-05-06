@@ -1,5 +1,5 @@
-as yet unclassified
+nil
 code: aText
 
 	super code: aText.
-	self updateProbes
+	self updateProbes.
