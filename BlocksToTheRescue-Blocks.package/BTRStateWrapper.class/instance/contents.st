@@ -1,6 +1,5 @@
-as yet unclassified
+accessing
 contents
 
-	^ (self state transitions
-			sorted: BTRStateTransition compareBlock)
+	^ self state transitions sorted
 			collect: [:transition | BTRTransitionWrapper with: transition]

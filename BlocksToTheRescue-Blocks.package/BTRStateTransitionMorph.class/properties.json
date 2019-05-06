@@ -1,0 +1,18 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stateMachineMorph",
+		"stateTransitionAssoc",
+		"startDock",
+		"endDock",
+		"nameMorph" ],
+	"name" : "BTRStateTransitionMorph",
+	"pools" : [
+		 ],
+	"super" : "PolygonMorph",
+	"type" : "normal" }

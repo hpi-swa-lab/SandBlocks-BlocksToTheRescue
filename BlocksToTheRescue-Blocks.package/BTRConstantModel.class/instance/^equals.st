@@ -1,4 +1,4 @@
 comparing
 = other
 
-	^ super = other and: [self value = other value]
+	^ super = other and: [self value btrEquals: other value]

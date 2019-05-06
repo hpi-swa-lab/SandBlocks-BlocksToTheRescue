@@ -5,7 +5,7 @@ findRunForMorph: aMorph
 	begin := 0.
 	text runs withStartStopAndValueDo:
 		[:start :stop :attributes |
-		(attributes anySatisfy: [:attribute | attribute anchoredMorph = aMorph])
+		(attributes anySatisfy: [:attribute | attribute anchoredMorph == aMorph])
 			ifTrue: [begin = 0 ifTrue: [begin := start].
 					end := stop]
 			ifFalse: [begin > 0 ifTrue: [^ begin to: end]]].

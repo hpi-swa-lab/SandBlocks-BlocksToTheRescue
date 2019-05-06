@@ -1,5 +1,4 @@
 interface-views
 inlineView
 
-	^ (BTRStateMachineEditor newFor: self)
-		inlineView
+	^ BTRStateMachineMorph for: self

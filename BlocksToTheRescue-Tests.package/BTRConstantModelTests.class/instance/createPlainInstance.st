@@ -1,4 +1,4 @@
 as yet unclassified
 createPlainInstance
 
-	^ BTRColorModel new
+	^ self classTested new

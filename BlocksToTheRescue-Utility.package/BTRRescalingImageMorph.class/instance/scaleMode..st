@@ -9,4 +9,4 @@ scaleMode: aSymbol
 	) includes: aSymbol)
 		ifFalse: [self error: 'invalid scale mode "', aSymbol, '"'].
 	scaleMode := aSymbol.
-	self redrawLater.
+	self changed.

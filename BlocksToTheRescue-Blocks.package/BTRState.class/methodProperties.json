@@ -2,6 +2,7 @@
 	"class" : {
 		"named:for:" : "ms 4/11/2019 11:23" },
 	"instance" : {
+		"<=" : "ms 5/2/2019 14:41",
 		"=" : "ms 4/5/2019 11:56",
 		"addTransitionNamed:target:" : "LM 4/24/2019 10:35",
 		"addTransitionNamed:target:action:" : "LM 4/24/2019 10:35",
@@ -44,6 +45,7 @@
 		"preLeaveHandler:" : "ms 4/16/2019 10:02",
 		"printOn:" : "ms 4/11/2019 11:25",
 		"setAsStart" : "ms 4/11/2019 13:55",
+		"targetStateOf:" : "ms 4/30/2019 15:39",
 		"tick:on:" : "ms 4/16/2019 10:06",
 		"tickHandler" : "ms 4/16/2019 10:07",
 		"tickHandler:" : "ms 4/16/2019 10:07",

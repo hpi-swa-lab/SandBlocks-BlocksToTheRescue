@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"for:" : "ms 4/30/2019 09:58" },
+		"for:" : "LM 4/30/2019 14:15" },
 	"instance" : {
 		"abandon" : "LB 3/28/2019 12:07",
 		"addEdge" : "BD 4/29/2019 11:48",
 		"delete" : "BD 4/29/2019 11:48",
 		"getMenu:" : "LB 3/28/2019 13:53",
 		"hasUnacceptedEdits:" : "BD 4/24/2019 11:15",
-		"initialize" : "LB 4/24/2019 15:44",
+		"initialize" : "LB 4/30/2019 14:01",
 		"initializeBlockMorph" : "LB 4/24/2019 15:44",
+		"initializeWith:" : "LM 4/30/2019 14:15",
 		"node" : "ee 3/27/2019 15:53",
 		"node:" : "BD 4/23/2019 15:09",
 		"update:" : "LB 4/24/2019 15:44" } }

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"for:on:" : "ms 4/30/2019 16:02" },
+	"instance" : {
+		"changed" : "ms 4/30/2019 16:34",
+		"depth" : "ms 4/30/2019 16:52",
+		"endDock" : "ms 4/30/2019 15:54",
+		"endDock:" : "ms 4/30/2019 15:54",
+		"endPosition" : "ms 4/30/2019 16:33",
+		"endState" : "ms 4/30/2019 16:07",
+		"endStateMorph" : "ms 4/30/2019 16:06",
+		"initialize" : "ms 5/2/2019 13:31",
+		"initializeWith:" : "ms 5/2/2019 15:50",
+		"nameMorph" : "ms 4/30/2019 16:30",
+		"nameMorph:" : "ms 4/30/2019 16:30",
+		"startDock" : "ms 4/30/2019 15:54",
+		"startDock:" : "ms 4/30/2019 15:54",
+		"startPosition" : "ms 4/30/2019 16:33",
+		"startState" : "ms 4/30/2019 16:06",
+		"startStateMorph" : "ms 4/30/2019 16:06",
+		"state" : "ms 4/30/2019 16:06",
+		"stateMachineMorph" : "ms 4/30/2019 16:01",
+		"stateMachineMorph:" : "ms 4/30/2019 16:01",
+		"stateTransitionAssoc" : "ms 4/30/2019 16:04",
+		"stateTransitionAssoc:" : "ms 4/30/2019 16:04",
+		"transition" : "ms 4/30/2019 16:05",
+		"update:" : "ms 5/2/2019 15:49",
+		"updateVertices" : "ms 4/30/2019 16:48" } }

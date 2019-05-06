@@ -1,0 +1,4 @@
+accessing
+stateMachineModel
+
+	^ self blockModel

@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-StateMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state",
+		"nameMorph",
+		"dockingPoints" ],
+	"name" : "BTRStateMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
