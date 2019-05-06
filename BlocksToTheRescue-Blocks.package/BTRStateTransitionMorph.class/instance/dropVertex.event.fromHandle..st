@@ -16,3 +16,5 @@ dropVertex: ix event: evt fromHandle: handle
 							< 3]])
 		ifTrue: ["Drag a vertex onto its neighbor means delete"
 				self deleteVertexAt: ix .].
+	
+	self reattachVertex: ix.

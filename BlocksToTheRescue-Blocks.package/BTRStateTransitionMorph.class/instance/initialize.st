@@ -6,7 +6,7 @@ initialize
 	self nameMorph setProperty: #morphicLayerNumber toValue: 90.
 	self
 		name: 'Transition: ', self transition name;
-		borderColor: Color random;
+		borderColor: Color white;
 		beStraightSegments;
 		makeOpen;
 		makeForwardArrow;
