@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-StringHolders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"getValueSelector",
+		"setValueSelector",
+		"valueChangedSelector" ],
+	"name" : "BTREditorMorphSpec",
+	"pools" : [
+		 ],
+	"super" : "AnObsoleteBTRInlineMorphSpec",
+	"type" : "normal" }

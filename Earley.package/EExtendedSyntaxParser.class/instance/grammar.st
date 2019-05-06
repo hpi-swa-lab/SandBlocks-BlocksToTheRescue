@@ -26,7 +26,7 @@ grammar
 		{#Grammar . {#OptWhitespace . #Rule . #OptWhitespace} . [:node | (node at: 2) value]}.
 		{#Grammar . {#OptWhitespace . #Rule . #OptWhitespace . [:c | c = $.] . #Grammar} . [:node | (node at: 2) value , '.' , Character cr , (node at: 5) value]}.
 		
-		{#Rule . {#RuleName . #OptWhitespace . [:c | c = $-] . [:c | c = $>] . #OptWhitespace . #RuleBody} . [:node | (node at: 1) value , ' -> ' , (node at: 6) value , Character cr ]}.
+		{#Rule . {#RuleName . #OptWhitespace . [:c | c = $-] . [:c | c = $>] . #OptWhitespace . #RuleBody} . [:node | (node at: 1) value , ' -> ' , (node at: 6) value ]}.
 		
 		{#RuleName . {#Word} . [:node | (node at: 1) value]}.
 		
@@ -70,7 +70,7 @@ grammar
 		
 		{#ActionBody . {#OptWhitespace.  [:c | c = $?]  . [:c | c = $?] . #OptWhitespace . [:c | c = $=] . #OptWhitespace  . #ChildConcat} . [:node | (node at: 7) value]}.
 		
-		{#SemanticAction . {[:c | c = ${] . [:c | c = $|] . #ActionBody . [:c | c = $|] . [:c | c = $}]} . [:node | '[:node | ' , (node at: 3) value , ']']}.
+		{#SemanticAction . {[:c | c = $<] . [:c | c = $|] . #ActionBody . [:c | c = $|] . [:c | c = $>]} . [:node | '[:node | ' , (node at: 3) value , ']']}.
 		
 	}.
 	grammar startRuleName: #Grammar.

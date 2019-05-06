@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"buildWindowFreeInspector" : "LB 3/12/2019 15:36",
+		"default" : "LM 3/21/2019 15:50",
+		"inspector" : "LB 3/12/2019 15:36" },
+	"instance" : {
+		"=" : "LB 3/25/2019 10:56",
+		"adapter:equals:" : "LB 3/12/2019 15:06",
+		"applyTo:" : "LB 3/11/2019 13:50",
+		"getValueSelector" : "LB 3/11/2019 13:42",
+		"getValueSelector:" : "LB 3/11/2019 13:42",
+		"hash" : "LB 3/25/2019 10:58",
+		"setValueSelector" : "LB 3/11/2019 13:42",
+		"setValueSelector:" : "LB 3/11/2019 13:42",
+		"stringOf:" : "LB 3/25/2019 10:55",
+		"valueChangedSelector" : "LB 3/11/2019 13:42",
+		"valueChangedSelector:" : "LB 3/11/2019 13:42" } }
