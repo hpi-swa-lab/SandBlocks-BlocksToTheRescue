@@ -1,9 +1,9 @@
 actions
 expandView
 
-	self 
-		removeMorph: self tableMorph;
-		removeMorph: self expandButton;
+	self tableMorph abandon.
+	self expandButton abandon.
+	self
 		initializeExpandMorphs;
 		extent: self expandedExtent;
 		addMorph: self tableMorphPlus fullFrame: self tableMorphPlusFrame;
