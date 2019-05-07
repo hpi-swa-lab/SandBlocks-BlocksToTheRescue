@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRCodeCompiler",
+	"pools" : [
+		 ],
+	"super" : "Compiler",
+	"type" : "normal" }

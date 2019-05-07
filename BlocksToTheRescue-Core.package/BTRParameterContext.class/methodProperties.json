@@ -1,11 +1,13 @@
 {
 	"class" : {
+		"alloy:and:" : "LB 5/7/2019 11:53",
 		"basicNew:" : "LB 3/28/2019 17:16",
 		"new" : "LB 3/28/2019 17:17" },
 	"instance" : {
 		"arguments" : "LB 3/28/2019 16:29",
 		"arguments:" : "LB 3/28/2019 16:29",
 		"namedTempAt:" : "BD 4/25/2019 14:08",
+		"namedTempAt:put:" : "LB 5/7/2019 11:59",
 		"numTemps" : "BD 4/25/2019 15:10",
 		"receiver" : "BD 4/23/2019 15:25",
 		"receiver:" : "BD 4/23/2019 15:25",
