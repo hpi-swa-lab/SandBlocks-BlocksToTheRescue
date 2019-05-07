@@ -6,10 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stateLayer",
 		"stateMorphsDict",
-		"transitionLayer",
-		"transitionLabelLayer",
 		"transitionMorphsDict" ],
 	"name" : "BTRStateMachineMorph",
 	"pools" : [
