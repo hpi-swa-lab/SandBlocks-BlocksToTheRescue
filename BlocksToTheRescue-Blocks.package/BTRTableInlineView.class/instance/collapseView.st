@@ -1,10 +1,10 @@
 actions
 collapseView
 
-	self 
-		removeMorph: self tableMorphPlus;
-		removeMorph: self collapseButton;
-		removeMorph: self adjustmentRow;
+	self tableMorphPlus abandon.
+	self collapseButton abandon.
+	self adjustmentRow abandon.
+	self
 		initializeTableMorph;
 		extent: self collapsedExtent;
 		addMorph: self tableMorph fullFrame: self tableMorphFrame;
