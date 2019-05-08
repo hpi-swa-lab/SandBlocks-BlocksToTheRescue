@@ -13,6 +13,6 @@ methodBodyOf: aMethod
 								(each type = #patternUnary or: 
 								[each type = #patternBinary] or:
 								[each type = #patternKeyword] or:
-								[each type = #patternArg]) not])) start.
+								[each type = #patternArg]) not]) ifAbsent: [^'']) start.
 
 	^ aTextOrString copyFrom: startIndexBody to: aTextOrString size
