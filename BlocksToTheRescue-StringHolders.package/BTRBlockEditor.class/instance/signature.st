@@ -2,5 +2,5 @@ as yet unclassified
 signature
 
 	^ self blockMethod 
-		ifNotNil: [self blockMethod signature]
+		ifNotNil: [self currentSignature]
 		ifNil: [':No method selected']

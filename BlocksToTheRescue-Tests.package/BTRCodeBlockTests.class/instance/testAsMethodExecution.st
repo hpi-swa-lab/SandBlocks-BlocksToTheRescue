@@ -4,11 +4,12 @@ testAsMethodExecution
 	| selector parameter |
 	selector := (self selector, #Method:) asSymbol.
 	parameter := 42.
-	(BTRBlockMethod 
-		on: self class
-		selector: selector
-		parameterNames: { 'x' }
-		model: (BTRCodeModel for: 'x * x')) install.
+	
+	BTRBlocketMethod 
+		compile: (BTRCodeModel for: 'x * x')
+		in: self class 
+		signature: selector, ' x'.
+		
 	self 
 		assert: parameter * parameter
 		equals: (self perform: selector with: parameter).

@@ -1,0 +1,4 @@
+accessing
+currentSignature
+
+	^ currentSignature

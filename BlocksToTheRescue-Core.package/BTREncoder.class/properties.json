@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTREncoder",
+	"pools" : [
+		 ],
+	"super" : "EncoderForV3PlusClosures",
+	"type" : "normal" }

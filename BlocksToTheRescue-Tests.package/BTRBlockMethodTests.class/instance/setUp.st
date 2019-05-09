@@ -2,8 +2,8 @@ running
 setUp
 
 	super setUp.
-	(BTRBlockMethod 
-		on: self class
-		selector: self methodSelector
-		parameterNames: {}
-		model: self blockModelClass new) install.
+	
+	BTRBlocketMethod 
+		compile: self blockModelClass new 
+		in: self class 
+		signature: self methodSelector.

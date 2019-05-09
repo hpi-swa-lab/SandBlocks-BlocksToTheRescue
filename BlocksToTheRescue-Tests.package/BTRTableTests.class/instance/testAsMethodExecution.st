@@ -4,10 +4,10 @@ testAsMethodExecution
 	| selector |
 	selector := (self selector, #Method) asSymbol.
 	
-	(BTRBlockMethod 
-		on: self class
-		selector: selector
-		model: self table) install.
+	BTRBlocketMethod 
+		compile: self table
+		in: self class 
+		signature: selector.
 	
 	self 
 		assert: self defaultMatrix

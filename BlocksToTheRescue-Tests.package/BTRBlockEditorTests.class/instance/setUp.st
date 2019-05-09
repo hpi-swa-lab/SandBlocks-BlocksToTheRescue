@@ -2,11 +2,10 @@ running
 setUp
 
 	super setUp.
-	(BTRBlockMethod 
-		on: self class
-		selector: self methodSelector
-		parameterNames: {}
-		model: self modelInstance) install.
+	BTRBlocketMethod 
+		compile: self modelInstance 
+		in: self class 
+		signature: self methodSelector.
 	self setDefaultValue.
 	self editor: BTRBlockEditor new.
 	ToolBuilder default build: self editor.

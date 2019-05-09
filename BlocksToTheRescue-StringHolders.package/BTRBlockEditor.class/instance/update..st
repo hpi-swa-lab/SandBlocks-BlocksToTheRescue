@@ -9,5 +9,5 @@ update: anAspect
 									ifTrue: [
 										(self model method ~= self blockMethod and: [self hasUnacceptedEdits not]) 
 											ifTrue: [self contentsChanged]]
-											ifFalse: [self model: nil]].
+									ifFalse: [self model: nil]].
 	} otherwise: [].

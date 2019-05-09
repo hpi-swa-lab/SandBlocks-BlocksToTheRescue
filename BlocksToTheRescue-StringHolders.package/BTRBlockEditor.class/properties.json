@@ -10,7 +10,8 @@
 		"viewPort",
 		"blockMethod",
 		"hasUnacceptedEdits",
-		"eventHandler" ],
+		"eventHandler",
+		"currentSignature" ],
 	"name" : "BTRBlockEditor",
 	"pools" : [
 		 ],

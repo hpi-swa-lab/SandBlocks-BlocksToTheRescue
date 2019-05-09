@@ -5,11 +5,10 @@ testAsMethodExecution
 	selector := (self selector, #With:with:) asSymbol.
 	parameters := { 42 . 'Cheese' }.
 	
-	(BTRBlockMethod 
-		on: self class
-		selector: selector
-		parameterNames: { 'foo' . 'bar' }
-		model: (self class exampleGraph)) install.
+	BTRBlocketMethod 
+		compile: self class exampleGraph
+		in: self class 
+		signature: (BTRBlocketMethod joinSelector: selector parameterNames: { 'foo' . 'bar' }).
 	
 	self 
 		assert: '84 piles of Old Cheese'
