@@ -8,7 +8,7 @@
 	"instvars" : [
 		"defaultEncoder",
 		"methodNode" ],
-	"name" : "BTREncoder",
+	"name" : "BTROldEncoder",
 	"pools" : [
 		 ],
 	"super" : "Object",

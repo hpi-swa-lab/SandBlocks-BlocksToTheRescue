@@ -5,5 +5,5 @@ generate: trailer
 	 to the source code that is stored with every CompiledMethod, or an
 	 encoding of the method's temporary names."
 	(properties at: #BTRBlockModel ifAbsent: [nil])
-		ifNotNil: [encoder := BTREncoder defaultTo: encoder].
+		ifNotNil: [encoder := BTROldEncoder defaultTo: encoder].
 	^self generate: trailer using: CompiledMethod
