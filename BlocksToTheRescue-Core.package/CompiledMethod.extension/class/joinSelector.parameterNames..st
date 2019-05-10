@@ -1,4 +1,4 @@
-as yet unclassified
+*BlocksToTheRescue-Core
 joinSelector: aSymbol parameterNames: anArray
 
 	aSymbol isUnary ifTrue: [^ aSymbol].

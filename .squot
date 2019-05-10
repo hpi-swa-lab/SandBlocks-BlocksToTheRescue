@@ -14,5 +14,6 @@ OrderedDictionary {
 	'Mario\/BlockMario.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Utility.package' : #SquotCypressCodeSerializer,
 	'Earley.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheMuseum.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheRescue-Museum.package' : #SquotCypressCodeSerializer
 }

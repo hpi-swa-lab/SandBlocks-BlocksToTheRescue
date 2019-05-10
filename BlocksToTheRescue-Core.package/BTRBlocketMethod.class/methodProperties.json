@@ -1,7 +1,6 @@
 {
 	"class" : {
 		"compile:in:signature:" : "BD 5/9/2019 15:32",
-		"joinSelector:parameterNames:" : "BD 5/9/2019 15:42",
 		"pragma" : "BD 5/9/2019 15:09",
 		"sourceOn:signature:" : "BD 5/9/2019 15:31" },
 	"instance" : {
@@ -10,6 +9,5 @@
 		"blockModel:" : "BD 5/9/2019 10:20",
 		"hash" : "BD 5/9/2019 10:23",
 		"isBTRBlockMethod" : "BD 5/9/2019 09:41",
-		"parameterNames" : "BD 5/9/2019 14:41",
-		"postCopy" : "BD 5/9/2019 10:20",
-		"signature" : "BD 5/9/2019 15:42" } }
+		"methodIcon" : "LM 5/10/2019 13:31",
+		"postCopy" : "BD 5/9/2019 10:20" } }

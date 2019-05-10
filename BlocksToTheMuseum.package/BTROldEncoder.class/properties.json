@@ -1,14 +1,15 @@
 {
-	"category" : "BlocksToTheRescue-Museum",
+	"category" : "BlocksToTheMuseum",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"blockClosure" ],
-	"name" : "BTRBlockClosureMethod",
+		"defaultEncoder",
+		"methodNode" ],
+	"name" : "BTROldEncoder",
 	"pools" : [
 		 ],
-	"super" : "BTRCustomMethod",
+	"super" : "Object",
 	"type" : "normal" }
