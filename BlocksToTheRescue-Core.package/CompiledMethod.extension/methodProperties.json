@@ -1,8 +1,10 @@
 {
 	"class" : {
-		 },
+		"joinSelector:parameterNames:" : "BD 5/10/2019 13:52" },
 	"instance" : {
 		"blockModels" : "LM 4/29/2019 15:53",
 		"decompileWithTemps" : "BD 3/8/2019 14:55",
 		"getSourceFromFileAt:" : "LM 4/29/2019 15:53",
-		"resolveBlockModelsFor:" : "LM 4/30/2019 09:35" } }
+		"parameterNames" : "BD 5/10/2019 13:51",
+		"resolveBlockModelsFor:" : "LM 4/30/2019 09:35",
+		"signature" : "BD 5/10/2019 13:51" } }
