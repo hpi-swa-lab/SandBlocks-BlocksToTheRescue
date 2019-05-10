@@ -6,7 +6,7 @@ addHandles
 	vertices withIndexDo: [:vertexPoint :vertexIndex |
 		| newHandle |
 		newHandle := CircleMorph
-			newBounds: (6 asPoint origin: (vertexPoint - 3))
+			newBounds: (6 asPoint corner: (vertexPoint - 3))
 			color: Color gray.
 		newHandle
 			on: #mouseMove
