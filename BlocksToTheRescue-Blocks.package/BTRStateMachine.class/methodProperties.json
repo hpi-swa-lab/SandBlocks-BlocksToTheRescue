@@ -6,10 +6,9 @@
 		"currentState" : "ms 4/10/2019 15:25",
 		"currentState:" : "ms 4/10/2019 15:25",
 		"handleUnknownTransition:" : "ms 4/11/2019 14:05",
-		"initialize" : "ms 4/11/2019 11:12",
+		"initialize" : "ms 5/13/2019 11:16",
 		"isFinished" : "ms 4/16/2019 10:09",
 		"isInStateNamed:" : "ms 4/11/2019 13:33",
-		"isTransitionUnlocked:" : "ms 4/10/2019 16:32",
 		"managedObject" : "LM 4/24/2019 10:13",
 		"managedObject:" : "LM 4/24/2019 10:13",
 		"model" : "ms 4/10/2019 15:25",
@@ -21,4 +20,4 @@
 		"transition:" : "ms 4/15/2019 09:49",
 		"transitionTo:" : "ms 4/15/2019 11:23",
 		"transitionToState:via:" : "LM 4/24/2019 10:33",
-		"transitionToSymbol:" : "ms 4/15/2019 11:11" } }
+		"transitionToSymbol:" : "ms 5/13/2019 11:19" } }
