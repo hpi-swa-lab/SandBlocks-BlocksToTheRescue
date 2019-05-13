@@ -1,5 +1,5 @@
 accessing
-addTransition: aBTRStateTransition of: aBTRState
+registerTransition: aBTRStateTransition of: aBTRState
 
 	^ (self transitionMorphsDict
 			at: aBTRState -> aBTRStateTransition

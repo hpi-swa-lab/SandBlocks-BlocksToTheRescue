@@ -1,5 +1,5 @@
 accessing
-addState: aBTRState
+registerState: aBTRState
 
 	^ (self stateMorphsDict
 			at: aBTRState

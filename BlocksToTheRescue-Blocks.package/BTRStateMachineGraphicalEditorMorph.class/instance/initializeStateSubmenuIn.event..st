@@ -5,6 +5,7 @@ initializeStateSubmenuIn: aMenuItemMorph event: evt
 	submenu := MenuMorph new.
 	submenu
 		add: 'add state' target: self selector: #createState;
+		add: 'abandon all states without transitions' target: self selector: #abandonLoners;
 		addLine.
 	self stateMorphsDict ifNotEmpty: [
 		(self stateMorphsDict associations limitedTo: self maximumStatesListed) 

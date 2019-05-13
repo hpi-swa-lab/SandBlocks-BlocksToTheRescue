@@ -1,5 +1,5 @@
 interface-views
 editorView
 
-	^ (BTRStateMachineEditor for: self)
+	^ (BTRStateMachineTextEditorModel for: self)
 		editorView

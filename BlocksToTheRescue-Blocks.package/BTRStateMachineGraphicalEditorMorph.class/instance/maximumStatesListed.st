@@ -1,4 +1,4 @@
 constants
 maximumStatesListed
 
-	^ 2
+	^ Float infinity

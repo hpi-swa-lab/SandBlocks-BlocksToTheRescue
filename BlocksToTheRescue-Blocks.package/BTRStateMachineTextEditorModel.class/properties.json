@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stateMorphsDict",
-		"transitionMorphsDict" ],
-	"name" : "BTRStateMachineMorph",
+		"stateMachineModel",
+		"selected" ],
+	"name" : "BTRStateMachineTextEditorModel",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "Model",
 	"type" : "normal" }

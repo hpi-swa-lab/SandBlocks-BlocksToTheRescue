@@ -1,4 +1,4 @@
-accessing
+state machine editing
 createState
 
 	| name |
@@ -7,5 +7,7 @@ createState
 			request: 'new state name'
 			initialAnswer: defaultName)
 			ifEmpty: [defaultName]) asSymbol].
-	(self addState: (self stateMachineModel addState: name))
+	(self stateMachineModel hasStateNamed: name)
+		ifTrue: [^ UIManager default inform: 'State named ''', name, ''' already exists'].
+	(self registerState: (self stateMachineModel addState: name))
 		center: self menuClickPosition.

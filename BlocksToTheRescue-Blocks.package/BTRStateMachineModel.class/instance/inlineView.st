@@ -1,4 +1,4 @@
 interface-views
 inlineView
 
-	^ BTRStateMachineMorph for: self
+	^ BTRStateMachineGraphicalEditorMorph for: self
