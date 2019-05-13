@@ -5,5 +5,7 @@ registerState: aBTRState
 			at: aBTRState
 			put: (BTRStateMorph for: aBTRState on: self))
 		center: self menuClickPosition;
-		in: [:morph | self addMorphInFrontOfLayer: morph];
+		in: [:morph |
+			self addMorphInFrontOfLayer: morph.
+			morph addDependent: self];
 		yourself

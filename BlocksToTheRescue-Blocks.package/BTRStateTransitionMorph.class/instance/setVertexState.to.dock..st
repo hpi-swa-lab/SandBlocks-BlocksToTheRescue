@@ -9,4 +9,4 @@ setVertexState: vertexIndex to: aBTRState dock: aSymbol
 	vertexIndex = self vertices size ifTrue: [
 		self endState: aBTRState.
 		self endDock: aSymbol].
-	self updateVertices.
+	self changed: #viewData.

@@ -1,4 +1,4 @@
 accessing
-morphForState: aBTRState
+morphForState: aSymbolOrBTRState
 
-	^ self stateMorphsDict at: aBTRState
+	^ self stateMorphsDict at: (self stateFrom: aSymbolOrBTRState)

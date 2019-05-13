@@ -4,6 +4,8 @@
 	"instance" : {
 		"addNestedYellowButtonItemsTo:event:" : "ms 5/8/2019 16:24",
 		"adhereToValidPosition:" : "ms 5/13/2019 13:53",
+		"applyViewData:" : "ms 5/13/2019 15:11",
+		"buildViewData" : "ms 5/13/2019 14:56",
 		"delete" : "ms 5/13/2019 12:02",
 		"dockingMorphDict" : "ms 5/7/2019 14:36",
 		"dockingMorphDict:" : "ms 5/7/2019 14:36",
@@ -27,7 +29,7 @@
 		"mouseStillDown:" : "ms 5/13/2019 13:34",
 		"mouseStillDownStepRate" : "ms 5/2/2019 13:50",
 		"mouseStillDownThreshold" : "ms 5/2/2019 13:50",
-		"mouseUp:" : "ms 5/13/2019 13:59",
+		"mouseUp:" : "ms 5/13/2019 14:08",
 		"nameMorph" : "ms 4/30/2019 11:10",
 		"nameMorph:" : "ms 4/30/2019 11:10",
 		"position:" : "ms 5/13/2019 13:48",

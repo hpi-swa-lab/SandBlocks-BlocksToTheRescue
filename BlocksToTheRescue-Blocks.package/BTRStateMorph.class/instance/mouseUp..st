@@ -1,4 +1,6 @@
 event handling
 mouseUp: evt
 
-	self showDockingPoints.
+	self
+		showDockingPoints;
+		changed: #viewData.
