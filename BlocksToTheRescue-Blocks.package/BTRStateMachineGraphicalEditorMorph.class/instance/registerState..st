@@ -4,5 +4,6 @@ registerState: aBTRState
 	^ (self stateMorphsDict
 			at: aBTRState
 			put: (BTRStateMorph for: aBTRState on: self))
-		position: self position + self gridGaps;
+		center: self menuClickPosition;
+		in: [:morph | self addMorphInFrontOfLayer: morph];
 		yourself

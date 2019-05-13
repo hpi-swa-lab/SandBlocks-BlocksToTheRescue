@@ -9,5 +9,4 @@ createState
 			ifEmpty: [defaultName]) asSymbol].
 	(self stateMachineModel hasStateNamed: name)
 		ifTrue: [^ UIManager default inform: 'State named ''', name, ''' already exists'].
-	(self registerState: (self stateMachineModel addState: name))
-		center: self menuClickPosition.
+	self stateMachineModel addState: name.

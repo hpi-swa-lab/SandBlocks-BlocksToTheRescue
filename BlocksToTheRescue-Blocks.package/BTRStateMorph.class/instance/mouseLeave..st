@@ -1,4 +1,4 @@
 event handling
-mouseDown: evt
+mouseLeave: evt
 
 	self hideDockingPoints.

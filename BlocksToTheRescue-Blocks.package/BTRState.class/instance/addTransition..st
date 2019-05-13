@@ -6,5 +6,5 @@ addTransition: aBTRStateTransition
 		at: aBTRStateTransition name
 		put: aBTRStateTransition.
 	self changed: #transitions.
-	transition changed: #created.
+	transition changed: #created with: self.
 	^ transition

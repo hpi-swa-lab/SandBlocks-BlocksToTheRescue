@@ -3,6 +3,10 @@ addState: aSymbol
 
 	| state |
 	state := self states at: aSymbol put: (self pvtCreateState: aSymbol).
-	self changed: #states.
-	state changed: #created.
+	self
+		changed: #states;
+		changed: #addedState with: state.
+	state
+		changed: #created;
+		addDependent: self.
 	^ state

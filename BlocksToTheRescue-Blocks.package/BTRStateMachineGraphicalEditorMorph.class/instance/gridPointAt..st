@@ -1,4 +1,4 @@
-accessing
+grid
 gridPointAt: indexPoint
 
 	^ self gridSpec origin
