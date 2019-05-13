@@ -1,0 +1,14 @@
+{
+	"category" : "Earley-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EEncoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
