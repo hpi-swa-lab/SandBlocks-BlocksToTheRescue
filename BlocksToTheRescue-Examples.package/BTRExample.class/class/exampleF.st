@@ -1,7 +1,7 @@
 as yet unclassified
 exampleF
 
-	#V2;BTRBabylonianModel;1104;Code1;self referenceDictionary at: 1 put: (BTRBabylonianModel basicNew instVarNamed: #code put: (self referenceAt: 2); yourself). 
+	#V2;BTRBabylonianModel;1104;Code1;self referenceDictionary at: 1 put: (BTRBabylonianModel new instVarNamed: #code put: (self referenceAt: 2); yourself). 
 self referenceDictionary at: 2 put: (Text string: '| foo |
 foo := 42.
 ' runs: (self referenceAt: 3)). 
