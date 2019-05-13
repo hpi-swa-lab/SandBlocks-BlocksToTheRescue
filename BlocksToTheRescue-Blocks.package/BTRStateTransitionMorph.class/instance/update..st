@@ -2,4 +2,4 @@ updating
 update: anAspect
 
 	super update: anAspect.
-	self updateVertices.
+	anAspect = #position ifTrue: [self updateVertices].
