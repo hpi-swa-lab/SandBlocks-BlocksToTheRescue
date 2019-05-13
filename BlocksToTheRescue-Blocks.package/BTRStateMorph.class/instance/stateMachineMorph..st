@@ -1,0 +1,3 @@
+accessing
+stateMachineMorph: aBTRStateMachineMorph
+	stateMachineMorph := aBTRStateMachineMorph

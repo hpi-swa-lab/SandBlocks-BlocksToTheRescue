@@ -2,5 +2,5 @@ event handling
 mouseStillDown: evt
 
 	self
-		position: evt targetPoint;
+		position: (self griddedPoint: evt targetPoint);
 		changed: #position.
