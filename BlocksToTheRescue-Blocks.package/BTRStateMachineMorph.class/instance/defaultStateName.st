@@ -1,0 +1,4 @@
+defaults
+defaultStateName
+
+	^ 'New State'
