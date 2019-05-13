@@ -5,7 +5,7 @@ parseTree
 	recognizer := ERecognizer new
 		grammar: self grammar;
 		source: self source.
-self haltOnce.
+
 "recognizer states printStateNumbered: recognizer states size on: Transcript. Transcript flush"
 
 	invertedSet := recognizer buildItems completedSet invertedSet.

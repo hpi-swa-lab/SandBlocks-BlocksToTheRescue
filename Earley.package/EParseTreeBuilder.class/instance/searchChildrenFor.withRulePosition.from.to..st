@@ -21,7 +21,7 @@ searchChildrenFor: anENode withRulePosition: aNumber from: startNumber to: endNu
 										ruleNumber: -1
 										type: #terminal
 										grammar: self grammar.
-								terminal value: (self source at: position).
+								terminal setValue: (self source at: position).
 								result add: terminal.
 							position := position + 1]
 						ifFalse: [^ result]]

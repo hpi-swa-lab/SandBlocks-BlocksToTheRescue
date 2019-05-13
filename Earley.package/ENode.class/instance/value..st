@@ -1,4 +1,6 @@
-accessing
-value: anObject
+evaluating
+value: context
 
-	value := anObject.
+	^ self isTerminal
+		ifTrue: [value asString]
+		ifFalse: [self rule semanticAction value: self value: context]
