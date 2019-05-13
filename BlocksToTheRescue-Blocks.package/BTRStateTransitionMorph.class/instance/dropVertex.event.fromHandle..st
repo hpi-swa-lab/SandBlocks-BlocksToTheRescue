@@ -1,4 +1,4 @@
-as yet unclassified
+editing
 dropVertex: ix event: evt fromHandle: handle
 	"Leave vertex in new position. If dropped ontop another vertex delete this one.
 	Check for too few vertices before deleting. The alternative 

@@ -1,12 +1,14 @@
-as yet unclassified
+editing
 addHandles
 
 	self removeHandles.
 	handles := OrderedCollection new.
 	vertices withIndexDo: [:vertexPoint :vertexIndex |
 		| newHandle |
-		newHandle := CircleMorph
-			newBounds: (6 asPoint corner: (vertexPoint - 3))
+		newHandle := CircleMorph new
+			setProperty: #morphicLayerNumber toValue: 85;
+			extent: self dockingPointRadius asPoint * 2;
+			center: vertexPoint;
 			color: Color gray.
 		newHandle
 			on: #mouseMove

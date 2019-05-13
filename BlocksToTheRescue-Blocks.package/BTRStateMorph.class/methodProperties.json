@@ -1,16 +1,29 @@
 {
 	"class" : {
-		"for:" : "ms 4/30/2019 11:02" },
+		"for:on:" : "ms 5/13/2019 10:04" },
 	"instance" : {
+		"addNestedYellowButtonItemsTo:event:" : "ms 5/8/2019 16:24",
+		"dockingMorphDict" : "ms 5/7/2019 14:36",
+		"dockingMorphDict:" : "ms 5/7/2019 14:36",
 		"dockingPointAt:" : "ms 4/30/2019 14:50",
+		"dockingPointFor:" : "ms 5/7/2019 15:48",
+		"dockingPointHoverRadius" : "ms 5/7/2019 15:18",
+		"dockingPointRadius" : "ms 5/7/2019 15:18",
+		"griddedPoint:" : "ms 5/13/2019 10:02",
 		"handlesMouseDown:" : "ms 5/2/2019 13:45",
 		"handlesMouseStillDown:" : "ms 5/2/2019 13:45",
-		"initialize" : "ms 5/6/2019 16:22",
+		"hideDockingPoints" : "ms 5/7/2019 14:52",
+		"initialize" : "ms 5/7/2019 14:39",
+		"initializeDockingPoints" : "ms 5/13/2019 10:01",
+		"is:overDockingPoint:" : "ms 5/7/2019 15:29",
 		"mouseDown:" : "ms 5/2/2019 14:45",
-		"mouseStillDown:" : "ms 5/2/2019 15:38",
+		"mouseStillDown:" : "ms 5/13/2019 10:03",
 		"mouseStillDownStepRate" : "ms 5/2/2019 13:50",
 		"mouseStillDownThreshold" : "ms 5/2/2019 13:50",
 		"nameMorph" : "ms 4/30/2019 11:10",
 		"nameMorph:" : "ms 4/30/2019 11:10",
+		"showDockingPoints" : "ms 5/7/2019 14:53",
 		"state" : "ms 4/30/2019 11:03",
-		"state:" : "ms 4/30/2019 11:03" } }
+		"state:" : "ms 4/30/2019 11:03",
+		"stateMachineMorph" : "ms 5/13/2019 10:04",
+		"stateMachineMorph:" : "ms 5/13/2019 10:04" } }

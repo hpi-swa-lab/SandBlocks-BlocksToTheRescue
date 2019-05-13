@@ -3,6 +3,6 @@ addState: aBTRState
 
 	^ (self stateMorphsDict
 			at: aBTRState
-			put: (BTRStateMorph for: aBTRState))
-		position: self position + self stateGaps;
+			put: (BTRStateMorph for: aBTRState on: self))
+		position: self position + self gridGaps;
 		yourself
