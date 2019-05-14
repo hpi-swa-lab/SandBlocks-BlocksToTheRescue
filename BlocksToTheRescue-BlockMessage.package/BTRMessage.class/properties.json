@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-BlockMessage",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		"Counter" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRMessage",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

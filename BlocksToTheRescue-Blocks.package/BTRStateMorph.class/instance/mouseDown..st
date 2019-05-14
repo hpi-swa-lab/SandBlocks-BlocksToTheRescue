@@ -1,4 +1,4 @@
 event handling
 mouseDown: evt
 
-	"nothing to do"
+	self hideDockingPoints.

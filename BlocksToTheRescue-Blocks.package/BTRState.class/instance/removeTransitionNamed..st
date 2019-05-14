@@ -1,4 +1,8 @@
 accessing
 removeTransitionNamed: aSymbol
 
-	self transitions removeKey: aSymbol.
+	| transition |
+	transition := self transitions removeKey: aSymbol.
+	self changed: #transitions.
+	transition changed: #removed.
+	^ transition

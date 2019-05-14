@@ -15,5 +15,6 @@ OrderedDictionary {
 	'BlocksToTheRescue-Utility.package' : #SquotCypressCodeSerializer,
 	'Earley.package' : #SquotCypressCodeSerializer,
 	'BlocksToTheMuseum.package' : #SquotCypressCodeSerializer,
-	'BlocksToTheRescue-Museum.package' : #SquotCypressCodeSerializer
+	'BlocksToTheRescue-Museum.package' : #SquotCypressCodeSerializer,
+	'BlocksToTheRescue-BlockMessage.package' : #SquotCypressCodeSerializer
 }

@@ -1,4 +1,4 @@
 testing
 isFinalState
 
-	^ self hasTransitions not
+	^ self hasOutgoingTransitions not

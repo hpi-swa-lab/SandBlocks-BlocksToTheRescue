@@ -6,8 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"stateMachineMorph",
 		"state",
-		"nameMorph" ],
+		"nameMorph",
+		"dockingMorphDict" ],
 	"name" : "BTRStateMorph",
 	"pools" : [
 		 ],

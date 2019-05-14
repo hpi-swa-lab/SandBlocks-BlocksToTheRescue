@@ -1,0 +1,4 @@
+insertion
+previewIcon
+
+	^ BTRIcons stateMachineIcon

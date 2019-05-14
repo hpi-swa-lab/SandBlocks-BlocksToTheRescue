@@ -1,6 +1,6 @@
 *BlocksToTheRescue-Core
 xBlock
-	
-	tokenType := #block.
+
 	token := self readBlock.
+	tokenType := token blockRole.
 	self step.

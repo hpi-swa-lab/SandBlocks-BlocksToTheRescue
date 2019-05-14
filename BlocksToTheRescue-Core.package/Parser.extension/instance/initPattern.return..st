@@ -1,5 +1,6 @@
 *BlocksToTheRescue-Core
-initPattern: aStringOrText return: aBlock 
+initPattern: aStringOrText return: aBlock
+
 	| result text |
 	text := aStringOrText asBTRText.
 	self
@@ -10,4 +11,5 @@ initPattern: aStringOrText return: aBlock
 	result := aBlock
 				value: (self pattern: false inContext: nil).
 	encoder := failBlock := nil.
+	
 	^ result

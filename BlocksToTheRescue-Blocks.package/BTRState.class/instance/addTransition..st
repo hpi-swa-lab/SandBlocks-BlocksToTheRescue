@@ -1,6 +1,10 @@
 accessing
 addTransition: aBTRStateTransition
 
-	^ self transitions
+	| transition |
+	transition := self transitions
 		at: aBTRStateTransition name
-		put: aBTRStateTransition
+		put: aBTRStateTransition.
+	self changed: #transitions.
+	transition changed: #created with: self.
+	^ transition

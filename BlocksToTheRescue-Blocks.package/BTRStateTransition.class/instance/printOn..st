@@ -1,4 +1,7 @@
 printing
 printOn: aStream
 
-	aStream nextPutAll: self name.
+	aStream
+		nextPutAll: 'Transition[';
+		nextPutAll: self name;
+		nextPutAll: ']'.

@@ -1,0 +1,3 @@
+accessing
+transitionMorphs
+	^ transitionMorphsDict values

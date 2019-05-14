@@ -6,9 +6,12 @@
 		"parseBTRBlockStringSequenceFrom:into:withAttributes:" : "LM 4/10/2019 10:27",
 		"string:runs:" : "BD 4/23/2019 15:51" },
 	"instance" : {
+		"<" : "BD 5/13/2019 15:01",
+		">" : "BD 5/13/2019 15:02",
 		"asBTRBlockString" : "LM 4/23/2019 17:03",
 		"asBTRText" : "BD 3/28/2019 10:58",
 		"blockModelPositions" : "BD 4/29/2019 15:10",
+		"contractTo:" : "BD 5/13/2019 15:11",
 		"copyReplaceFrom:to:with:" : "Elina Emsbach 3/6/2019 15:52",
 		"embeddedBlockModels" : "LM 4/30/2019 15:53",
 		"filterAttributes:" : "LM 4/29/2019 15:55",

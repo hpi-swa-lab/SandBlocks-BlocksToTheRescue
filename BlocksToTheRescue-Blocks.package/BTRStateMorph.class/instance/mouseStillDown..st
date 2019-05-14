@@ -1,6 +1,4 @@
 event handling
 mouseStillDown: evt
 
-	self
-		position: evt targetPoint;
-		changed: #position.
+	self position: evt targetPoint.

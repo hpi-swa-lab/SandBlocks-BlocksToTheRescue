@@ -1,4 +1,0 @@
-testing
-isLocked
-
-	^ self locked
