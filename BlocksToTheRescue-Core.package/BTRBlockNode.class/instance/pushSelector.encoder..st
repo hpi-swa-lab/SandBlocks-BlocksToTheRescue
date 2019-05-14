@@ -5,4 +5,3 @@ pushSelector: stack encoder: encoder
 		emitCode: stack
 		args: 1				"thisContext"
 		encoder: encoder
-		super: false			"no super call"

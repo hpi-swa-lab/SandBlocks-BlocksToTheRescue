@@ -1,0 +1,4 @@
+insertion
+counter
+
+	^ Counter
