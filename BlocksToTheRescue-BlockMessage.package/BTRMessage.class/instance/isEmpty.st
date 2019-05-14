@@ -1,0 +1,4 @@
+comparing
+isEmpty
+
+	^ true
