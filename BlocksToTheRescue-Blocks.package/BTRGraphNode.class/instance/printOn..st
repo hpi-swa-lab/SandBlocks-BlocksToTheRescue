@@ -1,4 +1,6 @@
 as yet unclassified
 printOn: aStream
 
-	super printOn: aStream.
+	aStream 
+		nextPutAll: 'Node on: ';
+		nextPutAll: self block class name.

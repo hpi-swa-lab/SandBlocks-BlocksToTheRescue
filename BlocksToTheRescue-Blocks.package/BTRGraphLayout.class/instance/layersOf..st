@@ -1,7 +1,7 @@
 layout
 layersOf: aBTRGraphEditorMorph
 
-	| depths queue |
+	| depths layers queue |
 	depths := IdentityDictionary new.
 	queue := aBTRGraphEditorMorph graph startNodes copy.
 	queue do: [:each | depths at: each put: 1].
@@ -11,4 +11,7 @@ layersOf: aBTRGraphEditorMorph
 			at: each value 
 			put: ((depths at: each value ifAbsent: [0]) max: (depths at: each key) + 1).
 		queue addLast: each value]].
-	^ depths keys groupBy: [:each | depths at: each]
+	layers := OrderedCollection new.
+	aBTRGraphEditorMorph graph nodes do: [:each |
+		(layers at: (depths at: each) ifAbsentPut: [OrderedCollection new]) add: each].
+	^ layers
