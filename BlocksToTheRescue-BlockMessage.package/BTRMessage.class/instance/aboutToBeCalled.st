@@ -1,5 +1,5 @@
 as yet unclassified
-calledWith: x
-
+aboutToBeCalled
+	
 	self class counter: self class counter + 1.
-	^ #LOL
+	^ self class counter

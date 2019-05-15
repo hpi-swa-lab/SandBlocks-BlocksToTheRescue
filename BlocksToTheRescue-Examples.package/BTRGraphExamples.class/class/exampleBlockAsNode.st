@@ -24,20 +24,20 @@ instVarNamed: #submorphs put: Array empty;
  instVarNamed: #color put: (self referenceAt: 7);
  instVarNamed: #extension put: (self referenceAt: 8);
  instVarNamed: #borderWidth put: 1;
- instVarNamed: #borderColor put: (self referenceAt: 15);
+ instVarNamed: #borderColor put: (self referenceAt: 16);
  yourself). 
 self referenceDictionary at: 6 put: (995@404 corner: 1075@484). 
 self referenceDictionary at: 7 put: (Color r: 0.03 g: 1 b: 0.03). 
 self referenceDictionary at: 8 put: (MorphExtension basicNew instVarAt: 1 put: false; instVarAt: 2 put: true; instVarAt: 3 put: false; instVarAt: 4 put: nil; instVarAt: 5 put: nil; instVarAt: 6 put: nil; instVarAt: 7 put: false; instVarAt: 8 put: nil; instVarAt: 9 put: nil; instVarAt: 10 put: nil; instVarAt: 11 put: (self referenceAt: 9); yourself). 
-self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutFrame -> (self referenceAt: 10)); add: (#animations -> (self referenceAt: 11)); add: (#originalCenter -> (self referenceAt: 12)); add: (#originalAngle -> 0.0); add: (#referencePosition -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#signalConnections -> (self referenceAt: 16)); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
-self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarAt: 1 put: 0; instVarAt: 2 put: 0; instVarAt: 3 put: 0; instVarAt: 4 put: 0; instVarAt: 5 put: 1; instVarAt: 6 put: 0; instVarAt: 7 put: 1; instVarAt: 8 put: 0; yourself). 
-self referenceDictionary at: 11 put: ((OrderedCollection new)). 
+self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutProperties -> (self referenceAt: 10)); add: (#layoutFrame -> (self referenceAt: 11)); add: (#originalCenter -> (self referenceAt: 12)); add: (#originalAngle -> 0.0); add: (#referencePosition -> (self referenceAt: 13)); add: (#animations -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#signalConnections -> (self referenceAt: 17)); yourself). 
+self referenceDictionary at: 10 put: (LayoutProperties basicNew instVarAt: 1 put: #spaceFill; instVarAt: 2 put: #spaceFill; instVarAt: 3 put: false; yourself). 
+self referenceDictionary at: 11 put: (LayoutFrame basicNew instVarAt: 1 put: 0; instVarAt: 2 put: 0; instVarAt: 3 put: 0; instVarAt: 4 put: 0; instVarAt: 5 put: 1; instVarAt: 6 put: 0; instVarAt: 7 put: 1; instVarAt: 8 put: 0; yourself). 
 self referenceDictionary at: 12 put: (1035@444). 
 self referenceDictionary at: 13 put: (1035.0@444.0). 
-self referenceDictionary at: 14 put: (SimpleBorder basicNew instVarAt: 1 put: (self referenceAt: 15); instVarAt: 2 put: (self referenceAt: 15); instVarAt: 3 put: 1; yourself). 
-self referenceDictionary at: 15 put: (Color r: 0.0 g: 0.0 b: 0.0). 
-self referenceDictionary at: 16 put: ((Dictionary new)). 
-self referenceDictionary at: 17 put: (LayoutProperties basicNew instVarAt: 1 put: #spaceFill; instVarAt: 2 put: #spaceFill; instVarAt: 3 put: false; yourself). 
+self referenceDictionary at: 14 put: ((OrderedCollection new)). 
+self referenceDictionary at: 15 put: (SimpleBorder basicNew instVarAt: 1 put: (self referenceAt: 16); instVarAt: 2 put: (self referenceAt: 16); instVarAt: 3 put: 1; yourself). 
+self referenceDictionary at: 16 put: (Color r: 0.0 g: 0.0 b: 0.0). 
+self referenceDictionary at: 17 put: ((Dictionary new)). 
 self referenceDictionary at: 18 put: (BTRGraphNode basicNew instVarAt: 1 put: (self referenceAt: 19); yourself). 
 self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
  instVarNamed: #cachedStoreString put: nil;
