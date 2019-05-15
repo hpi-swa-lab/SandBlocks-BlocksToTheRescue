@@ -1,4 +1,4 @@
 event handling
 mouseDown: evt
 
-	self blockModel toggle.
+	self model toggle.

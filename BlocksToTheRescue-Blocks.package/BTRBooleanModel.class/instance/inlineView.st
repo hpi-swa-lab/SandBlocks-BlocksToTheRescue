@@ -3,5 +3,5 @@ inlineView
 
 	^ self addDependent: (
 		self class defaultViewClass new
-			blockModel: self;
+			model: self;
 			yourself)
