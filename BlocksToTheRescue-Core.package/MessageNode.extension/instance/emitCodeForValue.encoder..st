@@ -2,9 +2,10 @@
 emitCodeForValue: stack encoder: encoder
 	"For #ifTrue:ifFalse: and #whileTrue: / #whileFalse: style messages, the pc is set to the jump instruction, so that mustBeBoolean exceptions can be shown correctly."
 	<hasLiteralTest: #isMacroEmitter:>
-	self beforeBlockMessageNode 
-		ifNotNil: [self beforeBlockMessageNode emitCodeForEffect: stack encoder: encoder].
-	special > 0
+	
+	self ifHavingBlockMessageSelector: [self beforeBlockMessageNode emitCodeForEffect: stack encoder: encoder. 
+			self afterBlockMessageNode emitCodeForEffect: stack encoder: encoder] 
+		else: [special > 0
 		ifTrue: 
 			[pc := 0.
 			self perform: (MacroEmitters at: special) with: stack with: encoder with: true]
@@ -16,13 +17,5 @@ emitCodeForValue: stack encoder: encoder
 				emitCode: stack
 				args: arguments size
 				encoder: encoder
-				super: receiver == NodeSuper.
-			"selector key isBTRBlockModel
-				ifTrue: [ stack push: 1.
-						encoder genPushLiteral: selector index.
-						(encoder encodeSelector: #called)
-							emitCode: stack
-							args: 0
-							encoder: encoder.
-						encoder genPop.
-						stack pop: 1 ]"]
+				super: receiver == NodeSuper]].
+	

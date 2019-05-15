@@ -19,8 +19,15 @@ receiver: rcvr selector: aSelector arguments: args precedence: p from: encoder
 	self pvtCheckForPvtSelector: encoder.
 	aSelector isBTRBlockModel
 		ifTrue: [self beforeBlockMessageNode: (MessageNode new
-				receiver: (encoder encodeLiteral: aSelector)
-				selector: self aboutToBeCalledSelector
-				arguments: {}
-				precedence: 1
-				from: encoder )].
+					receiver: (encoder encodeLiteral: aSelector)
+					selector: self aboutToBeCalledSelector
+					arguments: {}
+					precedence: 1
+					from: encoder).
+					
+				self afterBlockMessageNode: (MessageNode new
+					receiver: (encoder encodeLiteral: aSelector)
+					selector: self calledSelector
+					arguments: (Array with: (MessageNode new basicReceiver: rcvr selector: aSelector arguments: args precedence: p from: encoder ))
+					precedence: 1
+					from: encoder)].

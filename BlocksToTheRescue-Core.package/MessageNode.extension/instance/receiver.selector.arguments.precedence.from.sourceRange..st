@@ -22,12 +22,19 @@ receiver: rcvr selector: selName arguments: args precedence: p from: encoder sou
 	encoder noteSourceRange: range forNode: self.
 	selName isBTRBlockModel
 		ifTrue: [self beforeBlockMessageNode: (MessageNode new
-				receiver: (encoder encodeLiteral: selName)
-				selector: self aboutToBeCalledSelector
-				arguments: {}
-				precedence: 1
-				from: encoder
-				sourceRange: range)].
+					receiver: (encoder encodeLiteral: selName)
+					selector: self aboutToBeCalledSelector
+					arguments: {}
+					precedence: 1
+					from: encoder
+					sourceRange: range).
+				self afterBlockMessageNode: (MessageNode new
+					receiver: (encoder encodeLiteral: selName)
+					selector: self calledSelector
+					arguments: (Array with:  (MessageNode new basicReceiver: rcvr selector: selName arguments: args precedence: p from: encoder sourceRange: range ))
+					precedence: 1
+					from: encoder
+					sourceRange: range)].
 	^self
 		receiver: rcvr
 		selector: selName
