@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"semaphores" ],
+		"semaphores",
+		"runningNodes",
+		"terminator" ],
 	"name" : "BTRConcurrentGraphInterpreter",
 	"pools" : [
 		 ],

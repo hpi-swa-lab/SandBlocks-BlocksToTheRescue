@@ -3,15 +3,13 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"IgnoreEdge" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"outerContext",
-		"results",
-		"activeEdges" ],
-	"name" : "BTRGraphBlockInterpreter",
+		"index",
+		"value" ],
+	"name" : "BTRActivateEdge",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Exception",
 	"type" : "normal" }

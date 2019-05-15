@@ -1,8 +1,9 @@
 {
 	"class" : {
+		"ignoreEdge" : "LB 5/15/2019 14:53",
 		"on:" : "LB 3/15/2019 15:35" },
 	"instance" : {
-		"activateEdge:with:" : "LB 4/10/2019 14:07",
+		"activateEdge:with:" : "LB 5/15/2019 15:10",
 		"activateEdges:with:" : "BD 4/24/2019 11:08",
 		"activateNode:with:" : "LB 4/10/2019 14:09",
 		"activeEdges" : "LB 4/10/2019 13:45",

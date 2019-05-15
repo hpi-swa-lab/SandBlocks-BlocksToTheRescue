@@ -2,11 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"activateEdge:with:" : "LB 4/10/2019 14:11",
-		"activateNode:with:" : "LB 4/10/2019 14:10",
+		"activateEdge:with:" : "LB 5/15/2019 15:11",
+		"activateNode:with:" : "LB 5/15/2019 15:54",
 		"execute" : "LB 4/10/2019 14:11",
-		"initializeExecution" : "LM 4/26/2019 10:54",
+		"executeNode:" : "LB 5/15/2019 15:54",
+		"initializeExecution" : "LB 5/15/2019 15:06",
+		"runningNodes" : "LB 5/15/2019 15:03",
+		"runningNodes:" : "LB 5/15/2019 15:03",
 		"semaphores" : "LB 4/10/2019 14:03",
 		"semaphores:" : "LB 4/10/2019 14:03",
+		"terminate" : "LB 5/15/2019 15:06",
+		"terminator" : "LB 5/15/2019 15:05",
+		"terminator:" : "LB 5/15/2019 15:05",
 		"waitForAll:" : "LB 4/10/2019 14:05",
-		"waitForTermination" : "LB 4/10/2019 14:05" } }
+		"waitForTermination" : "LB 5/15/2019 15:06" } }
