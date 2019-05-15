@@ -21,7 +21,7 @@ receiver: rcvr selector: selName arguments: args precedence: p from: encoder sou
 
 	encoder noteSourceRange: range forNode: self.
 	selName isBTRBlockModel
-		ifTrue: [self blockMessageNode: (MessageNode new
+		ifTrue: [self beforeBlockMessageNode: (MessageNode new
 				receiver: (encoder encodeLiteral: selName)
 				selector: self aboutToBeCalledSelector
 				arguments: {}
