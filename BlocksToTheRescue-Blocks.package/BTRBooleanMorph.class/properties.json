@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"model" ],
 	"name" : "BTRBooleanMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "SimpleButtonMorph",
 	"type" : "normal" }
