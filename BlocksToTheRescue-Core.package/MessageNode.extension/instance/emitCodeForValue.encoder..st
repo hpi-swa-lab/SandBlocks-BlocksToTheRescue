@@ -2,8 +2,8 @@
 emitCodeForValue: stack encoder: encoder
 	"For #ifTrue:ifFalse: and #whileTrue: / #whileFalse: style messages, the pc is set to the jump instruction, so that mustBeBoolean exceptions can be shown correctly."
 	<hasLiteralTest: #isMacroEmitter:>
-	self blockMessageNode 
-		ifNotNil: [self blockMessageNode emitCodeForEffect: stack encoder: encoder].
+	self beforeBlockMessageNode 
+		ifNotNil: [self beforeBlockMessageNode emitCodeForEffect: stack encoder: encoder].
 	special > 0
 		ifTrue: 
 			[pc := 0.
