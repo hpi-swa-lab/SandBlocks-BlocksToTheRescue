@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 internalSymbol
 
-	^ #foo
+	^ internalSymbol

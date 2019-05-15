@@ -7,7 +7,7 @@
 		"Counter" ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"internalSymbol" ],
 	"name" : "BTRMessage",
 	"pools" : [
 		 ],
