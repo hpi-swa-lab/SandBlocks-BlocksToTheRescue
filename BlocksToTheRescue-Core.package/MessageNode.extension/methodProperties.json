@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emitCodeForValue:encoder:" : "bf 8/23/2018 17:29",
+		"receiver:selector:arguments:precedence:from:" : "nice 3/2/2011 23:55",
+		"receiver:selector:arguments:precedence:from:sourceRange:" : "eem 7/18/2008 16:26",
+		"sizeCodeForValue:" : "bf 8/23/2018 17:42" } }
