@@ -3,7 +3,7 @@ readBlock
 	
 	| startOfToken initalPosition blockAttribute |
 	startOfToken := mark.
-	initalPosition := source instVarNamed: 'initialPositionOrNil'. 
+	initalPosition := source instVarNamed: 'initialPositionOrNil'.
 	(initalPosition isNil or: [initalPosition = 1])
 		ifTrue: ["startOfToken := startOfToken - 1"]
 		ifFalse: [startOfToken := startOfToken - initalPosition + 1].
