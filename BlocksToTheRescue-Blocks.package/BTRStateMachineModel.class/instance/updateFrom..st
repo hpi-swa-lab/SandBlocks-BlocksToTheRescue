@@ -1,4 +1,4 @@
-fileIn/out
+serialization
 updateFrom: aSequenceableCollection
 
 	| currentStateNames |

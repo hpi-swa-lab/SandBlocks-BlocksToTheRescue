@@ -1,4 +1,4 @@
-fileIn/out
+serialization
 btrSerializationVersion
 
 	^ 'StateMachine1'

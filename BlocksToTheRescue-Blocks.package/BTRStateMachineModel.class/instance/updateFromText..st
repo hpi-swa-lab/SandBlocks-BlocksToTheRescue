@@ -1,4 +1,4 @@
-fileIn/out
+serialization
 updateFromText: aText
 
 	| preprocessedText data |

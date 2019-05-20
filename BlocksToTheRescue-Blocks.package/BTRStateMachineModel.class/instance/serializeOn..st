@@ -1,4 +1,4 @@
-fileIn/out
+serialization
 serializeOn: aWriteStream
 
 	self statesSorted

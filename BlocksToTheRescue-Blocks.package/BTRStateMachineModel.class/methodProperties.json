@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"btrScanFromStateMachine1:" : "ms 4/16/2019 12:23",
+		"btrScanFromStateMachine1:" : "ms 5/20/2019 10:51",
 		"example1" : "ms 5/2/2019 09:35" },
 	"instance" : {
 		"=" : "LM 4/23/2019 11:31",
@@ -8,9 +8,9 @@
 		"addTransitionOn:from:to:" : "ms 4/11/2019 13:49",
 		"addTransitionsNamed:from:to:" : "ms 4/15/2019 09:58",
 		"btrSerializationVersion" : "ms 4/16/2019 12:18",
-		"btrStoreOn:" : "ms 4/16/2019 12:19",
+		"btrStoreOn:" : "ms 5/20/2019 10:49",
 		"defaultStateMachineClass" : "ms 4/10/2019 15:27",
-		"editorView" : "ms 5/13/2019 11:22",
+		"editorView" : "ms 5/20/2019 09:51",
 		"handleUnknownTransition:inState:for:" : "ms 4/15/2019 11:27",
 		"hasStateNamed:" : "ms 4/5/2019 12:10",
 		"hasStates" : "ms 5/2/2019 09:33",
