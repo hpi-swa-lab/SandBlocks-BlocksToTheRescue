@@ -3,4 +3,6 @@ startState
 
 	^ self
 		stateNamed: self startStateName
-		ifAbsent: [self states anyOne]
+		ifAbsent: [self states
+			ifEmpty: [nil]
+			ifNotEmpty: [self states anyOne]]
