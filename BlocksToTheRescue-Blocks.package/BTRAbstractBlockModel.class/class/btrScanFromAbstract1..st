@@ -1,4 +1,4 @@
-insertion
+serialization
 btrScanFromAbstract1: aReadStream
 
 	^ self new

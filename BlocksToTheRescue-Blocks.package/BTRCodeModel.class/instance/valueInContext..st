@@ -1,4 +1,4 @@
-as yet unclassified
+interface-evaluating
 valueInContext: aContext
 	
 	| originalContexts contextToUse result |

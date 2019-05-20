@@ -1,4 +1,4 @@
-printing
+serialization
 storeOn: aStream
 
 	aStream nextPut: $(.

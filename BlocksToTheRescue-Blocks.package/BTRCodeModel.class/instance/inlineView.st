@@ -1,4 +1,4 @@
-as yet unclassified
+interface-views
 inlineView
 
 	^ BTRCodeMorph for: self

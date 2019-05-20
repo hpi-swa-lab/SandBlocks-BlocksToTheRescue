@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updatePreviewWith: aText
 
 	self resultTextMorph setText: aText.
