@@ -3,7 +3,7 @@ addNestedYellowButtonItemsTo: aMenu event: evt
 
 	aMenu
 		add: 'inspect morph' translated target: self selector: #inspect;
-		add: 'inspect model' translated target: self blockModel selector: #inspect;
+		add: 'inspect model' translated target: self stateMachineModel selector: #inspect;
 		addLine;
 		addItem: [:item | self initializeStateSubmenuIn: item event: evt];
 		addLine;

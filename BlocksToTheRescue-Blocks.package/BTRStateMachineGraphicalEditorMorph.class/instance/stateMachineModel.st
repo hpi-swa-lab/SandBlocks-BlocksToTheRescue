@@ -1,4 +1,4 @@
 accessing
 stateMachineModel
 
-	^ self blockModel
+	^ self attachedBlockModel

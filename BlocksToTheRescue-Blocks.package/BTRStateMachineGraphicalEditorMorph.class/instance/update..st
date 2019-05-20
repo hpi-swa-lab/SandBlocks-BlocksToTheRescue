@@ -1,5 +1,5 @@
 updating
 update: anAspect
 
-	(anAspect = #viewData and: [self hasProperty: #autosave]) ifTrue: [^ self writeViewData].
+	anAspect = #viewData ifTrue: [self writeViewData].
 	super update: anAspect.

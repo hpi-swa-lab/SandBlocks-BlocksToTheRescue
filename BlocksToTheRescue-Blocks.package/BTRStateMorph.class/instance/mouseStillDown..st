@@ -1,4 +1,4 @@
 event handling
 mouseStillDown: evt
 
-	self position: evt targetPoint.
+	evt redButtonPressed ifTrue: [self position: evt targetPoint].
