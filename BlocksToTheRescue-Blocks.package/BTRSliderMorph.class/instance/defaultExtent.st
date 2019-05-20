@@ -1,4 +1,4 @@
 defaults
 defaultExtent
 
-	^ 100 @ 40
+	^ 240 @ 40

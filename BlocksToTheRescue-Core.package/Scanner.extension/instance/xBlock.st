@@ -2,5 +2,5 @@
 xBlock
 
 	token := self readBlock.
-	tokenType := token blockRole.
+	tokenType := #block.
 	self step.

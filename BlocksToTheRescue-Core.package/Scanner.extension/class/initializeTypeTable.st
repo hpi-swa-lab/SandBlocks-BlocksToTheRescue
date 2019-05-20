@@ -4,7 +4,7 @@ initializeTypeTable
 
 	| newTable |
 	newTable := Array new: 256 withAll: #xBinary. "default"
-	newTable atAll: #(9 10 12 13 32 ) put: #xDelimiter. "tab lf ff cr space"
+	newTable atAll: #(9 10 12 13 32 16rA0 ) put: #xDelimiter. "tab lf ff cr space"
 	newTable atAll: ($0 asciiValue to: $9 asciiValue) put: #xDigit.
 
 	1 to: 255

@@ -1,4 +1,0 @@
-*BlocksToTheRescue-Core
-afterBlockMessageNode
-
-	^ afterBlockMessageNode

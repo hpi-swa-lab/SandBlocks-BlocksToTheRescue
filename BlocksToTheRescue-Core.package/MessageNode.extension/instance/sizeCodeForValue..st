@@ -15,4 +15,4 @@ sizeCodeForValue: encoder
 					argSize := arg sizeCodeForValue: encoder.
 					total := total + argSize.
 					argSize].
-	^total + (self beforeBlockMessageNode ifNil: [0] ifNotNil: [self beforeBlockMessageNode sizeCodeForEffect: encoder])
+	^total

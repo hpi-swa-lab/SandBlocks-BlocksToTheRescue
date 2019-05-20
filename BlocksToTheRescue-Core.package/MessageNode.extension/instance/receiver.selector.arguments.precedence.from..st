@@ -16,11 +16,4 @@ receiver: rcvr selector: aSelector arguments: args precedence: p from: encoder
 		ifFalse: 
 			[selector := encoder encodeSelector: aSelector.
 			rcvr == NodeSuper ifTrue: [encoder noteSuper]].
-	self pvtCheckForPvtSelector: encoder.
-	aSelector isBTRBlockModel
-		ifTrue: [self beforeBlockMessageNode: (MessageNode new
-				receiver: (encoder encodeLiteral: aSelector)
-				selector: self aboutToBeCalledSelector
-				arguments: {}
-				precedence: 1
-				from: encoder )].
+	self pvtCheckForPvtSelector: encoder

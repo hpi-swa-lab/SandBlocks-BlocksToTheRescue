@@ -9,7 +9,9 @@ doesNotUnderstand: aMessage
 
 	| exception resumeValue |
 	
-	aMessage selector isBTRBlockModel ifTrue: [^ self perform: aMessage selector internalSymbol].
+	aMessage selector isBTRBlockModel ifTrue: [
+		aMessage selector aboutToBeCalled.
+		^ aMessage selector calledWith: (self perform: aMessage selector internalSymbol)].
 	
 	(exception := MessageNotUnderstood new)
 		message: aMessage;
