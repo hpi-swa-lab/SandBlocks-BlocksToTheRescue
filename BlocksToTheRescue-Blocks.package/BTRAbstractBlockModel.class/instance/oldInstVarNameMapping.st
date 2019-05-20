@@ -3,4 +3,4 @@ oldInstVarNameMapping
 
 	^ {#properties -> nil.
 		#inlineViewData -> #viewData.
-		#editorViewData -> #viewData}
+		#editorViewData -> #viewData} as: Dictionary
