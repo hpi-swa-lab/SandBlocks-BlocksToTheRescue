@@ -1,4 +1,4 @@
 as yet unclassified
 createPlainInstance
 
-	^ #V2;BTRWrapperBlock;9A;Wrapper1;BTRWrapperBlock;7D;Wrapper1;BTRColorModel;62;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Color;1E;1;(Color r: 0.0 g: 1 b: 0.502);;;; copy
+	^ #V2;BTRWrapperBlock;8D;Wrapper1;BTRWrapperBlock;70;Wrapper1;BTRColorModel;55;Constant2;Dictionary;14;1;((Dictionary new));Color;1E;1;(Color r: 0.0 g: 1 b: 0.502);;;; copy

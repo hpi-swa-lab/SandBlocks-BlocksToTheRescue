@@ -1,7 +1,7 @@
 defaults
 defaultForm
 
-	^ #V2;BTRImageModel;2511;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Form;24CC;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!!S!!!"0#R18/!6")2>6"XCbXk2g<-Va2>5(s#=a&@\YVhlsA;-.8
+	^ #V2;BTRImageModel;2504;Constant2;Dictionary;14;1;((Dictionary new));Form;24CC;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!!S!!!"0#R18/!6")2>6"XCbXk2g<-Va2>5(s#=a&@\YVhlsA;-.8
 UHG<AZVUWIPU2"(Ln$7ql@oMSJL34QJVJ'JaB9WN&e`?;_X,LJf<-^/mIIj2>IMSaqh*(u5CG`Y
 ^4&e/)NE?_9oZ/j2<rf^^&-WL^(V:P^W`:?/$f"p)Cljhr%<J.n'e5LV10:EYj=<'YP5[b]\`V!
 U*i#Mo](`+\U<u#bK/P:IhgeSm%<o'G!%^rhXcMca^'sMU\k&,o\0*oU3`/S*Rhdi?h9n,IT$"7

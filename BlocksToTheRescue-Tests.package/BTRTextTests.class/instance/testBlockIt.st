@@ -29,5 +29,5 @@ self referenceDictionary at: 1;;inlineView textMorph editor.
 		selectAll;
 		insertBlock.
 	self 
-		assert: #V2;BTRWrapperBlock;83;Wrapper1;BTRColorModel;68;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Color;24;1;(Color r: 0.767 g: 0.767 b: 0.767);;;
+		assert: #V2;BTRWrapperBlock;76;Wrapper1;BTRColorModel;5B;Constant2;Dictionary;14;1;((Dictionary new));Color;24;1;(Color r: 0.767 g: 0.767 b: 0.767);;;
 		equals: editor selection embeddedBlockModels anyOne

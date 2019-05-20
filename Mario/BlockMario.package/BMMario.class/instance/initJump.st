@@ -3,7 +3,7 @@ initJump
 
 	self isJumping
 		ifFalse: [
-			self isJumping: #V2;BTRBooleanModel;48;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;True;6;1;true;;.
+			self isJumping: #V2;BTRBooleanModel;3B;Constant2;Dictionary;14;1;((Dictionary new));True;6;1;true;;.
 			self acceleration: self minAcceleration.
 			self jump]
 	

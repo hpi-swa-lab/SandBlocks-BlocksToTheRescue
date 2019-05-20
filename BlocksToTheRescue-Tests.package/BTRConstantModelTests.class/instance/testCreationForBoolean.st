@@ -2,5 +2,5 @@ as yet unclassified
 testCreationForBoolean
 
 	| model |
-	model := BTRConstantModel for: #V2;BTRBooleanModel;3D;Constant2;Dictionary;14;1;((Dictionary new));False;7;1;false;;.
+	model := BTRConstantModel for: #V2;BTRBooleanModel;3B;Constant2;Dictionary;14;1;((Dictionary new));True;6;1;true;;.
 	self assert: (model isKindOf: BTRBooleanModel).

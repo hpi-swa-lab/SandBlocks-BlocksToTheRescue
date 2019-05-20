@@ -2,11 +2,9 @@ as yet unclassified
 setUp
 
 	super setUp.
-	self graph: #V2;BTRWrapperBlock;236;Wrapper1;BTRGraphModel;21A;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+	self graph: #V2;BTRWrapperBlock;1E2;Wrapper1;BTRGraphModel;1C6;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: nil;
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #nodes put: (self referenceAt: 2);
  instVarNamed: #edges put: (self referenceAt: 3);
  yourself). 

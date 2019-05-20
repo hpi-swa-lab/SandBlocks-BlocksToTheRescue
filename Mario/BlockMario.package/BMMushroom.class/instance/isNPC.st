@@ -1,4 +1,4 @@
 testing
 isNPC
 
-	^ #V2;BTRBooleanModel;48;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;True;6;1;true;;
+	^ #V2;BTRBooleanModel;3B;Constant2;Dictionary;14;1;((Dictionary new));True;6;1;true;;
