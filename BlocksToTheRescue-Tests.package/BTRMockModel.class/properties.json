@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRMockModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

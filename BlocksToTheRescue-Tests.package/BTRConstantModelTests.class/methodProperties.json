@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classTested" : "BD 4/30/2019 11:46",
+		"classTested:" : "BD 4/30/2019 11:46",
+		"classesToTest" : "BD 4/30/2019 12:00",
+		"createPlainInstance" : "BD 4/30/2019 11:46",
+		"run:" : "BD 4/30/2019 11:57",
+		"shouldRunForAllClasses:" : "BD 4/30/2019 11:58",
+		"testCreationForBoolean" : "BD 4/8/2019 15:03",
+		"testCreationForColor" : "BD 4/8/2019 15:02",
+		"testCreationForImage" : "BD 4/8/2019 15:02",
+		"testCreationForMorph" : "ms 4/11/2019 14:35",
+		"testCreationForNumber" : "BD 4/8/2019 15:02",
+		"testValueReturnsValue" : "BD 4/8/2019 14:59" } }

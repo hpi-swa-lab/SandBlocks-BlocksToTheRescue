@@ -1,0 +1,4 @@
+initialize
+createPlainInstance
+
+	^ BTRTableModel new

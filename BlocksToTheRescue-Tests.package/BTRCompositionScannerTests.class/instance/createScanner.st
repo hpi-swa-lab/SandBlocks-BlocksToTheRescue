@@ -1,0 +1,4 @@
+running
+createScanner
+
+	^ CompositionScanner new

@@ -1,0 +1,4 @@
+accessing
+textStyle
+
+	^ TextStyle default

@@ -1,0 +1,16 @@
+{
+	"category" : "BlocksToTheRescue-Examples",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TBTRBlockModel classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"greeting" ],
+	"name" : "BTRGreetingMorph",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockMorph",
+	"traitcomposition" : "TBTRBlockModel",
+	"type" : "normal" }

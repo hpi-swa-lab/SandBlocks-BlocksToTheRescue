@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Tests-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"theMachine" ],
+	"name" : "BTRStateMachineModelTests",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockTestCase",
+	"type" : "normal" }
