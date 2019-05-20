@@ -7,5 +7,5 @@ value: anObject
 	oldValue ~= value
 		ifTrue: [
 			self changed: #value. "For toolBuilder compliance"
-			self changed]
-	
+			self changed].
+	^ anObject

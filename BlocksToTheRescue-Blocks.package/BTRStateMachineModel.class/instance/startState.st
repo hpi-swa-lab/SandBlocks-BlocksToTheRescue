@@ -1,4 +1,6 @@
 accessing
 startState
 
-	^ self stateNamed: self startStateName
+	^ self
+		stateNamed: self startStateName
+		ifAbsent: [self states anyOne]

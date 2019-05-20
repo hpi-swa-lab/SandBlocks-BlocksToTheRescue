@@ -1,3 +1,5 @@
 accessing
 model: aBTRStateMachineModel
-	model := aBTRStateMachineModel
+	self removeDependent: model.
+	model := aBTRStateMachineModel.
+	self addDependent: model.

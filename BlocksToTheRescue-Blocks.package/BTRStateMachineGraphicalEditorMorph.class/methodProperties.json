@@ -1,9 +1,10 @@
 {
 	"class" : {
+		"for:" : "ms 5/20/2019 13:38",
 		"previewIcon" : "ms 5/9/2019 14:14" },
 	"instance" : {
 		"abandonLoners" : "ms 5/13/2019 10:55",
-		"accept" : "ms 5/13/2019 15:54",
+		"accept" : "ms 5/20/2019 10:17",
 		"addAllMorphsInFrontOfLayer:" : "ms 5/6/2019 15:55",
 		"addNestedYellowButtonItemsTo:event:" : "ms 5/9/2019 10:04",
 		"applyViewData" : "ms 5/20/2019 13:44",
@@ -15,7 +16,7 @@
 		"delete" : "ms 5/13/2019 13:25",
 		"distanceBetween:and:" : "ms 4/30/2019 16:51",
 		"expandToGrid:" : "ms 5/13/2019 11:40",
-		"extend:" : "ms 5/13/2019 15:49",
+		"extent:" : "ms 5/20/2019 12:04",
 		"gridGaps" : "ms 5/13/2019 09:52",
 		"gridPointAt:" : "ms 5/6/2019 15:25",
 		"gridSpec" : "ms 5/6/2019 15:24",

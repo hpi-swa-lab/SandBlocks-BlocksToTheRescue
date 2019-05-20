@@ -1,6 +1,6 @@
 accessing
 stateNamed: aSymbol
 
-	^ self states
-		at: aSymbol
+	^ self 
+		stateNamed: aSymbol
 		ifAbsent: [^ BTRInvalidStateMachineException signal: 'Unknown state "', aSymbol, '"' ]
