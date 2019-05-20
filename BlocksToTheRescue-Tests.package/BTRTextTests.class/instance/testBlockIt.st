@@ -2,7 +2,7 @@ testing
 testBlockIt
 
 	| editor |
-	editor := #V2;BTRWrapperBlock;681;Wrapper1;BTRCodeModel;666;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
+	editor := #V2;BTRWrapperBlock;62D;Wrapper1;BTRCodeModel;612;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
  instVarNamed: #contents put: '';
  instVarNamed: #currentCompiledMethod put: nil;
  instVarNamed: #contentsSymbol put: #source;
@@ -14,11 +14,9 @@ self referenceDictionary at: 2 put: (Text string: ' muchLighter' runs: (self re
 self referenceDictionary at: 3 put: (RunArray runs: #(1 12) values: ((Array new: 2) at: 1 put: (self referenceAt: 4); at: 2 put: #(); yourself)). 
 self referenceDictionary at: 4 put: ((Array new: 1) at: 1 put: (self referenceAt: 5); yourself). 
 self referenceDictionary at: 5 put: (BTRBlockAttribute basicNew instVarNamed: #blockModel put: (self referenceAt: 6); yourself). 
-self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 7);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 9);
  yourself). 
 self referenceDictionary at: 7 put: (Text string: 'Color new' runs: (self referenceAt: 8)). 

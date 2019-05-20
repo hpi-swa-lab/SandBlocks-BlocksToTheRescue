@@ -1,4 +1,4 @@
 as yet unclassified
 exampleB
 	<BTRBlockModel>
-	^ #V2;BTRColorModel;85;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;TranslucentColor;36;1;(TranslucentColor r: 1 g: 0.575 b: 0.0 alpha: 0.973);;
+	^ #V2;BTRColorModel;57;Constant2;Dictionary;14;1;((Dictionary new));TranslucentColor;15;1;(Color transparent);;

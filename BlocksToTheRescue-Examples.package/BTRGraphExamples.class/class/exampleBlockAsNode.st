@@ -1,22 +1,18 @@
 as yet unclassified
 exampleBlockAsNode
 	<BTRBlockModel>
-	^ #V2;BTRGraphModel;1363;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+	^ #V2;BTRGraphModel;1267;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: nil;
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #nodes put: (self referenceAt: 2);
  instVarNamed: #edges put: (self referenceAt: 25);
  yourself). 
 self referenceDictionary at: 2 put: ((OrderedCollection new) add: (self referenceAt: 3); add: (self referenceAt: 18); add: (self referenceAt: 21); yourself). 
 self referenceDictionary at: 3 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 4);
  yourself). 
-self referenceDictionary at: 4 put: (BTRMorphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 4 put: (BTRMorphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: nil;
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 5);
  yourself). 
 self referenceDictionary at: 5 put: (CircleMorph basicNew instVarNamed: #bounds put: (self referenceAt: 6);
@@ -41,8 +37,12 @@ self referenceDictionary at: 8 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 9);
  yourself). 
-self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#originalAngle -> 0.0); add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#signalConnections -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
-self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFraction put: 0;
+self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutProperties -> (self referenceAt: 10)); add: (#layoutFrame -> (self referenceAt: 11)); add: (#signalConnections -> (self referenceAt: 12)); add: (#originalCenter -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#originalAngle -> 0.0); add: (#animations -> (self referenceAt: 17)); yourself). 
+self referenceDictionary at: 10 put: (LayoutProperties basicNew instVarNamed: #hResizing put: #spaceFill;
+ instVarNamed: #vResizing put: #spaceFill;
+ instVarNamed: #disableLayout put: false;
+ yourself). 
+self referenceDictionary at: 11 put: (LayoutFrame basicNew instVarNamed: #leftFraction put: 0;
  instVarNamed: #leftOffset put: 0;
  instVarNamed: #topFraction put: 0;
  instVarNamed: #topOffset put: 0;
@@ -51,26 +51,20 @@ self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFr
  instVarNamed: #bottomFraction put: 1;
  instVarNamed: #bottomOffset put: 0;
  yourself). 
-self referenceDictionary at: 11 put: (1035@444). 
-self referenceDictionary at: 12 put: ((OrderedCollection new)). 
-self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 12 put: ((Dictionary new)). 
+self referenceDictionary at: 13 put: (1035@444). 
 self referenceDictionary at: 14 put: (1035.0@444.0). 
 self referenceDictionary at: 15 put: (SimpleBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 16);
  instVarNamed: #color put: (self referenceAt: 16);
  instVarNamed: #width put: 1;
  yourself). 
 self referenceDictionary at: 16 put: (Color r: 0.0 g: 0.0 b: 0.0). 
-self referenceDictionary at: 17 put: (LayoutProperties basicNew instVarNamed: #hResizing put: #spaceFill;
- instVarNamed: #vResizing put: #spaceFill;
- instVarNamed: #disableLayout put: false;
- yourself). 
+self referenceDictionary at: 17 put: ((OrderedCollection new)). 
 self referenceDictionary at: 18 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 19);
  yourself). 
-self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: nil;
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 20);
  yourself). 
 self referenceDictionary at: 20 put: (Color r: 1 g: 0.573 b: 0.0). 

@@ -6,11 +6,9 @@ testInlineExecution
 	bar := 'Cheese'.	
 	self 
 		assert: '84 piles of Old Cheese'
-		equals: #V2;BTRGraphModel;BB8;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+		equals: #V2;BTRGraphModel;B64;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 2);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #nodes put: (self referenceAt: 4);
  instVarNamed: #edges put: (self referenceAt: 13);
  yourself). 

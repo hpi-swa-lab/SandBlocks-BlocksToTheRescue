@@ -1,11 +1,9 @@
 as yet unclassified
 example: foo with: bar
 	<BTRBlockModel>
-	^ #V2;BTRGraphModel;F82;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+	^ #V2;BTRGraphModel;F2E;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 2);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #nodes put: (self referenceAt: 4);
  instVarNamed: #edges put: (self referenceAt: 23);
  yourself). 

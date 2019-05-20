@@ -2,5 +2,5 @@ as yet unclassified
 testCreationForColor
 
 	| model |
-	model := BTRConstantModel for: #V2;BTRColorModel;62;Constant2;UndefinedObject;5;1;nil;UndefinedObject;5;1;nil;Color;1E;1;(Color r: 1 g: 0.955 b: 0.0);;.
+	model := BTRConstantModel for: #V2;BTRColorModel;57;Constant2;Dictionary;14;1;((Dictionary new));TranslucentColor;15;1;(Color transparent);;.
 	self assert: (model isKindOf: BTRColorModel).

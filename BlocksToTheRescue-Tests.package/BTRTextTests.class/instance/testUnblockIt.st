@@ -2,7 +2,7 @@ testing
 testUnblockIt
 
 	| editor |
-	editor := #V2;BTRWrapperBlock;9E5;Wrapper1;BTRCodeModel;9CA;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
+	editor := #V2;BTRWrapperBlock;93D;Wrapper1;BTRCodeModel;922;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
  instVarNamed: #contents put: '';
  instVarNamed: #currentCompiledMethod put: nil;
  instVarNamed: #contentsSymbol put: #source;
@@ -14,22 +14,18 @@ self referenceDictionary at: 2 put: (Text string: '' runs: (self referenceAt: 3
 self referenceDictionary at: 3 put: (RunArray runs: #(1) values: ((Array new: 1) at: 1 put: (self referenceAt: 4); yourself)). 
 self referenceDictionary at: 4 put: ((Array new: 1) at: 1 put: (self referenceAt: 5); yourself). 
 self referenceDictionary at: 5 put: (BTRBlockAttribute basicNew instVarNamed: #blockModel put: (self referenceAt: 6); yourself). 
-self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 7);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 15);
  yourself). 
 self referenceDictionary at: 7 put: (Text string: ' muchLighter' runs: (self referenceAt: 8)). 
 self referenceDictionary at: 8 put: (RunArray runs: #(1 12) values: ((Array new: 2) at: 1 put: (self referenceAt: 9); at: 2 put: #(); yourself)). 
 self referenceDictionary at: 9 put: ((Array new: 1) at: 1 put: (self referenceAt: 10); yourself). 
 self referenceDictionary at: 10 put: (BTRBlockAttribute basicNew instVarNamed: #blockModel put: (self referenceAt: 11); yourself). 
-self referenceDictionary at: 11 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 11 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 12);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 14);
  yourself). 
 self referenceDictionary at: 12 put: (Text string: 'Color new' runs: (self referenceAt: 13)). 
@@ -43,7 +39,7 @@ self referenceDictionary at: 1;;inlineView textMorph editor.
 		selectAll;
 		unblock.
 	self 
-		assert: #V2;BTRWrapperBlock;681;Wrapper1;BTRCodeModel;666;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
+		assert: #V2;BTRWrapperBlock;62D;Wrapper1;BTRCodeModel;612;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
  instVarNamed: #contents put: '';
  instVarNamed: #currentCompiledMethod put: nil;
  instVarNamed: #contentsSymbol put: #source;
@@ -55,11 +51,9 @@ self referenceDictionary at: 2 put: (Text string: ' muchLighter' runs: (self re
 self referenceDictionary at: 3 put: (RunArray runs: #(1 12) values: ((Array new: 2) at: 1 put: (self referenceAt: 4); at: 2 put: #(); yourself)). 
 self referenceDictionary at: 4 put: ((Array new: 1) at: 1 put: (self referenceAt: 5); yourself). 
 self referenceDictionary at: 5 put: (BTRBlockAttribute basicNew instVarNamed: #blockModel put: (self referenceAt: 6); yourself). 
-self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #properties put: nil;
- instVarNamed: #cachedStoreString put: nil;
+self referenceDictionary at: 6 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 7);
- instVarNamed: #inlineViewData put: nil;
- instVarNamed: #editorViewData put: nil;
+ instVarNamed: #viewData put: nil;
  instVarNamed: #value put: (self referenceAt: 9);
  yourself). 
 self referenceDictionary at: 7 put: (Text string: 'Color new' runs: (self referenceAt: 8)). 
