@@ -13,4 +13,7 @@
 		"btrWriteScanOn:" : "LM 4/9/2019 17:02",
 		"doesNotUnderstand:" : "BD 5/14/2019 10:49",
 		"isBTRBlockMethod" : "BD 4/8/2019 11:29",
-		"isBTRBlockModel" : "LM 3/26/2019 10:12" } }
+		"isBTRBlockModel" : "LM 3/26/2019 10:12",
+		"storeInstVarNamed:on:" : "LB 5/20/2019 11:50",
+		"storeOn:" : "LB 5/20/2019 11:50",
+		"transientInstVarNames" : "LB 5/20/2019 11:47" } }

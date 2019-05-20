@@ -2,7 +2,14 @@ testing
 testUnblockIt
 
 	| editor |
-	editor := #V2;BTRWrapperBlock;978;Wrapper1;BTRCodeModel;95D;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarAt: 1 put: nil; instVarAt: 2 put: ''; instVarAt: 3 put: nil; instVarAt: 4 put: #source; instVarAt: 5 put: nil; instVarAt: 6 put: (self referenceAt: 2); instVarAt: 7 put: (self referenceAt: 16); yourself). 
+	editor := #V2;BTRWrapperBlock;9E5;Wrapper1;BTRCodeModel;9CA;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
+ instVarNamed: #contents put: '';
+ instVarNamed: #currentCompiledMethod put: nil;
+ instVarNamed: #contentsSymbol put: #source;
+ instVarNamed: #multiWindowState put: nil;
+ instVarNamed: #code put: (self referenceAt: 2);
+ instVarNamed: #viewData put: (self referenceAt: 16);
+ yourself). 
 self referenceDictionary at: 2 put: (Text string: '' runs: (self referenceAt: 3)). 
 self referenceDictionary at: 3 put: (RunArray runs: #(1) values: ((Array new: 1) at: 1 put: (self referenceAt: 4); yourself)). 
 self referenceDictionary at: 4 put: ((Array new: 1) at: 1 put: (self referenceAt: 5); yourself). 
@@ -36,7 +43,14 @@ self referenceDictionary at: 1;;inlineView textMorph editor.
 		selectAll;
 		unblock.
 	self 
-		assert: #V2;BTRWrapperBlock;614;Wrapper1;BTRCodeModel;5F9;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarAt: 1 put: nil; instVarAt: 2 put: ''; instVarAt: 3 put: nil; instVarAt: 4 put: #source; instVarAt: 5 put: nil; instVarAt: 6 put: (self referenceAt: 2); instVarAt: 7 put: (self referenceAt: 10); yourself). 
+		assert: #V2;BTRWrapperBlock;681;Wrapper1;BTRCodeModel;666;Code1;self referenceDictionary at: 1 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
+ instVarNamed: #contents put: '';
+ instVarNamed: #currentCompiledMethod put: nil;
+ instVarNamed: #contentsSymbol put: #source;
+ instVarNamed: #multiWindowState put: nil;
+ instVarNamed: #code put: (self referenceAt: 2);
+ instVarNamed: #viewData put: (self referenceAt: 10);
+ yourself). 
 self referenceDictionary at: 2 put: (Text string: ' muchLighter' runs: (self referenceAt: 3)). 
 self referenceDictionary at: 3 put: (RunArray runs: #(1 12) values: ((Array new: 2) at: 1 put: (self referenceAt: 4); at: 2 put: #(); yourself)). 
 self referenceDictionary at: 4 put: ((Array new: 1) at: 1 put: (self referenceAt: 5); yourself). 

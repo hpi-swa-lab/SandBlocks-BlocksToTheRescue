@@ -2,9 +2,7 @@ as yet unclassified
 initialize
 	
 	| extentToUse |
-	extentToUse := (self model viewData 
-		at: #inlineViewProportions 
-		ifAbsent: [self defaultProportions]) * self fontSize.
+	extentToUse := self extentToUse.
 	super initialize.
 	self wrapFlag: true.
 	getTextSelector := #code.
