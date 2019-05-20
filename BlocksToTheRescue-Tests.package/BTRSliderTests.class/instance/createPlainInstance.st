@@ -1,4 +1,0 @@
-initialize
-createPlainInstance
-
-	^ BTRNumberModel new

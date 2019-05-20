@@ -1,4 +1,0 @@
-running
-createScanner
-
-	^ CharacterBlockScanner new

@@ -1,4 +1,0 @@
-running
-createScanner
-	
-	^ self subclassResponsibility

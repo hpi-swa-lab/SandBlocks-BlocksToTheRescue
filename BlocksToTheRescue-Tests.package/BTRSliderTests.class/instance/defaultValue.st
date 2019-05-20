@@ -1,4 +1,0 @@
-initialize
-defaultValue
-
-	^ 2
