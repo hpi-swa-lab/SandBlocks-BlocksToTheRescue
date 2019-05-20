@@ -1,8 +1,8 @@
 updating
 applyViewData
 
-	self stateMachineModel inlineViewData at: self class ifPresent: [:vd | vd
-		at: #extent ifPresent: [:extent | self extent: extent];
+	self stateMachineModel viewData at: self class ifPresent: [:vd | vd
+		at: #extent ifPresent: [:extent | super extent: extent];
 		at: #states ifPresent: [:svd | svd
 			keysAndValuesDo: [:stateName :viewData |
 				self morphForState: stateName ifPresent: [:m |

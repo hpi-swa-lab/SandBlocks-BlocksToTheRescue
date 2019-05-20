@@ -1,5 +1,4 @@
-printing
+serialization
 btrStoreOn: aWriteStream
 
-	self btrStoreInlineViewDataOn: aWriteStream.
-	self btrStoreEditorViewDataOn: aWriteStream. 
+	self btrStoreViewDataOn: aWriteStream.

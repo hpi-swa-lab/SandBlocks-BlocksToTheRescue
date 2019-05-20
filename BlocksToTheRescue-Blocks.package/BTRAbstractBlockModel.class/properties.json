@@ -7,11 +7,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"properties",
 		"cachedStoreString",
 		"originalText",
-		"inlineViewData",
-		"editorViewData" ],
+		"viewData" ],
 	"name" : "BTRAbstractBlockModel",
 	"pools" : [
 		 ],

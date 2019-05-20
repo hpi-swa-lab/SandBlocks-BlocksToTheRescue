@@ -1,5 +1,4 @@
-testing
+serialization
 btrReadViewDataFrom: aReadStream
-
-	self btrReadInlineViewDataFrom: aReadStream.
-	self btrReadEditorViewDataFrom: aReadStream.
+		
+	self viewData: aReadStream btrScanFrom.
