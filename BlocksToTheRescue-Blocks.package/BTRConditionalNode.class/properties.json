@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRConditionalNode",
+	"pools" : [
+		 ],
+	"super" : "BTRGraphNode",
+	"type" : "normal" }
