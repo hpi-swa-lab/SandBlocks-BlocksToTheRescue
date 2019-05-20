@@ -5,9 +5,12 @@ dockingPointFor: aPoint
 		detect: [:symbol | self is: aPoint overDockingPoint: symbol]
 		ifFound: [:symbol | symbol]
 		ifNone: [(self bounds containsPoint: aPoint)
-			ifTrue: [| degree |
+			ifTrue: [| degree alpha |
 				degree := (aPoint - self center) degrees.
-				{#bottom -> (45 to: 135). #left -> (135 to: 225). #top -> (225 to: 315)}
+				alpha := self extent degrees.
+				{#bottom -> (alpha to: 180 - alpha).
+				#left -> (180 - alpha to: 180 + alpha).
+				#top -> (180 + alpha to: 360 - alpha)}
 					detect: [:intervalAssoc | intervalAssoc value rangeIncludes: degree]
 					ifFound: [:ia | ia key]
 					ifNone: [#right]]

@@ -4,6 +4,6 @@ for: aBTRState on: aBTRStateMachineMorph
 	^ self basicNew
 		stateMachineMorph: aBTRStateMachineMorph;
 		state: aBTRState;
-		in: [:instance | aBTRState addDependent: instance];
+		"in: [:instance | aBTRState addDependent: instance];"
 		initialize;
 		yourself

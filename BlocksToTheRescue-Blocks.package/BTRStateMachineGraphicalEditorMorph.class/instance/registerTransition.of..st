@@ -9,7 +9,5 @@ registerTransition: aBTRStateTransition of: aBTRState
 		startDock: #bottom;
 		endDock: #bottom;
 		updateVertices;
-		in: [:morph |
-			self addMorphInFrontOfLayer: morph.
-			morph addDependent: self];
+		in: [:morph | self addMorphInFrontOfLayer: morph];
 		yourself

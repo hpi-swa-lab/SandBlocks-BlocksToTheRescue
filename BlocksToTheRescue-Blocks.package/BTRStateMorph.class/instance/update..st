@@ -1,5 +1,6 @@
 updating
 update: anAspect
 
-	Transcript showln: anAspect.
+	self halt.
+	Transcript showln: 'state morph: ', anAspect.
 	super update: anAspect.
