@@ -1,4 +1,0 @@
-constants
-dockingPointHoverRadius
-
-	^ 10

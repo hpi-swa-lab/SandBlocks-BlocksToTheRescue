@@ -6,11 +6,8 @@ initialize
 	self nameMorph setProperty: #morphicLayerNumber toValue: 90.
 	self
 		name: 'Transition: ', self transition name;
-		borderColor: Color white;
-		beStraightSegments;
-		makeOpen;
-		makeForwardArrow;
-		setProperty: #activateOnShift toValue: false;
+		borderColor: self class transitionColor;
+		initializeAsArrow;
 		setProperty: #morphicLayerNumber toValue: 100;
 		setVertices: {self startPosition. self endPosition};
 		addHandles.

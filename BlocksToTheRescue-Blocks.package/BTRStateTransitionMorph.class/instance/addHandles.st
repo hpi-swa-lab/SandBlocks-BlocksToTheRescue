@@ -7,7 +7,7 @@ addHandles
 		| newHandle |
 		newHandle := CircleMorph new
 			setProperty: #morphicLayerNumber toValue: 85;
-			extent: self dockingPointRadius asPoint * 2;
+			extent: BTRStateMorph dockingPointRadius asPoint * 2;
 			center: vertexPoint;
 			color: Color gray.
 		newHandle
