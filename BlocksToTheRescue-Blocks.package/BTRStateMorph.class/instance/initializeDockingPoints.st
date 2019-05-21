@@ -5,7 +5,7 @@ initializeDockingPoints
 		self dockingMorphDict at: direc put: (
 			CircleMorph new
 				setProperty: #morphicLayerNumber toValue: 85;
-				extent: self dockingPointRadius asPoint * 2;
+				extent: self class dockingPointRadius asPoint * 2;
 				center: (self dockingPointPositionAt: direc);
 				color: Color gray;
 				in: [:morph | self addMorph: morph];
