@@ -1,5 +1,5 @@
 accessing
 state: aBTRState
-	self removeDependent: aBTRState.
+	state removeDependent: self.
 	state := aBTRState.
-	self addDependent: aBTRState.
+	state addDependent: self.
