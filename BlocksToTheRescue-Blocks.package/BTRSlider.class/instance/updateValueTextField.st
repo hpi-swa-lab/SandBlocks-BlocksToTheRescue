@@ -1,6 +1,4 @@
 updating
 updateValueTextField
 
-	self valueTextField 
-		setText: self valueExpression;
-		center: self center.
+	self valueTextField setText: self valueExpression.
