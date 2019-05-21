@@ -1,7 +1,7 @@
 initialization
 initializeLayout
 
-	self 
+	self
 		color: Color transparent;
 		changeTableLayout;
 		hResizing: #spaceFill;

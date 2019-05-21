@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collapseButton" : "ee 5/21/2019 11:32",
+		"collapseButton:" : "ee 5/21/2019 11:32",
+		"collapseView" : "ee 5/21/2019 11:33",
+		"expandButton" : "ee 5/21/2019 11:32",
+		"expandButton:" : "ee 5/21/2019 11:33",
+		"expandView" : "ee 5/21/2019 11:34",
+		"initializeCollapseButton" : "ee 5/21/2019 11:36",
+		"initializeExpandButton" : "ee 5/21/2019 11:37",
+		"initializeSliderRow" : "ee 5/21/2019 11:40",
+		"initializeSubmorphs" : "ee 5/21/2019 11:50",
+		"makeButtonForAction:form:withDescription:" : "ee 5/21/2019 11:34" } }

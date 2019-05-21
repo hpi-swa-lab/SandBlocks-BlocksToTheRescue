@@ -6,16 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"sliderRow",
-		"slider",
 		"expandButton",
-		"collapseButton",
-		"expandRow",
-		"minTextField",
-		"maxTextField",
-		"quantumTextField" ],
-	"name" : "BTRSliderMorph",
+		"collapseButton" ],
+	"name" : "BTRSliderInlineView",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "BTRSliderView",
 	"type" : "normal" }

@@ -5,4 +5,3 @@ expandView
 		removeMorph: self expandButton;
 		addMorphBack: self collapseButton.
 	self addMorphBack: self expandRow.
-	
