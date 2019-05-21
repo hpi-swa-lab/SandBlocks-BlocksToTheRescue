@@ -1,0 +1,4 @@
+initialization
+backgroundColor
+
+	^ Color white
