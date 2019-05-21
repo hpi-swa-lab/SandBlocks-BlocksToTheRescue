@@ -1,5 +1,5 @@
 initialization
 updateStartArrow
 
-	(self morphForState: self stateMachineModel startState)
-		addStartArrow: self startArrow.
+	self stateMachineModel startState
+		ifNotNil: [:start | (self morphForState: start) addStartArrow: self startArrow].

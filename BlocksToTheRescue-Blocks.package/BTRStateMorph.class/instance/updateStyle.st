@@ -1,5 +1,4 @@
 updating
 updateStyle
 
-	self
-		color: self stateColor.
+	self color: self stateColor.

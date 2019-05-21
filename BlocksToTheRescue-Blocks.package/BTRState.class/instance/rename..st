@@ -1,4 +1,4 @@
 initialize-release
 rename: aString
 
-	self notYetImplemented.
+	self model renameState: self name to: aString.
