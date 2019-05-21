@@ -2,7 +2,7 @@ initialization
 initializeLayout
 
 	self
-		color: Color transparent;
+		color: self backgroundColor;
 		changeTableLayout;
 		hResizing: #spaceFill;
 		vResizing: #shrinkWrap;
