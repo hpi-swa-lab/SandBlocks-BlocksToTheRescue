@@ -5,4 +5,6 @@
 		"isBTRBlock" : "BD 3/11/2019 14:16",
 		"parseBTRBlock" : "BD 3/11/2019 14:16",
 		"parseExpression" : "BD 3/11/2019 14:30",
-		"parseTerm" : "BD 3/11/2019 14:17" } }
+		"parseMessagePattern" : "WoC 5/21/2019 10:10",
+		"parseTerm" : "BD 3/11/2019 14:17",
+		"parseUnary" : "WoC 5/21/2019 10:14" } }

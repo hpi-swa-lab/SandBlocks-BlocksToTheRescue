@@ -1,7 +1,7 @@
 initialization
 initializeMorphsForStates
 
-	self stateMorphsDict: (Dictionary new: self stateMachineModel states size).
+	self stateMorphsDict: (IdentityDictionary new: self stateMachineModel states size).
 	self stateMachineModel hasStates ifTrue: [
 		(self stateMachineModel statesSorted
 			collect: [:state | self registerState: state])

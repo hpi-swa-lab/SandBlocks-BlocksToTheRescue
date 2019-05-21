@@ -1,5 +1,6 @@
 testing
 isLoner
 
-	^ self outgoingTransitions isEmpty
+	^ self isStartState not
+		and: [self outgoingTransitions isEmpty]
 		and: [self incomingTransitions isEmpty]

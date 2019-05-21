@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ BTRSliderMorph for: self
+	^ BTRSliderInlineView for: self

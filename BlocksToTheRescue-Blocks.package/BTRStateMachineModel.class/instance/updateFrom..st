@@ -13,3 +13,4 @@ updateFrom: aSequenceableCollection
 	aSequenceableCollection ifNotEmpty: [self setStart: aSequenceableCollection first key].
 
 	self changed.
+	self fixStateModels.

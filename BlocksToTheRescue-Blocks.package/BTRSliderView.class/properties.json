@@ -1,0 +1,19 @@
+{
+	"category" : "BlocksToTheRescue-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sliderRow",
+		"slider",
+		"expandRow",
+		"minTextField",
+		"maxTextField",
+		"quantumTextField" ],
+	"name" : "BTRSliderView",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockMorph",
+	"type" : "normal" }

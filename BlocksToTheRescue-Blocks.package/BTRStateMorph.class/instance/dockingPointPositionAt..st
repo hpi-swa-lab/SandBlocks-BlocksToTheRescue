@@ -1,5 +1,5 @@
 accessing
-dockingPointAt: aSymbol
+dockingPointPositionAt: aSymbol
 
 	^ aSymbol caseOf: {
 		[#top] -> [self topCenter].

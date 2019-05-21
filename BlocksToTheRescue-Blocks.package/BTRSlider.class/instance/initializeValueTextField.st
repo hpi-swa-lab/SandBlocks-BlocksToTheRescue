@@ -14,4 +14,3 @@ initializeValueTextField
 		color: Color transparent;
 		borderColor: Color transparent.
 	self addMorphBack: self valueTextField.
-	self valueTextField center: self center.

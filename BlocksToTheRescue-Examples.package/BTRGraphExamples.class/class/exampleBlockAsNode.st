@@ -37,7 +37,7 @@ self referenceDictionary at: 8 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 9);
  yourself). 
-self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#originalAngle -> 0.0); add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#signalConnections -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
+self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#originalAngle -> 0.0); add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#layoutProperties -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#signalConnections -> (self referenceAt: 17)); yourself). 
 self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFraction put: 0;
  instVarNamed: #leftOffset put: 0;
  instVarNamed: #topFraction put: 0;
@@ -49,17 +49,17 @@ self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFr
  yourself). 
 self referenceDictionary at: 11 put: (1035@444). 
 self referenceDictionary at: 12 put: ((OrderedCollection new)). 
-self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 13 put: (LayoutProperties basicNew instVarNamed: #hResizing put: #spaceFill;
+ instVarNamed: #vResizing put: #spaceFill;
+ instVarNamed: #disableLayout put: false;
+ yourself). 
 self referenceDictionary at: 14 put: (1035.0@444.0). 
 self referenceDictionary at: 15 put: (SimpleBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 16);
  instVarNamed: #color put: (self referenceAt: 16);
  instVarNamed: #width put: 1;
  yourself). 
 self referenceDictionary at: 16 put: (Color r: 0.0 g: 0.0 b: 0.0). 
-self referenceDictionary at: 17 put: (LayoutProperties basicNew instVarNamed: #hResizing put: #spaceFill;
- instVarNamed: #vResizing put: #spaceFill;
- instVarNamed: #disableLayout put: false;
- yourself). 
+self referenceDictionary at: 17 put: ((Dictionary new)). 
 self referenceDictionary at: 18 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 19);
  yourself). 
 self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
