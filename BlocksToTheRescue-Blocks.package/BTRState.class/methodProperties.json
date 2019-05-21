@@ -6,7 +6,7 @@
 		"=" : "ms 4/5/2019 11:56",
 		"addTransition:" : "ms 5/13/2019 11:58",
 		"addTransitionNamed:target:" : "LM 4/24/2019 10:35",
-		"addTransitionNamed:target:action:" : "ms 5/6/2019 16:50",
+		"addTransitionNamed:target:action:" : "ms 5/21/2019 15:37",
 		"addTransitionsNamed:target:" : "ms 4/15/2019 09:59",
 		"allTransitions" : "ms 5/21/2019 14:58",
 		"customObject" : "ms 4/15/2019 09:37",
@@ -26,7 +26,7 @@
 		"model" : "ms 4/11/2019 11:23",
 		"model:" : "ms 5/20/2019 16:57",
 		"name" : "ms 4/5/2019 10:47",
-		"name:" : "ms 5/21/2019 11:15",
+		"name:" : "ms 5/21/2019 16:32",
 		"onEnterDo:" : "ms 4/10/2019 15:17",
 		"onLeaveDo:" : "ms 4/10/2019 15:17",
 		"onTickDo:" : "ms 4/16/2019 10:08",
@@ -67,4 +67,4 @@
 		"transitions:" : "ms 4/5/2019 11:28",
 		"unknownTransitionHandler" : "ms 4/10/2019 16:23",
 		"unknownTransitionHandler:" : "ms 4/10/2019 15:02",
-		"updateFrom:" : "ms 4/16/2019 11:48" } }
+		"updateFrom:" : "ms 5/21/2019 15:39" } }

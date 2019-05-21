@@ -1,3 +1,3 @@
 accessing
 transition
-	^ self stateTransitionAssoc ifNotNil: #value
+	^ transition

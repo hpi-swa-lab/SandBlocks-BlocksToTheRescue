@@ -1,5 +1,6 @@
 event handling
 dockClickEvent: evt source: aMorph
 
-	
-	Transcript showln: 'start transition at: ', (aMorph valueOfProperty: #dockingDirection).
+	(self dockMenuFor: (aMorph valueOfProperty: #dockingDirection))
+		setInvokingView: self;
+		popUpEvent: evt in: self world.
