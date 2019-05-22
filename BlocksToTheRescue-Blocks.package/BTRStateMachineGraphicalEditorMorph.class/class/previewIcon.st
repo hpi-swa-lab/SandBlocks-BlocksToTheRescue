@@ -1,4 +1,4 @@
 insertion
 previewIcon
 
-	^ BTRStateMachineModel previewIcon
+	^ BTRIcons stateMachineIcon

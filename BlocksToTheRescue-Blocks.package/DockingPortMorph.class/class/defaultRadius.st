@@ -1,4 +1,0 @@
-constants
-defaultRadius
-
-	^ 5

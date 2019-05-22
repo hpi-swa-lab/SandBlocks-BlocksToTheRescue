@@ -4,8 +4,7 @@ serializeOn: aWriteStream
 	self statesSorted
 		do: [:state |
 			aWriteStream
-				nextPut: $# ;
-				nextPutAll: state name;
+				store: state name;
 				nextPutAll: ' -> {'.
 			state transitions sorted
 				do: [:transition |

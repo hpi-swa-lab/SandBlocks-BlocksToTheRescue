@@ -7,6 +7,4 @@ addNestedYellowButtonItemsTo: aMenu event: evt
 		addLine;
 		add: 'set as start' translated target: self selector: #setStart;
 		add: 'rename' translated target: self selector: #rename;
-		add: 'remove' translated target: self selector: #remove;
-		addLine;
-		addItem: [:item | self initializeTransitionSubmenuIn: item event: evt].
+		add: 'remove' translated target: self selector: #remove.

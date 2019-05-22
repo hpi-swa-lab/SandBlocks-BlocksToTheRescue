@@ -7,5 +7,5 @@ rename
 		initialAnswer: self state name)
 			ifEmpty: [^ self]) asSymbol.
 	(self state model hasStateNamed: name)
-		ifTrue: [^ self errorStateExists: name].
+		ifTrue: [^ self stateMachineMorph errorStateExists: name].
 	state rename: name.

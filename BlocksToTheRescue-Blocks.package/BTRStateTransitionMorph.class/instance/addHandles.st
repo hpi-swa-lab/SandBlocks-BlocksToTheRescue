@@ -5,9 +5,11 @@ addHandles
 	handles := OrderedCollection new.
 	vertices withIndexDo: [:vertexPoint :vertexIndex |
 		| newHandle |
-		newHandle := DockingPortMorph new
+		newHandle := CircleMorph new
 			setProperty: #morphicLayerNumber toValue: 85;
-			center: vertexPoint.
+			extent: BTRStateMorph dockingPointRadius asPoint * 2;
+			center: vertexPoint;
+			color: Color gray.
 		newHandle
 			on: #mouseMove
 			send: #dragVertex:event:fromHandle:

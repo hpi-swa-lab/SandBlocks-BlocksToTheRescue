@@ -1,8 +1,8 @@
 accessing
 startState
 
-	^ self hasStartState
-		ifTrue: [self
-			stateNamed: self startStateName
-			ifAbsent: [nil]]
-		ifFalse: [nil]
+	^ self
+		stateNamed: self startStateName
+		ifAbsent: [self states
+			ifEmpty: [nil]
+			ifNotEmpty: [self states anyOne]]

@@ -1,8 +1,7 @@
 instance creation
-named: messageSymbol source: aSymbol
+named: messageSymbol
 
 	^ self basicNew
 		name: messageSymbol;
-		sourceStateName: aSymbol
 		initialize;
 		yourself
