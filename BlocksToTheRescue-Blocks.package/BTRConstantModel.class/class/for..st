@@ -6,4 +6,6 @@ for: anObject
 		detect: [:each | each worksForObject: anObject]
 		ifNone: [self].
 		
-	^ class newFor: anObject
+	^ class new
+		value: anObject;
+		yourself
