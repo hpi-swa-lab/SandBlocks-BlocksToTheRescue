@@ -4,6 +4,6 @@ initializeMorphs
 	self
 		initializeMorphsForStates;
 		initializeMorphsForTransitions;
-		addAllMorphsInFrontOfLayer: (self transitionMorphsDict values collect: #nameMorph);
+		addAllMorphsInFrontOfLayer: (self transitionMorphs collect: #nameMorph);
 		applyViewData;
 		updateStartArrow.

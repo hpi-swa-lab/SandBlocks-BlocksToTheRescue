@@ -1,4 +1,4 @@
 accessing
-morphForTransition: anAssociation
+morphForTransition: aBTRStateTransition
 
-	^ self transitionMorphsDict at: (self transitionAssociationFrom: anAssociation value on: anAssociation key)
+	^ self transitionMorphsDict at: aBTRStateTransition

@@ -1,0 +1,4 @@
+constants
+hoverRadius
+
+	^ 10

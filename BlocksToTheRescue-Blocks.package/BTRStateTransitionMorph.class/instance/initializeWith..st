@@ -1,8 +1,8 @@
 initialization
-initializeWith: anAssociation
+initializeWith: aBTRStateTransition
 
 	self
-		stateTransitionAssoc: anAssociation;
+		transition: aBTRStateTransition;
 		initialize.
 	self startStateMorph addDependent: self.
 	self transition addDependent: self.
