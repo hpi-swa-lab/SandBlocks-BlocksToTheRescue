@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ BTRSliderInlineView for: self
+	^ (self viewDataAt: #inlineView) for: self

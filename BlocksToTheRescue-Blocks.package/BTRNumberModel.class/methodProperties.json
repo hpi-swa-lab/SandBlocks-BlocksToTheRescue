@@ -1,7 +1,9 @@
 {
 	"class" : {
 		"btrScanFromN1:" : "ee 4/8/2019 16:52",
+		"newFor:" : "ee 5/22/2019 09:53",
 		"previewIcon" : "ms 4/4/2019 11:43",
+		"userSelectBlockView" : "ee 5/22/2019 09:52",
 		"worksForObject:" : "ee 4/2/2019 15:25" },
 	"instance" : {
 		"btrSerializationVersion" : "LM 4/10/2019 10:16",
@@ -12,7 +14,7 @@
 		"defaultRange" : "ee 4/5/2019 12:58",
 		"defaultValue" : "ee 4/9/2019 09:51",
 		"editorView" : "ee 5/21/2019 11:21",
-		"inlineView" : "ee 5/21/2019 11:51",
+		"inlineView" : "ee 5/22/2019 09:58",
 		"maximumValue" : "ee 4/8/2019 10:51",
 		"maximumValue:" : "ee 4/15/2019 10:36",
 		"minimumValue" : "ee 4/8/2019 10:50",
