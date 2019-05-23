@@ -6,5 +6,6 @@
 		"createPlainInstance" : "BD 4/29/2019 14:02",
 		"executionContext" : "BD 4/29/2019 14:34",
 		"expectedResult" : "BD 4/29/2019 14:35",
+		"testCopyingProducesEqualModel" : "LB 5/23/2019 11:53",
 		"testInlineViewCreation" : "BD 4/29/2019 16:16",
 		"testSerialization" : "BD 4/30/2019 11:59" } }
