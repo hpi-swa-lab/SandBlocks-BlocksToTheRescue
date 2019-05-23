@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRInlineViewDecorator",
+	"pools" : [
+		 ],
+	"super" : "BTRBlockMorph",
+	"type" : "normal" }
