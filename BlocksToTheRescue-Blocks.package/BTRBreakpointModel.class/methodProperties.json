@@ -3,10 +3,12 @@
 		"btrScanFromBP1:" : "ms 4/2/2019 14:21",
 		"previewIcon" : "LM 4/1/2019 17:27" },
 	"instance" : {
+		"=" : "BD 5/23/2019 11:45",
 		"btrSerializationVersion" : "ms 4/2/2019 14:10",
 		"btrStoreOn:" : "ms 4/2/2019 14:17",
 		"enabled" : "BD 4/9/2019 10:41",
 		"enabled:" : "LM 4/29/2019 15:21",
+		"hash" : "BD 5/23/2019 11:44",
 		"initialize" : "ms 4/2/2019 13:32",
 		"inlineView" : "ms 4/2/2019 12:52",
 		"once" : "ms 4/1/2019 10:02",
