@@ -15,5 +15,5 @@
 	"name" : "BTRSliderView",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "AnObsoleteBTRBlockMorph",
 	"type" : "normal" }

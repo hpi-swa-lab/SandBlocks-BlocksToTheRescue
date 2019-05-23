@@ -11,6 +11,6 @@
 	"name" : "BTRGreetingMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "AnObsoleteBTRBlockMorph",
 	"traitcomposition" : "TBTRBlockModel",
 	"type" : "normal" }
