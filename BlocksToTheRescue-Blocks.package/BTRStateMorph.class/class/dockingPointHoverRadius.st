@@ -1,0 +1,4 @@
+constants
+dockingPointHoverRadius
+
+	^ 10

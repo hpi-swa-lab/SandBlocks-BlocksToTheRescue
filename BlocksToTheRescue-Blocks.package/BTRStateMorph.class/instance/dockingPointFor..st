@@ -4,7 +4,7 @@ dockingPointFor: aPoint
 	^ self dockingMorphDict keys
 		detect: [:symbol | self is: aPoint overDockingPoint: symbol]
 		ifFound: [:symbol | symbol]
-		ifNone: [(self containsPoint: aPoint)
+		ifNone: [(self bounds containsPoint: aPoint)
 			ifTrue: [| degree alpha |
 				degree := (aPoint - self center) degrees.
 				alpha := self extent degrees.

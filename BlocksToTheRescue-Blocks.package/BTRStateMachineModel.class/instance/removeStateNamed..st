@@ -7,6 +7,7 @@ removeStateNamed: aSymbol
 	state isStartState ifTrue: [self startStateName: nil].
 	self changed: #removedState with: state.
 	state
+		removeAllTransitions;
 		changed: #removed;
 		breakDependents.
 	self changed.

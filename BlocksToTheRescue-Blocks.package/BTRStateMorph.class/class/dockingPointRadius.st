@@ -1,0 +1,4 @@
+constants
+dockingPointRadius
+
+	^ 4

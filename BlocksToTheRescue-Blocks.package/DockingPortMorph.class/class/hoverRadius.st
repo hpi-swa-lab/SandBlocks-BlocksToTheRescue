@@ -1,4 +1,0 @@
-constants
-hoverRadius
-
-	^ 10

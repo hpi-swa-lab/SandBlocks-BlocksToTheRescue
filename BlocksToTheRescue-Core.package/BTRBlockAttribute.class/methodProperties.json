@@ -15,10 +15,9 @@
 		"versionedScanFrom:" : "LM 3/15/2019 14:21" },
 	"instance" : {
 		"=" : "BD 5/2/2019 10:02",
-		"anchoredMorph" : "BD 5/23/2019 10:47",
+		"anchoredMorph" : "LM 4/10/2019 10:54",
 		"blockModel" : "LM 3/22/2019 13:48",
 		"blockModel:" : "LM 4/30/2019 09:32",
-		"brokenMorphIcon" : "BD 5/23/2019 10:46",
 		"btrEquals:" : "BD 5/6/2019 14:16",
 		"couldDeriveFromPrettyPrinting" : "Elina Emsbach 3/6/2019 15:42",
 		"embeddedObjectPadding" : "Elina Emsbach 3/7/2019 12:06",
@@ -29,6 +28,6 @@
 		"serializationVersion" : "LM 3/18/2019 10:26",
 		"shoutShouldPreserve" : "Elina Emsbach 3/6/2019 15:45",
 		"storeOn:" : "BD 4/30/2019 10:08",
-		"viewForModel:" : "BD 5/2/2019 11:12",
+		"viewForModel:" : "ee 5/22/2019 14:03",
 		"wantsCopyOnInsert" : "Elina Emsbach 3/6/2019 15:47",
 		"writeScanOn:" : "LM 3/22/2019 15:30" } }

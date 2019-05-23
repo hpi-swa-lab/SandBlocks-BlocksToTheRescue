@@ -3,7 +3,7 @@
 		"btrScanFromConstant1:" : "LM 4/11/2019 16:37",
 		"btrScanFromConstant2:" : "LM 4/11/2019 16:37",
 		"convertMethod:" : "LB 4/9/2019 17:15",
-		"for:" : "LM 3/22/2019 14:46",
+		"for:" : "ee 5/22/2019 10:55",
 		"previewIcon" : "LM 4/4/2019 14:09",
 		"worksForObject:" : "LM 3/22/2019 14:34" },
 	"instance" : {
@@ -13,7 +13,7 @@
 		"buildWindowFreeInspector" : "LM 3/26/2019 10:56",
 		"defaultValue" : "LM 3/22/2019 14:24",
 		"hash" : "BD 4/1/2019 10:20",
-		"initialize" : "BD 3/29/2019 16:28",
+		"initialize" : "ee 5/22/2019 14:59",
 		"inlineView" : "BD 4/9/2019 10:42",
 		"postCopy" : "LM 4/5/2019 09:44",
 		"value" : "LM 3/22/2019 14:04",

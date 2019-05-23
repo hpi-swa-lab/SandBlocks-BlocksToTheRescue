@@ -11,5 +11,5 @@
 	"name" : "BTRBreakpointMorph",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteBTRBlockMorph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }

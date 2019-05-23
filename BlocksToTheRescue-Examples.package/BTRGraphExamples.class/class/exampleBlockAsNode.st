@@ -37,7 +37,7 @@ self referenceDictionary at: 8 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 9);
  yourself). 
-self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#signalConnections -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#originalAngle -> 0.0); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
+self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#originalAngle -> 0.0); add: (#signalConnections -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
 self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFraction put: 0;
  instVarNamed: #leftOffset put: 0;
  instVarNamed: #topFraction put: 0;

@@ -1,4 +1,4 @@
-event handling
+accessing
 hideHandles
 
 	handles do: [:morph | morph hide].

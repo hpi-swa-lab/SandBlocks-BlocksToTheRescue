@@ -1,22 +1,21 @@
 {
 	"class" : {
-		"named:source:" : "ms 5/21/2019 15:39",
-		"named:source:target:action:" : "ms 5/21/2019 15:40" },
+		"named:" : "ms 4/16/2019 11:43",
+		"named:target:" : "LM 4/24/2019 10:17",
+		"named:target:action:" : "LM 4/24/2019 10:06" },
 	"instance" : {
 		"<=" : "ms 5/2/2019 14:39",
-		"=" : "ms 5/21/2019 15:34",
 		"action" : "LM 4/24/2019 10:16",
 		"action:" : "LM 4/24/2019 10:16",
-		"hash" : "ms 5/21/2019 15:35",
+		"guards" : "LM 4/24/2019 10:16",
+		"guards:" : "LM 4/24/2019 10:16",
 		"name" : "ms 4/5/2019 11:34",
 		"name:" : "ms 5/13/2019 11:11",
 		"performActionOn:" : "LM 4/24/2019 10:29",
 		"postCopy" : "ms 5/20/2019 15:34",
 		"printOn:" : "ms 5/13/2019 15:24",
 		"serializeOn:" : "LM 4/24/2019 10:55",
-		"sourceStateName" : "ms 5/21/2019 15:33",
-		"sourceStateName:" : "ms 5/21/2019 16:29",
 		"targetStateName" : "ms 4/8/2019 15:48",
 		"targetStateName:" : "ms 4/8/2019 15:48",
 		"transitionActionOn:" : "LM 4/24/2019 10:29",
-		"updateFrom:" : "ms 5/21/2019 15:37" } }
+		"updateFrom:" : "LM 4/24/2019 10:52" } }

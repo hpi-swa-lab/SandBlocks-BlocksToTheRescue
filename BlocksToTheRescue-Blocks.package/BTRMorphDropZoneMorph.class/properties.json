@@ -10,5 +10,5 @@
 	"name" : "BTRMorphDropZoneMorph",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteBTRBlockMorph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }

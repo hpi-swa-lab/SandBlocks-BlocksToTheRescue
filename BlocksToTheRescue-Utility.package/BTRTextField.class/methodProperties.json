@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"on:getText:setText:" : "ee 4/16/2019 16:21" },
+	"instance" : {
+		"buildInputFieldSpecWith:and:" : "ee 4/16/2019 16:21",
+		"buildPluggableText:" : "ee 4/16/2019 16:18",
+		"hasUnacceptedEdits:" : "ee 4/16/2019 16:35",
+		"initialize" : "ee 5/21/2019 13:38",
+		"inputFieldSpec" : "ee 4/16/2019 16:22",
+		"inputFieldSpec:" : "ee 4/16/2019 16:22" } }
