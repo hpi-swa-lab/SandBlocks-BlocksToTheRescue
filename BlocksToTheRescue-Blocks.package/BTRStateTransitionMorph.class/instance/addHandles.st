@@ -5,11 +5,9 @@ addHandles
 	handles := OrderedCollection new.
 	vertices withIndexDo: [:vertexPoint :vertexIndex |
 		| newHandle |
-		newHandle := CircleMorph new
+		newHandle := DockingPortMorph new
 			setProperty: #morphicLayerNumber toValue: 85;
-			extent: self dockingPointRadius asPoint * 2;
-			center: vertexPoint;
-			color: Color gray.
+			center: vertexPoint.
 		newHandle
 			on: #mouseMove
 			send: #dragVertex:event:fromHandle:

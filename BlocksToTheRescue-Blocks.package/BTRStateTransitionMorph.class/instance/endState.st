@@ -1,4 +1,4 @@
 accessing
 endState
 
-	^ self state targetStateOf: self transition name
+	^ self model stateNamed: self transition targetStateName

@@ -3,11 +3,11 @@ initializeDockingPoints
 
 	#(top right bottom left) do: [:direc |
 		self dockingMorphDict at: direc put: (
-			CircleMorph new
+			DockingPortMorph new
 				setProperty: #morphicLayerNumber toValue: 85;
-				extent: self dockingPointRadius asPoint * 2;
 				center: (self dockingPointPositionAt: direc);
-				color: Color gray;
+				setProperty: #dockingDirection toValue: direc;
+				on: #mouseDown send: #dockClickEvent:source: to: self;
 				in: [:morph | self addMorph: morph];
 				yourself)].
 	self hideDockingPoints.

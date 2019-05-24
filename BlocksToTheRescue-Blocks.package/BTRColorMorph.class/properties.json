@@ -10,5 +10,5 @@
 	"name" : "BTRColorMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "AnObsoleteBTRBlockMorph",
 	"type" : "normal" }

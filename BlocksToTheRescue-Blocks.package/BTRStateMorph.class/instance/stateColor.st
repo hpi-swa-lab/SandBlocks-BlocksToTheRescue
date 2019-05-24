@@ -2,5 +2,5 @@ accessing
 stateColor
 
 	^ self state isFinalState
-		ifTrue: [self finalStateColor]
-		ifFalse: [self defaultColor]
+		ifTrue: [self class finalStateColor]
+		ifFalse: [self class defaultStateColor]

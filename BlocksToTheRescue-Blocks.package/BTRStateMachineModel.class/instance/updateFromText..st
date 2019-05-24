@@ -1,7 +1,6 @@
 serialization
 updateFromText: aText
 
-	| preprocessedText data |
-	preprocessedText := self preprocessText: aText.
-	data := SequenceableCollection readFrom: '{' asText, preprocessedText, '}'.
+	| data |
+	data := SequenceableCollection readFrom: '{' asText, aText, '}'.
 	self updateFrom: data.

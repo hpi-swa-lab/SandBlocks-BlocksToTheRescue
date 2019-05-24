@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inputFieldSpec" ],
+	"name" : "BTRTextField",
+	"pools" : [
+		 ],
+	"super" : "PluggableTextMorphPlus",
+	"type" : "normal" }

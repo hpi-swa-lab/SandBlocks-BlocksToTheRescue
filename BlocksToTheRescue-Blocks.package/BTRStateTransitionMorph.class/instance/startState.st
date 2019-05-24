@@ -1,4 +1,4 @@
 accessing
 startState
 
-	^ self state
+	^ self model stateNamed: self transition sourceStateName

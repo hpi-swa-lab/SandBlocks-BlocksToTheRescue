@@ -10,5 +10,5 @@
 	"name" : "BTRImageMorph",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "AnObsoleteBTRBlockMorph",
 	"type" : "normal" }

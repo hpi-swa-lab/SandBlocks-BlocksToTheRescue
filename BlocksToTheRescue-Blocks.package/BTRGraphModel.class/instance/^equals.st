@@ -1,7 +1,7 @@
 as yet unclassified
 = other
 
-	^ super = other
+	^ self class = other class
 	and: [self nodes = other nodes]
 	and: [self edges = other edges]
 	

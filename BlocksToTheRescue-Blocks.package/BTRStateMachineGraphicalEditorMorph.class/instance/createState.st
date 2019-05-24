@@ -6,7 +6,8 @@ createState
 		((UIManager default
 			request: 'new state name'
 			initialAnswer: defaultName)
-			ifEmpty: [defaultName]) asSymbol].
+				ifEmpty: [^ self]) asSymbol].
 	(self stateMachineModel hasStateNamed: name)
-		ifTrue: [^ UIManager default inform: 'State named ''', name, ''' already exists'].
+		ifTrue: [^ self errorStateExists: name].
 	self stateMachineModel addState: name.
+	self update: #viewData.

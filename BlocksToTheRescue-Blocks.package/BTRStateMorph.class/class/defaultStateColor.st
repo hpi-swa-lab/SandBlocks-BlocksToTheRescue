@@ -1,0 +1,4 @@
+constants
+defaultStateColor
+
+	^ Color white

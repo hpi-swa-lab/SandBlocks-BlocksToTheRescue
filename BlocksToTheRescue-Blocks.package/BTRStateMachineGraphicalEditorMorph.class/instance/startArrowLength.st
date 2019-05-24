@@ -1,0 +1,4 @@
+constants
+startArrowLength
+
+	^ 20

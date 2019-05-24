@@ -2,12 +2,12 @@ accessing
 removeStateNamed: aSymbol
 
 	| state |
-	Transcript showln: 'model remove state: ', aSymbol.
 	state := self states removeKey: aSymbol.
-	self
-		changed: #states;
-		changed: #removedState with: state.
+	self states do: [:each | each removeTransitionsTo: aSymbol].
+	state isStartState ifTrue: [self startStateName: nil].
+	self changed: #removedState with: state.
 	state
+		removeAllTransitions;
 		changed: #removed;
 		breakDependents.
 	self changed.

@@ -16,5 +16,5 @@
 	"name" : "BTRTableInlineView",
 	"pools" : [
 		 ],
-	"super" : "BTRBlockMorph",
+	"super" : "AnObsoleteBTRBlockMorph",
 	"type" : "normal" }

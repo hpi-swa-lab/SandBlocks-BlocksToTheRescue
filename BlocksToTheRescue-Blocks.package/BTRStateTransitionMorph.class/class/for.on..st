@@ -1,8 +1,7 @@
 instance creation
-for: anAssociation on: aBTRStateMachineMorph
+for: aBTRStateTransition on: aBTRStateMachineMorph
 
 	^ self basicNew
 		stateMachineMorph: aBTRStateMachineMorph;
-		initializeWith: anAssociation;
-		in: [:instance | instance transition addDependent: instance];
+		initializeWith: aBTRStateTransition;
 		yourself

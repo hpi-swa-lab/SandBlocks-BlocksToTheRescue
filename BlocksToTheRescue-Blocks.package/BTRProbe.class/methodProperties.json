@@ -2,8 +2,10 @@
 	"class" : {
 		"for:" : "WoC 4/24/2019 15:32" },
 	"instance" : {
+		"=" : "BD 5/23/2019 11:48",
 		"code" : "WoC 4/30/2019 09:57",
 		"code:" : "WoC 4/24/2019 15:31",
+		"hash" : "BD 5/23/2019 11:48",
 		"initialize" : "WoC 4/30/2019 15:57",
 		"initializeResult" : "WoC 4/30/2019 15:32",
 		"initializeText" : "WoC 5/2/2019 09:46",

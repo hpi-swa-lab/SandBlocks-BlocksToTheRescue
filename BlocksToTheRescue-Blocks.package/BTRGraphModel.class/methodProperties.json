@@ -2,7 +2,7 @@
 	"class" : {
 		"btrScanFromSmart:" : "LB 5/14/2019 17:02" },
 	"instance" : {
-		"=" : "BD 4/1/2019 10:22",
+		"=" : "LB 5/23/2019 12:03",
 		"addEdge:" : "LB 3/26/2019 15:13",
 		"addNode:" : "LB 3/28/2019 11:36",
 		"btrSerializationVersion" : "LB 4/10/2019 16:15",
@@ -14,7 +14,7 @@
 		"editorView" : "ee 3/27/2019 16:01",
 		"endNodes" : "LB 3/26/2019 13:29",
 		"fixDependents" : "LB 5/14/2019 17:03",
-		"hash" : "BD 4/1/2019 10:22",
+		"hash" : "LB 5/23/2019 12:21",
 		"incoming:" : "LB 3/26/2019 12:57",
 		"initialize" : "ee 3/27/2019 15:18",
 		"inlineView" : "ms 4/30/2019 09:45",

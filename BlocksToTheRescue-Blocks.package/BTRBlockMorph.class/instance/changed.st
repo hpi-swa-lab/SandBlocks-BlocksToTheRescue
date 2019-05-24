@@ -1,4 +1,0 @@
-editing
-changed
-
-	super changed

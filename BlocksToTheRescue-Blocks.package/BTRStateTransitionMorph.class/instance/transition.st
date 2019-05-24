@@ -1,3 +1,3 @@
 accessing
 transition
-	^ self stateTransitionAssoc value
+	^ transition

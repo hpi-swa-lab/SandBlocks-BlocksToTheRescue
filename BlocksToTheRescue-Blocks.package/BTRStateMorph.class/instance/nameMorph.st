@@ -1,3 +1,3 @@
 accessing
 nameMorph
-	^ nameMorph
+	^ nameMorph ifNil: [nameMorph := StringMorph new]
