@@ -2,8 +2,10 @@
 	"class" : {
 		"previewIcon" : "ms 4/4/2019 11:42" },
 	"instance" : {
+		"=" : "BD 5/23/2019 11:51",
 		"greeting" : "WoC 3/14/2019 11:52",
 		"greeting:" : "LM 3/22/2019 14:19",
+		"hash" : "BD 5/23/2019 11:52",
 		"initialize" : "BD 4/29/2019 16:34",
 		"inlineView" : "WoC 4/1/2019 15:41",
 		"value" : "WoC 4/4/2019 10:27" } }

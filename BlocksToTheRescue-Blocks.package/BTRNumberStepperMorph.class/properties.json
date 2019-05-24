@@ -10,5 +10,5 @@
 	"name" : "BTRNumberStepperMorph",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteBTRBlockMorph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }

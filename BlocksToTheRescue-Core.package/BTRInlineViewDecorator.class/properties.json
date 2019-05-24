@@ -10,5 +10,5 @@
 	"name" : "BTRInlineViewDecorator",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteBTRBlockMorph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }
