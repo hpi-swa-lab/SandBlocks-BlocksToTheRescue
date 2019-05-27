@@ -1,4 +1,5 @@
 accessing
-value: aNumber
+value: newValue
 
-	self inputMorph setText: aNumber asNumber asText.
+	self blockModel value: newValue.
+	self updateValueTextField.

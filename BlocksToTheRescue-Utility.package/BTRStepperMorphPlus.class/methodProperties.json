@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decrement" : "ee 5/27/2019 16:01",
+		"downButton" : "ee 5/27/2019 15:57",
+		"downButton:" : "ee 5/27/2019 15:58",
+		"increment" : "ee 5/27/2019 16:00",
+		"initialize" : "ee 5/27/2019 16:01",
+		"initializeDownButton" : "ee 5/27/2019 16:00",
+		"initializeLayout" : "ee 5/27/2019 16:08",
+		"initializeSubmorphs" : "ee 5/27/2019 16:02",
+		"initializeUpButton" : "ee 5/27/2019 15:59",
+		"makeButtonForAction:form:withDescription:" : "ee 5/27/2019 15:57",
+		"upButton" : "ee 5/27/2019 15:57",
+		"upButton:" : "ee 5/27/2019 15:58" } }
