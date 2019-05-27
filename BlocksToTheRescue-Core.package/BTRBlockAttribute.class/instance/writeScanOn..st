@@ -1,10 +1,18 @@
 fileIn/fileOut
 writeScanOn: aStream
 
+	| writeStream smartStream |
 	aStream
 		nextPut: self class scanCharacter;
 		nextPut: $#;
 		nextPutAll: self serializationVersion;
 		nextPut: $; .
 		
-	self blockModel btrWriteScanOn: aStream.
+	writeStream := MultiByteBinaryOrTextStream with: ' '.
+	"writeStream binary."
+	smartStream := SmartRefStream on: writeStream.
+	smartStream
+		nextPut: self blockModel;
+		close.
+	
+	aStream nextPutAll: writeStream contents asByteArray ascii85Encoded.
