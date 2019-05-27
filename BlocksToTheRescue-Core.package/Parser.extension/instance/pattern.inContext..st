@@ -10,7 +10,11 @@ pattern: fromDoit inContext: ctxt
 			ifTrue: [{#DoIt. {}. 1}]
 			ifFalse: [{#DoItIn:. {encoder encodeVariable: encoder doItInContextName}. 3}]].
 	
-	(hereType == #word or: [hereType == #block]) ifTrue: [^ {self advance asSymbol. {}. 1}].
+	(hereType == #word) ifTrue: [^ {self advance asSymbol. {}. 1}].
+	
+	(hereType == #block)
+		ifTrue: [	args := here args collect: [:each | encoder bindArg: each].
+				^ {self advance asSymbol. args . 3}].
 
 	(hereType == #binary or: [hereType == #verticalBar]) ifTrue: 
 		[selector := self advance asSymbol.
