@@ -6,5 +6,5 @@ btrRunsEqual: aRunArray
 			[ :firstRun :secondRun | 
 				firstRun size = secondRun size and: 
 					[ firstRun with: secondRun do: 
-						[ :firstAtt :secondAtt | (firstAtt btrEquals: secondAtt) ifFalse: [self haltOnce.^ false]]]]].	
+						[ :firstAtt :secondAtt | (firstAtt btrEquals: secondAtt) ifFalse: [^ false]]]]].	
 	^ true
