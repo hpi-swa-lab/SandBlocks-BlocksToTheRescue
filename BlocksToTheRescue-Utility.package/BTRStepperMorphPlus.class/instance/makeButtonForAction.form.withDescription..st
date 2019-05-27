@@ -5,8 +5,10 @@ makeButtonForAction: aSymbol form: aForm withDescription: aString
 		target: self;
 		borderWidth: 0;
 		labelGraphic: aForm;
-		color: Color transparent; 
-		actWhen: #buttonDown;
+		color: Color transparent;
+		borderColor: self borderColor;
+		borderWidth: 1;
+		actWhen: #buttonUp;
 		actionSelector: aSymbol;
 		extent: aForm extent;
 		setBalloonText: aString translated;

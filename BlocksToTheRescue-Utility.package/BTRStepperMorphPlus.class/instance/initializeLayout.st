@@ -2,7 +2,7 @@ initialization
 initializeLayout
 
 	self
-		color: Color gray;
+		color: self backgroundColor;
 		extent: 32@32;
 		minimumExtent: 24@24;
 		layoutPolicy: ProportionalLayout new;
