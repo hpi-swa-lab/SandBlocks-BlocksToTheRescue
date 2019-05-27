@@ -35,8 +35,17 @@ self referenceDictionary at: 9 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 10);
  yourself). 
-self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#layoutProperties -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#animations -> (self referenceAt: 13)); add: (#signalConnections -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); yourself). 
-self referenceDictionary at: 11 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
+self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#signalConnections -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
+self referenceDictionary at: 11 put: ((OrderedCollection new)). 
+self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
+ instVarNamed: #minExtentCache put: nil;
+ yourself). 
+self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 14 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
+ instVarNamed: #color put: (self referenceAt: 8);
+ instVarNamed: #width put: 5;
+ yourself). 
+self referenceDictionary at: 15 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
  instVarNamed: #vResizing put: #shrinkWrap;
  instVarNamed: #disableLayout put: false;
  instVarNamed: #cellInset put: 0;
@@ -52,15 +61,6 @@ self referenceDictionary at: 11 put: (TableLayoutProperties basicNew instVarName
  instVarNamed: #wrapDirection put: #none;
  instVarNamed: #minCellSize put: 0;
  instVarNamed: #maxCellSize put: 1073741823;
- yourself). 
-self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
- instVarNamed: #minExtentCache put: nil;
- yourself). 
-self referenceDictionary at: 13 put: ((OrderedCollection new)). 
-self referenceDictionary at: 14 put: ((Dictionary new)). 
-self referenceDictionary at: 15 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
- instVarNamed: #color put: (self referenceAt: 8);
- instVarNamed: #width put: 5;
  yourself). 
 self referenceDictionary at: 16 put: ((Array new: 1) at: 1 put: (self referenceAt: 17); yourself). 
 self referenceDictionary at: 17 put: (BTRBlockAttribute basicNew instVarNamed: #blockModel put: (self referenceAt: 18); yourself). 
@@ -84,8 +84,17 @@ self referenceDictionary at: 20 put: (MorphExtension basicNew instVarNamed: #loc
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 21);
  yourself). 
-self referenceDictionary at: 21 put: ((IdentityDictionary new) add: (#layoutProperties -> (self referenceAt: 22)); add: (#layoutPolicy -> (self referenceAt: 23)); add: (#BTRBlockMoel -> (self referenceAt: 18)); add: (#animations -> (self referenceAt: 24)); add: (#signalConnections -> (self referenceAt: 25)); add: (#borderStyle -> (self referenceAt: 26)); yourself). 
-self referenceDictionary at: 22 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
+self referenceDictionary at: 21 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 22)); add: (#layoutPolicy -> (self referenceAt: 23)); add: (#BTRBlockMoel -> (self referenceAt: 18)); add: (#signalConnections -> (self referenceAt: 24)); add: (#borderStyle -> (self referenceAt: 25)); add: (#layoutProperties -> (self referenceAt: 26)); yourself). 
+self referenceDictionary at: 22 put: ((OrderedCollection new)). 
+self referenceDictionary at: 23 put: (TableLayout basicNew instVarNamed: #properties put: nil;
+ instVarNamed: #minExtentCache put: nil;
+ yourself). 
+self referenceDictionary at: 24 put: ((Dictionary new)). 
+self referenceDictionary at: 25 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
+ instVarNamed: #color put: (self referenceAt: 8);
+ instVarNamed: #width put: 5;
+ yourself). 
+self referenceDictionary at: 26 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
  instVarNamed: #vResizing put: #shrinkWrap;
  instVarNamed: #disableLayout put: false;
  instVarNamed: #cellInset put: 0;
@@ -101,15 +110,6 @@ self referenceDictionary at: 22 put: (TableLayoutProperties basicNew instVarName
  instVarNamed: #wrapDirection put: #none;
  instVarNamed: #minCellSize put: 0;
  instVarNamed: #maxCellSize put: 1073741823;
- yourself). 
-self referenceDictionary at: 23 put: (TableLayout basicNew instVarNamed: #properties put: nil;
- instVarNamed: #minExtentCache put: nil;
- yourself). 
-self referenceDictionary at: 24 put: ((OrderedCollection new)). 
-self referenceDictionary at: 25 put: ((Dictionary new)). 
-self referenceDictionary at: 26 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
- instVarNamed: #color put: (self referenceAt: 8);
- instVarNamed: #width put: 5;
  yourself). 
 self referenceDictionary at: 27 put: ((Dictionary new) add: (#inlineViewProportions -> (self referenceAt: 28)); yourself). 
 self referenceDictionary at: 28 put: (124@49). 
@@ -153,8 +153,17 @@ self referenceDictionary at: 9 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 10);
  yourself). 
-self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#layoutProperties -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#animations -> (self referenceAt: 13)); add: (#signalConnections -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); yourself). 
-self referenceDictionary at: 11 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
+self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#signalConnections -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
+self referenceDictionary at: 11 put: ((OrderedCollection new)). 
+self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
+ instVarNamed: #minExtentCache put: nil;
+ yourself). 
+self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 14 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
+ instVarNamed: #color put: (self referenceAt: 8);
+ instVarNamed: #width put: 5;
+ yourself). 
+self referenceDictionary at: 15 put: (TableLayoutProperties basicNew instVarNamed: #hResizing put: #shrinkWrap;
  instVarNamed: #vResizing put: #shrinkWrap;
  instVarNamed: #disableLayout put: false;
  instVarNamed: #cellInset put: 0;
@@ -170,15 +179,6 @@ self referenceDictionary at: 11 put: (TableLayoutProperties basicNew instVarName
  instVarNamed: #wrapDirection put: #none;
  instVarNamed: #minCellSize put: 0;
  instVarNamed: #maxCellSize put: 1073741823;
- yourself). 
-self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
- instVarNamed: #minExtentCache put: nil;
- yourself). 
-self referenceDictionary at: 13 put: ((OrderedCollection new)). 
-self referenceDictionary at: 14 put: ((Dictionary new)). 
-self referenceDictionary at: 15 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
- instVarNamed: #color put: (self referenceAt: 8);
- instVarNamed: #width put: 5;
  yourself). 
 self referenceDictionary at: 16 put: ((Dictionary new) add: (#inlineViewProportions -> (self referenceAt: 17)); yourself). 
 self referenceDictionary at: 17 put: (124@49). 
