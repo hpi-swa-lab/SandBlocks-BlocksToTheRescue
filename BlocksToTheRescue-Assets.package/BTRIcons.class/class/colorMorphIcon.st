@@ -1,10 +1,50 @@
 as yet unclassified
 colorMorphIcon
 
-	^ #V2;BTRImageModel;233;Constant2;Dictionary;14;1;((Dictionary new));Form;1FC;Form1;<~M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-#R18/!*45Ik5YJ_:e=&@<-V_,N]fqM;&%",)es=d_8TCd
-2`I(DEO/XJOhs[$*,;rL>Qegq8d%GUFr.,DC8bG75l)=4W56`PnFV(r?c2?'Hga&Zh.Q)`AFoo3
-Z5PtAM@eAHdj/bX<M;]qbe%D8>j*'FN8$O(PYd`g""N6Qa$+Htq$#D]FUqct>7gJ2Q_4LFDFS%#
-!94n;Jk]8ZY3Tal3DO3._@?15%l?#Kg!E/8s5.U-c+e(;"`Mn3=SaZc0nJ#43k-l;%[RRIqLk9!
-VWcM5&fBU>Kod!\hVhe,UIK;1Vpp.)i(L+/0I>t)BF>Ru;ZhalRPO5-n$BhJfBGqXk"B?q?Z8CU
-!t8(hK`W4a"=h]U%aeAXq@(XTQ-iR8.E4fF%9;Zto]WL+\c;[D;]jg]ZY1oB'Oem#H3,=M:[$41
-$it\b#LioJ;b+Xg(W9is08ru,!WW3#!(fUS7'8jaJc~>;;
+	^ #V3;<~"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"!!!!$"q!b4@ruF'DIIR2"98E%)$g3B!%S'V!!!!$
+"q*_<F)PQ&@<?4%D?^>;DKKH&ATA%V!!!$&z#ljr*!t##.!'CGt6#q!SH"CMRDes6$@ruF'D?p4B
+!!*3&!!!!*!!!!$$31&+49cR"AT;j(DI[6d@VfUCDes6$@ruF'D?p4B!!*3&!!!!*!!!!$$31&+
+49bsTEcPT6#QOi)!<`B&!!!<*!!!*.!!!!]"qX=6F(f,q6Z6dWARfgrDf,g\!!!*(z&I!8bCi"A/
+"^uFl@<i.Z!!!*.!!!!]"p@D6Ebu'^!!!3+z&HlQWFE8#tGA1T0BFtG^ASGdjF:e[eAT2a)&I*/c
+AohO*#ljr*!t##.!'CSg!!",I!!!!$"98E%!"&]+!:U<q!!)a"!!!!$$31&+49c6]<)Q;)@:s.G
+De*Eq#QOi)"U"f*!!!TC@prk\ARn_]DfTDfFE2)5B+YPjEbT0#DII?\AU&;/#^0onG=5k]@1`Zd
+@;L't#ljr*!t##.!'CGi:L\'M@rqtV!!!$&z#ljr*!t##.!'CGi:3CD_ATA%V!!!$&z#ljr*!t##.
+!'CGl9jq[PBlnK.AI&89!!*3&!!!!"#ljr*!t##.!'CH"9OVsSAPd;dBln'4AP$c]AS5Rp#QOi)
+!<`B&!!!<*!!!*.!!!!]"q!_9Ci!ZmFD5Z2#QOi)!<`B&!!!$#!<E3%#ljr*!t##.!'CGn:i^Jr
+DbjhWARfff!!!!""98E%!!**$#ljr*!t##.!'CGl;Is?[@;]^oAI&89!!<?(!!!!2#&eNrB5)5q
+#%MRlDImhp!!!!$$31&+49c?`<)Q)%DKBo.DKJTkA7]Q_!!!!&"98E%!"&]+!J1XY!!/>l!!!%p
+$31&,XU+t-!!<Q.!!#+c$:9#[AQ*kk@W-&g!!!!""98E%!!rW*!!<Q.!!#+c$:9#[AQ*\kBl7Ph
+!!!!""98E%!!rW*!!<Q.!!#+c'gbkt6"4nWEa`I"6>URMCJA_XAS_VP!!!-)z$31&,JdMJX!L3ul
+!!/i$!!!!$$31&+49c6_Ble60@<kRYA8-1'#QOi)!<`B&!!!<*!!!*.!!!!]"pS"OD.7F"#QOi)
+!<`B&!!!<*!!!*.!!!!]"pS"JEbTE(#QOi)!<`B&!!!$#!=8`+!!<Q.!!#+c"]0,ODKH-a!!!*(
+z&HR+g!I4tO!!!*.!!!!]"q<t7F)Yr(Gu%maARfff!!!!""98E%!!**$!=8`+!!<Q.!!#+c#"!$G
+D..Ah!!!!""98E%!"fW\F`:o4@r,RpF(KD!!!!!$$31&++9VZE!#Z%B!!"MM#ljr*!t##.!'CSg
+!!#Rt!!!&R#ljr*!t##.!'CSg!!$U<!!!"Y#ljr*!t##.!'CSg!!%uc!!!'c#ljr*!t##.!'CSg
+!!(LU!!!'c#ljr*!t##.!'CSg!!0e@!!!(4#ljr*!t##.!'CSg!!*?4!!!+<#ljr*!t##.!'CSg
+!!'P:!!!"2#ljr*!t##.!'CSg!!",K!!!#K#ljr*!t##.!'CSg!!1d\!!!&n#ljr*!t##.!'CSg
+!!-d@!!!)2#ljr*!t##.!'CSg!!2d#!!!&6!=8`+!!<Q.!!#+g!!!'9$31&+8I5@s!!<Q.!!#+g
+!!!'c$31&,^&\68!<E3-!!!!$$31&+4:2&g!bN#HDJ<nf!<EK,!!!*.!!!!]$31&-M@'=`!PSj?
+!!!*.!!!!]$31&-\I&<:"#C5`!!!*.!!!!]$31&-o*PHt"-<fh!!!*.!!!!]$31&.'++^>"0;e/
+!!!*.!!!!]$31&.1C=*^!PSj?!!!*.!!!!]$31&.D$g7C"7-<o!!!*.!!!!]$31&.O9tsf"0;e/
+!!!*.!!!!]$31&.X9nq-!+l64!=8`+!!<Q.!!#+g!!!,E$31&,^'Oc>!!<Q.!!#+g!!!,f$31&,
+^&\68!=8`+!!<Q.!!#+g!!!-8$31&+AdJG;!!N]0!!-dG^]4El6Z6j`FCB'/1-7m<@ruF'DIIR2
+4#&QR0fpd36tp.QBl@ltEd8dFAToRP4%=./D*'IA6T[bUEc!Nm4FU!U2KCl*0f1%Y+X&!P/iZXL
+2G#&8+X&E\+X&!\,>p6U0-Mf%2+_R@=\<$^AN_A*4=sT@/5BJ_ED8MA,pFlhATL"F?T;"PA.:;%
+8LQtq:G5gB:M=fR,Ut?,E_JYoAS6!BA0j`G7WL+46piqC7lN;A.6TLh2)\i=DFRYTE^+%h5:9!7
+@4#/k/l='*5t5d21C[MF:inut5\35PA83c,=?K;>?#a=b,t'^VC+:T#:,jLp-r=&W?tUZ-:,YsX
+,V)E-E?lbs>t.h6@rsmnB1apV?SkGG6q1*$,7PeV1i>BICL&o'=Yj#cCbnIT1G3$"5;>#ACd0.;
+B-B\s3--r0<@q]2ALKVa?qkMp4]>cm@k_dm,;_2l/SmKp>>e?jED1..+UqIR@neg-AjTK]95e>a
+>\I/OALphQ904k/E,[EYBdcY*0/,s]F=BOG5#QMb>%h>\;G^.H/T)h#BM)l'7r_XH,!nM65?^$6
+<=L*n3%/H5?ro0n,!BUF<@)'b6!/+l-s0GG/SS*B/k%U/7O:&V>'+[g=%k,L@lmm_4'cT6?!:Ac
+DaGgIASiY_1Ft[`3a3jd0b#CBFBi9"9PJE;4(9^BB.-hABlbsfEcioV='%1&+Xgr&;`?'`C10_E
+IQfgo#ljr*!t##.!$DCE!!!!)!!!!&!<E3%!=8`+!!Wc1!!*?5JDrqXi^<_Hqu?Zrs6'C^s2t?B
+s/5kts+C=Ps&f:%s!IaLrrE'JrrE'nrrN.5rrN.KrrE'!k5YG^r;Zcss53hVs1J@4s,-gWs&f:$
+s!Rg\rrE'`rrE(.rrE(JrrE(frrE'!bQ%SBi;`fWqu?Zss4I>Ps.B;ks'Pd+rttbbrrE('rrE(Q
+rrE(mrrN//rrN-#VuQbt]`8!4g&M'Qr;Zcts24j:s).i;rsJcprrN.RrrE(urrE)=rrN/RrrN-#
+KE(rPMZ<\VTE"ol_uK`;r;Zcss,-girrE(QrrN/7rrN/ZrrE)grrE)urrE'!=TAC%=TAC$@/p6,
+DZB_:MZ<\Vr;ZeVrrE)nrrN0"lN.%ch#RKTecGgNec>^M-ia2H-NF)G)#sU9$NL,?!WW1Z!<<*!
+!<E0"CB=J8NWK1[SH/]iU]CGpX9&>*!WW06!WW0K!<<'f!WW1R!WW2o!WW3"!,MW7!!*'!3<B0[
+>lk!*Erc7?J,oTu!<<'_!WW1(!WW1R!WW26!WW3"!UTjd!K[9\!'1)Z!!3-".fo\M5QUob<WW4o
+!<<(.!WW1R!<<(u!WW2Y!WW3"!8[\T!1s5j!F>a*!%\*L!!*'!*<H3?1'%>f!<<(J!<<(m!WW2=
+!<<)g!<<*!!S7;N!2TYp!HS5?!'pSa!?M4?!!3-"'`n>a!WW1h!WW2/!<<)R!WW3!!<<*!!7q2M
+!NZ8#!J1:N!*9."!&FTS!>YY7!<E<'!!!E1!!!!-"98E%+9;~>
