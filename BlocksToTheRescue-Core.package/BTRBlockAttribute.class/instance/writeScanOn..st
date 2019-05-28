@@ -8,11 +8,11 @@ writeScanOn: aStream
 		nextPutAll: self serializationVersion;
 		nextPut: $; .
 		
-	writeStream := MultiByteBinaryOrTextStream with: ' '.
+	writeStream := MultiByteBinaryOrTextStream with: ''.
 	"writeStream binary."
 	smartStream := SmartRefStream on: writeStream.
 	smartStream
-		nextPut: self blockModel;
+		nextPutObjOnly: self blockModel;
 		close.
 	
 	aStream nextPutAll: writeStream contents asByteArray ascii85Encoded.
