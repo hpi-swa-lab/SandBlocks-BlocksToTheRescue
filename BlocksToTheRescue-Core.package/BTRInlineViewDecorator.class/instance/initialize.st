@@ -5,4 +5,5 @@ initialize
 	self 
 		color: Color transparent;
 		vResizing: #shrinkWrap;
-		hResizing: #shrinkWrap.
+		hResizing: #shrinkWrap;
+		addMouseCaptureFilter: self.
