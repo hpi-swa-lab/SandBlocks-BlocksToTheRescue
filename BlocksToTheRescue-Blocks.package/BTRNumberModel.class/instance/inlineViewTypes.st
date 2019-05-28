@@ -1,4 +1,4 @@
 views
 inlineViewTypes
 
-	^ {#slider . #stepper}
+	^ {#stepper . #slider}

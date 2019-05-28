@@ -3,7 +3,6 @@ makeButtonForAction: aSymbol form: aForm withDescription: aString
 
 	^ IconicButton new 
 		target: self;
-		borderWidth: 0;
 		labelGraphic: aForm;
 		color: Color transparent;
 		borderColor: self borderColor;

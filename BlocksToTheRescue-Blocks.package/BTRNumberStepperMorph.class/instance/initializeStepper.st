@@ -1,6 +1,6 @@
 initialization
 initializeStepper
 
-	self stepper: (BTRStepperMorphPlus new
+	self stepper: (BTRStepperMorph new
 		addDependent: self;
 		yourself).

@@ -1,15 +1,8 @@
 initialization
 initializeValueTextField
 
-	| builder |
-	builder := ToolBuilder default.
-	valueTextField := (builder build: (builder pluggableInputFieldSpec new
-		model: self;
-		getText: #valueExpression;
-		setText: #valueExpression:)).
+	self valueTextField: (BTRTextField on: self getText: #valueExpression setText: #valueExpression).
 	self valueTextField
+		editTextSelector: #valueExpression:;
 		hResizing: #spaceFill;
-		vResizing: #spaceFill;
-		height: self height;
-		color: Color transparent;
-		borderColor: Color gray.
+		vResizing: #spaceFill.
