@@ -13,8 +13,10 @@ pattern: fromDoit inContext: ctxt
 	(hereType == #word) ifTrue: [^ {self advance asSymbol. {}. 1}].
 	
 	(hereType == #block)
-		ifTrue: [	args := here args collect: [:each | encoder bindArg: each].
-				^ {self advance asSymbol. args . 3}].
+		ifTrue: [	here isUnary
+				ifTrue: [^ {self advance asSymbol. {}. 1}]
+				ifFalse: [args := here args collect: [:each | encoder bindArg: each].
+						^ {self advance asSymbol. args . 3}]]. 
 
 	(hereType == #binary or: [hereType == #verticalBar]) ifTrue: 
 		[selector := self advance asSymbol.
