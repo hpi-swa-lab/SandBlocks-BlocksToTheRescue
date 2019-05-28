@@ -1,3 +1,4 @@
 accessing
 upButton: aMorph
-	upButton := aMorph
+
+	upButton := aMorph.
