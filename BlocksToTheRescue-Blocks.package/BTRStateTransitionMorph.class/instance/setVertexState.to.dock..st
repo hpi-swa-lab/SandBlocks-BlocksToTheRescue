@@ -1,6 +1,7 @@
 event handling
 setVertexState: vertexIndex to: aBTRState dock: aSymbol
 
+	self halt.
 	vertexIndex = 1 ifTrue: [
 		self startState: aBTRState.
 		self startDock: aSymbol].

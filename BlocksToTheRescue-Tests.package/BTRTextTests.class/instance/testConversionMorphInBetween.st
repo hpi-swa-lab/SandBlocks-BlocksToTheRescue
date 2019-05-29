@@ -1,7 +1,7 @@
 testing
 testConversionMorphInBetween
 
-	| morph newMorph text |
+	| morph newMorph inlineViewDecorator text |
 	morph := Morph new
 		color: Color random;
 		extent: 80 @ 20;
@@ -13,7 +13,8 @@ testConversionMorphInBetween
 	text := Text fromBTRBlockString: text asBTRBlockString.
 
 	self assert: 1 equals: text embeddedMorphs size.
-	newMorph := text embeddedMorphs asOrderedCollection first.
+	inlineViewDecorator := text embeddedMorphs asOrderedCollection first.
+	newMorph := inlineViewDecorator submorphs first.
 	self assert: morph class equals: newMorph class.
 	self assert: morph color equals: newMorph color.
 	self assert: morph extent equals: newMorph extent.
