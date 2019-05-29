@@ -1,6 +1,9 @@
 {
 	"class" : {
-		"initializeTypeTable" : "WoC 5/16/2019 14:38" },
+		"initializeTypeTable" : "BD 5/28/2019 11:47" },
 	"instance" : {
 		"readBlock" : "BD 5/17/2019 09:50",
-		"xBlock" : "BD 5/17/2019 10:18" } }
+		"step" : "BD 5/29/2019 11:58",
+		"xBlock" : "BD 5/29/2019 14:11",
+		"xBlockSeperator" : "BD 5/29/2019 15:11",
+		"xLetter" : "BD 5/29/2019 11:03" } }

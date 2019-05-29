@@ -13,6 +13,7 @@ initializeTypeTable
 				ifTrue: [newTable at: index put: #xLetter]].
 
 	newTable at: BTRBlockAttribute blockCharacter asciiValue put: #xBlock.
+	newTable at: $§ asciiValue put: #xBlockSeperator.
 	newTable at: $" asciiValue put: #xDoubleQuote.
 	newTable at: $# asciiValue put: #xLitQuote.
 	newTable at: $$ asciiValue put: #xDollar.

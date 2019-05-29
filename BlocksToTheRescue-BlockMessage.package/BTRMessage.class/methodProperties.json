@@ -1,5 +1,7 @@
 {
 	"class" : {
+		"blockSeperator" : "BD 5/29/2019 14:09",
+		"blockSeperatorCharacter" : "BD 5/29/2019 14:07",
 		"counter" : "BD 5/14/2019 15:33",
 		"counter:" : "BD 5/14/2019 15:33" },
 	"instance" : {
@@ -7,12 +9,11 @@
 		"=" : "BD 5/23/2019 11:18",
 		">=" : "BD 5/13/2019 14:51",
 		"aboutToBeCalled" : "WoC 5/15/2019 16:24",
-		"aboutToBeCalledWith:" : "BD 5/15/2019 15:49",
 		"args" : "BD 5/27/2019 14:39",
 		"asSymbol" : "BD 5/14/2019 10:38",
-		"called" : "BD 5/15/2019 14:20",
 		"calledWith:" : "BD 5/23/2019 10:33",
 		"compareSafely:" : "BD 5/13/2019 15:10",
+		"hasNext" : "BD 5/28/2019 11:58",
 		"hash" : "BD 5/27/2019 16:32",
 		"initialize" : "BD 5/27/2019 15:44",
 		"initializeParameterFields" : "BD 5/27/2019 14:44",
@@ -31,7 +32,8 @@
 		"parameterFields" : "BD 5/27/2019 13:23",
 		"parameterFields:" : "BD 5/27/2019 13:23",
 		"precedence" : "BD 5/13/2019 14:57",
-		"selectorWithArgs" : "BD 5/28/2019 10:44",
+		"scannedWith:" : "BD 5/29/2019 14:19",
+		"selectorWithArgs" : "BD 5/29/2019 14:09",
 		"storeOn:" : "BD 5/13/2019 14:50",
 		"tokenAt:" : "BD 5/28/2019 10:46",
 		"withBlanksTrimmed" : "BD 5/13/2019 14:57" } }
