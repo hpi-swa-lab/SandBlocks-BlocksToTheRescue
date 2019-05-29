@@ -9,5 +9,5 @@ applyViewData
 					m applyViewData: viewData]]];
 		at: #transitions ifPresent: [:tvd | tvd
 			keysAndValuesDo: [:transitionAssoc :viewData |
-				self morphForTransition: transitionAssoc ifPresent: [:m |
+				self morphForTransition: ((self stateMachineModel stateNamed: transitionAssoc key) transitionNamed: transitionAssoc value) ifPresent: [:m |
 					m applyViewData: viewData]]]].
