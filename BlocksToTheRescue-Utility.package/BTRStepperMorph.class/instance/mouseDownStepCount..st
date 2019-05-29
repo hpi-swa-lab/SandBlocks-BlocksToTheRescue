@@ -1,4 +1,3 @@
 accessing
 mouseDownStepCount: anIntegerOrNil
-
-	mouseDownStepCount := anIntegerOrNil.
+	mouseDownStepCount := anIntegerOrNil

@@ -1,0 +1,4 @@
+accessing
+defaultValue
+
+	^ 0

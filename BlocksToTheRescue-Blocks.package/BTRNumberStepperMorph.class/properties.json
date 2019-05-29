@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stepper",
-		"valueTextField" ],
+		"inputMorph" ],
 	"name" : "BTRNumberStepperMorph",
 	"pools" : [
 		 ],

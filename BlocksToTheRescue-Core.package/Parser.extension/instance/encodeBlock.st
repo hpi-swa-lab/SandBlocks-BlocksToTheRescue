@@ -7,6 +7,7 @@ encodeBlock
 
 	btrBlockModel := self advance.
 	btrBlockModel compiledIn: cue getClass.
+	btrBlockModel compiledWith: self.
 	btrBlockModel flushCache.
 	btrBlockNode := encoder encodeBlock: btrBlockModel.
 	btrBlockNode generateSelectorWith: encoder.
