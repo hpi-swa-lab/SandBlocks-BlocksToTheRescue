@@ -14,18 +14,15 @@ addHandles
 			to: self
 			withValue: vertexIndex.
 		newHandle
-			on: #mouseUp
-			send: #dropVertex:event:fromHandle:
-			to: self
-			withValue: vertexIndex.
-		newHandle
 			on: #click
 			send: #clickVertex:event:fromHandle:
 			to: self
 			withValue: vertexIndex.
+		newHandle eventHandler wantsEveryMouseMove: true.
 		self addMorph: newHandle.
 		handles
 			addLast: newHandle;
 			addLast: Morph new].
+	handles removeLast.
 	self isCurvy ifTrue: [self updateHandles; layoutChanged].
 	self changed.

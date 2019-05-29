@@ -1,3 +1,3 @@
 accessing
 endDock
-	^ endDock
+	^ endDock ifNil: [#bottom]
