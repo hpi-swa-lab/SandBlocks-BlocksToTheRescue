@@ -1,0 +1,15 @@
+{
+	"category" : "Earley",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Observers",
+		"References" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Earley__Overview",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

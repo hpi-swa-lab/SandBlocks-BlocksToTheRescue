@@ -1,10 +1,11 @@
 {
 	"class" : {
-		"from:" : "WoC 4/25/2019 00:38" },
+		"from:" : "WoC 5/27/2019 13:35" },
 	"instance" : {
 		"allSatisfy:" : "WoC 4/29/2019 11:46",
 		"at:" : "WoC 4/24/2019 16:17",
 		"at:ifAbsent:" : "WoC 4/24/2019 20:49",
+		"buildSymbolFor:" : "WoC 5/29/2019 11:09",
 		"do:" : "WoC 4/3/2019 14:12",
 		"name" : "WoC 4/3/2019 17:07",
 		"name:" : "WoC 4/3/2019 17:07",

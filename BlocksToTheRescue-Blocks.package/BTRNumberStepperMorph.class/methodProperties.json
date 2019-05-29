@@ -2,19 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"backgroundColor" : "ee 5/27/2019 11:58",
-		"defaultExtent" : "ee 5/27/2019 11:50",
-		"initialize" : "ee 5/27/2019 11:40",
-		"initializeLayout" : "ee 5/27/2019 11:51",
-		"initializeStepper" : "ee 5/28/2019 09:43",
-		"initializeSubmorphs" : "ee 5/27/2019 11:40",
-		"initializeValueTextField" : "ee 5/28/2019 10:27",
-		"stepper" : "ee 5/27/2019 11:43",
-		"stepper:" : "ee 5/27/2019 16:21",
-		"update:" : "ee 5/27/2019 12:01",
-		"updateValueTextField" : "ee 5/27/2019 11:57",
-		"value:" : "ee 5/27/2019 15:22",
-		"valueExpression" : "ee 5/27/2019 12:01",
-		"valueExpression:" : "ee 5/27/2019 10:39",
-		"valueTextField" : "ee 5/27/2019 10:37",
-		"valueTextField:" : "ee 5/27/2019 11:57" } }
+		"defaultValue" : "ms 4/29/2019 10:51",
+		"initialize" : "ms 4/30/2019 10:36",
+		"inputMorph" : "ms 4/29/2019 15:06",
+		"inputMorph:" : "ms 4/29/2019 15:06",
+		"update:" : "ms 4/30/2019 09:38",
+		"value" : "ms 4/29/2019 15:10",
+		"value:" : "ms 4/29/2019 15:09" } }

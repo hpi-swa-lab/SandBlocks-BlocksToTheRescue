@@ -1,13 +1,13 @@
 initialization
 newColumnIndexMorphWith: columnIndex
 
-	| builder columnIndexMorph |
+	| builder rowIndexMorph |
 	builder := ToolBuilder default.
-	columnIndexMorph := builder build: (builder pluggableButtonSpec new
+	rowIndexMorph := builder build: (builder pluggableButtonSpec new
 		label: columnIndex asString).
-	columnIndexMorph
+	rowIndexMorph
 		hResizing: #spaceFill;
 		vResizing: #spaceFill;
 		height: BTRTableCellMorph defaultCellHeight;
 		width:BTRTableCellMorph defaultCellWidth.
-	^ columnIndexMorph
+	^ rowIndexMorph

@@ -1,4 +1,4 @@
 layout
 nodeOffset
 
-	^ 0@50
+	^ 0@ (self nodeSpace y / 2)

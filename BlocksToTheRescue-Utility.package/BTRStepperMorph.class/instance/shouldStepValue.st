@@ -1,4 +1,6 @@
 testing
 shouldStepValue
 
-	^ self mouseDownStepCount > self mousePressReadyCount
+	^ self mouseDownStepCount
+		ifNotNil: [self mouseDownStepCount > self mousePressReadyCount]
+		ifNil: [true]
