@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"backgroundColor" : "ee 5/27/2019 16:52",
+		"borderColor" : "ee 5/27/2019 16:53",
+		"decrement" : "ee 5/27/2019 16:01",
+		"downButton" : "ee 5/27/2019 15:57",
+		"downButton:" : "ee 5/27/2019 15:58",
+		"increment" : "ee 5/27/2019 16:00",
+		"initialize" : "ee 5/27/2019 16:01",
+		"initializeDownButton" : "ee 5/27/2019 16:00",
+		"initializeLayout" : "ee 5/28/2019 09:39",
+		"initializeSubmorphs" : "ee 5/27/2019 16:02",
+		"initializeUpButton" : "ee 5/27/2019 15:59",
+		"makeButtonForAction:form:withDescription:" : "ee 5/28/2019 10:08",
+		"upButton" : "ee 5/27/2019 15:57",
+		"upButton:" : "ee 5/27/2019 15:58" } }
