@@ -1,0 +1,4 @@
+insertion
+previewInstance
+
+	^ self new
