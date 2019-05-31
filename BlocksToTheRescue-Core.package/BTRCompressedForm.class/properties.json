@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bytes" ],
+	"name" : "BTRCompressedForm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
