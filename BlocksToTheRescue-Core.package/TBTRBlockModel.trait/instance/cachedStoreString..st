@@ -1,2 +1,0 @@
-caching
-cachedStoreString: aString

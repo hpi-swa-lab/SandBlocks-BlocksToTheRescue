@@ -31,7 +31,7 @@ primaryExpression
 	hereType == #block
 		ifTrue: 
 			[parseNode := self encodeBlock.
-			^true].		
+			^true].
 	(here == #- and: [tokenType == #number and: [1 + hereEnd = mark]])
 		ifTrue: 
 			[self advance.

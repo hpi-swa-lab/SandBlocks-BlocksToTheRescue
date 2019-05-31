@@ -1,2 +1,0 @@
-interface-views
-scannedWith: aScanner

@@ -1,4 +1,0 @@
-testing
-isBTRBlockModel
-
-	^ true

@@ -1,4 +1,0 @@
-caching
-cachedStoreString
-
-	^ nil
