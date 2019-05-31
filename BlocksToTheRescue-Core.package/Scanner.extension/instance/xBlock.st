@@ -3,5 +3,5 @@ xBlock
 
 	token := self readBlock.
 	tokenType := #block.
-	token scannedWith: self.
+	token ifNotNil: [token scannedWith: self].
 	self step.
