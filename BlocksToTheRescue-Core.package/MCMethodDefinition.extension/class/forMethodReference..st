@@ -13,7 +13,7 @@ forMethodReference: aMethodReference
 						selector: aMethodReference methodSymbol
 						category: aMethodReference category
 						timeStamp: aMethodReference timeStamp
-						source: aMethodReference sourceCode asBTRBlockString.
+						source: aMethodReference sourceCode asBTRText.
 					self cachedDefinitions at: aMethodReference compiledMethod put: definition].
 	^ definition
 	

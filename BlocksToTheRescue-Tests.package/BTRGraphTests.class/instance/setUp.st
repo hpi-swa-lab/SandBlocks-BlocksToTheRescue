@@ -2,12 +2,63 @@ as yet unclassified
 setUp
 
 	super setUp.
-	self graph: #V2;BTRWrapperBlock;1E2;Wrapper1;BTRGraphModel;1C6;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
- instVarNamed: #originalText put: nil;
- instVarNamed: #viewData put: nil;
- instVarNamed: #nodes put: (self referenceAt: 2);
- instVarNamed: #edges put: (self referenceAt: 3);
- yourself). 
-self referenceDictionary at: 2 put: ((OrderedCollection new)). 
-self referenceDictionary at: 3 put: ((OrderedCollection new)). 
-self referenceDictionary at: 1;;copy.
+	self graph: #V3;<~"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"!!!!$"q!b4@ruF'DIIR2"98E%,mXJN!)En$!!!**
+$UJiTDe!KiFD5Z2"qjL<ASuU(FEp8g@ruF'DIIR2#QOi)!sAT(!!!T7FCB!%GnC3gEcPT6!=8`+
+!!<Q.!!#(b&4g5NBOt^ADes6$@ruF'D?p4B!!<?(!!!!+!!!"2$31&+D#jqC!!!*.!!!!\$31&+
+3sYfd!!<?(!!!!2")DIn&I!>dCis:q!!!!$$31&+3sGp]DKKH&ATA%V!!!$&z#ljr*!t##.!':Ar
+<,uDbF)5u/ASuTWDes?4#QOi)"U"f*!!!T5EbAhn$Y*UTBOt^BAT2a)&J/G\@q]Fa6>:O<@<?U&
+Ec)Hm@;Kmr@0lo6!!<Q.!!#(b&56MXDfp.uEc5o.Ecc#,EsMaG!!EE)!!!!2$#!4JF(or7DJ'Of
+G#DmmBmOK2B+YS`Bld]lCh6:KH#IhI#ljr*!t##.!':As6#q!SH"CMRDes6$@ruF'D?p4B!!*3&
+!!!!*!!!!$$31&+3sGmfH#7#/C^:"@!!*3&!!!!*!!!!$$31&+3sHEd<)Q"kF*)G2@rt%RDe!QW
+De*Eq#QOi)"9\])!!!TC@prk\ARn_]DfTDfFE2)5B+YPjEbT0#DII?\AU&;/#^0onG=5k]@0$Z7
+!!!*.!!!!\"qO%";HImIE,]B/6>URMCBsn?!!i]-!!!!2#%DLnDIdf#"`JU&ATA@hF*1r/DfTf1
+EtJakF_kk\Dfor.EtJRcDes?4&IE#nFCf?2Bl@l$%!Q`#E,]B!6>URMCB4GB!!!!$$31&+3sH*l
+Bl.g*AO:<UA7]ce!!!!%"98E%!"fNH@<6!IDes?4&HuZ_Ci=>+"a=ZkFD(s\!!!*.!!!!\"pRhF
+D.7's#QOi)!<`B&!!!<*!!!*.!!!!\"pRD.FDYH*#QOi)!<`B&!!!$#!<E3%!<E3-!!!!$$31&+
+3sH-\<)Q5,@;omSDe*Eq#QOi)"p=o+!!!?+!!2Wt!!!'($31&-'+kCcDe*F#&Hu`VB4Z,j!!!!$
+$31&+3sH!c@:sIlFEM,*#QOi)!<`B&!!!<*!!!*.!!!!\"q+"?F(KG[DfTB"EX2XF!!EE)!!!!+
+!!!)&$31&-\-`39!l#$A!!!*.!!!!\"q416H#IhI:iC/a@sJ=[!!!$&z!=8`+!!<Q.!!#(b"[R0L
+@<i+Y!!!$&z#ljr*!t##.!':Ag6Z6dZEX2XF!!EE)!!!!+!!!$0$31&,'++^>!?_CD!<E3%#ljr*
+!t##.!':B#;e9rkASu!h@:F%a6Z6dWARfgrDf,g\!!!$&z#ljr*!t##.!':Ak;Is?[@;]^oAI&89
+!!<?(!!!!2#&eNrB5)5q#%MRlDImhh#ljr*!t##.!':Mf!!",I!!!!$"98E%!"&]+!+lQ<!!$jB
+!!!!$$31&+3sH9mEb&a%ARn/HCi!ZmFD5Z2#QOi)"9\])!!!T7@<-BsGnCBqBl\9:8T&'MGS(6u
+@<6N^DId='#ljr*!t##.!':Ag9lG&kBF"S<!!`W,!!!!+!!!'f$31&-9*tY!!`B@*!!6F5!!!(7
+$31&-DuftG!!!!$$31&+3sH0hDfTf17<iocDKBN1D?p4B!"8u1!!!!2#&J3fCLq#g#Bjg&Bjtmi
+&I*;uBk(q(&IW&VCi"$.DH(1lF:f0q@;KauDf/NcG]ZkqCh7*uDfQEuAU&<.Ec,<%:18!N&I`Ap
+:gnBdF$sqaDfQEs@:OCtE`7'gFCc$gE,8s.ATA@kAThX&F@]hXA8Ggt&J&f%BOu3\Ec5o.Ecc#,
+EsVgH!!<Q.!!#(b'MMqUB4XnXF(o`1G%F6_FCf)rEX2XF!!*3&!!!!"!=8`+!!<Q.!!#(b'1,Yr
+7ri$WBM!)XBl7KVDfTf1#QOi)#m:5.!!!?+!!5Lp!!!'n$31&-;@3C(!aQ-5!!6jA!!!(>&Huff
+@;oll#&I^nATDhu!!!!$$31&+3sH'hEc6&<:L\'M@rqtV!!!$&z!<EK,!!!*.!!!!\"q+C=@VfUL
+@<ld6F9hjH!!<?(!!!!2$?1$(E+O'3Bk;>t%W,ot7<iocDKJ6S@q]E[!!!!$$31&+3sH$ZDes6$
+@ruF'D?p4B!!*3&!!!!*!!!!$$31&+3sHF!@:F%a9OW3bF`^H#DfB9.FD5<-#QOi)&Hi(6!!!?+
+!!-F6!!!%7$31&,FV+piASc0SDKBB2&J&A_ChupdF(o`1Df09,B+YM]ASc0]E+*6jDJ'OhCghU-
+F`^2mF(KG*%;]a"F@0VWFCfK,DJ'OjCh[s46tp[Q@ruF'D@m7mBleApE+*6jDJ'OnEb0E*EcYek
+@:F%a6Y1(MEtJq'F^efkE^F2PA4'pECi^0tGB.,26Y1.WATDL&B+YSsEa`oTBl[cpFD5Z2&IWGi
+DF7uOCf>%oAJ#;e@<b.NCi!$aH=[*X#ljr*!t##.!':Ak9Q+ibF`9ubGmFBM!!39'!!!!+!!!#6
+#ljr*!t##.!':Am6>pmTATC^kH#.$t!!!!""98E%!!**$#ljr*!t##.!':Al6@!Za;gE4hDeo[Z
+!!!$&z!<E3%!=8`+!!<Q.!!#(b##fVaBl7Ph!!!!""98E%!!**,!!!!$$31&+3sGmb@VTIaF9hjH
+!!*3&!!!!"#ljr*!t##.!':Ag:iC&cF9hjH!!<?(!!!!2!I,1WGl\KcF*2G5EarooF)to6#ljr*
+!t##.!$DCE!!";N!!!!p#ljr*!t##.!':Mf!!#Os!!!!A!=8`+!!<Q.!!#(f!!!"K$31&1SH0#s
+!!!*.!!!!\$31&+3skrf#IXp=!!!*.!!!!\$31&+eHu9V!mh5R!!!*.!!!!\$31&,d0]jR#XJas
+!!!*.!!!!\$31&,6OEen#XJas!!!*.!!!!\$31&,NX>ad":b_<!!!*.!!!!\$31&,[0cm6#U9WU
+!!!*.!!!!\$31&+nd5?s"5X%b!!!!$$31&+3skrf![nBU!!L^N!=8`+!!<Q.!!#(f!!!)I$31&.
+;$d4&!!<Q.!!#(f!!!(c$31&2g'I`Z!!<Q.!!#(f!!!)e$31&,NWB.]!<E3%!<EK,!!!*.!!!!\
+$31&.TF(Z!#XJas!!!*.!!!!\$31&.;$m:'#XJas!!!*.!!!!\$31&.&IJL<!RV2R!!!*.!!!!\
+$31&.E!cRF!gNcm!!!!$$31&+3skrf"2bHG!!/)d!!!!$$31&+3skrf"5X@b!!kjk!<E3%!=8`+
+!!<Q.!!#(f!!!-3$31&1SI#8r!!<Q.!!#(f!!!-_$31&35lh8l!!!*.!!!!\$31&++:8)K!.P:T
+!!!*.!!!!\$31&/N=#Xc":b_<!!!*.!!!!\$31&/dL#sS#XJIl#ljr*!t##.!':Mf!!Nf=!!!9j
+#ljr*!t##.!':Mf!!TtA!!!#L!<EK,!!!*.!!!!\$31&14V7d6Bl"(U!!!*.!!!!\$31&0k6_1h
+"O[;O#ljr*!t##.!':Mf!!Zg<!!!+o#ljr*!t##.!':Mf!!\u$!!!9j#ljr*!t##.!':Mf!!^+D
+!!!$e!<EK,!!!*.!!!!\$31&2[L*!7"&T@)!!!*.!!!!\$31&2g'Rf[#XJIl!=8`+!!<Q.!!#(f
+!!!9'$31&,[/g:/!<EK,!!!*.!!!!\$31&3,74DN!KI0]#ljr*!t##.!':Mf!!kjt!!!3d!=8`+
+!!<Q.!!#(f!!!:2$31&35lh8l!!!93!!!'K%fcS0!C.>"#QOi)!=8`+!!ru4!!VNr!!!!"5SOP*
+!"5Y0z!=8`+!!EW/!!D'\!!!-$"98E%+:E](!=/W)!<3?*!!!E7!!!03!s/Q*!<E9'!<EK,!!!*.
+!!!!i"98E%!XJc+!!NZ/!!!*.!!!!\"qbojB5V-o6Z6j[ARfgrDf0V&!!!!$$31&++9VZE!!!9)
+!!!0'!<E3%!=8`+!!<Q.!!#(b$Y"$pA7]d[FEq\6#ljr*!=Af,#MK1Z#ljr*"pt>1!tbP7!=8`+
+!!EW/!!J8ez"98E%!<`B&!!!<*!!!-/!!!.]#QOi)$3:/.!<E3%!<E3(!!!!""98E%!!rW*!!<Q.
+!!",Ez#QOi)"T\W)!<E3-!!!!&$31&+ncSpm!!!$#"98E%!!rW*!"927!!Nf6!WrH(!<W?'!=8`+
+!!<Q.!!#Om!!!!%#QOi)$NUP6!!!*.!!!!\$31&7-j]kR!!<Q.!!",Ez#QOi)"T\W)!<EK,!!!*.
+!!!!\"q5<VH#IhI:iC/a@sJ@\!!!*.!!!42!<E3%!<E3-!!!!$$31&+3skrf$ss;@!!!-/!!!+?
+$31&7gBmo\%,1mb!!!0'#ljr*!t##.!':ArCghU-F`^H#DfB9.FD5<-#ljr*&IJL<#/(3JF(fT.
+DJN<o@;lPR!"HLA"98E%!!WX;ASuU$EWuYaDf0+h!!!!#"p]6gE(jhTF9W+pDfAZo6>psfDf#g]
+!"IT`!t##.%HIir!"ITaz"@)qdrsA`+%!V~>copy.

@@ -1,86 +1,77 @@
 as yet unclassified
 exampleBlockAsNode
 	<BTRBlockModel>
-	^ #V2;BTRGraphModel;1267;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
- instVarNamed: #originalText put: nil;
- instVarNamed: #viewData put: nil;
- instVarNamed: #nodes put: (self referenceAt: 2);
- instVarNamed: #edges put: (self referenceAt: 25);
- yourself). 
-self referenceDictionary at: 2 put: ((OrderedCollection new) add: (self referenceAt: 3); add: (self referenceAt: 18); add: (self referenceAt: 21); yourself). 
-self referenceDictionary at: 3 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 4);
- yourself). 
-self referenceDictionary at: 4 put: (BTRMorphModel basicNew instVarNamed: #cachedStoreString put: nil;
- instVarNamed: #originalText put: nil;
- instVarNamed: #viewData put: nil;
- instVarNamed: #value put: (self referenceAt: 5);
- yourself). 
-self referenceDictionary at: 5 put: (CircleMorph basicNew instVarNamed: #bounds put: (self referenceAt: 6);
-instVarNamed: #submorphs put: Array empty;
- instVarNamed: #fullBounds put: nil;
- instVarNamed: #color put: (self referenceAt: 7);
- instVarNamed: #extension put: (self referenceAt: 8);
- instVarNamed: #borderWidth put: 1;
- instVarNamed: #borderColor put: (self referenceAt: 16);
- yourself). 
-self referenceDictionary at: 6 put: (995@404 corner: 1075@484). 
-self referenceDictionary at: 7 put: (Color r: 0.03 g: 1 b: 0.03). 
-self referenceDictionary at: 8 put: (MorphExtension basicNew instVarNamed: #locked put: false;
- instVarNamed: #visible put: true;
- instVarNamed: #sticky put: false;
- instVarNamed: #balloonText put: nil;
- instVarNamed: #balloonTextSelector put: nil;
- instVarNamed: #externalName put: nil;
- instVarNamed: #isPartsDonor put: false;
- instVarNamed: #actorState put: nil;
- instVarNamed: #player put: nil;
- instVarNamed: #eventHandler put: nil;
- instVarNamed: #otherProperties put: (self referenceAt: 9);
- yourself). 
-self referenceDictionary at: 9 put: ((IdentityDictionary new) add: (#layoutFrame -> (self referenceAt: 10)); add: (#originalCenter -> (self referenceAt: 11)); add: (#animations -> (self referenceAt: 12)); add: (#originalAngle -> 0.0); add: (#signalConnections -> (self referenceAt: 13)); add: (#referencePosition -> (self referenceAt: 14)); add: (#borderStyle -> (self referenceAt: 15)); add: (#layoutProperties -> (self referenceAt: 17)); yourself). 
-self referenceDictionary at: 10 put: (LayoutFrame basicNew instVarNamed: #leftFraction put: 0;
- instVarNamed: #leftOffset put: 0;
- instVarNamed: #topFraction put: 0;
- instVarNamed: #topOffset put: 0;
- instVarNamed: #rightFraction put: 1;
- instVarNamed: #rightOffset put: 0;
- instVarNamed: #bottomFraction put: 1;
- instVarNamed: #bottomOffset put: 0;
- yourself). 
-self referenceDictionary at: 11 put: (1035@444). 
-self referenceDictionary at: 12 put: ((OrderedCollection new)). 
-self referenceDictionary at: 13 put: ((Dictionary new)). 
-self referenceDictionary at: 14 put: (1035.0@444.0). 
-self referenceDictionary at: 15 put: (SimpleBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 16);
- instVarNamed: #color put: (self referenceAt: 16);
- instVarNamed: #width put: 1;
- yourself). 
-self referenceDictionary at: 16 put: (Color r: 0.0 g: 0.0 b: 0.0). 
-self referenceDictionary at: 17 put: (LayoutProperties basicNew instVarNamed: #hResizing put: #spaceFill;
- instVarNamed: #vResizing put: #spaceFill;
- instVarNamed: #disableLayout put: false;
- yourself). 
-self referenceDictionary at: 18 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 19);
- yourself). 
-self referenceDictionary at: 19 put: (BTRColorModel basicNew instVarNamed: #cachedStoreString put: nil;
- instVarNamed: #originalText put: nil;
- instVarNamed: #viewData put: nil;
- instVarNamed: #value put: (self referenceAt: 20);
- yourself). 
-self referenceDictionary at: 20 put: (Color r: 1 g: 0.573 b: 0.0). 
-self referenceDictionary at: 21 put: (BTRGraphNode basicNew instVarNamed: #block put: (self referenceAt: 22);
- yourself). 
-self referenceDictionary at: 22 put: (BTRCodeModel basicNew instVarNamed: #dependents put: nil;
- instVarNamed: #contents put: '';
- instVarNamed: #currentCompiledMethod put: nil;
- instVarNamed: #contentsSymbol put: #source;
- instVarNamed: #multiWindowState put: nil;
- instVarNamed: #code put: (self referenceAt: 23);
- instVarNamed: #viewData put: nil;
- yourself). 
-self referenceDictionary at: 23 put: (Text string: 'one copy
-	color: two;
-	yourself' runs: (self referenceAt: 24)). 
-self referenceDictionary at: 24 put: (RunArray runs: #(31) values: #(#())). 
-self referenceDictionary at: 25 put: ((OrderedCollection new) add: ((self referenceAt: 3) -> (self referenceAt: 21)); add: ((self referenceAt: 18) -> (self referenceAt: 21)); yourself). 
-self referenceDictionary at: 1;
+	^ #V3;<~"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"!!!!$"q!b4@ruF'DIIR2"98E%0*hOX!)En$!!!**
+$UJiTDe!KiFD5Z2"qjL<ASuU(FEp8g@ruF'DIIR2#QOi)!sAT(!!!T7FCB!%GnC3gEcPT6#ljr*
+!t##.!':Am6YURNCh6=ZEc>[t!!!!*"98E%!"fEEDfor.EtJRoGA^u4&IEN$@Vp%(E+j;)$>+Es
+CdN&_DIdf#"_2IeDfQErAU&<.DKBN1D@m7cDfTB"E`ZscFD)6o@W-9tATC.VCi=>#!!!!$$31&+
+3sH6e@<6*nA4(9OCh7*uBl@kp!!!!$"98E%!"&]+!+lQ<!!$j:#ljr*!t##.!':Mf!!#(d!!!!$
+"98E%!"f<KAU+jkG%#30AI/>:!!<Q.!!#(b#>&fTAS5Rp#QOi)!<`B&!!!<*!!!*.!!!!\"r0I(
+;F+c5FE1f"F@'e^@r"eWA7]Q_!!!!%"98E%!"ffQ@:Nt^A5dSgEb/0kEbTE(&I`SuBkM-t@;JnS
+G]XN'G%kN36t(1G#ljr*!t##.!':An7;QdSE-#SbDfTf1#QOi)#m:5.!!!?+!!&8k!!!"i$31&+
+U^@)%!3Z_0!!'V<!!!#9$31&+bmFFN!87_Z!!!*.!!!!\"qa.AEaa6)A4(9OCh7*uBl@kp!!!!"
+"98E%!!rW*!!<Q.!!#(b&56MXDfp.uEc5o.Ecc#,EsMaG!!EE)!!!!2$#!4JF(or7DJ'OfG#Dmm
+BmOK2B+YS`Bld]lCh6:KH#IhI#ljr*!t##.!':Ag9lFQRC^:"@!!39'!!!!2$=m^eASu$iDKKq+
+!!!!$$31&+3sGmfH#7#/C^:"@!!*3&!!!!*!!!!$$31&+3sH$ZDe*EMDerrqEX2XF!!WQ+!!!!+
+!!!(U&I;lbDKKH-FE8$/@s)g4ASuTWDf'H-Ch7-OATVU(A.];]Df0Z.DKKquH#7#/C_74qF_l/6
+=(uP_Dg,-%@<?&e!!!!$$31&+3sGsgF`'KcEaa5!!!!!'"98E%!"f?SF`)74#'OEkF_,V+$#F$k
+F@g@\AU"dlCghC,;KZjh$>a-lFAHL\F(KG"!!!!$$31&+3sH-\DfTB"Eb/cUDfTf1#QOi)#m:5.
+!!!?+!!&8k!!!"i$31&+U^@)%!3Z_0!!'V<!!!#9$31&+bmFFN!87_Z!!!*.!!!!\"q4FPEbTE(
+88i<TATA%V!!!*(z$31&-LC+"]!n7MV!!!*.!!!!\"pRhFD.7's#QOi)!<`B&!!!<*!!!*.!!!!\
+"q<mu;GD(ME+hsaA7]Q_!!!!&"98E%!"&]+!JLj\!!/Go!!!%s&I!>dCis:q!!!!$$31&+3sH*l
+Bl.g*AO:<UA7]ce!!!!%"98E%!"fNH@<6!IDes?4&HuZ_Ci=>+"a=ZkFD(s\!!!*.!!!!\"pRD.
+FDYH*#QOi)!<`B&!!!$##ljr*!t##.!':An;f,rZCdr5Z@<=Ca#QOi)!<`B&!!!<*!!!*.!!!!\
+"q<mu;F>A=DfSQjA7]Q_!!!!&"98E%!"&]+!JLj\!!/Go!!!%s$31&/-ij>L#ljr*!t##.!':Ao
+6<$iQEa`p#9lFQRC^:"@!!WQ+!!!!+!!!%R$31&,QjNfn!N$G4DJs&sEtJReA7oIp#ljr*!t##.
+!':Ak9jq[PBlnK.AI&89!!*3&!!!!"!=8`+!!<Q.!!#(b"B8rWF9hjH!!<?(!!!!2#'4m,Bl7Pq
+"EJX&EsVgH!!<Q.!!#(b"[R0L@<i+Y!!!$&z#ljr*!t##.!':Ag6Z6dZEX2XF!!EE)!!!!2"*/$`
+&IW)W@q]Fa6tL=ZBFtec@:Nt^A3t!P:gnHfATDYh!<E3%!=8`+!!<Q.!!#(b(/ndaF_,H#ART%a
+AOCBPCh7*uBl@kp!!!!""98E%!!rW*!!<Q.!!#(b$pmok7ri$WBMNJVAI&89!!39'!!!!2"_):d
+@quAN!!!*.!!!!\"pn1=@ru-sB5D,b!!!!$"98E%!"fEREbT0#D@m(_DfT`,EX;^G!!<Q.!!#(f
+!!!!A#QOi)!sAT(!!!?+!!$U<!!!"9#ljr*!t##.!':As:NBuWEb/cKDes6$@ruF'D?p4B!!EE)
+!!!!2"^uFl@<iFlAnc:,F@g@\AU"dnCghC,8T&'MGR4?M!!<Q.!!#(b"\ioUE+fLW!!!6,z$31&+
+PmRKk!1aGs!!&f%!!!#&$31&+]*\N<!5\a;#ljr*!t##.!':Ap9lG&kBLR/fASuR'Df,g\!!!E1
+z&I*&i@r#Xd&I3JnF(o*"AJ#,fFD56#GnCEn@;KauDf/NcG]XN2@UX(hDf9MmAU&;qASbpfFDl13
+$tX[*ATDZsCeeDUAJ#>bF&6:cFE9igDJsP-$=RFdDfScu@<?&m#&nBeH"D".$tXTnDKJEXDIdQp
+EY/h#FD,6+:i^JnATDm,ATJ.X!!!*.!!!!\"r'a>EbAr[Df]W7Bm+&ZDKKH&ATA%V!!!$&z#ljr*
+!t##.!':Al6@!Za;fm%oDJ'4T!!!$&z!=8`+!!<Q.!!#(b$W(k^FDjraC1Ums#QOi)!<`B&!!!$#
+!<EK,!!!*.!!!!\"q!_9Ci!ZmFD5Z2#QOi)!<`B&!!!$##ljr*!t##.!':Am9OW3bF`^)n@;TQ]
+!!!!*"98E%!>,`VAS-$REa`I"Bl@l$$>a9cFAHL\F(KG*$Zp<+7WMpIFD5Z2&IEPtE)1(XF(KG*
+%<?/qBQQ^a@:OCnDf--pEbT0"FAHL\F(KG*%Us?uFDl"cEa`I"Bl@l$$t=-sFDl"lAnH*qF9qpI
+!!<Q.!!#(b#u#8UCNXShAU+O]!!!''z$31&,0aRg[!!<Q.!!#(b$UScPA7]d[FEq\6#QOi)!<`B&
+!!!$#!=8`+!!<Q.!!#(b$:9#[AQ*kk@W-&g!!!!""98E%!!rW*!!<Q.!!#(b$pmok6Z6LH9lFQR
+C^:"@!!i]-!!!!+!!!(U$31&-e-Z0U!o=7a!!;g#!!!*)&HlT^A7Z>YG%kN36t(1G#ljr*!t##.
+!':Ar6<$iMDf0W<@;^0]De*Eq#QOi)"U"f*!!!?+!!.c\!!!%e$31&,V@!;'"=O9O!=8`+!!<Q.
+!!#(b##fVaBl7Ph!!!!""98E%!!**,!!!!$$31&+3sGmb@VTIaF9hjH!!*3&!!!!*!!!!$$31&+
+3sGjXCi<a(#QOi)!<`B&!!!<*!!!*.!!!!\"pIhABl8"u!!!!$"98E%!"f6V&HR.X&I``'E+O'"
+CghC+ATJ.X!!!*.!!!!A"98E%0*hOX!)En$!!!*.!!!!\$31&+8.#=s!$DRJ!!!*.!!!!\$31&+
+IL6&T!P/R;!!!*.!!!!\$31&+nHo6r#TNjO!!!!$$31&+3skrf!':Mf!!paS!!!!$$31&+3skrf
+!CmIs!!D9g!!!!$$31&+3skrf!FuN;!"%<b!!!!$$31&+3skrf!P/U<!!@'E!!!!$$31&+3skrf
+!X&i1!!Us\!!!!$$31&+3skrf!d4nN!"%<b!!!!$$31&+3skrf!\4TX!"%<b!!!!$$31&+3skrf
+!hBYu!"$7D!!!!$$31&+3skrf!kAX<!!B_;!!!!$$31&+3skrf"!J!O!!390!!!!$$31&+3skrf
+")SAF!!^=I!!!!$$31&+3skrf"69dh!!Ot]!!!!$$31&+3skrf"1S[<!!7<M!!!!$$31&+3skrf
+"98c/!"")\!!!!$$31&+3skrf"??eh!!r$"!!!!$$31&+3skrf"EXtN!!39(!=8`+!!<Q.!!#(f
+!!!.b$31&4oa(Tu!!<Q.!!#(f!!!//$31&4IK9HM#ljr*!t##.!':Mf!!M]s!!!%1#ljr*!t##.
+!':Mf!!Ot^!!!>Y!<EK,!!!*.!!!!\$31&0:C7(%!X&f0!!!*.!!!!\$31&0G7"<M!X&f0!!!*.
+!!!!\$31&0OpV0h$/#=[!<E3%#ljr*!t##.!':Mf!!Us]!!!9E#ljr*!t##.!':Mf!!WN4!!!>Y
+#ljr*!t##.!':Mf!!Xt]!!!>Y#ljr*!t##.!':Mf!!",K!!!#h#ljr*!t##.!':Mf!![lZ!!!2S
+#ljr*!t##.!':Mf!!^=J!!!>Y!<EK,!!!*.!!!!\$31&1rX&W*$/#Ub!!!*.!!!!\$31&2X9nq-
+!CmFr!!!*.!!!!\$31&2ed;BW$+g3E!!!!$$31&+3skrf#PSf4DJ<nf!<E3-!!!!$$31&+3skrf
+#TO0O!"%<Z!=8`+!!<Q.!!#(f!!!9g$31&4fa.WY!!<Q.!!#(f!!!;J$31&0/dVLX!!<Q.!!#(f
+!!!;n$31&4f`;*S#ljr*!t##.!':Mf!!s;G!!!(k#ljr*!t##.!':Mf!!tFg!!!)2#ljr*!t##.
+!':Mf!"")]!!!%1!<E3-!!!!$$31&+3skrf$+gNE!!39(!=8`+!!<Q.!!#(f!!!>Y$31&2pB^g"
+!!<Q.!!#(f!!!>u$31&.j9Yed!!<Q.!!#(f!!!?;$31&4f`;BZ!!!31!!!/i!<E3-!!!!%$31&1
+IL#oR!!<N-!!!'-!!!3*#ljr*"UY50"98H'!=8`+!!ru4!!%HY4u&9h1#r?@z!=8`+!!EW/!!SMg
+!WW'>"98E%+:E](!=/W0rs&i1!!!E7!!!6&!s/Q*!<E9'!<EK,!!!*.!!!!i"98E%#RCD1!"/f6
+!!!!$$31&+3sH(/@<ld6F@L:ZD.O"R!!!<4!!!9g"98E%!!E9%!!!-%!!!!%z"98E%!<`B&!!!-%
+!!!$&z#ljr*!t##.!':AsF(o9)@;J;LDJj#qFD5Z2EsVgH!!<Q.!!",Ez#QOi)"T\W)!<EK,!!!*.
+!!!!\"q>KkBkM-t@;J5IB5D,hzz#ljr*!t##.!':ApDfTQ)Bl7?q6Y1.WATA(W!!!*.!!!?;"98E)
+$NpG0!PAF>!!!!$$31&+3sH:;AS,LoASu!h:iCDhFD5Z2#ljr*!t##.$4m\4O=UA3!!!!/5^U9H
+z!=8`+!!<Q.!!#(b$=RgdD..O#Df0V&!!!!%$31&1IL#oR!"&`-!<E3%!<E3%"98E%!<`B&!!!<*
+!!!*.!!!!\"q+mYEb&a%;fm;$AI/>:!!EW/!!G:g!!!!%$31&0Ootab!!!-%!!",LJ-H#Zrr<$"
+$31&;$NpG0!!*B+!!!*.!!!!\"qYTZH#IhI:i^JnATDm,ATJ.X!!!-/!!!'N"po?i@:Nk<Bl%Sm
+!!!R4!sAT(!!*E,!"]ME!!!!#$31&1!snr-!!N]0!!KY0!<EK,!!!-/!!!1c"@)]1!!E9%!$DZ"
+"p"u/s,m?g!!!!#$31&1!snr-!!io3!!tF^&HDh9#'4^*EarY]#ljr*!t##."]#^PDf0,/@rH=3
+%1-N_Ci=>T+EVgG3t2LADfp)AASbrb!!!!'$31&.+UA&J!!*3&!!")H!!!!"#QOi)!!**$!<`B&
+!!*3&!!!*-!!!!%$31&1IL#oR!"'#4!!!*.!!!!\$31&91("!]&>og7!!!*.!!!!\$31&;Es_mI
+&>oO0!<E3%!<E<'!!!$&!!!!#~>
