@@ -46,13 +46,23 @@ messagePart: level repeat: repeat
 													ifAbort: [ ^ self fail ] ].
 							precedence := 1]
 						ifFalse: [hereType == #block
-								ifTrue:
-									[here ifNil:  [^self expected: 'BlockModel'].
-									start := self startOfNextToken.
-									selector := self advance.
-									args := #().
-									precedence := 1]
-								ifFalse: [^ args notNil]]]].
+									ifTrue: [here ifNil:  [^self expected: 'BlockModel'].
+											here isUnary
+												ifTrue:
+													[start := self startOfNextToken.
+													selector := self advance.
+													args := #().
+													precedence := 1]
+												ifFalse: 
+													[start := self startOfNextToken.
+													selector := self advance.
+													args := OrderedCollection new.
+													[hereType == #blockseperator]
+												 		whileTrue: [self advance.
+																	self primaryExpression ifFalse: [^self expected: 'Argument'].
+																	self messagePart: 3 repeat: true.
+																	args addLast: parseNode]]]
+									ifFalse: [^ args notNil]]]].
 					
 	parseNode := MessageNode new
 				receiver: receiver

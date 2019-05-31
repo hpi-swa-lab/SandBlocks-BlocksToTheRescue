@@ -1,32 +1,4 @@
 as yet unclassified
 exampleB
 	<BTRBlockModel>
-	^ #V3;<~"98E%":+u-!!ElE@r,RpF!,OGEckl6F`M%"!!!!$"q!b4@ruF'DIIR2"98E%(C1!@!%S'V!!!!$
-"q*_<F)PQ&@<?4%D?^>;DKKH&ATA%V!!!$&z#ljr*!t##.!'CGi:L\'M@rqtV!!!$&z#ljr*!t##.
-!'CGt6#q!SH"CMRDes6$@ruF'D?p4B!!*3&!!!!*!!!!$$31&+49cR"AT;j(DI[6d@VfUCDes6$
-@ruF'D?p4B!!*3&!!!!*!!!!$$31&+49bsTEcPT6#QOi)!<`B&!!!<*!!!*.!!!!]"qX=6F(f,q
-6Z6dWARfgrDf,g\!!!*(z&I!8bCi"A/"^uFl@<i.Z!!!*.!!!!]$31&++:%rI!!<?(!!!!+!!!$.
-$31&,'+"X=!!<Q.!!#+c"[d3EDfQ*`!!!-)z&Hd&d@M&uX@:Nt^A41!JFD)6t@prk\ARn,AFAQCf
-FCfK1#ljr*!t##.!'CGi:3CD_ATA%V!!!$&z!=8`+!!<Q.!!#+c#u+i@DJ=38A7Z#H!!!$&z!=8`+
-!!<Q.!!#+c'MMqUB4XnXF(o`1G%F6_FCf)rEX2XF!!*3&!!!!*!!!!$$31&+49c-[Des6$@ruF'
-D?p4B!!*3&!!!!"!<E3%!=8`+!!<Q.!!#+c$W(k^FDjraC1Ums#QOi)!<`B&!!!$#!=8`+!!<Q.
-!!#+c#uY>EFCB'"Ch3kP!!!*(z&I*/oBkM-t&I)``Ec,H/#ljr*!t##.!'CGs6<$iMDf0W<@;^0]
-De*Eq#QOi)"U"f*!!!TC@prk\ARn_]DfTDfFE2)5B+YPjEbT0#DII?\AU&;/#^0onG=5k]@1`Zd
-@;L't#ljr*!t##.!'CGm6@!Za;gE4hDeo[Z!!!$&z#ljr*!t##.!'CGp6<$iMDes?49lFQRC^:"@
-!!NK*!!!!+!!!(P$31&-PmRKk!i$)&!!98/!!!!$$31&+49c-ZH$!UrFE2)5B*\J;!!*3&!!!!*
-!!!!$$31&+49cNe<)Q"kF*)G2@rt%RDe!QWDe*Eq#QOi)"9\])!!!?+!!7`Z!!!(c$31&-UBpo#
-!!<Q.!!#+c##fea@W-&g!!!!""98E%!!rW*!!<Q.!!#+c##fVaBl7Ph!!!!""98E%!!**$#ljr*
-!t##.!'CGh:iC&cF9hjH!!<?(!!!!2!I,1WGl[pH!=8`+!!<Q.!!#+c&6*[YDKBW:@qBP"6Z6dZ
-EX2XF!!NK*!!!!+!!!%%$31&,>m^Q3!GW2M@;Kmr@0$rKF*2G5EarooF)to6#ljr*!t##.!$DCE
-!!!f@!!!!L!=8`+!!<Q.!!#+g!!!!j$31&,L'[h[!!<Q.!!#+g!!!"N$31&+W<iP)!!<Q.!!#+g
-!!!"u$31&,m0Nam!!<Q.!!#+g!!!#g$31&,m0Nam!!<Q.!!#+g!!!"2$31&-'+"X=!!<Q.!!#+g
-!!!#L$31&+JdDDW!!<Q.!!#+g!!!!A$31&+n-K'p!!<Q.!!#+g!!!%S$31&,UBpo#!!<Q.!!#+g
-!!!$i$31&+AcW2<!!!*.!!!!]$31&,UC$u$!+l6<!!!!$$31&+4:2&g!Q,6E!!#Rs!!!!$$31&+
-4:2&g!UU3o!!$U3!<E3%!=8`+!!<Q.!!#+g!!!'6&HcobC]OP;#ljr*!t##.!'CSg!!5(d!!!"2
-#ljr*!t##.!'CSg!!6a>!!!*Y#ljr*!t##.!'CSg!!9kA!!!+>#ljr*!t##.!'CSg!!;!a!!!(4
-#ljr*!t##.!'CSg!!<rC!!!+Z#ljr*!t##.!'CSg!!>(c!!!"2#ljr*!t##.!'CSg!!@-H!!!+Z
-#ljr*!t##.!'CSg!!A,d!!!"N!<E3-!!!!$$31&+4:2&g"0)\.!!$U3!<E3-!!!!$$31&+4:2&g
-"4%;S!!,Rj#ljr*"UY50!o=N66Z6j`FCB'/1-7m<@ruF'DIIR24#&QR0fpd36tp.QBl@ltEd8dF
-AToRP4&g6/DKBW:@qBP"6Z6dZE]Z'84#&fF<,uDbF)5u/ASuTWDes?4+EBLc0d(*i+>>E*2`2^e
-3Zp+/0Hae?E+iZ@+>>E.2_umE!=8`+!!<Q.!!",Ez#QOi)"T\W)!<EK,!!!00!!!,I"@)]9!!**'
-!!!#o~>
+	^ #V2;BTRColorModel;78;Constant2;Dictionary;14;1;((Dictionary new));TranslucentColor;36;1;(TranslucentColor r: 1 g: 0.575 b: 0.0 alpha: 0.973);;

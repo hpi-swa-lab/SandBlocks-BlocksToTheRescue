@@ -35,12 +35,12 @@ self referenceDictionary at: 9 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 10);
  yourself). 
-self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#signalConnections -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
-self referenceDictionary at: 11 put: ((OrderedCollection new)). 
+self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#signalConnections -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#animations -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
+self referenceDictionary at: 11 put: ((Dictionary new)). 
 self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
  instVarNamed: #minExtentCache put: nil;
  yourself). 
-self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 13 put: ((OrderedCollection new)). 
 self referenceDictionary at: 14 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
  instVarNamed: #color put: (self referenceAt: 8);
  instVarNamed: #width put: 5;
@@ -84,12 +84,12 @@ self referenceDictionary at: 20 put: (MorphExtension basicNew instVarNamed: #loc
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 21);
  yourself). 
-self referenceDictionary at: 21 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 22)); add: (#layoutPolicy -> (self referenceAt: 23)); add: (#BTRBlockMoel -> (self referenceAt: 18)); add: (#signalConnections -> (self referenceAt: 24)); add: (#borderStyle -> (self referenceAt: 25)); add: (#layoutProperties -> (self referenceAt: 26)); yourself). 
-self referenceDictionary at: 22 put: ((OrderedCollection new)). 
+self referenceDictionary at: 21 put: ((IdentityDictionary new) add: (#signalConnections -> (self referenceAt: 22)); add: (#layoutPolicy -> (self referenceAt: 23)); add: (#BTRBlockMoel -> (self referenceAt: 18)); add: (#animations -> (self referenceAt: 24)); add: (#borderStyle -> (self referenceAt: 25)); add: (#layoutProperties -> (self referenceAt: 26)); yourself). 
+self referenceDictionary at: 22 put: ((Dictionary new)). 
 self referenceDictionary at: 23 put: (TableLayout basicNew instVarNamed: #properties put: nil;
  instVarNamed: #minExtentCache put: nil;
  yourself). 
-self referenceDictionary at: 24 put: ((Dictionary new)). 
+self referenceDictionary at: 24 put: ((OrderedCollection new)). 
 self referenceDictionary at: 25 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
  instVarNamed: #color put: (self referenceAt: 8);
  instVarNamed: #width put: 5;
@@ -153,12 +153,12 @@ self referenceDictionary at: 9 put: (MorphExtension basicNew instVarNamed: #lock
  instVarNamed: #eventHandler put: nil;
  instVarNamed: #otherProperties put: (self referenceAt: 10);
  yourself). 
-self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#animations -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#signalConnections -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
-self referenceDictionary at: 11 put: ((OrderedCollection new)). 
+self referenceDictionary at: 10 put: ((IdentityDictionary new) add: (#signalConnections -> (self referenceAt: 11)); add: (#layoutPolicy -> (self referenceAt: 12)); add: (#BTRBlockMoel -> (self referenceAt: 6)); add: (#animations -> (self referenceAt: 13)); add: (#borderStyle -> (self referenceAt: 14)); add: (#layoutProperties -> (self referenceAt: 15)); yourself). 
+self referenceDictionary at: 11 put: ((Dictionary new)). 
 self referenceDictionary at: 12 put: (TableLayout basicNew instVarNamed: #properties put: nil;
  instVarNamed: #minExtentCache put: nil;
  yourself). 
-self referenceDictionary at: 13 put: ((Dictionary new)). 
+self referenceDictionary at: 13 put: ((OrderedCollection new)). 
 self referenceDictionary at: 14 put: (InsetBorder basicNew instVarNamed: #baseColor put: (self referenceAt: 8);
  instVarNamed: #color put: (self referenceAt: 8);
  instVarNamed: #width put: 5;

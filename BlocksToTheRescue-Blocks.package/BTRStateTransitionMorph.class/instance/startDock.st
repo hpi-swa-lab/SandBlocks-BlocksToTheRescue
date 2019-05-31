@@ -1,3 +1,3 @@
 accessing
 startDock
-	^ startDock
+	^ startDock ifNil: [#bottom]

@@ -9,4 +9,4 @@ testConversionMultipleMorphsPerCharacter
 			(Text withAll: ' extent: (500 random) @ (500 random)').
 	text := Text fromBTRBlockString: text asBTRBlockString.
 	self assert: 2 equals: text embeddedMorphs size.
-	self assert: {morph1 class . morph2 class} asSet equals: (text embeddedMorphs collect: [:each | each class]).
+	self assert: {morph1 class . morph2 class} asSet equals: (text embeddedMorphs collect: [:each | each submorphs first class]).
