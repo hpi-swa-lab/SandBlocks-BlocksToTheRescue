@@ -1,18 +1,17 @@
 accessing
 initializeParameterFields
 	
-	| parameterFieldWidth parameterFieldHeight parameterFieldSpacing frontSpacing |
+	| parameterFieldWidth parameterFieldHeight parameterFieldSpacing frontSpacing numArgs |
 	
 	self parameterFields: OrderedCollection new.
 	parameterFieldWidth := 50.
 	parameterFieldHeight := 20.
 	parameterFieldSpacing := 20.
 	frontSpacing := 10.
+	numArgs := self internalSymbol numArgs.
 	
-	(self internalSymbol includesSubstring: ':')
-		ifTrue: [
-			(self internalSymbol subStrings: ':')
-			doWithIndex: [:each :index | | parameterField |
+	1 to: numArgs do:
+		[:index | | parameterField |
 					parameterField := TextMorph new
 										extent: parameterFieldWidth @ parameterFieldHeight;
 										position: (frontSpacing + ((index - 1) * (parameterFieldWidth + parameterFieldSpacing))) @ frontSpacing;
@@ -40,9 +39,8 @@ N=#Xc!UU0n!!!*.!!!!]$31&+e-Z0U!UU0n!!!*.!!!!]$31&,#RUP3!YYk?!!!*.!!!!]$31&+
 !!<Q.!!#+g!!!(4$31&.'aXj?!!<Q.!!#+g!!!)7$31&.:^I+%!!<Q.!!#+g!!!)W$31&-AdJG;
 !!<Q.!!#+g!!!*9$31&,#QY53!!!*.!!!!]$31&.:^R1&")J8D!!!*.!!!!]$31&.C^L.B!+l64
 !=8`+!!<Q.!!#+g!!!+Z$31&,#QXr,!<EK,!!!*.!!!!]$31&.YmLI2!+lN;!!!00!!!)W!<EK,
-!!!*.!!!!A"98E%!!iQ)!!NB(!<E3-!!!!%$31&,7g)'Vs8N3%!!",LJ-,fUrr~>.
+!!!*.!!!!A"98E%!!iQ)!!<6&!=8`+!!EW/!!,Rm5QCc`"98E%+:E]%!<rK~>.
 					self parameterFields add: parameterField.
 					self addMorph: parameterField].
 				
-			self extent:
-				(self parameterFields size * (parameterFieldWidth + parameterFieldSpacing)) @ (self extent y)].
+	numArgs > 0 ifTrue: [self extent: (self parameterFields size * (parameterFieldWidth + parameterFieldSpacing)) @ (self extent y)].
