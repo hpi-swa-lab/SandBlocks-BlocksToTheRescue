@@ -15,4 +15,4 @@ storeDataOn: aDataStream
 		stream, don't bother to write the bytes"
 	((aDataStream byteStream class == DummyStream) and: [self class isBits]) ifFalse: [
 		1 to: cntIndexedVars do:
-			[:i | aDataStream nextPut: (self basicAt: i)]].
+			[:i | self storeIndexedVar: i on: aDataStream]].
