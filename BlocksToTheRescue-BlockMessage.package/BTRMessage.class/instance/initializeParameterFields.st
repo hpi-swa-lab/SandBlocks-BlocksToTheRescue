@@ -1,18 +1,17 @@
 accessing
 initializeParameterFields
 	
-	| parameterFieldWidth parameterFieldHeight parameterFieldSpacing frontSpacing |
+	| parameterFieldWidth parameterFieldHeight parameterFieldSpacing frontSpacing numArgs |
 	
 	self parameterFields: OrderedCollection new.
 	parameterFieldWidth := 50.
 	parameterFieldHeight := 20.
 	parameterFieldSpacing := 20.
 	frontSpacing := 10.
+	numArgs := self internalSymbol numArgs.
 	
-	(self internalSymbol includesSubstring: ':')
-		ifTrue: [
-			(self internalSymbol subStrings: ':')
-			doWithIndex: [:each :index | | parameterField |
+	1 to: numArgs do:
+		[:index | | parameterField |
 					parameterField := TextMorph new
 										extent: parameterFieldWidth @ parameterFieldHeight;
 										position: (frontSpacing + ((index - 1) * (parameterFieldWidth + parameterFieldSpacing))) @ frontSpacing;
@@ -44,5 +43,4 @@ N=#Xc!UU0n!!!*.!!!!]$31&+e-Z0U!UU0n!!!*.!!!!]$31&,#RUP3!YYk?!!!*.!!!!]$31&+
 					self parameterFields add: parameterField.
 					self addMorph: parameterField].
 				
-			self extent:
-				(self parameterFields size * (parameterFieldWidth + parameterFieldSpacing)) @ (self extent y)].
+	numArgs > 0 ifTrue: [self extent: (self parameterFields size * (parameterFieldWidth + parameterFieldSpacing)) @ (self extent y)].
