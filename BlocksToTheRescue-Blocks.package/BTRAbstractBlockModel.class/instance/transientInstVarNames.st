@@ -1,4 +1,4 @@
 serialization
 transientInstVarNames
 
-	^ #(cachedStoreString)
+	^ super transientInstVarNames, #(cachedStoreString)
