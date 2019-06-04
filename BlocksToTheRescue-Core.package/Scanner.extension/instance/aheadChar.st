@@ -1,0 +1,4 @@
+*BlocksToTheRescue-Core
+aheadChar
+
+	^ aheadChar
