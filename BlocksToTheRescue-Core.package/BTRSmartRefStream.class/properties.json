@@ -1,15 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Utility",
+	"category" : "BlocksToTheRescue-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"upButton",
-		"downButton" ],
-	"name" : "BTRStepperMorphPlus",
+		 ],
+	"name" : "BTRSmartRefStream",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SmartRefStream",
 	"type" : "normal" }
