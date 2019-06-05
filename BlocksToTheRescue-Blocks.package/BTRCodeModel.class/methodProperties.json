@@ -6,10 +6,12 @@
 		"methodBodyOf:" : "BD 5/8/2019 16:44" },
 	"instance" : {
 		"=" : "BD 4/30/2019 11:17",
+		"availableVariables" : "LB 6/4/2019 16:49",
 		"btrSerializationVersion" : "BD 4/23/2019 15:39",
 		"btrStoreOn:" : "BD 4/23/2019 15:39",
 		"code" : "BD 4/30/2019 10:59",
 		"code:" : "BD 4/23/2019 10:54",
+		"hasAccessToVariable:" : "LB 6/4/2019 16:49",
 		"hash" : "BD 4/23/2019 12:06",
 		"inlineView" : "BD 4/23/2019 12:06",
 		"postCopy" : "LB 5/2/2019 11:32",

@@ -5,5 +5,5 @@ startState: aBTRState
 	aBTRState addTransition: self transition."
 
 	self startStateMorph removeDependent: self.
-	self transition sourceStateName: aBTRState name.
+	aBTRState adoptTransition: self transition.
 	self startStateMorph addDependent: self.

@@ -1,4 +1,6 @@
 accessing
 morphForTransition: aBTRStateTransition
 
-	^ self transitionMorphsDict at: aBTRStateTransition
+	^ self transitionMorphsDict 
+		at: aBTRStateTransition 
+		"ifAbsent: [self registerTransition: aBTRStateTransition]"

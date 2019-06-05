@@ -1,4 +1,4 @@
 accessing
 hash
 
-	^ (self class hash bitXor: self enabled) bitXor: self once
+	^ (self class hash bitXor: self enabled hash) bitXor: self once hash
