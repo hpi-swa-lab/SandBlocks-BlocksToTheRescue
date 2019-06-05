@@ -8,6 +8,6 @@ initialize
 	getTextSelector := #code.
 	setTextSelector := #code:.
 	self extent: extentToUse.
-	self useDefaultStyler.
+	self initializeStyler.
 	self initializeText.
 	self acceptAction: [:newContents | self model changed: #accept].
