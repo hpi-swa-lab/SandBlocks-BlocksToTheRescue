@@ -25,7 +25,6 @@ z&HR+g!I4\H!<E3%&I``'E+O'"CghC+ATJ.X!!!*.!!!!A"98E%'aOd>!%S'V!!!!$$31&+4:2&g
 $31&+4:2&g!YZ.JDJ<nf!<EK,!!!*.!!!!]$31&-NsYje!=/u3!!!*.!!!!]$31&-2[TNb!u2+B
 !!!*.!!!!]$31&-^'Xi?"&K:(!!!*.!!!!]$31&-h?j5_!]LDc!!!*.!!!!]$31&.'aap@!=/]4
 !!!!$$31&+4:2&g"&K=)!!@$D!!!!$$31&+4:2&g")J;E!!$U3!<EK,!!!*.!!!!]$31&.M[BFa
-!=/],!<E3%#ljr*"UY50!o<qY#ljr*!t##.!$DCE!!!!)!!!!&!<E3%!=8`+!!EW/!!-R4!"]&1
-!<E~>.
+!=/],!<E3%#ljr*"UY50!o<qY#ljr*!t##.!$DCE!!!!)!!!!$!<E3-!!!!%$31&,@fucBrW3*$~>.
 	model := BTRConstantModel for: color.
 	self assert: color equals: model value.

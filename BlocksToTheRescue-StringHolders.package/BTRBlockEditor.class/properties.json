@@ -9,6 +9,7 @@
 		"model",
 		"viewPort",
 		"blockMethod",
+		"workingCopy",
 		"hasUnacceptedEdits",
 		"eventHandler",
 		"currentSignature" ],
