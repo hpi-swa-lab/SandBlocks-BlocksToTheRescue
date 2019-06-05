@@ -9,7 +9,7 @@ scannedWith: aScanner
 	newSource := ReadStream on:
 		((oldSource contents copyFrom: 1 to: oldSource position - 1),
 		self selectorWithArgs,
-		oldSource upToEnd).
+		(oldSource contents copyFrom: oldSource position to: oldSource size)).
 	newSource position: oldSource position.
 	
 	"We already overstepped the aheadChar, so we have to set it back. But due to our format, we know that we expect a §"
