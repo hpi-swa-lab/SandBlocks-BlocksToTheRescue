@@ -1,5 +1,8 @@
 {
 	"class" : {
-		"forMethodReference:" : "Elina Emsbach 3/13/2019 11:52" },
+		"forMethodReference:" : "LM 5/26/2019 17:23" },
 	"instance" : {
-		 } }
+		"=" : "LM 5/27/2019 11:48",
+		"initializeWithClassName:classIsMeta:selector:category:timeStamp:source:" : "LM 5/27/2019 11:41",
+		"source" : "BD 5/31/2019 14:30",
+		"sourceText" : "LM 5/27/2019 11:42" } }

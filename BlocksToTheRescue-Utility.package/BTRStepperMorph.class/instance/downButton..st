@@ -1,3 +1,4 @@
 accessing
 downButton: aMorph
-	downButton := aMorph
+
+	downButton := aMorph.

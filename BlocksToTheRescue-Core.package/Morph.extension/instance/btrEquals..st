@@ -1,9 +1,9 @@
 *BlocksToTheRescue-Core
-btrEquals: anotherMorph
-
-	^ ("self bounds = anotherMorph bounds"true"layouts and stuff break everything"
-	and: [self submorphs size = anotherMorph submorphs size]
-	and: [self submorphs with: anotherMorph submorphs do: [:first :second | (first btrEquals: second) ifFalse: [^ false]]. true.]
-	and: [self color = anotherMorph color]
-	and: [self borderWidth = anotherMorph borderWidth])
-	and: [self borderColor = anotherMorph borderColor]
+btrEquals: anObject
+	"layouts and stuff break everything so do not check them"
+	^ (self class = anObject class
+	and: [self submorphs size = anObject submorphs size]
+	and: [self submorphs with: anObject submorphs do: [:first :second | (first btrEquals: second) ifFalse: [^ false]]. true.]
+	and: [self color = anObject color]
+	and: [self borderWidth = anObject borderWidth])
+	and: [self borderColor = anObject borderColor]

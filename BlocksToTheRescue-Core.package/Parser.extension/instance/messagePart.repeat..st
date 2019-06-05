@@ -54,12 +54,14 @@ messagePart: level repeat: repeat
 													args := #().
 													precedence := 1]
 												ifFalse: 
-													[keywordStart := self startOfNextToken + requestorOffset.
-													selector nextPutAll: self advance.
-													words addLast: (keywordStart to: self endOfLastToken + requestorOffset).
-													self primaryExpression ifFalse: [^self expected: 'Argument'].
-													self messagePart: 2 repeat: true.
-													args addLast: parseNode]]
+													[start := self startOfNextToken.
+													selector := self advance.
+													args := OrderedCollection new.
+													[hereType == #blockseperator]
+												 		whileTrue: [self advance.
+																	self primaryExpression ifFalse: [^self expected: 'Argument'].
+																	self messagePart: 3 repeat: true.
+																	args addLast: parseNode]]]
 									ifFalse: [^ args notNil]]]].
 					
 	parseNode := MessageNode new

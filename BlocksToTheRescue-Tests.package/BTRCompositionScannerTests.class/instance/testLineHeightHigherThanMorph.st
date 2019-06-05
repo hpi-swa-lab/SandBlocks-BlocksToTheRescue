@@ -1,6 +1,7 @@
 testing
 testLineHeightHigherThanMorph
 
-	| line |
+	| line inlineViewDecorator |
 	line := self composeLine.
-	self assert: line lineHeight >= (self morph height + self textAttribute verticalPadding).
+	inlineViewDecorator := self morph owner.
+	self assert: line lineHeight >= (inlineViewDecorator height + self textAttribute verticalPadding).

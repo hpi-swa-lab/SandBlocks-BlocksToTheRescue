@@ -1,4 +1,4 @@
 fileIn/fileOut
 serializationVersion
 
-	^ 'V2'
+	^ 'V3'

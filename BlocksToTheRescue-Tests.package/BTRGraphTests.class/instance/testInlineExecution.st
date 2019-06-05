@@ -1,12 +1,9 @@
 as yet unclassified
 testInlineExecution
-
-	| foo bar |
-	foo := 42.
-	bar := 'Cheese'.	
-	self 
-		assert: '84 piles of Old Cheese'
-		equals: #V2;BTRGraphModel;B64;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
+	| t1 t2 |
+	t1 := 42.
+	t2 := 'Cheese'.
+	self assert: '84 piles of Old Cheese' equals: #V2;BTRGraphModel;B64;Smart;self referenceDictionary at: 1 put: (BTRGraphModel basicNew instVarNamed: #cachedStoreString put: nil;
  instVarNamed: #originalText put: (self referenceAt: 2);
  instVarNamed: #viewData put: nil;
  instVarNamed: #nodes put: (self referenceAt: 4);
@@ -56,5 +53,4 @@ self referenceDictionary at: 12 put: (BTRCodeModel basicNew instVarNamed: #depen
  instVarNamed: #viewData put: nil;
  yourself). 
 self referenceDictionary at: 13 put: ((OrderedCollection new) add: ((self referenceAt: 11) -> (self referenceAt: 5)); add: ((self referenceAt: 5) -> (self referenceAt: 9)); add: ((self referenceAt: 11) -> (self referenceAt: 7)); add: ((self referenceAt: 7) -> (self referenceAt: 9)); yourself). 
-self referenceDictionary at: 1;first.
-	
+self referenceDictionary at: 1; first

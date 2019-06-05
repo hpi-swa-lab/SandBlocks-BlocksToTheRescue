@@ -1,1 +1,1 @@
-(PackageInfo named: 'BlocksToTheRescue-Core') postscript: 'Normie addInstVarNamed: ''hiTom'''!
+(PackageInfo named: 'BlocksToTheRescue-Core') postscript: 'Scanner initialize'!

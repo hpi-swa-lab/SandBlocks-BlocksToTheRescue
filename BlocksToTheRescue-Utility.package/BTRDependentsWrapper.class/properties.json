@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LM 6/3/2019 14:03",
+	"instvars" : [
+		"theObject",
+		"storedDependents" ],
+	"name" : "BTRDependentsWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

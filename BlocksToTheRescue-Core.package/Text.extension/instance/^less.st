@@ -1,4 +1,4 @@
 *BlocksToTheRescue-Core
 < anObject
 
-	^ self asString < anObject
+	^ self asString < anObject asString

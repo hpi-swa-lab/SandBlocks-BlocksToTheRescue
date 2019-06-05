@@ -12,10 +12,11 @@
 		"scanFrom:version:" : "LM 3/18/2019 10:01",
 		"scanFromV1:" : "LM 3/22/2019 13:48",
 		"scanFromV2:" : "LB 4/24/2019 15:59",
+		"scanFromV3:" : "LM 5/28/2019 14:22",
 		"versionedScanFrom:" : "LM 3/15/2019 14:21" },
 	"instance" : {
 		"=" : "BD 5/2/2019 10:02",
-		"anchoredMorph" : "LM 4/10/2019 10:54",
+		"anchoredMorph" : "LM 5/31/2019 14:20",
 		"blockModel" : "LM 3/22/2019 13:48",
 		"blockModel:" : "LM 4/30/2019 09:32",
 		"btrEquals:" : "BD 5/6/2019 14:16",
@@ -24,10 +25,12 @@
 		"hash" : "BD 3/29/2019 13:45",
 		"mayActOnClick" : "ms 4/1/2019 11:56",
 		"mayBeExtended" : "Elina Emsbach 3/6/2019 15:42",
+		"missingInlineViewExtent" : "ee 5/29/2019 13:49",
 		"postCopy" : "LM 4/10/2019 14:22",
-		"serializationVersion" : "LM 3/18/2019 10:26",
+		"safeCreateViewForModel:" : "LM 5/31/2019 14:19",
+		"serializationVersion" : "LM 5/27/2019 13:08",
 		"shoutShouldPreserve" : "Elina Emsbach 3/6/2019 15:45",
 		"storeOn:" : "BD 4/30/2019 10:08",
-		"viewForModel:" : "ee 5/22/2019 14:03",
+		"viewForModel:" : "ee 5/29/2019 13:48",
 		"wantsCopyOnInsert" : "Elina Emsbach 3/6/2019 15:47",
-		"writeScanOn:" : "LM 3/22/2019 15:30" } }
+		"writeScanOn:" : "LM 5/28/2019 14:17" } }

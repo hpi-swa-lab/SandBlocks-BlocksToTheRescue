@@ -4,4 +4,11 @@
 	"instance" : {
 		"=" : "BD 5/23/2019 11:49",
 		"hash" : "BD 5/23/2019 11:49",
-		"inlineView" : "LM 3/26/2019 10:58" } }
+		"inlineView" : "LM 3/26/2019 10:58",
+		"instVarNamed:put:" : "ee 5/29/2019 13:18",
+		"oldInstVarNameMapping" : "ee 5/29/2019 13:18",
+		"oldInstVarNames" : "ee 5/29/2019 13:19",
+		"viewData" : "ee 5/29/2019 13:17",
+		"viewData:" : "ee 5/29/2019 13:18",
+		"viewDataAt:" : "ee 5/29/2019 13:18",
+		"viewDataAt:put:" : "ee 5/29/2019 13:18" } }

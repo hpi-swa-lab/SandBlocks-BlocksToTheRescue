@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRSmartRefStream",
+	"pools" : [
+		 ],
+	"super" : "SmartRefStream",
+	"type" : "normal" }

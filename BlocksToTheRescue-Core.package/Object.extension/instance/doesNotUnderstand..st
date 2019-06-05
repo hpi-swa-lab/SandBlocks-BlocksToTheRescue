@@ -11,7 +11,7 @@ doesNotUnderstand: aMessage
 	
 	aMessage selector isBTRBlockModel ifTrue: [
 		aMessage selector aboutToBeCalled.
-		^ aMessage selector calledWith: (self perform: aMessage selector internalSymbol)].
+		^ aMessage selector calledWith: (self receiveBlocketMessage: aMessage)].
 	
 	(exception := MessageNotUnderstood new)
 		message: aMessage;
