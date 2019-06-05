@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Utility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"acceptAction" ],
+	"name" : "AcceptingStringMorph",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }
