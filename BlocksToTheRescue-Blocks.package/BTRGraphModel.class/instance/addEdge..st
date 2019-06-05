@@ -1,4 +1,5 @@
 accessing
 addEdge: anEdge
 
-	[^ self edges addLast: anEdge] ensure: [self changed]
+	[anEdge addDependent: self.
+	^ self edges addLast: anEdge] ensure: [self changed]

@@ -6,11 +6,11 @@
 		"methodBodyOf:" : "BD 5/8/2019 16:44" },
 	"instance" : {
 		"=" : "BD 4/30/2019 11:17",
-		"availableVariables" : "LB 6/4/2019 16:49",
+		"availableVariables" : "LB 6/5/2019 11:04",
 		"btrSerializationVersion" : "BD 4/23/2019 15:39",
 		"btrStoreOn:" : "BD 4/23/2019 15:39",
 		"code" : "BD 4/30/2019 10:59",
-		"code:" : "BD 4/23/2019 10:54",
+		"code:" : "LB 6/5/2019 13:51",
 		"hasAccessToVariable:" : "LB 6/4/2019 16:49",
 		"hash" : "BD 4/23/2019 12:06",
 		"inlineView" : "BD 4/23/2019 12:06",
@@ -19,5 +19,4 @@
 		"value" : "LB 5/14/2019 16:04",
 		"valueInContext:" : "LB 5/10/2019 15:12",
 		"viewData" : "BD 4/30/2019 10:07",
-		"viewData:" : "BD 4/30/2019 09:58",
-		"viewDataAt:put:" : "LB 4/30/2019 13:48" } }
+		"viewData:" : "BD 4/30/2019 09:58" } }

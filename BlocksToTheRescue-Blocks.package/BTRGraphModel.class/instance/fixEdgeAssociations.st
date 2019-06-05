@@ -8,4 +8,5 @@ fixEdgeAssociations
 					(BTRGraphEdge
 						key: eachEdge key 
 						value: eachEdge value
-						valueName: index threeDigitName)]]]
+						valueName: index threeDigitName)]]].
+	self nodes do: [:each | self updateNodeBlock: each].
