@@ -1,4 +1,6 @@
 accessing
 availableVariables
 
-	^ {'one'}
+	^ self viewData
+		at: #availableVariables
+		ifAbsent: [{}]

@@ -1,0 +1,15 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"edge",
+		"label" ],
+	"name" : "BTRGraphEdgeMorph",
+	"pools" : [
+		 ],
+	"super" : "PolygonMorph",
+	"type" : "normal" }

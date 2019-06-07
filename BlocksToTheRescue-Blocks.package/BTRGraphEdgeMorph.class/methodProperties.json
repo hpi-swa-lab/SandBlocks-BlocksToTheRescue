@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"for:" : "LB 6/5/2019 11:48" },
+	"instance" : {
+		"createLabel" : "LB 6/5/2019 14:23",
+		"edge" : "LB 6/5/2019 11:49",
+		"edge:" : "LB 6/5/2019 11:49",
+		"handlesMouseDown:" : "LB 6/5/2019 13:57",
+		"initializeWith:" : "LB 6/5/2019 13:58",
+		"label" : "LB 6/5/2019 11:52",
+		"label:" : "LB 6/5/2019 11:52",
+		"mouseDown:" : "LB 6/5/2019 13:57",
+		"update:" : "LB 6/5/2019 14:18",
+		"updateLabel" : "LB 6/5/2019 11:53" } }

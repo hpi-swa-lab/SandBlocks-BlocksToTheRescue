@@ -1,4 +1,4 @@
 as yet unclassified
 -> aBTRGraphNode
 
-	^ BTRGraphEdge basicNew key: self value: aBTRGraphNode
+	^ BTRGraphEdge key: self value: aBTRGraphNode valueName: nil
