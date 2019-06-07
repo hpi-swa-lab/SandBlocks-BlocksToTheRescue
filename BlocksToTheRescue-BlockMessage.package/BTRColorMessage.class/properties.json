@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-BlockMessage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BTRColorMessage",
+	"pools" : [
+		 ],
+	"super" : "BTRMessage",
+	"type" : "normal" }

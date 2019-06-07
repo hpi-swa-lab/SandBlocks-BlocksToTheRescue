@@ -7,12 +7,9 @@ scannedWith: aScanner
 	oldSource := aScanner source.
 	
 	newSource := ReadStream on:
-		((oldSource contents copyFrom: 1 to: oldSource position - 1),
+		((oldSource contents copyFrom: 1 to: oldSource position),
 		self selectorWithArgs,
-		(oldSource contents copyFrom: oldSource position to: oldSource size)).
+		(oldSource contents copyFrom: oldSource position + 1 to: oldSource size)).
 	newSource position: oldSource position.
-	
-	"We already overstepped the aheadChar, so we have to set it back. But due to our format, we know that we expect a §"
-	aScanner aheadChar: BTRMessage blockSeperatorCharacter.
-	
+		
 	aScanner source: newSource.
