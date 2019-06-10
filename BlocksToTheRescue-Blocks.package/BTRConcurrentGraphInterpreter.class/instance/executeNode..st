@@ -1,4 +1,4 @@
-as yet unclassified
+execution
 executeNode: aNode
 
 	(self graph incoming: aNode) do: [:each | self runningNodes remove: each key ifAbsent: []].

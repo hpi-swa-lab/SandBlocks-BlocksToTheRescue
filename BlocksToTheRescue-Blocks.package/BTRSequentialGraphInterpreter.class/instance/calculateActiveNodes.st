@@ -2,4 +2,4 @@ execution
 calculateActiveNodes
 
 	self activeNodes: (self remainingNodes select: 
-		[:each | self activeEdges keys includesAllOf: (self graph incoming: each)]).
+		[:each | (self graph incoming: each) allSatisfy: [:eachEdge | self isActive: eachEdge]]).
