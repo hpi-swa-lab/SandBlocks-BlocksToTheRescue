@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = anObject	
 	
-	^ anObject class = self class and: [anObject block = self block]
+	^ super = anObject and: [anObject block = self block]
