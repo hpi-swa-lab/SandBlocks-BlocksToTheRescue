@@ -1,5 +1,5 @@
 execution
 pollArguments: aNode
 
-	^ (self graph incoming: aNode) collect: 
-		[:edge | edge valueName -> (self activeEdges removeKey: edge)]
+	^ (self graph incoming: aNode) withIndexCollect:  
+		[:edge :index | (edge valueName ifNil: [index threeDigitName]) -> (self pollEdge: edge)]

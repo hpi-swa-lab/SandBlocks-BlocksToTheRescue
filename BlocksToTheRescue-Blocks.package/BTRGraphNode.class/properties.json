@@ -10,5 +10,5 @@
 	"name" : "BTRGraphNode",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BTRAbstractGraphNode",
 	"type" : "normal" }

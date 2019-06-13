@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"->" : "LB 6/10/2019 16:46",
+		"=" : "LB 6/10/2019 16:46",
+		"activateEdgeAt:with:" : "LB 6/10/2019 16:47",
+		"addEdge" : "LB 6/10/2019 16:47",
+		"availableVariables:" : "LB 6/10/2019 16:48",
+		"createView" : "LB 6/10/2019 16:48",
+		"delete" : "LB 6/10/2019 16:48",
+		"hash" : "LB 6/10/2019 16:48",
+		"update:" : "LB 6/10/2019 16:49",
+		"valuesWith:in:" : "LB 6/10/2019 16:49" } }

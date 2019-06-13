@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 code: aString
 
 	self block: (BTRCodeModel for: aString).
