@@ -8,9 +8,9 @@ scannedWith: aScanner
 	oldSource := aScanner source.
 	
 	newSource := ReadStream on:
-		((oldSource contents copyFrom: 1 to: oldSource position),
+		((oldSource collection copyFrom: 1 to: oldSource position),
 		self selectorWithArgs,
-		(oldSource contents copyFrom: oldSource position + 1 to: oldSource size)).
+		(oldSource collection copyFrom: oldSource position + 1 to: oldSource size)).
 	newSource position: oldSource position + 1.
 	
 	"We already overstepped the aheadChar, so we have to set it back. But due to our format, we know that we expect a §"
