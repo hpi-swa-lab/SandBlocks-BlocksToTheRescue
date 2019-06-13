@@ -57,10 +57,10 @@ messagePart: level repeat: repeat
 													[start := self startOfNextToken.
 													selector := self advance.
 													args := OrderedCollection new.
+													precedence := 1.
 													[hereType == #blockseperator]
 												 		whileTrue: [self advance.
 																	self primaryExpression ifFalse: [^self expected: 'Argument'].
-																	self messagePart: 3 repeat: true.
 																	args addLast: parseNode]]]
 									ifFalse: [^ args notNil]]]].
 					
