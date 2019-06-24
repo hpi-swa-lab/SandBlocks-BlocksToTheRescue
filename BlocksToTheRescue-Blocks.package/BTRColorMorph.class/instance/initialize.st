@@ -7,6 +7,7 @@ initialize
 	self extent: colorStringMorph extent.
 	self borderWidth: 1.
 	self borderColor: Color black.
+	self color: self blockModel value.
 	self addMorphCentered: colorStringMorph.
 	self updateText.
 	
