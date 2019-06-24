@@ -1,8 +1,8 @@
 fileIn/fileOut
-writeScanOn: aStream
+writeScanOn: aWriteStream
 
 	| writeStream smartStream |
-	aStream
+	aWriteStream
 		nextPut: self class scanCharacter;
 		nextPut: $#;
 		nextPutAll: self serializationVersion;
@@ -15,4 +15,4 @@ writeScanOn: aStream
 		nextPutObjOnly: self blockModel;
 		close.
 	
-	aStream nextPutAll: writeStream contents asByteArray ascii85Encoded.
+	aWriteStream nextPutAll: writeStream contents asByteArray ascii85Encoded.
