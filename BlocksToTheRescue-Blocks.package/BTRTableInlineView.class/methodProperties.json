@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"accept" : "ee 4/17/2019 16:28",
+		"addNestedYellowButtonItemsTo:event:" : "ee 6/24/2019 15:26",
 		"adjustmentRow" : "ee 4/17/2019 16:11",
 		"adjustmentRow:" : "ee 4/17/2019 16:11",
 		"adjustmentRowFrame" : "ee 4/17/2019 16:30",
@@ -27,10 +28,12 @@
 		"initialize" : "ee 4/17/2019 15:35",
 		"initializeAdjustmentRow" : "ee 4/17/2019 16:14",
 		"initializeCollapseButton" : "ee 4/17/2019 15:40",
+		"initializeColumnSubmenuIn:event:" : "ee 6/24/2019 15:26",
 		"initializeColumnTextField" : "ee 4/19/2019 09:13",
 		"initializeExpandButton" : "ee 4/17/2019 15:41",
 		"initializeExpandMorphs" : "ee 4/17/2019 16:16",
 		"initializeLayout" : "ee 4/17/2019 16:01",
+		"initializeRowSubmenuIn:event:" : "ee 6/24/2019 15:26",
 		"initializeRowTextField" : "ee 4/17/2019 16:25",
 		"initializeSubmorphs" : "ee 4/17/2019 15:37",
 		"initializeTableMorph" : "ms 4/30/2019 10:02",
@@ -46,4 +49,5 @@
 		"tableMorphFrame" : "ee 4/17/2019 15:47",
 		"tableMorphPlus" : "ee 4/17/2019 15:54",
 		"tableMorphPlus:" : "ee 4/17/2019 15:55",
-		"tableMorphPlusFrame" : "ee 4/17/2019 16:17" } }
+		"tableMorphPlusFrame" : "ee 4/17/2019 16:17",
+		"wantsYellowButtonMenu" : "ee 6/24/2019 14:56" } }
