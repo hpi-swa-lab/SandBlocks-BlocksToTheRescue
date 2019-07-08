@@ -1,4 +1,0 @@
-accessing
-tableMorph
-
-	^ tableMorph

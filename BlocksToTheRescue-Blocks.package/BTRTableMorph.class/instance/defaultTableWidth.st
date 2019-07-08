@@ -1,4 +1,4 @@
 layout
 defaultTableWidth
 
-	^ self tableModel columnCount * BTRTableCellMorph defaultCellWidth
+	^ self columnCount * BTRTableCellMorph defaultCellWidth

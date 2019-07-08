@@ -1,4 +1,4 @@
 accessing - model
 tableModel: aBTRTableModel
 
-	tableModel := aBTRTableModel.
+	self blockModel: aBTRTableModel.

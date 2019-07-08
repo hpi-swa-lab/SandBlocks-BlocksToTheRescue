@@ -2,5 +2,5 @@ initialization
 initializeTable
 
 	self
-		initializeLayout;
-		initializeRowMorphs.
+		initializeRowMorphs;
+		initializeLayout.

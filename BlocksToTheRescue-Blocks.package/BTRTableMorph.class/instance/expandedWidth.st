@@ -1,0 +1,4 @@
+layout
+expandedWidth
+
+	^  self defaultTableWidth

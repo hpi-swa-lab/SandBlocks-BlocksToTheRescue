@@ -2,7 +2,7 @@ initialization
 initializeLayout
 
 	self
-		color: Color veryLightGray;
+		color: Color "veryLightGray" transparent;
 		changeTableLayout;
 		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
