@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Bachelorpodium",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
