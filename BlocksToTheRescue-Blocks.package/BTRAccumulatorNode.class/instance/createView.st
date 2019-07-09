@@ -3,4 +3,4 @@ createView
 
 	^ Morph new
 		layoutPolicy: CenteredLayout new;
-		addMorph: 'Conditional Node' asMorph
+		addMorph: 'Accumulator Node' asMorph

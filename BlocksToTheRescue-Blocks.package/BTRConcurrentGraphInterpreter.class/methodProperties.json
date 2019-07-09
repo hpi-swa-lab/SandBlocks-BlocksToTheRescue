@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"activateEdge:with:" : "LB 5/15/2019 15:11",
-		"activateNode:with:" : "LB 5/15/2019 15:54",
-		"execute" : "LB 4/10/2019 14:11",
-		"executeNode:" : "LB 5/15/2019 15:54",
+		"activateNode:with:" : "LB 7/5/2019 15:36",
+		"armNode:" : "LB 7/5/2019 15:34",
+		"execute" : "LB 7/5/2019 14:27",
+		"executeNode:" : "LB 7/5/2019 15:35",
 		"initializeExecution" : "LB 5/15/2019 15:06",
 		"runningNodes" : "LB 5/15/2019 15:03",
 		"runningNodes:" : "LB 5/15/2019 15:03",
@@ -15,4 +16,4 @@
 		"terminator" : "LB 5/15/2019 15:05",
 		"terminator:" : "LB 5/15/2019 15:05",
 		"waitForAll:" : "LB 4/10/2019 14:05",
-		"waitForTermination" : "LB 5/15/2019 15:06" } }
+		"waitForTermination" : "LB 7/5/2019 15:37" } }

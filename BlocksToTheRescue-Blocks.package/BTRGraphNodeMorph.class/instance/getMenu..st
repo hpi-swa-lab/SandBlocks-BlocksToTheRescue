@@ -3,4 +3,5 @@ getMenu: shiftKeyState
 
 	^ MenuMorph fromArray: 
 		{{'add edge'. #addEdge}.
-		{'delete'. #delete}}
+		{'delete'. #delete}.
+		{'inspect node'. #inspectNode}}

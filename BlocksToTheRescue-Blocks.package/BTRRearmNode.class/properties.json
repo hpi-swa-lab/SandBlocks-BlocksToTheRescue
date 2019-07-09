@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block",
-		"autoreturn" ],
-	"name" : "BTRGraphNode",
+		"node" ],
+	"name" : "BTRRearmNode",
 	"pools" : [
 		 ],
-	"super" : "BTRAbstractGraphNode",
+	"super" : "Exception",
 	"type" : "normal" }

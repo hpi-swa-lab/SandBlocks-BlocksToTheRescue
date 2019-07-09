@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block",
-		"autoreturn" ],
-	"name" : "BTRGraphNode",
+		"accumulators" ],
+	"name" : "BTRAccumulatorNode",
 	"pools" : [
 		 ],
 	"super" : "BTRAbstractGraphNode",
