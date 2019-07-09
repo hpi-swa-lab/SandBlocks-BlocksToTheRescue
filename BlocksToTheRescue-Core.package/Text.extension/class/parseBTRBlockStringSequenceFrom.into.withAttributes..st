@@ -11,5 +11,5 @@ parseBTRBlockStringSequenceFrom: aReadStream into: aWriteStream withAttributes: 
 			string :=  aReadStream upTo: Character startOfText.
 			attributes := [TextAttribute readAttributesFrom: string]
 				on: Error
-				do: [{}"Invalid store string results in empty text attributes. Start of Heading is still added, but blockattribute will be missing"].
+				do: [{}"When an error is encountered while reading the TextAttributes the SOH is still added but attributes will be empty."].
 			aRunArray addLast: attributes]

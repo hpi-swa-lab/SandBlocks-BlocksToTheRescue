@@ -1,4 +1,4 @@
 views
 inlineView
 
-	^ BTRTableInlineView for: self
+	^ self perform: self inlineViewType

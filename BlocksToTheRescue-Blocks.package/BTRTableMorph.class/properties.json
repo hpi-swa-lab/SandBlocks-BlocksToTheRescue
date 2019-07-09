@@ -6,10 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"tableModel",
-		"rowMorphs" ],
+		"rowMorphs",
+		"adjustmentRow",
+		"rowTextField",
+		"columnTextField" ],
 	"name" : "BTRTableMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "BTRBlockMorph",
 	"type" : "normal" }
