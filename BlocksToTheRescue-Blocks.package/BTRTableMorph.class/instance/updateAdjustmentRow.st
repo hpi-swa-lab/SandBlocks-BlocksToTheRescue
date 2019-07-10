@@ -1,5 +1,6 @@
 updating
 updateAdjustmentRow
 
-	self adjustmentRow abandon.
-	self addAdjustmentRow.
+	self 
+		removeAdjustmentRow;
+		addAdjustmentRow.
