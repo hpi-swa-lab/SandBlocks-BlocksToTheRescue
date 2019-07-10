@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accumulators" ],
+	"name" : "BTRAccumulatorNode",
+	"pools" : [
+		 ],
+	"super" : "BTRAbstractGraphNode",
+	"type" : "normal" }

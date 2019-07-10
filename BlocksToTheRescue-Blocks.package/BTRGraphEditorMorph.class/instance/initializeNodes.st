@@ -9,6 +9,7 @@ initializeNodes
 
 	self removeAllMorphsIn: (removed collect: [:each |
 		self removeDependent: (self nodeViews removeKey: each)]).
-	added do: [:each | self nodeViews at: each put: each createView].
+	added do: [:each | self nodeViews at: each put: each createView.].
 	self addAllMorphs: (added
 		collect: [:each | self addDependent: (self nodeViews at: each)]).
+	self graph nodes do: [:each | self graph updateNodeBlock: each].

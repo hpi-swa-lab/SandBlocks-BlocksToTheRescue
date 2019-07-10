@@ -1,8 +1,6 @@
 execution
 execute
 
-	self graph nodes do: [:each |
-		[self waitForAll: (self graph incoming: each).
-		self executeNode: each.] fork].
+	self graph nodes do: [:each | self armNode: each].
 	self waitForTermination.
 		

@@ -4,11 +4,13 @@
 		"for:" : "BD 4/29/2019 11:30" },
 	"instance" : {
 		"=" : "LB 6/10/2019 16:46",
-		"availableVariables:" : "LB 6/5/2019 11:31",
+		"autoreturn" : "LB 7/5/2019 14:43",
+		"autoreturn:" : "LB 7/5/2019 14:43",
+		"availableVariables:" : "LB 7/5/2019 14:53",
 		"block" : "BD 4/23/2019 10:58",
 		"block:" : "LB 4/24/2019 15:43",
 		"code:" : "LB 4/24/2019 15:38",
 		"createView" : "LB 5/15/2019 16:30",
 		"hash" : "BD 4/23/2019 11:02",
 		"printOn:" : "LB 5/14/2019 17:07",
-		"valuesWith:in:" : "LB 6/5/2019 14:43" } }
+		"valuesWith:in:" : "LB 7/5/2019 14:53" } }

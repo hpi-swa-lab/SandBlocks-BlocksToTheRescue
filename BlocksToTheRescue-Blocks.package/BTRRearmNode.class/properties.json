@@ -1,0 +1,14 @@
+{
+	"category" : "BlocksToTheRescue-Blocks-Graph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node" ],
+	"name" : "BTRRearmNode",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }
