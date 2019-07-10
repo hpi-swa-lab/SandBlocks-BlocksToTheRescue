@@ -1,14 +1,14 @@
 {
-	"category" : "BlocksToTheRescue-Blocks",
+	"category" : "BlocksToTheRescue-Examples",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "BTRDieModel",
+		"basicImage" ],
+	"name" : "Yoshi",
 	"pools" : [
 		 ],
-	"super" : "BTRMorphModel",
+	"super" : "BTRRescalingImageMorph",
 	"type" : "normal" }
