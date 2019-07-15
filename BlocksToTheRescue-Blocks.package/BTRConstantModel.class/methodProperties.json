@@ -8,6 +8,7 @@
 		"worksForObject:" : "LM 3/22/2019 14:34" },
 	"instance" : {
 		"=" : "LB 5/23/2019 12:03",
+		"btrEquals:" : "LM 7/14/2019 13:53",
 		"btrSerializationVersion" : "LM 4/11/2019 16:36",
 		"btrStoreOn:" : "BD 4/11/2019 15:20",
 		"buildWindowFreeInspector" : "LM 3/26/2019 10:56",
