@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "LM 6/3/2019 14:03",
 	"instvars" : [
-		"theObject",
+		"theSubject",
 		"storedDependents" ],
 	"name" : "BTRDependentsWrapper",
 	"pools" : [

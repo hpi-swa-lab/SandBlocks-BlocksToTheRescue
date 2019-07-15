@@ -1,8 +1,7 @@
 accessing
-comeFullyUpOnReload: aReferenceStream
+comeFullyUpOnReload: aDataStream
 
-	"self halt."
 	self storedDependents do: [:each|
-		self theObject addDependent: each].
+		self theSubject addDependent: each].
 
-	^ self theObject
+	^ self theSubject

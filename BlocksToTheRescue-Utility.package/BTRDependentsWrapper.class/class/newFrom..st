@@ -3,5 +3,5 @@ newFrom: anObject
 	anObject dependents
 		ifEmpty: [^ anObject].
 	^ self new
-		theObject: anObject;
+		theSubject: anObject;
 		yourself
