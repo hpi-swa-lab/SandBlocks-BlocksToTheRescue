@@ -1,4 +1,0 @@
-constants
-rightRotated
-
-	^ self subclassResponsibility

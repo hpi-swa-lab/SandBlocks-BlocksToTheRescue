@@ -1,3 +1,0 @@
-GameMorphCreation
-createGameElementFrom: aLevelElement
-	^self insertIntoGameWorld: aLevelElement asMorph

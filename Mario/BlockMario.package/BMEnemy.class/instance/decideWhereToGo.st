@@ -1,4 +1,0 @@
-ai
-decideWhereToGo
-
-	self subclassResponsibility

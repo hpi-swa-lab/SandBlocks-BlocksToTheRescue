@@ -1,4 +1,0 @@
-testing
-startStepTime
-
-	^ 500

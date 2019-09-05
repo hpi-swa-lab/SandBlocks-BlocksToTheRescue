@@ -1,2 +1,0 @@
-collision
-collideWithEnemy: aBMEnemy info: aBMCollisionEvent

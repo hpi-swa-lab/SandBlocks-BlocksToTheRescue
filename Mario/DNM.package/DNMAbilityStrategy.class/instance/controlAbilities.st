@@ -1,3 +1,0 @@
-accessing
-controlAbilities
-	^self subclassResponsiblity

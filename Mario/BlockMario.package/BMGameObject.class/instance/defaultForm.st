@@ -1,4 +1,0 @@
-defaults
-defaultForm
-
-	self subclassResponsibility

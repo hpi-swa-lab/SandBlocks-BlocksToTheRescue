@@ -1,5 +1,0 @@
-accessing
-supportedLanguages 
-	^textsByLanguage keys
-	
-	

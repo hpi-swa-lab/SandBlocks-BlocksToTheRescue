@@ -1,4 +1,0 @@
-accessing
-maxFodderCount
-
-	^ 1.

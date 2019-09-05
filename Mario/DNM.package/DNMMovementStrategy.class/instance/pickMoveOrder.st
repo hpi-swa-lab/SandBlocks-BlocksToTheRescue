@@ -1,3 +1,0 @@
-accessing
-pickMoveOrder
-	self subclassResponsibility.

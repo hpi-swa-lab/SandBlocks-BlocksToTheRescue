@@ -1,3 +1,0 @@
-accessing
-lowerBoundary
-	^lowerBoundary

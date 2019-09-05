@@ -1,2 +1,0 @@
-collision
-collideWithFireflower: aBMFireflower info: aBMCollisionEvent

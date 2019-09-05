@@ -1,2 +1,0 @@
-collision
-collideWithMushroom: aBMMushroom info: aBMCollisionEvent

@@ -1,2 +1,0 @@
-collision
-collideWithCollectable: aBMGameCollectable info: aBMCollisionEvent

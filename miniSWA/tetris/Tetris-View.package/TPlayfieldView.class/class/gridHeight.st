@@ -1,4 +1,0 @@
-defaults
-gridHeight
-
-	^ 20

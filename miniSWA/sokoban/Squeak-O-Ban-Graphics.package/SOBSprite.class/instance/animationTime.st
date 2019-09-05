@@ -1,4 +1,0 @@
-accessing
-animationTime
-
-	^ 100

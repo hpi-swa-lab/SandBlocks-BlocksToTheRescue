@@ -1,4 +1,0 @@
-collision
-isStaticBody
-
-	^ true

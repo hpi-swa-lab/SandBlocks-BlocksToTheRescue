@@ -1,3 +1,0 @@
-installation
-languageFile
-	^'languages.ston'

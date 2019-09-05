@@ -1,3 +1,0 @@
-private
-soundRequesters
-	^soundsByRequester keys

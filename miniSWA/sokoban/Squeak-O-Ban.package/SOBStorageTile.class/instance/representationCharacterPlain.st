@@ -1,4 +1,0 @@
-string representation
-representationCharacterPlain
-
-	^ $.

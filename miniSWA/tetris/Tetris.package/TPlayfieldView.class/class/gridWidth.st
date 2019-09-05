@@ -1,4 +1,0 @@
-defaults
-gridWidth
-
-	^ 10

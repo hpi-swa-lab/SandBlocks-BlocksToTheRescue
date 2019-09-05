@@ -1,3 +1,0 @@
-accessing
-resetSingleton
-	UniqueInstance := nil.

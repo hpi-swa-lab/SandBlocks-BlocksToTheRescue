@@ -1,4 +1,0 @@
-testing
-isVertical
-
-	^ false

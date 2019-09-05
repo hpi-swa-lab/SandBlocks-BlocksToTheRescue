@@ -1,4 +1,0 @@
-collision
-collidedWithInverseRectangle: aBOInverseRectangleCollider
-
-	^ aBOInverseRectangleCollider rectangleCollided: (aBOInverseRectangleCollider resultWith: self)

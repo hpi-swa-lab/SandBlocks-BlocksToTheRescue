@@ -1,3 +1,0 @@
-accessing
-tetromino
-	^ tetromino

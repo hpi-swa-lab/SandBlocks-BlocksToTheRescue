@@ -1,4 +1,0 @@
-accessing
-allGameObjects
-
-	 ^ self gameObjects

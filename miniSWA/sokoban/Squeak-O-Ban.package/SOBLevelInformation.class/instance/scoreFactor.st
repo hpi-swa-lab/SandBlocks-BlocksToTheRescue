@@ -1,4 +1,0 @@
-accessing
-scoreFactor
-
-	^ 99

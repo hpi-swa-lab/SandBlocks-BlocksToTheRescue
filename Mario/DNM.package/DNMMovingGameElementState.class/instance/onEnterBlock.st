@@ -1,3 +1,0 @@
-accessing
-onEnterBlock
-	^onEnterBlock

@@ -1,3 +1,0 @@
-accessing
-tryToUseAllAbilities
-	effectManager tryToUseAllAbilities.
