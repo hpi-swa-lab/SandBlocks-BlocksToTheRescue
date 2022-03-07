@@ -1,4 +1,4 @@
-# SandBlocks
+# SandBlocks - Blocks to the Rescue
 
 ## Idee
 
@@ -19,3 +19,20 @@ Danach kann man im Image die restlichen Changes auschecken.
 ## Beispiele
 
 Für Beispiele sollte man nach sich nach dem Auscheken die `BlocksToTherescue-Examples` Klassenkategorie ansehen.
+
+## Veröffentlichungen
+
+Dieses Projekt wurde als Technischer Bericht [#132](https://hpi.de/fileadmin/user_upload/hpi/dokumente/publikationen/technische_berichte/tbhpi132.pdf) des Hasso-Plattner-Instituts veröffentlicht.
+
+````Bibtex
+@techreport{Bein2020BlocksToTheRescue,
+ author = {Leon Bein, Tom Braun, Björn Daase, Elina Emsbach, Leon Matthes, Maximilian Stiede, Marcel Taeumel, Toni Mattis, Stefan Ramson, Patrick Rein, Robert Hirschfeld, Jens Mönig},
+ title = {SandBlocks: Integration visueller und textueller Elemente in Live-Programmiersysteme},
+ institution = {Hasso-Plattner-Institut}
+ year = {2020},
+ number = {132},
+ isbn = {978-3-86956-482-1},
+ issn = {2191-1665},
+ address = {Potsdam, Deutschland}
+} 
+````
